@@ -9061,19 +9061,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1400658-WISCO</Kod>
-    <Aciklama>TAMPON CEKI DEMIR KAPAGI - OPEL ASTRA G 98 &gt; - Y1692</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HLrV4dDHfriPdTHVv5y3qKz77XMTv8w2OVdQjN4JHto=.jpg</Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>45.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>111491-ROOT</Kod>
     <Aciklama>KAPI TUTMA KOLU ON SOL - OPEL VECTRA B 96 &gt; - 90432657</Aciklama>
     <Uretici>ROOT</Uretici>
@@ -23946,19 +23933,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1F0129620-WISCO</Kod>
-    <Aciklama>HAVA FILTRESI YUVARLAK KUTULU - VW CADDY GOLF5-6 JETTA PASSAT TIGUAN 1.2TSI 1.4TSI 2.0TDI 05 &gt; - E482L3C0129620C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>76.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>477630-ELRING</Kod>
     <Aciklama>EMME MANIFOLD CONTASI - VW GOLF PASSAT CADDY 2.0TDI 05 &gt; - 03G129717D</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -26546,19 +26520,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5F0805588C-WISCO</Kod>
-    <Aciklama>PANEL - SEAT LEON 1.2 TSI 1.4 TSI 2012&gt; - 5F0805588E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1824.49</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4213000-WISCO</Kod>
     <Aciklama>PISTON + SEGMAN 72,50MM STD - OPEL CORSA ASTRA 1.2 16V X12XE Z12XE 97 &gt; - WISCO</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -28142,19 +28103,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>513.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6336006-WISCO</Kod>
-    <Aciklama>KALORIFER SU BORUSU - OPEL ASTRA G ZAFIRA X14XEL X16XEL C16SEL 98 &gt; - 9128718</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>66.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -30170,19 +30118,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>78.41</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6336007-WISCO</Kod>
-    <Aciklama>KALORIFER SU BORUSU - OPEL ASTRA G CORSA C VECTRA B C Z14XE Z16XE 98 &gt; - 93378091</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>66.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -41974,19 +41909,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>513.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>847022-WISCO</Kod>
-    <Aciklama>GAZ TELI - OPEL VECTRA 1.4 1.6 1.8 88 &gt; - 90324073</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>76.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -58877,32 +58799,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K6941005R-WISCO</Kod>
-    <Aciklama>FAR SOL NIKELAJ - VW GOLF5 JETTA 04 &gt; - 1K6941029P</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/lqqIqmbYbT6f3vTdFsg7L5vJi6g3UOcVI6WegugLeZ4=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1567.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K6941006R-WISCO</Kod>
-    <Aciklama>FAR SAG NIKELAJ - VW GOLF5 JETTA 04 &gt; - 1K6941030P</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/F2ftJlgFb5PKwAfg1Ws4ncw1lPMVq8NmJDER3GoohP4=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1567.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K8821105B-WISCO</Kod>
     <Aciklama>CAMURLUK ON SOL - VW SCIROCCO 09 &gt; - 1K8821105D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -67610,19 +67506,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>135.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>652063-WISCO</Kod>
-    <Aciklama>YAG KARTERI - OPEL ASTRA H CORSA C COMBO C MERIVA CORSA D Z13DT Z13DTH Z13DTJ 04 &gt; - 93177276</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>413.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -105323,7 +105206,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/E8GYU09Yoo^Zxuh^zdo51aPjfysetMi1UUpjMco9d7g=.jpg</Resim>
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>207.85</Fiyat>
+    <Fiyat>265.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -109900,19 +109783,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>285.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>575809957A-WISCO</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ONUN ARKASI SOL - SEAT ATECA KAROQ 18 &gt; - 575809957A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/^AynSJO8IB0SUboJ4Mk6vTXNWjAuUrgUG44SAmW1PqY=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>167.44</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -117492,19 +117362,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>145.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2233027-00-WISCO</Kod>
-    <Aciklama>PANJUR KOMPLE - OPEL ASTRA J 13-16 - 13387218</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/SCs2gB7omBdrHlTRQyokFLVkj6p16oAICtKZ3t4OFVQ=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1767.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -148942,19 +148799,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>575809958A-WISCO</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ONUN ARKASI SAG - SEAT ATECA KAROQ 18 &gt; - 575809958A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/htjz9JoWbyDNzBSHDzO1nLMguFSAaG97qwRBaYaE28o=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>167.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>SB2815B-SILBAK</Kod>
     <Aciklama>SILECEK ON KOMPLE - FORD TRANSIT COURIER 13 &gt; - GT7JS17528AA</Aciklama>
     <Uretici>SILBAK</Uretici>
@@ -156284,6 +156128,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>146.06</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11353-YTT</Kod>
+    <Aciklama>MOTOR TAKOZU AHTAPOT - VW T5 04 &gt; - Y11353</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>513.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -166583,19 +166440,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1100060-WSC</Kod>
-    <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL CORSA E 15 &gt; - 13434576</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1425.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6N1614019A-WINPOWER</Kod>
     <Aciklama>FREN ANA MERKEZI - VW POLO 1.0 1.4 16V 1.7 1.9 D SEAT AROSA 1.0 1.4 16V 96 &gt;</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -167321,19 +167165,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>3</CampaignDiscount>
     <Fiyat>2073.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>WHT002131-WISCO</Kod>
-    <Aciklama>SILINDIR KAPAK SAPLAMASI - VW GOLF PASSAT CRAFTER A3 POLO CORDOBA FABIA 1.2TDI 1.6TDI 2.0TDI CAGA CAYC CBAB CFWA 04 &gt; - WHT002131</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>26.87</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -207959,32 +207790,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>1455.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>02/7053-R2A</Kod>
-    <Aciklama>TAMPON ON SISSIZ GRI ASTARLI - OPEL ASTRA G DIZEL 98-04 - 9118776</Aciklama>
-    <Uretici>R2A</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1115.06</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>02/7055-R2A</Kod>
-    <Aciklama>TAMPON ON SISLI GRI ASTARLI - OPEL ASTRA G DIZEL 98-04 - 9118776</Aciklama>
-    <Uretici>R2A</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1238.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
