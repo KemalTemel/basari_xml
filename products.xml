@@ -3265,7 +3265,7 @@
   <Urun>
     <Kod>038903119Q-WINPOWER</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - VW CADDY POLO 1.7 1.9D 94 &gt; - 535001810</Aciklama>
-    <Uretici>WINPOWER</Uretici>
+    <Uretici></Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
@@ -12708,9 +12708,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Fh1SOlfjnl8KGZXE^iAOR42BGJ24bMpBt0CkonXwwfM=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>238.35</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>256.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -13491,6 +13491,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>384.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>03C103201K-WISCO</Kod>
+    <Aciklama>MANIFOLD VALFI EMME - VW POLO FABIA IBIZA 1.4 1.6 09 &gt; - 116315755</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>213.57</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -20761,19 +20774,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6340556-WISCO</Kod>
-    <Aciklama>ALTERNATOR GERGI RULMANI - OPEL VECTRA C ASTRA H Z19DTH 04 &gt; - OP719</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>56.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1700317-WISCO</Kod>
     <Aciklama>DEVIRDAIM CONTASI - OPEL REKORD 95 ASCONA C 2.0 - 1334746</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -22009,6 +22009,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3C8941431A-WISCO</Kod>
+    <Aciklama>FAR ANAHTARI SISLI AUTO - VW CADDY GOLF JETTA PASSAT - 5ND941431B</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/KffetOh3oqyIv03EVOBH2jxXh63pmFOUm3FP6TlyCAs=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>270.54</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>4219000-WISCO</Kod>
     <Aciklama>PISTON + SEGMAN 80,50MM STD - OPEL ASTRA VECTRA ZAFIRA 1.8 16V Z18XE X18XE Z18XEL 96 &gt; - 99741601</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -23199,9 +23212,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/6XQbW2KDZ2eWqTFWOpmY04FBmNm28obl4jmrg4eYR9w=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>344.27</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>370.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -23878,6 +23891,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>370.77</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1J0823509E-WISCO</Kod>
+    <Aciklama>KAPUT KILIDI - VW GOLF4 BORA 98 &gt; - 1J0823509F</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>249.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -25097,9 +25123,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/lR3po6i0c1^k7gfvkmO6xvPxwy6yZCSBMA4prcdoDj8=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>145.65</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>156.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34125,19 +34151,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>835621-WISCO</Kod>
-    <Aciklama>HAVA FILTRESI KUTULU - OPEL SINTRA 2.2 96 &gt; - 93183040</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>56.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7L5906461-WISCO</Kod>
     <Aciklama>HAVA DEBIMETRESI - PORSCHE CAYENNE 3.2 3.6 03-10 - 95560612336</Aciklama>
     <Uretici></Uretici>
@@ -37440,6 +37453,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1H6827571E-WISCO</Kod>
+    <Aciklama>BAGAJ KILIDI 2 ANAHTARLI - VW GOLF3 POLO 91 &gt; - 1H6827571EB41</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>142.39</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>037129101G-WISCO</Kod>
     <Aciklama>MOTOR HAVALANDIRMA VALFI - VW GOLF3 2.0 PASSAT2.0 SYNCRO CORDOBA 2.0 I 90 &gt; - 113300755</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -39704,7 +39730,7 @@
   <Urun>
     <Kod>1428358-WISCO</Kod>
     <Aciklama>AYNA CAMI SOL ISI+ASF - OPEL ASTRA H 10&gt; - 13300626</Aciklama>
-    <Uretici></Uretici>
+    <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
@@ -49972,6 +49998,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>03G103707-WISCO</Kod>
+    <Aciklama>YAG KARTER TAPASI - VW GOLF7 JETTA PASSAT A3 LEON 13 &gt; - 115032755</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>113.89</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03G109244-WINPOWER</Kod>
     <Aciklama>TRIGER GERGI RULMANI YARDIMCI M10 - VW GOLF5 JETTA PASSAT TOURAN 2.0 - 1110102</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -51516,6 +51555,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>51.27</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>06A103465B-WISCO</Kod>
+    <Aciklama>TAHLIYE KAPAGI - VW GOLF BORA A3 OCTAVIA 1.6 AKL AEH APF 98 &gt; - 116348755</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>121.04</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -56053,6 +56105,19 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>498.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1336027-WISCO</Kod>
+    <Aciklama>TERMOSTAT HORTUMU - OPEL CORSA D - Y11678</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>156.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -65196,7 +65261,7 @@
   </Urun>
   <Urun>
     <Kod>5900265-WISCO</Kod>
-    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU - OPEL ASTRA H ZAFIRA B 1.2 1.3 CDTI 1.4 1.6 1.7 CDTI 1.8 2.0 04 &gt; - 93190775</Aciklama>
+    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU TRW TIPI - OPEL ASTRA H ZAFIRA B 1.2 1.3 CDTI 1.4 1.6 1.7 CDTI 1.8 2.0 04 &gt; - 93190775</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -71533,9 +71598,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Nmy5H2gBloNytSbNH^sasA0N4IUcsDKIhDIYOJkMFjQ=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>251.60</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>270.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -71559,9 +71624,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/W^By49jMHDwiKK9vxbFmfdhXEIcVDB2QmJp7BaY2wSE=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>92.70</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>99.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -83636,9 +83701,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/GkZfXhvh9YuL0rYgDnYYHeeiO0iQKWZnFoGNQVEcDaE=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>172.15</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>185.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -85339,9 +85404,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/eyxHao70WZOxa9f14GnZ3AOX7BxXDGcbK3HWaSdAcpo=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>529.67</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>569.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -139836,9 +139901,9 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/9TvqdjzKbDSRRzgJq7CyOxna99Hsu0fWO2KaNYAZJY0=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>92.70</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>99.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -152930,6 +152995,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>49.45</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9199356-WISCO</Kod>
+    <Aciklama>GAZ PEDALI - OPEL CORSA C 1.2 2004-2009 OPEL CORSA C 1.7 DTI 2000-2009 OPEL TIGRA 1.3 CDTI 1.4 1.8 2004-2010 - 848375</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1708.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -171036,9 +171114,9 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/m6Y5hM7AlxUdI1iENNZ8qzhdOAiq0m0RCoAdTVmKdhY=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>1002.07</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1113.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179375,6 +179453,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1K0121070A-WISCO</Kod>
+    <Aciklama>SU BORUSU DEMIR - VW GOLF6 1.2 TSI 08 &gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>341.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>109154-TOPRAN</Kod>
     <Aciklama>EKSANTRIK TITRESIM AMORTISORU - VW LT 28-35 2 (2DB, 2DE, 2DK) 2.3 96-06 MB C-SERISI (W203) C 180 00-02 E-SERISI (W210) E 200 95-02 - A1112000414</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -184712,9 +184803,9 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wgIjnkViJniAg^ePyRI6itrxDw6oabtMsqugFUt4AN4=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>58.25</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>62.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -195807,6 +195898,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>9186724-WISCO</Kod>
+    <Aciklama>GAZ PEDALI - OPEL VECTRA C 1.6 1.8 2002-2008 OPEL VECTRA C 1.9 CDTI 2004-2009 OPEL SIGNUM 1.8 2003-2008 - 93174339</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1850.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>96550225-WISCO</Kod>
     <Aciklama>MOTOR TAKOZU - CHEVROLET LACETTI 1.4 16V 1.6 99 &gt; - 96550236</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -197647,9 +197751,9 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/21E2rLnwVN2KUxroaUaWATCVKbaVUtOTKBBbSw1anJk=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>662.07</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>711.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -224979,6 +225083,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>06B121065A-WISCO</Kod>
+    <Aciklama>SU BORUSU METAL - VW PASSAT B5 PASSAT B5.5 A4 B5 1.6 1.9TDI 95 &gt; - 06B121065L</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>284.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>K200717-WISCO</Kod>
     <Aciklama>SALINCAK BURCU - DODGE GRAND CARAVAN 2008 , CRYSLER TOWN AND COUUNTRY MINIVAN 2008- - K200717</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -225106,6 +225223,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>199.32</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1208248-WISCO</Kod>
+    <Aciklama>ATESLEME MODULU 7 FIS - OPEL ASTRA F CORSA A VECTRA A 1.2 1.4 85 &gt; - 1208248</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>256.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
