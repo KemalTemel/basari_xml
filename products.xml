@@ -9945,19 +9945,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>142479-WISCO</Kod>
-    <Aciklama>CAM ACMA KOLU SIYAH - OPEL ASTRA G VECTRA B 95 &gt; - 90433453</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>26.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>199187-WISCO</Kod>
     <Aciklama>AIRBAG KAPAGI YENI MODEL-TIRNAKSIZ MODEL - OPEL ASTRA G 98 &gt; - 90437771</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -56758,19 +56745,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1405066-WISCO</Kod>
-    <Aciklama>TAMPON DEMIRI ON - OPEL ASTRA J CASCADA 09 &gt; - 13285258</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0c1kwYNW4yPmrpW4lc4ERMN6XC9EiXnPQz8cUGoUhpA=.jpg</Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1106.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1406163-WISCO</Kod>
     <Aciklama>TAMPON BAGLANTI DEMIRI ON SOL - OPEL CORSA B COMBO B 93 &gt; - 90388423</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -69144,32 +69118,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>712.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6R0121253A-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 648X326X23 MM - VW POLO A1 IBIZA 5 TOLEDO FABIA RAPID ROOMSTER 1.0 1.0 TSI 1.0 TFSI 1.2 1.2 TSI 1.2 TFSI 1.2 TDI 1.4 1.4 TSI 1.4 TDI 1.4 TFSI 1.6 TDI 09 &gt; - 8MK376902004</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1111.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6R0121253-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT-AT 648X326 MM - VW POLO 1.2 1.4 1.6TDI 09 &gt; - 6RF121253</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/593bISz^o^r1KJRKA7iCvDQzmmJFUZedjsYyMw1V96o=.JPG</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1111.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -85134,6 +85082,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>3</CampaignDiscount>
     <Fiyat>248.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3AA853651-WISCO</Kod>
+    <Aciklama>PANJUR KALIN NIKELAJLI - VW PASSAT B7 11-14 - 3AA853651OQE</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/l^js6mZwKjM26Fn5b^RJY4SUnW0Fmdx8QBeLkoidbjk=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1853.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -130833,19 +130794,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0407182-WISCO</Kod>
-    <Aciklama>SALINCAK BURCU KUCUK CIFT BORULU - AUDI A3 1.2 TSI 1.4 TFSI 1.6 TDI TOLEDO 3 OCTAVIA 2GOLF5 6 JETTA 3 4 PASSAT TIGUAN TOURAN 1.4 1.6 TDI 2.0 TDI 03 &gt; - Y11373</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1ZrpQukKiDTpgngO^XsUcI9uw68YEfkw2IXTiiPanLo=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>39.77</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1340269-WISCO</Kod>
     <Aciklama>ALTERNATOR GERGI RULMANI - OPEL ASTRA J INSIGNIA ZAFIRA C A14XER A20DTR A20DTH A20DTE A20DTL A20DTJ 08 &gt; - VKM35330</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -158636,7 +158584,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>79.47</Fiyat>
+    <Fiyat>78.31</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -192333,6 +192281,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>2708.26</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1J5853651LGRU-WISCO</Kod>
+    <Aciklama>PANJUR KOMPLE (IC+DIS) ASTARLI - VW BORA 98 &gt; - 1J5853653FGRU</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>370.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
