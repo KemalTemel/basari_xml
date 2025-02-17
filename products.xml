@@ -138178,19 +138178,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6PK1845-WISCO</Kod>
-    <Aciklama>V KAYISI - FORD VOLVO - 7G9Q6C301CA</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>154.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>22762314-WISCO</Kod>
     <Aciklama>MOTOR TAKOZU - CHEVROLET CAPTIVA 2.4 11 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -190890,19 +190877,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>65.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5650365-WISCO</Kod>
-    <Aciklama>YAG SOGUTUCUSU KOMPLE - OPEL ASTRA H J INSIGNIA A1.6LET 09 &gt; - 93186325</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1002.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
