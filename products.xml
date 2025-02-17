@@ -60392,9 +60392,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/XjjteMGacE0O2QSrSLjMM7SYhnLWhsJGqKgo2NwNRQE=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>5</CampaignDiscount>
-    <Fiyat>150.42</Fiyat>
+    <CampaignType>1</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>166.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -60405,9 +60405,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/dZOJNJb2iwKDIi12RGG7UWhOrAv6G5D8LVuSp5pXJmc=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>5</CampaignDiscount>
-    <Fiyat>150.42</Fiyat>
+    <CampaignType>1</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>166.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221314,7 +221314,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1183124-00</Kod>
-    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU - VW PASSAT B8 SUPERB 14 &gt; - 5QD423051R</Aciklama>
+    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU - VW GOLF 7 SKODA OCTAVIA SEAT LEON 3 AUDI A3 1.6 TDI 12-20 - 5Q1423062C</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
