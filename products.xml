@@ -78715,19 +78715,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>39159651-WISCO</Kod>
-    <Aciklama>TAMPON ON SENSORLU ASTARLI - OPEL INSIGNIA B 18-20 - 39107468</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>5</CampaignDiscount>
-    <Fiyat>2233.55</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>25964183-WISCO</Kod>
     <Aciklama>FREN KALIPERI ON SAG - OPEL ANTARA A 2.4 3.0 08-11 CHEVROLET CAPTIVA 2.4 3.0 3.2 06-18 - TWBHN1075E</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -159160,19 +159147,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3V5945106-WISCO</Kod>
-    <Aciklama>TAMPON REFLEKTORU ARKA SAG - SKODA SUPERB 15 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/3G9JlcZLBDE8CjRqWdMX5sWoXPkZGBTPCkYqe0pmo0s=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>88.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1845712-WISCO</Kod>
     <Aciklama>KALORIFER MOTORU - CHEVROLET CRUZE 1.4 1.6 1.7 TD 2.0 CDI INSIGNIA A MERIVA 1.4 1.6 CDTI 1.7 CDTI 08 &gt; - 13263279</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -183197,19 +183171,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6V0823031A-WSC</Kod>
-    <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA FABIA 15-20 - 6V0823031B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>5386.51</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>18414-RAPRO</Kod>
     <Aciklama>RADYATOR HORTUMU ALT - OPEL VECTRA C Z16XEP 02 &gt; - 9202781</Aciklama>
     <Uretici>RAPRO</Uretici>
@@ -192258,19 +192219,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5F0823031C-WSC</Kod>
-    <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT LEON 17 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/bSkL2qGmpACl7WMFSUVMQpAjAuIj52WRifivtLELO2c=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>7168.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06A906433N-WISCO</Kod>
     <Aciklama>KRANK DEVIR SENSORU - VW GOLF4 GOLF5 BORA JETTA A3 LEON  POLO PASSAT TOURAN CADDY OCTAVIA CORDOBA 1.6 1.8 2.0 AKL BSE BFQ BGU 96 &gt; - 6A906433N</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -194270,6 +194218,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>49.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2K08536847G9-WISCO</Kod>
+    <Aciklama>TAMPON IZGARASI SAG SISSIZ - VW CADDY 04-11 - 2K0853684</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/B6QIZdEA^4D1vb0DeS4aAnjM4Ir9DEXYOOK6D3TNS1U=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>172.03</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218258,19 +218219,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1216695-WISCO</Kod>
-    <Aciklama>FAR SOL KROM MOTORLU - OPEL CORSA D 11-15 - 95515473</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>2580.49</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1216194-WISCO</Kod>
     <Aciklama>FAR SOL FUME MOTORLU - OPEL CORSA D 07-10 - 93189361</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -218359,19 +218307,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>2121.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1216696-WISCO</Kod>
-    <Aciklama>FAR SAG KROM MOTORLU - OPEL CORSA D 11-15 - 95515474</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>2580.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
