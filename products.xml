@@ -65832,19 +65832,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>640000-INA</Kod>
-    <Aciklama>SUBAP FINCANI - OPEL ASTRA F CORSA VECTRA B 1.6 1.8 2.0 - 9117905</Aciklama>
-    <Uretici>INA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>8</MinimumSiparis>
-    <Stok>8</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>5</CampaignDiscount>
-    <Fiyat>145.35</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>641007-WINPOWER</Kod>
     <Aciklama>SUBAP EMME 7 MM 4 LU SET - OPEL COMBO B CORSA B 1.5 1.7 8V TD 00 &gt; - V3333</Aciklama>
     <Uretici>WINPOWER</Uretici>
