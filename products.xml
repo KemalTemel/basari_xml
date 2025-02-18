@@ -32728,9 +32728,9 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/TGo6QHcwuUhIAPOC8QwDWRZmawuNT^R2uaymG6CX8x8=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>6666.25</Fiyat>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>7168.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -68923,19 +68923,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>1677.33</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7M0498099A-WISCO</Kod>
-    <Aciklama>AKS KAFASI DIS ABSLI 38X36X60 UZUNLUK:106,5mm 48T - VW SHARAN 1.9TDI - JZW498340GX</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/YTW^sUoxXkm1bHwanEycHkO37cS5A7sbzVZ1qCrGDvw=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>567.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -149007,19 +148994,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4E0498625B-WISCO</Kod>
-    <Aciklama>PORYA ON-ARKA SOL-SAG RULMANLI 4X114 92X45MM ABS - AUDI A6 A8 05 &gt; - R154.57</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vUDBLm0vsWhzBxOlVkGA5NPEWcUiAHJCAtErFxP7ykU=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>573.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>522532-WISCO</Kod>
     <Aciklama>EL FREN TELI - OPEL ASTRA G 2.0 92 &gt; - 90373855</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -203383,6 +203357,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>449.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>626303409-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - FORD TRANSIT V347 140PS 2.4TDCI 06 &gt; - 828509</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>5533.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
