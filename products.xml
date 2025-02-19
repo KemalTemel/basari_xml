@@ -58110,19 +58110,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>202317-TOPRAN</Kod>
-    <Aciklama>TERMOSTAT 92° - OPEL ASTRA CORSA ASCONA 1.4 8V C 1.4 NZ X 1.4 NZ C 1.2 NZ 86 &gt; - 90200836</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>92.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>202334-TOPRAN</Kod>
     <Aciklama>V KAYISI KLIMALI - OPEL VECTRA A B INSIGNIA 2.0 DTH - 93181718</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -61772,7 +61759,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Pn1gRpks9orbnihbDddkRy5Q3OLGcujaq^MchtNaHwA=.jpg</Resim>
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>13370.33</Fiyat>
+    <Fiyat>6975.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -63723,6 +63710,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>85.24</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5900265-WISCO</Kod>
+    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU TRW TIPI - OPEL ASTRA H ZAFIRA B 1.2 1.3 CDTI 1.4 1.6 1.7 CDTI 1.8 2.0 04 &gt; - 93190775</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rlZqWBN9As2nBRQxQuMlRi1IhZum6e^UFtRnVxmtYLk=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>6889.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -171861,19 +171861,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>38161-RAPRO</Kod>
-    <Aciklama>RADYATOR HORTUMU GIRIS UST - CHEVROLET CRUZE J300 J305 1.6 16V 09 &gt; - 96931201</Aciklama>
-    <Uretici>RAPRO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>231.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3B1837015AN-WISCO</Kod>
     <Aciklama>KAPI KILIT MEKANIZMASI SOL (MOTORSUZ) - VW T5 POLO CADDY SKODA FABIA 1 SEAT CORDOBA 1999&gt; - 7E1837015</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -220946,19 +220933,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>486.19</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>155406401-REINZ</Kod>
-    <Aciklama>UST KAPAK CONTASI - HYUNDAI ACCENT II30 I20 ELANTRA CEED CERATO SOUL1.4 1.6 10 &gt; - 224412B002</Aciklama>
-    <Uretici>VICTOR REINZ</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>350.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
