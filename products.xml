@@ -10933,19 +10933,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>028121004-WISCO</Kod>
-    <Aciklama>DEVIRDAIM - VW PASSAT A4 1.9TDI - 1113064</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/m9wg2M9rZNDl1uB2joogVXQe^sUwzZ5BOYP2D2UntRw=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>307.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K0823359A-WISCO</Kod>
     <Aciklama>KAPUT AMORTISORU 240N - VW GOLF5 JETTA 04 &gt; - S18801357</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -27248,6 +27235,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0199851AC-WISCO</Kod>
+    <Aciklama>SANZUMAN TAKOZU - VW POLO FABIA IBIZA 1.4 1.4 TDI 02 &gt; - 6Q0199851AP</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>344.77</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5607427/1701905-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI - OPEL VECTRA B X20XER X20XEV C20SEL X22SE X22XE Y22SE Y22XE Z22XE 96 &gt; - 93188114</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -27791,6 +27791,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>155.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6Q0199851M-WISCO</Kod>
+    <Aciklama>MOTOR TAKOZU - VW POLO 1.2 TSI 02 &gt; - 6Q0199851BB</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>344.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34463,6 +34476,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0199851AL-WISCO</Kod>
+    <Aciklama>SANZUMAN TAKOZU ARKA OTOMATIK - VW POLO CORDOBA IBIZA FABIA 1.4 BKY BBY 02 &gt; - Y11107</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>330.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7M0498350X-WISCO</Kod>
     <Aciklama>AKS KAFASI IC ABSSIZ 26X28X40 UZUNLUK:160mm - VW SHARAN 1.8T1.9TDI 2.0 2.8 V6 1.4 2.0TSI - JZW498350EX</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -40635,19 +40661,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>430.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8E1819371B-WISCO</Kod>
-    <Aciklama>KALORIFER HORTUMU - AUDI A4 1.8 05 &gt; - 8E1819371B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>103.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -75179,6 +75192,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>ZS552-BERU</Kod>
+    <Aciklama>ATESLEME BOBINI - RENAULT MEGANE KANGOO 1.4 1.6 98 &gt; - 8200765882</Aciklama>
+    <Uretici>BERU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>482.52</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>9239944-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 610X520X16 - BMW X5. E70. XDRIVE F15. M F85. X6 E71. E72. F16. M F86 09-19 4.4I 32V 3.0DI - 940339</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -78582,6 +78608,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>219.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6Q0199851AM-WISCO</Kod>
+    <Aciklama>SANZUMAN TAKOZU ORTA - SEAT CORDOBA IBIZA SKODA FABIA VW POLO 1.4 TFSI 1.6 TDI 06 &gt; - 6Q0199851AP</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>430.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -87685,6 +87724,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0199851AS-WISCO</Kod>
+    <Aciklama>MOTOR TAKOZU - VW POLO IBIZA FABIA 1.9 SDIASY 99&gt; - 6Q0199851T</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>373.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5650964-WISCO</Kod>
     <Aciklama>YAG FILTRE ORINGI - OPEL ASTRA H J CORSA D INSIGNIA ZAFIRA B 08 &gt; - 55593191</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -90906,6 +90958,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>452.51</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>0221503035-BOSCH</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W169 W245 W210 W220 W163 M112 M113 97-12 - A0001587803</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>960.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -98411,6 +98476,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1H4853515-WISCO</Kod>
+    <Aciklama>KAPI CITASI TAKIM - VW GOLF3 91&gt; - 1H4853515B41</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>574.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>95325748-WISCO</Kod>
     <Aciklama>DINGIL ARKA - OPEL MOKKA / MOKKA X (J13) 1.6 12&gt; 1.4 13&gt; CHEVROLET TRAX 1.4 12&gt; - 95325751</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -104625,6 +104703,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5Q0199855Q-WISCO</Kod>
+    <Aciklama>SANZUMAN TAKOZU ALT - AUDI A3 TT LEON SUPERB GOLF7 PASSAT TIGUAN 1.2 TSI 1.4 TSI 1.6 TDI 1.8 TFSI 2.0TFSI 2.0TDI 12 &gt; - Y11096</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/zkA5okNS7T3JASQprH6MjLcw9k3SxDVnh2AUF6dH6Zg=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>322.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>608806K-WISCO</Kod>
     <Aciklama>SILINIDIR KAPAK CONTASI KLINGRIT - OPEL ASTRA F 1.7 TDS 91-98 CORSA B 1.7 D 99-00 VECTRA A-B 1.7 TD 90-98 - 97044732</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -107781,6 +107872,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>201.11</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>13332079-WISCO</Kod>
+    <Aciklama>YAKIT POMPASI - OPEL ASTRA J 1.4 1.6 10-15 MERIVA B MPV 1.3 CDTI 10-14 - 815217</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/D4CjpxVbvumv7i3GEUkZgUI9SBvIzP33^BZhrWG^vSY=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>2154.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -132390,6 +132494,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>1163.61</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1987949191-BOSCH</Kod>
+    <Aciklama>TRIGER KAYISI 138X230 - VW GOLF4 BORA A3 JETTA CADDY GOLF5 1.6 2.0 AEH AKL APF AVU BFQ BGU BSE BSF CCSA APK AQY AZG AZH AZJ BBW 98 &gt; - CT908</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>375.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220091,19 +220208,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0650150700-GOETZE</Kod>
-    <Aciklama>MOTOR SEGMANI 81,51MM 0.50 2X2X.5X3 - VW T4 LT35 2.5TDI ACV AHD AHY AJT ANJ APA AVR AXG BBE BBF BBR 96 &gt; - 50011309</Aciklama>
-    <Uretici>GOETZE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>485.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>190031B-BENDIX</Kod>
     <Aciklama>DEVIRDAIM - FORD FOCUS (DAW,DBW) 1.8 16V FORD MONDEO II (BNP) 1.8 I FORD MONDEO II (BFP) 1.6 I FORD FOCUS (DNW) 2.0 16V &gt; - 1317038</Aciklama>
     <Uretici>BENDIX</Uretici>
@@ -220127,6 +220231,84 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>88.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>H1409-VOTTO</Kod>
+    <Aciklama>HELEZON ARKA - OPEL ASTRA H 04 &gt; - PN6132</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>292.34</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>954935-MGA</Kod>
+    <Aciklama>SANZUMAN TAKOZU - VW GOLF A3 LEON OCTAVIA 12 &gt; - 5Q0199855S</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>286.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1505100-VOTTO</Kod>
+    <Aciklama>ROTIL ALT SAG - VW POLO 3 94 &gt; - 6N0407365A</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>122.99</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>A2712002352-MERCEDES</Kod>
+    <Aciklama>SU BORUSU - MERCEDES-BENZ W204 S204 C207 09 &gt; - A2712002352</Aciklama>
+    <Uretici>MERCEDES-BENZ</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>400.28</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>313566-SACHS</Kod>
+    <Aciklama>AMORTISOR ON SOL - OPEL CORSA D CORSA E Z13DTH Z13DTJ 07 &gt; - 95527306</Aciklama>
+    <Uretici>sachs</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1722.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>313568-SACHS</Kod>
+    <Aciklama>AMORTISOR ON SAG - OPEL CORSA D CORSA E Z13DTH Z13DTJ 07 &gt; - 95527306</Aciklama>
+    <Uretici>SACHS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1722.22</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
