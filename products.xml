@@ -14066,6 +14066,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1J1857507D-WISCO</Kod>
+    <Aciklama>AYNA SOL ELE+ISI+ASF  5 PIN - VW GOLF4 (1J1,1J5) BORA (1J2,1J6) 98&gt; - 1J1857507D01C</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>718.67</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>3817000-WISCO</Kod>
     <Aciklama>PISTON + SEGMAN 79,00MM STD - OPEL ASTRA G VECTRA B ZAFIRA 1.6 16V X16XE X16XEL 98 &gt; - 90570661</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -32497,19 +32510,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>158.10</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>700005/1-IMAGE</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI KAGIT - OPEL CORSA B 1.0 12V 98 &gt; - 90543010</Aciklama>
-    <Uretici>IMAGE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>110.56</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -67652,6 +67652,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6R1857507K-WISCO</Kod>
+    <Aciklama>AYNA SOL ELE+ISI+SIN+ASF+INC SOK 6 PIN - VW POLO (6R1,6C1) 09-18 - VM388NEHPAL</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1034.91</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6U0121321A-WISCO</Kod>
     <Aciklama>RADYATOR SU DEPO KAPAGI - SKODA FELICIA CADDY 94 &gt; - 6U0121321</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -85784,19 +85797,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>181.10</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1J1863201E2QL-WISCO</Kod>
-    <Aciklama>ORTA KONSOL SIYAH 1.KALITE - VW GOLF4 BORA 99 &gt; - 1J1863201D2QL</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/V88W8rvMwdUynrtBdnVZ0eba5aBBxOsBZPdZHyLsBUk=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>761.79</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -121132,19 +121132,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>110.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1451181-WISCO</Kod>
-    <Aciklama>SU FISKIYE MEMESI - OPEL CORSA B COMBO B OMEGA B CALIBRA A 93 &gt; - 90356178</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>7</CampaignDiscount>
-    <Fiyat>20.05</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -170535,19 +170522,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3000951477-SACHS</Kod>
-    <Aciklama>DEBRIYAJ SETI - OPEL CAPTIVA ANTARA 2.2CDTI A22DM A22DMH LNQ 10 &gt; - 625318809</Aciklama>
-    <Uretici>SACHS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>5707.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7L6853663H-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI SOL SISLI - VW TOUAREG 07-10</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -176577,19 +176551,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>388.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>702121-IMAGE</Kod>
-    <Aciklama>YAG SOGUTUCU ORINGI - OPEL VECTRA C ZAFIRA X20DTH - 5650872</Aciklama>
-    <Uretici>IMAGE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>13.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -190799,19 +190760,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>905.54</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5C6807261-WISCO</Kod>
-    <Aciklama>SIS FAR YUVASI ON SOL - VW JETTA 15-18</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/aIFlX6LuDXwlXGlfStLczo99Xw02qA5Kt^HUipFHLhI=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>73.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
