@@ -27573,6 +27573,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6PK2153-GATES</Kod>
+    <Aciklama>V KAYISI - VW LT28 LT35 01 &gt; - 4004766</Aciklama>
+    <Uretici>GATES</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>562.38</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>3700205-PRESTIGE</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI KLINGIRT - OPEL ASCONA C KADET E 86 &gt; - 90509714</Aciklama>
     <Uretici>PRESTIGE</Uretici>
@@ -41730,19 +41743,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1101370-WISCO</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - OPEL ASTRA G 98 &gt; - 90562897</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/3aPrinUbUs6r0SIRS3EqQ^VwCGJPWYLSMMA6Wo2KtNY=.jpg</Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>176.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>13125602-WISCO</Kod>
     <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - OPEL ASTRA H 07 &gt; - OA08L</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -44964,19 +44964,6 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>115.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>824-DK</Kod>
-    <Aciklama>MOTOR TAKOZU ON SOL HIDROLIK - OPEL VECTRA C Z16XE Z16XEP Z18XE Z18XEL Z18XER 02-08 - 9456922</Aciklama>
-    <Uretici>DK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>749.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137567,19 +137554,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>90409101-WISCO</Kod>
-    <Aciklama>RADYATOR SU DEPOSU KAPAKLI - OPEL OMEGA A SENATOR</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>3</CampaignDiscount>
-    <Fiyat>335.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>97123-33000-WISCO</Kod>
     <Aciklama>KALORIFER RADYATORU BRAZING MT-AT 195X152 MM - HYUNDAI SONATA 2 2.0 I 3.0 I V6 91 &gt; - 97123</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -187929,19 +187903,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>560808-WISCO</Kod>
-    <Aciklama>FREN PEDAL LASTIGI - OPEL ASTRA F CORSA B VECTRA A KADETT D E 82-01 - 90105172</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/OqPJMCeSgCjQpqn163BIGTFhocHcdL2YNQx2ZHGEb8g=.jpg</Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>11.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8L9919051G-WISCO</Kod>
     <Aciklama>YAKIT POMPASI SAMANDIRALI - VW GOLF4 3.2 R32 02-05 AUDI A3 TT1.8 T 98-06 SEAT LEON 1.6 1.8  99-06</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -207598,6 +207559,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>531700-GSP</Kod>
+    <Aciklama>SANZUMAN TAKOZU - OPEL MOKKA CHEVROLET AVEO TRAX 11 &gt; - 95493723</Aciklama>
+    <Uretici>GSP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>514.04</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>95350353-WISCO</Kod>
     <Aciklama>TAMPON ON UST SENSORSUZ ASTARLI - OPEL MOKKA 13-16 - 1401111</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -221453,6 +221427,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>151.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6PK1029-DAYCO</Kod>
+    <Aciklama>V KAYISI - VW SKODA SEAT RENAULT NISSAN AUDI - 6PK1030</Aciklama>
+    <Uretici>DAYCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>237.14</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
