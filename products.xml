@@ -1534,19 +1534,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>032906031A-WISCO</Kod>
-    <Aciklama>ENJEKTOR - VW POLO FELICIA 1.2 1.6 AEE ALM 01 &gt; - 280158169</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/i5cu2tc5w7Y8paXpS9^V4qfWHe6OAYXvLzAleqiZn80=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>316.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>036103601N-WISCO</Kod>
     <Aciklama>YAG KARTERI - VW POLO SKODA OCTAVIA 1.6 AEE 97 &gt; - 1111549</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -21801,6 +21788,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>8E0598611B-WINPOWER</Kod>
+    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 5X112 131X32MM ABS 45D - AUDI A4 EXEO 00-08 - R157.27</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/w7Eb4IzVmBQwMKBFoSpvsNTiYbEcNfz2kFVfdRBYDLw=.jpg</Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>10</CampaignDiscount>
+    <Fiyat>518.30</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>3C0955453Q-WISCO</Kod>
     <Aciklama>SILECEK SU DEPOSU FAR YIKAMALI UST - VW PASSAT 05-10 - 3C0955453Q</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -34096,6 +34096,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>25.90</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>913653-WISCO</Kod>
+    <Aciklama>KONTAK GOVDESI SETI - OPEL VECTRA A VECTRA B OMEGA B - 90512000</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/7rKFHlB6irWmsvV12kOx3nbm1^w2LWFweUeWv7cxl7U=.jpg</Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>7</CampaignDiscount>
+    <Fiyat>133.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48945,6 +48958,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>03F117021A-WISCO</Kod>
+    <Aciklama>YAG SOGUTUCUSU TEK CONTALI - VW GOLF6 JETTA POLO IBIZA FABIA CBZA 09&gt; - 1110144</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/TnBKyQ8gn2RP^7nSEJP3DggESpJEps1^FkriV7xp5YM=.jpg</Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>10</CampaignDiscount>
+    <Fiyat>414.62</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03G103483B-WISCO</Kod>
     <Aciklama>UST KAPAK CONTASI - AUDI A4 A6 AVANT - 527110</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -53635,19 +53661,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>133.90</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1211376-WISCO</Kod>
-    <Aciklama>DISTRIBUTOR - OPEL ASCONA KADETT1.6 81-86 - 90010547</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/7vbXYA1jmecW49Loel9uHqZ823GoIPDwzxKtknbv2qE=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>829.28</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -99334,6 +99347,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>2233013-00-WISCO</Kod>
+    <Aciklama>SILECEK ARKA KOL+SUPURGE+KAPAK - OPEL INSIGNIA A 09 &gt; - 1273423 </Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>10</CampaignDiscount>
+    <Fiyat>90.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1216002-WISCO</Kod>
     <Aciklama>FAR ON SAG - OPEL FRONTERA A 92-98 - WHL51838</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -107876,7 +107902,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>44963-FEBI</Kod>
-    <Aciklama>ZINCIR GERGI SETI - MERCEDES-BENZ C230 C280 W203 05 &gt; - 2720500311</Aciklama>
+    <Aciklama>ZINCIR GERGI SETI - MERCEDES-BENZ W203 W204 S203 S204 W211 W212 A207 W463 X164 W251 05 &gt; - A2720500811</Aciklama>
     <Uretici>FEBI</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -123134,6 +123160,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>154.24</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>038109611E-WISCO</Kod>
+    <Aciklama>SUBAP VALFI EGZOST (31,5x7x89mm) 4LU SET - VW CADDY (2KA) 04-10/GOLF (1J1)-(1K1) 00-08/ JETTA (1K2) 05-10/ PASSAT (3B3)/ T5 (7HA)/ AUDI A4 (8E2) 04-08 1.9 TDI-2.0 TDI (BDJ-BDK-BKC-BSU-BXJ-BXF) - 331124</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>7</CampaignDiscount>
+    <Fiyat>241.01</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -151851,6 +151890,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>200.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>13248475-WISCO</Kod>
+    <Aciklama>MOTOR TAKOZU ON SAG - OPEL ASTRA J 1.3CDTI 09 &gt; - 684438</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>3</CampaignType>
+    <CampaignDiscount>7</CampaignDiscount>
+    <Fiyat>535.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186860,6 +186912,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>1405.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>607145-WISCO</Kod>
+    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA+KAPAK - OPEL ASTRA J CORSA D INSIGNIA A 1.4 06-17 - 607697</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/78DcOntDZqWNP78CgHrMTtrTV^CH565J3DkmrjL4gvc=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>921.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
