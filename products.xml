@@ -4069,19 +4069,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>021121117A-WISCO</Kod>
-    <Aciklama>SU FLANSI - VW GOLF3 2.8 VR6 - 021121117A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>129.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>047109101AD-WISCO</Kod>
     <Aciklama>EKSANTRIK MILI - SKODA FABIA 1.4 AME AQW ATZ 68HP 00 04 - 1111263</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -12597,19 +12584,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>251721401A-WISCO</Kod>
-    <Aciklama>DEBRIYAJ UST MERKEZI - VW T2 T3 1.6 1.7TD 1.9 2.0 75 &gt; - 251721401F</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Jp0j^aiAiF9iUO9HpooPMIU3pju9kagtzkgNPjb7zbY=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>233.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1H0959455M-WISCO</Kod>
     <Aciklama>FAN MOTORU DAVLUMBAZSIZ (303 MM-3 FIS-11 KANAT) - VW GOLF3 POLO 1.6 96 &gt; - 1H0959455M</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -18642,19 +18616,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>021121133D-WISCO</Kod>
-    <Aciklama>SU FLANSI - VW VENTO VR6 2.8 - 021121133D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>45.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>205514-TOPRAN</Kod>
     <Aciklama>FREN ANA MERKEZI - OPEL ASTRA F 1.8 I 2.0 I KADETT E VECTRA A 1.8 2.0 1984 &gt; - 90297376</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -19939,19 +19900,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>64.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6340554GB-WISCO</Kod>
-    <Aciklama>ALTERNATOR GERGI RULMANI - OPEL CORSA C D ASTRA H J AGILA - OP716</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>52.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -56316,6 +56264,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1850136-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 570X391X16 - OPEL ASTRA J ZAFIRA C 1.3 CDTI 1.4 1.4 LPG 1.4 TURBO 1.6 1.6 TURBO 1.7 CDTI CHEVROLET CRUZE J300 1.4 1.6 09 &gt; - 940134</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/zrJ7n0GElkeQbnebmVpUZenfMvyJYMkQ4lm4zezAEt8=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1180.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1850154-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 537X410X16 - OPEL MERIVA B 1.3 CDTI 1.4 1.7 CDTI 10 &gt; - 940156</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -60395,6 +60356,19 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>259.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3B0260401-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 617X421X16 - VW PASSAT SKODA SUPERB 1.6 1.8 T1.9 TDI 2.0 2.0 TDI 2.5 TDI 2.8 00 &gt; - 94592</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pISACpQ2Te75BQbvt85xPuEU8BSm5kZhBTfGGf874lE=.JPG</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1180.57</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -66063,19 +66037,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>241.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>638741-WISCO</Kod>
-    <Aciklama>UST KAPAK CONTASI - OPEL ASTRA G CORSA B 1.2 16V X12XE - 90530075</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>77.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -73460,19 +73421,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>473.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>222729-WISCO</Kod>
-    <Aciklama>TAMPON CEKI DEMIR KAPAGI ON - OPEL ASTRA H 04 &gt; - Y2021</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/v6Hm5YAtHaXPbcOMfNzapwKISrDBRJbV9gF23aVPID0=.jpg</Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>29.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -99646,6 +99594,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>92100-AX800-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 610X340X16 - NISSAN JUKE MICRA3 NOTE 1.2 1.4 1.6 05 &gt; - 94621</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/mmVKHcSMHiRS^qTJh5t0evgGgAlnB5nbprqSD69Tq4c=.JPG</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1180.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>20877796-WISCO</Kod>
     <Aciklama>TAMPON ARKA ASTARLI SENSORSUZ - OPEL ASTRA J SEDAN 09 &gt; - 20877796</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -101229,19 +101190,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>7</CampaignDiscount>
     <Fiyat>140.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>850510-WISCO</Kod>
-    <Aciklama>EGZOST MANIFOLD CONTASI TEK - OPEL ASTRA G 98-07 COMBO 06-11 CORSA C 00-09 MERIVA A MPV 03-06 VECTRA B-C 95-05 ZAFIRA A-B MPV 1.4 1.6 01-15 - 9129716</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>46.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -103286,6 +103234,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5C0820411E-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU MT-AT 582X378 MM - VW JETTA 1.2 TSI 1.4 TSI 2.0 TDI 2.5 JETTA 4 10 &gt; - 940238</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Y2J4TJIK7h2h6b2Q^5zo27CXXmgNLhd9ENHIJQLYk6U=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1266.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5FA821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT LEON 20-23</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -104310,6 +104271,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>1</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>69.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>80110-SNB-A41-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 667X381X16 - HONDA CIVIC 1.3 1.6 1.8 06-12 - 940197</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/YIPCB076hULCwhHdWtXwnLLlNe1nFZ8w8OqtIMj49Jc=.JPG</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1295.73</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -105441,6 +105415,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>103.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>92100-6454R-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU MT 515X397X12 MM - RENAULT CLIO4. DACIA LOGAN. DOKKER 1.5DCI13&gt; - 940321</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1151.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -140583,6 +140570,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>80110-SNL-A01-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 648X379X16 - HONDA CIVIC 8 SEDAN 1.8 2005-2012 - 940707</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1266.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>200094-WONGA</Kod>
     <Aciklama>ROTILLI KOL ALT EGRI SOL - VW PHAETON A8 04 &gt; - 4E0407693N</Aciklama>
     <Uretici>WONGA</Uretici>
@@ -144662,6 +144662,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>129.58</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>97606-1J000-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU MT-AT 532X376 MM - HYUNDAI I20 1.2 1.4 1.6 08-15 - 976064P000</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1awKp13102JZjG0IhOtEOiNIdXLWzoBYOhg9Peu5QQs=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1180.57</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186239,6 +186252,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>88450-12280-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU MT 627X366 MM - TOYOTA COROLLA. AURIS 1.6. 1.4D-4D 06&gt; - 940037</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1094.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7L0412333A-WISCO</Kod>
     <Aciklama>SALINCAK BURCU - VW TOUAREG Q7 CAYENNE 02&gt; - 95534324301</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -211160,19 +211186,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>208760-TOPRAN</Kod>
-    <Aciklama>VITES KOL PIMI - OPEL ASTRA F ASTRA G ASTRA H COMBO TOUR CORSA D VECTRA B 1.6 91-14 - 758915</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/VZHwp7MbjQvTPbkRBxb3heRy7XfkMLlbFAT^4xZvHWs=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>57.77</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4801838-WISCO</Kod>
     <Aciklama>SILECEK MEKANIZMASI ON - OPEL ANTARA A (L07) 2006-2017 , CHEVROLET CAPTIVA (C100, C140) 2006- - 96830161</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -217891,19 +217904,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>206.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>06D115397K-WISCO</Kod>
-    <Aciklama>YAG FILTRE KUTUGU SOGUTUCULU - VW PASSAT B6 LEON ALTEA 2.0FSI 04 &gt; - 06D115397J</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1468.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
