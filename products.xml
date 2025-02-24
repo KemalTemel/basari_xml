@@ -88608,19 +88608,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0145762CL-WISCO</Kod>
-    <Aciklama>TURBO HORTUMU - VW PASSAT JETTA PASSAT BKP BKD 04-10 - 1K0145762S</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>1</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1350.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K0853665F9B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI SOL SISSIZ NIKELAJSIZ - VW JETTA 05-10 - 1K0853665F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -93727,6 +93714,19 @@
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>1153.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5614425-WISCO</Kod>
+    <Aciklama>KRANK KASNAGI - OPEL ASTRA G VECTRA C CORSA C Z14XE Z16XE X14XE Z14XE Z16XE X16XEL 98 &gt; - GRM2032</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>1</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>975.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -127125,6 +127125,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>1249.52</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>614411-WISCO</Kod>
+    <Aciklama>KRANK KASNAGI - OPEL ASTRA ASTRA G VECTRA B VECTRA C ZAFIRA SAAB FRONTERA OMEGA B 2.0DTI X20DTL Y20DTL Y20DTH Y22DTR Y22DTR 98 &gt; - 9128177</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>1</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>845.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
