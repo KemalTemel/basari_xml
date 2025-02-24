@@ -2648,7 +2648,7 @@
     <Resim></Resim>
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1314.50</Fiyat>
+    <Fiyat>1314.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -37020,7 +37020,7 @@
     <Resim></Resim>
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>129.75</Fiyat>
+    <Fiyat>86.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -55264,7 +55264,7 @@
   </Urun>
   <Urun>
     <Kod>1338052.87-WISCO</Kod>
-    <Aciklama>TERMOSTAT 87° - OPEL ASTRA CORSA ASCONA 1.4 8V C 1.4 NZ X 1.4 NZ C 1.2 NZ 1986 &gt; - 90200836</Aciklama>
+    <Aciklama>TERMOSTAT 87° LASTIKLI - OPEL ASTRA CORSA ASCONA 1.4 8V C 1.4 NZ X 1.4 NZ C 1.2 NZ 1986 &gt; - 90200836</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -56534,19 +56534,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>2958.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1H0119137-WISCO</Kod>
-    <Aciklama>V KAYISI - VW GOLF3 VENTO CADDY 2 91 &gt; - 357119137E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>51.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -67545,19 +67532,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>77.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6PK923-WISCO</Kod>
-    <Aciklama>V KAYISI - VW POLO CLASSIC CADDY IBIZA GOLF3 94 &gt; - 06A145933L</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>86.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -144392,19 +144366,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1H0805594-WSC</Kod>
-    <Aciklama>PANEL (TAIWAN) - VW GOLF3 BENZIN TEK FANLI 430MM 91 &gt; - 6N0121253J</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/F9TyNZeSnOhsUzAfGBEOHAwp9xB00^yGzLxqz6a11xQ=.jpg</Resim>
-    <CampaignType>3</CampaignType>
-    <CampaignDiscount>10</CampaignDiscount>
-    <Fiyat>1641.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-377WL-VIEWMAX</Kod>
     <Aciklama>AYNA SINYALI SOL - VW POLO 4 (9N2) 05-09 - VM377WL</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -145663,19 +145624,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>43.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2H7853728BGRU-WISCO</Kod>
-    <Aciklama>CAMURLUK DODIGI ON SAG KUCUK ASTARLI - VW AMAROK 10 &gt; - 2HH853728GRU</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>576.69</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216594,19 +216542,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9830096180-WISCO</Kod>
-    <Aciklama>STOP IC SAG - OPEL CORSA F 20&gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>1730.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>9829317880-WISCO</Kod>
     <Aciklama>STOP DIS SAG LED - OPEL CORSA F 20 &gt; - 9829317880</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -221921,6 +221856,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>302.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>0B5927321L-CN</Kod>
+    <Aciklama>ŞANZUMAN SENSÖR MODÜLÜ - AUDI A4 A5 A6 A7 Q5 08 &gt; - 0B5927321L</Aciklama>
+    <Uretici>ITH/CN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/^HZMjSL8Ug7rp0gOWJmGBdSq4xX3IrJLuAAcNP5H6bY=.jpg</Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>6775.96</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
