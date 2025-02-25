@@ -13039,19 +13039,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1051-DK</Kod>
-    <Aciklama>MOTOR TAKOZU - OPEL CORSA C Y13DT Z13DT Z13DTJ Z14XEP Z16SE Z16XE Z16XEP Y17DT Z17DT Z17DTH Z18XE 00 &gt; - 846034</Aciklama>
-    <Uretici>DK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>318.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3G0805970E-WISCO</Kod>
     <Aciklama>CAMURLUK DAVLUMBAZI ON SAG BUYUK - VW PASSAT 15 &gt; - 3G0805970F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -31553,7 +31540,7 @@
   <Urun>
     <Kod>3C0498103A-WISCO</Kod>
     <Aciklama>AKS KAFASI IC ABSSIZ 26X34X31 UZUNLUK:157mm AT - VW PASSAT FSI 05 &gt; - 3C0498103GX</Aciklama>
-    <Uretici></Uretici>
+    <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>1</Stok>
@@ -32003,19 +31990,6 @@
     <CampaignType>1</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>220.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>867-DK</Kod>
-    <Aciklama>MOTOR BAGLANTI BRAKETI - OPEL ARKA ASTRA C ZAFIRA A - 90575233</Aciklama>
-    <Uretici>DK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>218.28</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -36514,19 +36488,6 @@
     <CampaignType>3</CampaignType>
     <CampaignDiscount>10</CampaignDiscount>
     <Fiyat>51.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>896-DK</Kod>
-    <Aciklama>MOTOR TAKOZU - OPEL CORSA C COMBO - 684717</Aciklama>
-    <Uretici>DK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>241.48</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -76411,6 +76372,19 @@
     <CampaignType>1</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>202.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>0258007357-BOSCH</Kod>
+    <Aciklama>OKSIJEN SENSORU ONDEKI - VW GOLF5 POLO FABIA TOURAN 1.2 1.6FSI 2.0FSI 03 &gt; - 1K0998262H</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>2739.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -138529,19 +138503,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5C6807241BGRU-WISCO</Kod>
-    <Aciklama>CEKI DEMIR KAPAGI ON ASTARLI - VW JETTA 10 &gt; - 5C6807241GRU</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/NsupQ70OAreTz6Kcc4doipjskTsPGUfon69urOwcdZ0=.jpg</Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>37.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1J0615124D-WISCO</Kod>
     <Aciklama>FREN KALIPERI ON SAG - VW BORA 1 1.8 2.3 00-05 GOLF3-4 1.6 2.0 2.8 2.9 91-06 PASSAT B3/B4 94-97 - TWBHW276E</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -193831,6 +193792,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6284654019-SACHS</Kod>
+    <Aciklama>DEBRIYAJ UST MERKEZI - VW T5 T6 1.9TDI 2.0TDI 2.5TDI 04 &gt; - 7H0721401C</Aciklama>
+    <Uretici>SACHS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>875.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>WDS-VW016-WISCO</Kod>
     <Aciklama>KOMPLE AKS SOL ON (36X59,5) UZUNLUK 514mm - VW JETTA 4 (162) 1.6 TDI A-T 11-/ SEAT LEON - 261340</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -200500,6 +200474,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>99204-MGA</Kod>
+    <Aciklama>AYNA CAMI ISITMALI SOL - OPEL COMBO D 12 &gt; - 95511543</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>285.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>60122007-BSG</Kod>
     <Aciklama>BLOK SU TAPASI 47MM - MERCEDES-BENZ SPRINTER W123 A124 W124 W169 W176 W211 W164 95 &gt; - A1179970230</Aciklama>
     <Uretici>BSG</Uretici>
@@ -203893,6 +203880,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>625306109-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - FORD TRANSIT 2.2TDCI 07 &gt; - RM8C117540CB</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>6543.89</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>041303V-SKT</Kod>
     <Aciklama>KRANK KECESI 31,5X42X7 - OPEL VECTRA B C CORSA C ASTRA G A16LEL A16LER A16LES A16LET A16XER A16XNT A18XEL A18XER B16LER B16LES B16XER B16XNT B18XER D16XER X18XE1 Z16LEL Z16LER Z16LET Z16XE1 Z16XEP Z16XER - 813514700</Aciklama>
     <Uretici>SKT</Uretici>
@@ -203981,6 +203981,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>76.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>627304009-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - FORD TRANSIT 2.2TDCI 11 &gt; - EB3G7540AA</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>7277.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221118,19 +221131,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>100220326-WONDER</Kod>
-    <Aciklama>YAG SOGUTUCU CONTASI SET 2 PARCA - OPEL ASTRA H 1.7 CDTI 04 &gt; - 97385813</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>1</Stok>
-    <Resim></Resim>
-    <CampaignType>0</CampaignType>
-    <CampaignDiscount>0</CampaignDiscount>
-    <Fiyat>142.08</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>39254-MAHER</Kod>
     <Aciklama>YAG SOGUTUCUSU - VW PASSAT B8 (3G2, CB2) 2.0 TDI 14&gt; SKODA SUPERB 3 (3V3) 1.6 TDI 15&gt; - GC317019A</Aciklama>
     <Uretici>MAHER</Uretici>
@@ -221833,6 +221833,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>86500-MGA</Kod>
+    <Aciklama>FAN TERMIGI - VW PASSAT A4 1.8T1.9TDI ADP ADR AEB AFN AFY AGZ AHH AHL AHU AJM ALT ALZ ANA ANB APT APU ARG ARM ATJ AVB AVF AVG AWM AWT AWX AZM AZX BGW 97 &gt; - 200051302</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>587.81</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>203183-TOPRAN</Kod>
     <Aciklama>BLOK SU TAPASI - OPEL ASTRA G H CORSA A C VECTRA B C ZAFIRA - N0119098</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -221843,6 +221856,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType>0</CampaignType>
     <CampaignDiscount>0</CampaignDiscount>
     <Fiyat>11.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>804207876R-MAIS</Kod>
+    <Aciklama>KAPI MENTESE ALT - DACIA DUSTER LOGAN RENAULT LOGAN THALIA 1.5 DCI 13&gt; - 804209726R</Aciklama>
+    <Uretici>MAIS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>1</Stok>
+    <Resim></Resim>
+    <CampaignType>0</CampaignType>
+    <CampaignDiscount>0</CampaignDiscount>
+    <Fiyat>1114.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
