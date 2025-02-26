@@ -1144,19 +1144,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0242135509-BOSCH</Kod>
-    <Aciklama>ATESLEME BUJISI - HYUNDAI I10 I20 W203 W204 S211 S212 05 &gt; - 1884310062|4288|A0041591803|CD160035|0242135509|0041593403|1882709080|0041591803|A0041593403</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>242.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>025121403B-METPART</Kod>
     <Aciklama>RADYATOR SU DEPOSU - VW T2 81 &gt; - 025121403B|025121407A</Aciklama>
     <Uretici>METPART</Uretici>
@@ -14404,19 +14391,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>09245-AYD</Kod>
-    <Aciklama>ROT BASI SOL - FIAT DOBLO 10 &gt; - 77365223</Aciklama>
-    <Uretici>AYD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>183.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>09277377-WISCO</Kod>
     <Aciklama>AMORTISOR ON - OPEL COMMODORE REKORD A B C D 66 77 - 342143|2897329|342100|342144|342099|342010|342141|22012306|342106|342095|2874107|2190052|342102</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -18974,6 +18948,19 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/po6vUkhYAJzjq8wqrdgo^axcdDXw646AOnJqFwJvRbQ=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1090.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1222780-WISCO</Kod>
+    <Aciklama>STOP SAG - OPEL ASTRA H SEDAN 04 &gt; - 93345894</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/GsrEq^NAxMUUnpROcGzI6GpdQm4piXyyKZTMok22fVM=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1090.87</Fiyat>
@@ -41954,19 +41941,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4421948RUE-DEPO</Kod>
-    <Aciklama>STOP SAG - OPEL ZAFIRA B 03 &gt; - 93190793|1222177|1222120|93183066</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2552.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>443121403-WISCO</Kod>
     <Aciklama>RADYATOR SU DEPOSU KAPAKLI SENSORLU - AUDI 80 100 83 &gt; - 443121403|8A0121403A|893121403|431121407C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -48295,19 +48269,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>17.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>578424-WISCO</Kod>
-    <Aciklama>EL FREN KORUGU - OPEL ASTRA H 04 &gt; - 13122456|Y1557|111094|220626</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>65.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -59310,19 +59271,6 @@
   <Urun>
     <Kod>758427-WISCO</Kod>
     <Aciklama>VITES KOL MILI 5 ILERI DUZ VITES - OPEL VECTRA B 95 &gt; - 758427|90465995|683R6008</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>245.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>758430-WISCO</Kod>
-    <Aciklama>VITES KOL MILI - OPEL ASTRA G 98 &gt; - 758430|683R6009|90522671</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -70719,19 +70667,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>288.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>TH489892J-VERNET</Kod>
-    <Aciklama>TERMOSTAT 92° - OPEL ASTRA  CORSA ASCONA 1.4 8V C14NZ X14NZ C12NZ 86 &gt; - 1338052|1338870|1338070|90200836|3038094|TH489892</Aciklama>
-    <Uretici>VERNET</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>111.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -102378,19 +102313,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0221504465-BOSCH</Kod>
-    <Aciklama>ATESLEME BOBINI - BMW E90 E91 E92 E93 E60 E61 E63 E64 E65 E66 N52 05-11 - 12137594936|ZS324|0221504465</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>937.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>701823033A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T4 91-96 - 701823033D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -104715,19 +104637,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>490.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>99205-MGA</Kod>
-    <Aciklama>AYNA CAMI ISITMALI SAG - OPEL COMBO D 12 &gt; - 1426594|95511540||2220012</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>309.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -108995,19 +108904,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1986AE0138-BOSCH</Kod>
-    <Aciklama>KONJEKTOR - MERCEDES-BENZ - F00M144158|A0041540106|F00M145886</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1053.42</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4B0864245ASK-WISCO</Kod>
     <Aciklama>KOL DAYAMA KAPAGI KUMAS SIYAH - AUDI A6 C5 (4B2,4B5) 98-05 - 4B0864245A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -110006,19 +109902,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>6911.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1986AE0045-BOSCH</Kod>
-    <Aciklama>KONJEKTOR - BMW E60 E63 E64 E70 E83 E90 E92 - F00M346089</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1083.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113935,19 +113818,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>OPL15ZA001-DEGA</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ON SAG - OPEL ZAFIRA A 99-05 - 1102021|90580534</Aciklama>
-    <Uretici>DEGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>470.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-6187NEBPAL-VIEWMAX</Kod>
     <Aciklama>AYNA SOL+ISI+ELK+KAT+ALT AYD+ASP+ASF+9PIN - VW GOLF 7 (5G1) 13-20 - 5G0857521|5G0857537CGRU|5G1857507AM9B9|5G1857507BT9B9|5G1857507DG9B9|5G1857507DM9B9|VM6187NEBPAL</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -116506,19 +116376,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>6732.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>OPL15ZA002-DEGA</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - OPEL ZAFIRA A 99-05 - 90580533|1101023</Aciklama>
-    <Uretici>DEGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>470.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -132030,19 +131887,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1620.69</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5PK1263-GMB</Kod>
-    <Aciklama>V KAYISI - MERCEDES-BENZ A SERISI VANEO 1.7 CDI - 0149971392|5PK1263RYP</Aciklama>
-    <Uretici>GMB</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>219.76</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -158163,19 +158007,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0221604067-BOSCH</Kod>
-    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W204 E212 S204 S212 11 &gt; - A2769060260|A2761500080|A2769063500|A2769063700|A2769060401</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1621.46</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K0807285B9B9-WISCO</Kod>
     <Aciklama>PLAKALIK ON - VW GOLF5 04-09</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -158758,19 +158589,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>483.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>93164-MGA</Kod>
-    <Aciklama>BAGAJ AMORTISORU 430N - OPEL ASTRA G HB 98-05 - 90521517|620135|818230500|612029|132677</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>100.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -187829,19 +187647,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5N0807217EPGRU-WISCO</Kod>
-    <Aciklama>TAMPON ON FAR YIKAMALI SENSORSUZ ASTARLI - VW TIGUAN 12-16</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/mmszBmQ4RWWCirbPj83urTUGIC7cPypfZLjI6tZQUyQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2116.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6V0955965-WISCO</Kod>
     <Aciklama>FAR YIKAMA MOTORU SOL - SKODA FABIA 3 (NJ3) 15&gt; - 6V0955965A|6V0955965B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -199750,19 +199555,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5PK1260-LEX</Kod>
-    <Aciklama>V KAYISI - DAEWOO MERCEDES RENAULT - RM5043|5PK1260RYP</Aciklama>
-    <Uretici>LEX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>167.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>81104168-SWAG</Kod>
     <Aciklama>FREN DISKI ON TEK - TOYOTA PROACE CITY JUMPER EXPERT1.6 2.0HDI 16 &gt; - 07040579|SU001A3869|90210064|9805260180|SU001A6135</Aciklama>
     <Uretici>SWAG</Uretici>
@@ -204024,19 +203816,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>930.62</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>99204-MGA</Kod>
-    <Aciklama>AYNA CAMI ISITMALI SOL - OPEL COMBO D 12 &gt; - 1426596|95511543|2220011</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>309.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -210095,19 +209874,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3272.57</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4801838-WISCO</Kod>
-    <Aciklama>SILECEK MEKANIZMASI ON - OPEL ANTARA A (L07) 2006-2017 , CHEVROLET CAPTIVA (C100, C140) 2006- - 20913315|25918737|4801838|96624436|96830161</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/YGhQwZsMJgcvq0KDFyjl6bXfhS3QjgrxgR16MbAUHDk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>872.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220628,45 +220394,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9624-HAGUS</Kod>
-    <Aciklama>AYNA CAMI SOL - OPEL ASTRA G 98 &gt; - 6428076|6428733|6428741|9624</Aciklama>
-    <Uretici>HAG</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>68.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>9625-HAGUS</Kod>
-    <Aciklama>AYNA CAMI SAG - OPEL ASTRA G 98 &gt; - 1428859|6428077|6428740|9625</Aciklama>
-    <Uretici>HAGUS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>68.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1411-EXPORT</Kod>
-    <Aciklama>AYNA SINYAL LED AYAK LAMBA SOL - VW GOLF 7 (5G1) 13-20 - 5K0949101A|EXP1411</Aciklama>
-    <Uretici>EXPORT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>116.57</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>V702-TEKNOROT</Kod>
     <Aciklama>ROT BASI SOL - VW T4 90 &gt; - 701419811A</Aciklama>
     <Uretici>TEKNOROT</Uretici>
@@ -220758,19 +220485,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>93174-MGA</Kod>
-    <Aciklama>BAGAJ AMORTISORU 700N - OPEL COMBO C 01-11 - 5132267|611259|8181865605|91163328</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>86.21</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>100164904-WONDER</Kod>
     <Aciklama>ROLANTI AYAR VALFI - OPEL CORSA B ASTRA F C14NZ 91 &gt; - 17112027|206167001|206167756|817254</Aciklama>
     <Uretici>WONDER</Uretici>
@@ -220781,19 +220495,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>170.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>70362-MGA</Kod>
-    <Aciklama>AKS KAFASI DIS ABSLI 22X22X52 UZUNLUK:145,5mm 29T - OPEL ASTRA F 1.4 1.6 - 2160071|302069|374145|374175|607056|90334947|9117957</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>439.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221015,6 +220716,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>182.24</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2205605-VOTTO</Kod>
+    <Aciklama>SALINCAK KOLU - MERCEDES-BENZ C-SERISI (W203) C 200 CDI 00-07 E-SERISI (W210) E 200 CDI 99-02 SLK (R170) 200 00-04 - 2103503806|A1243500129|A2103500029|A2103503806</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>290.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>78080-MGA</Kod>
+    <Aciklama>ALTERNATOR GERGI KUTUGU - MERCEDES-BENZ W202 W203 CL203 S202 S203 C208 A208 W210 S210 R170 95 &gt; - 534026410|A1112001370|VKM38065</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>590.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
