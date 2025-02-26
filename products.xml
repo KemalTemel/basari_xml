@@ -18824,6 +18824,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1216528-WISCO</Kod>
+    <Aciklama>FAR SAG - OPEL VECTRA B 96 &gt; - 203549252|3549|90512320|2|20|085788|2240092|LDEMN|25|00|1114R|442|4421114RLDEMN</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/eqDuPOfD7jHXfswN9pPdPdHOWz^^xs6zDWd6V3wwtmw=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1121.54</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1216659-WISCO</Kod>
     <Aciklama>FAR SOL KROM - OPEL ASTRA H 04 &gt; - 13239288|93190069|2240043|94715279|00</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -183565,19 +183578,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>25310-3E020-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING AT 465X628X26 MM - KIA SORENTO 2.5CRDI 02-06 KAPAKSIZ - 25310|3E170|3E150|3E050|8MK376775734|3E176|25311|8MK376775|734</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/AeX5Vj5MgLQduofl^o7RMf2EZn41izKkVNMC7IxnZWU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2636.54</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8K0959501C-WISCO</Kod>
     <Aciklama>FAN KONTROL UNITESI - AUDI A4 A5 Q3 Q5 2.0 3.0 TDI TFSI 11 &gt; - 8K0959501A|8K0959501G</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -196913,19 +196913,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>271.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K0129618BR-WISCO</Kod>
-    <Aciklama>HAVA GIRIS BORUSU - VW CADDY GOLF5 JETTA LEON OCTAVIA ALTEA TOURAN 03 &gt; - 1K0129618BA|1K0129618BR|1K0129618AC|1K0129618BH</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>105.89</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220456,6 +220443,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>589.85</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>15132602-EXPORT</Kod>
+    <Aciklama>TAMPON ARKA ALT - DACIA SANDERO STEPWAY 21-24 - 850101693V</Aciklama>
+    <Uretici>EXPORT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>5437.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>15132714-EXPORT</Kod>
+    <Aciklama>CAMURLUK AGIZ BAKALITI ARKA SOL - DACIA SANDERO STEPWAY 21-24 - |788A33414R</Aciklama>
+    <Uretici>EXPORT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1908.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
