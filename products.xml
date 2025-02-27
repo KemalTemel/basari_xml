@@ -819,19 +819,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>021121133D-METPART</Kod>
-    <Aciklama>SU FLANSI - VW VENTO VR6 2.8 - 021121133C</Aciklama>
-    <Uretici>METPART</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>51.35</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>021129620-WISCO</Kod>
     <Aciklama>HAVA FILTRESI - VW POLO CLASSIC T2 T3 1.3 1.6 78 &gt; - 1111496|021129620|021129620D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -70930,19 +70917,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>90220-FACET</Kod>
-    <Aciklama>HIZ SENSORU OTOMATIK 4 ILERI - VW GOLF4 BORA 98 &gt; - 01M927321B</Aciklama>
-    <Uretici>FACET</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>448.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>97606-1C200-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 552X331X16 - HYUNDAI GETZ 02&gt; 1.1. 1.3 - 976061C200|94647|97606|1C200</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -83748,19 +83722,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5646091-WISCO</Kod>
-    <Aciklama>WESTINGHOUSE SUBAPLU BORU JAKLI Y.M - OPEL VECTRA B 2.0 99 &gt; - 564609|1</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>182.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5NA853101J2ZZ-WISCO</Kod>
     <Aciklama>TAMPON IZGARA CITASI NIKELAJLI - VW TIGUAN 22&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -88455,7 +88416,7 @@
   </Urun>
   <Urun>
     <Kod>99610613150-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING SOL MT 336X348X22 - PORSCHE 911 (996) 3.4-3.6 97-04/ BOXSTER (986) 2.5-2.7-3.2 96-04 - 99610613250</Aciklama>
+    <Aciklama>SU RADYATORU BRAZING SAG MT 336X348X22 - PORSCHE 911 (996) 3.4-3.6 97-04/ BOXSTER (986) 2.5-2.7-3.2 96-04 - 99610613250</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -112012,7 +111973,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>99610613151-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING SAG MT 336X348X22 - PORSCHE 911 (996) 3.4-3.6 97-04/ BOXSTER (986) 2.5-2.7-3.2 96-04 - 63777|99610613151</Aciklama>
+    <Aciklama>SU RADYATORU BRAZING SOL MT 336X348X22 - PORSCHE 911 (996) 3.4-3.6 97-04/ BOXSTER (986) 2.5-2.7-3.2 96-04 - 63777|99610613151</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -135826,19 +135787,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>238.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5C6810773B-WISCO</Kod>
-    <Aciklama>YAKIT DEPO KILIT MOTORU - VW GOLF 7 (5G1) 14-16/ JETTA 4 (162) 11-15 -  5C6810773H|5C6810773| 5C6810773E|5C6810773A||173907|5C6810773K|116259|5C6810773B|33101996</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/nDdjdMOc^0sf0IWnTVk8Ye2E7Oj6G1EXBEtkFNMJPBU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>362.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -188557,19 +188505,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>359000601070-MARELLI</Kod>
-    <Aciklama>ROLANTI AYAR VALFI - RENAULT CLIO KANGOO MEGANE 1.4 - 7701044401|359000601070</Aciklama>
-    <Uretici>MAGNETTI MARELLI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>458.57</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5016-GATES</Kod>
     <Aciklama>TRIGER KAYISI - VW PASSAT 88-96 - 037109119B|056109119A</Aciklama>
     <Uretici>GATES</Uretici>
@@ -212006,19 +211941,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1420.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>02/7034-R2A</Kod>
-    <Aciklama>TAMPON ARKA SIYAH - OPEL CORSA B 97-00 - 027034|1404132|90541861</Aciklama>
-    <Uretici>R2A</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>984.04</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
