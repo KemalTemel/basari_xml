@@ -4381,19 +4381,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>038121011H-WISCO</Kod>
-    <Aciklama>DEVIRDAIM - VW PASSAT GOLF5 LEON 1.9 2.0TDI BKP AUY 01 &gt; - 038121011K|03L121011G|038121011KV|1113046|038121011H|038121011CV|00|038121011D|03G121011V</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UWPOeEEwoiBH3h8JtSvEdF2NIr6jzfRM3gr7btGDXDs=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>336.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>038121119B-WISCO</Kod>
     <Aciklama>TERMOSTAT ORINGI - VW GOLF4 5 JETTA PASSAT T5 CADDY 97 &gt; - 059121119|17966|038121119C|101117015|1111575|038121119B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -83329,19 +83316,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>306.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1J0609721E-WISCO</Kod>
-    <Aciklama>EL FREN TELI - VW GOLF4 BORA OCTAVIA LEON A3 96 &gt; - 1J0609721E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>79.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179107,7 +179081,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>058109088E-WISCO</Kod>
-    <Aciklama>EKSANTRIK ZINCIR GERGISI ELEKTRIKLI - VW PASSAT 97 &gt; - 058109088D|058109088E|058109088K|058109088L|116125755</Aciklama>
+    <Aciklama>EKSANTRIK ZINCIR GERGISI ELEKTRIKLI - VW PASSAT 1.8T 97 &gt; - 058109088D|058109088E|058109088K|058109088L|116125755</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
