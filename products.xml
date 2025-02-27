@@ -195,19 +195,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>010370-ELRING</Kod>
-    <Aciklama>UST KAPAK CONTASI - OPEL ASTRA G VECTRA B C X18XE1 Z18XE Z18XEL 98 &gt; - 638177|90536414</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>252.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>012200609-MAPA</Kod>
     <Aciklama>DEBRIYAJ SETI RULMANSIZ ALCAK TIP - OPEL ASTRA G-H VECTRA B-C MERIVA A ZAFIRA A-B 1.6 Z16XE Z16XEP A16XER Z16XER X18XE1 X16XEL 99 &gt; - 3000990026|006200709|621302709|1606152|93175342|2120030|1606205|3000839001|1606209|621237800|012200609|1606956|05S886200R|3000951071|1606157|3000838801|620209809|93171782|3000828201|93175343</Aciklama>
     <Uretici>MAPA</Uretici>
@@ -41772,32 +41759,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4411517LUE-DEPO</Kod>
-    <Aciklama>SINYAL SOL SARI - VW POLO CLASSIC CADDY 94 &gt; - 6K5953049A|6K5953049B</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>235.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4411517RUE-DEPO</Kod>
-    <Aciklama>SINYAL SAG SARI - VW POLO CLASSIC CADDY 94 &gt; - 6K5953050B|6K5953050</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>235.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4411637-WISCO</Kod>
     <Aciklama>YAKIT FILTRESI - OPEL MOVANO 2.2 Y.M (UZUN TIP) - 95516103|93160736|96160736|4411637|7701207667|2130027|818026</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -65444,19 +65405,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>8E0598611B-WINPOWER</Kod>
-    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 5X112 131X32MM ABS 45D - AUDI A4 EXEO 00-08 - 4B0407643A|1J0501249C|8E0598611B|19|8E0598611A|8E0598611C|8E0598611|9232014|R157.27|2703</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/w7Eb4IzVmBQwMKBFoSpvsNTiYbEcNfz2kFVfdRBYDLw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>560.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8E0611301G-WISCO</Kod>
     <Aciklama>FREN HIDROLIK DEPOSU KAPAKLI SENSORSUZ - VW PASSAT A4 A6 A80 A100 97 &gt; - 8E0611301G|8E0611301E|1111784</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -67352,19 +67300,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>96.55</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>915238-ELRING/OEM</Kod>
-    <Aciklama>EMME MANIFOLD CONTASI - VW T4 2.4 2.5 TDI - 074129717|74129717</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>59.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -74853,19 +74788,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>218.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>0258007357-BOSCH</Kod>
-    <Aciklama>OKSIJEN SENSORU ONDEKI - VW GOLF5 POLO FABIA TOURAN 1.2 1.6FSI 2.0FSI 03 &gt; - 06A906262BT|03E906262|079906262|022906262BE|03C906262C|022906262BF|06A906265BT|1131849|1K0998262H|022906262N|022906262AS|022906262AR|022906262T|07D906262D|022906262AA|07C906262AB|0258007357</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2842.69</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -98647,19 +98569,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2233013-00-WISCO</Kod>
-    <Aciklama>SILECEK ARKA KOL+SUPURGE+KAPAK - OPEL INSIGNIA A 09 &gt; - 1272340 |1273423 |1273091</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>98.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1216002-WISCO</Kod>
     <Aciklama>FAR ON SAG - OPEL FRONTERA A 92-98 - 91143329|WHL51838</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -98696,19 +98605,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>84.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>18195-RAPRO</Kod>
-    <Aciklama>RADYATOR HORTUMU ALT - OPEL VECTRA B C CORSA C ASTRA G 1.4 1.6 16V 98 &gt; - Y11547|9202896|1337556|21248</Aciklama>
-    <Uretici>RAPRO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>301.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -107640,19 +107536,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2321.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5G0857537CGRU-WISCO</Kod>
-    <Aciklama>AYNA KAPAGI SOL ASTARLI - VW GOLF 7 7.5 (5G1,BQ1,BE1,BE2) 13&gt; - 5G0857537EGRU|5G0857537C|5G1857507AF|5G0857537CGRU|510857521|510857537AGRU</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>151.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -130863,19 +130746,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>110461-TOPRAN</Kod>
-    <Aciklama>HAVA DEBIMETRESI - VW GOLF4 BORA NEW BETTLE SHARAN TOUAREG T5 T6 SKODA FABIA 1 OCTAVIA 2 AUDI A3 Q7 SEAT ALHAMBRA CORDOBA IBIZA 3 LEON TOLEDO 2 1.6 FSI 1.8 T2.0 4.2 98 &gt; - 06A906461GX|06A906461GV|110461001|06A906461G|110461755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/qXSd328lPoYrB6rg4HC1Y8xfb2^RFWam79UCa^pwdt0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1163.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>333501118-WISCO</Kod>
     <Aciklama>PORYA ARKA SAG RULMANSIZ 6X65 10,5MM ABSSIZ - VW PASSAT POLO GOLF2 3 1.0 84&gt; - 9499015|191501118D|333501118|191501118A|191501118B|333501112</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -133122,19 +132992,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1261.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1987949191-BOSCH</Kod>
-    <Aciklama>TRIGER KAYISI 138X230 - VW GOLF4 BORA A3 JETTA CADDY GOLF5 1.6 2.0 AEH AKL APF AVU BFQ BGU BSE BSF CCSA APK AQY AZG AZH AZJ BBW 98 &gt; - 06A109119|94730|108011055|138STP230H|CT908|06A109119D|5489XS|06A109119C|06A109119B|06A109119K</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>408.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179276,7 +179133,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>058109088E-WISCO</Kod>
-    <Aciklama>YAG POMPA ZINCIR GERGISI - VW GOLF4 1.8T 97-05 - 058109088D</Aciklama>
+    <Aciklama>EKSANTRIK ZINCIR GERGISI ELEKTRIKLI - VW PASSAT 97 &gt; - 058109088D|058109088E|058109088K|058109088L|116125755</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -196370,19 +196227,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>61310-UCEL</Kod>
-    <Aciklama>SANZUMAN TAKOZU SOL - VW T5 T6 AXD CAAA CAAB CAAC CFCA 2.0TDI 2.5TDI 03 &gt; - 7H0399151L|7E0399151C|7H0399151H</Aciklama>
-    <Uretici>UCEL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>811.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3G1941036P-WISCO</Kod>
     <Aciklama>FAR SAG - VW PASSAT B8.5 BUSINESS+IMPRESSION 20 &gt; - 3G1941036P</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -208512,19 +208356,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>AST077700-EXPORT</Kod>
-    <Aciklama>SIS FARI SOL - OPEL ASTRA H 04 &gt; - 13243424|13261999|1710368|6710051</Aciklama>
-    <Uretici>EXPORT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1021.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>AST127500-EXPORT</Kod>
     <Aciklama>TAMPON SINYALI ON SOL - OPEL ASTRA J 12 &gt; - 1226160|13367142</Aciklama>
     <Uretici>EXPORT</Uretici>
@@ -209835,19 +209666,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>934.45</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>03L906461A-OEM</Kod>
-    <Aciklama>HAVA DEBIMETRESI - VW AMAROK ARTEON BETTLE CADDY CC CRAFTER EOS GOLF7 JETTA 4 PASSAT SCIROCCO SHARAN TIGUAN TOUARAN T6 T7 AUDI A1 A3 A4 A5 A6 Q2 Q3 Q5 TT SEAT ALHAMBRA ATECA EXEO IBIZA 4 LEON 2.0 TDI 2.0 BTDI 09 &gt; - 0281002956|03L906461A|30352|441|8ET 009 149|8ET009149441</Aciklama>
-    <Uretici>OEM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1644.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219328,6 +219146,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-V135</Kod>
+    <Aciklama>DEVIRDAIM - VW T5 TOUAREG 2.5TDI 04 &gt; - 070121011A|070121011C|070121011D|070121011DX|1110918</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1024.47</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-V165-2H</Kod>
     <Aciklama>DEVIRDAIM - VW GOLF6 A3 JETTA 2.0TSI FSI CBF 09 &gt; - 06H121008|06H121026AB|06H121026AF|06H121026AG|06H121026BA|06H121026BF|06H121026CF|06H121026CQ|06H121026DD|06J121026A|06J121026B|06J121026G|06J121026R|1110052|HB7631K|PA1242</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219364,6 +219195,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1370.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-V173</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF6 GOLF7 A3 LEON POLO JETTA 1 2TSI - 03F121004A|03F121004B|03F121004D|03F121004E|03F121004F</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1109.30</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219416,6 +219260,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>640.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-BM102</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 (E30) 325 I BMW 3 (E30) 320 I BMW 5 (E34) 520 I BMW Z1 2.5 &gt; - 11511171836|11511719836|11511720609|11519070758|11519070759</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>621.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-BM105</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 (E21) 320/6 BMW 5 (E28) 520 I BMW 3 (E30) 323 I &gt; - 11511271435|11511272616|11511272618|11511706564|11511706588|11511711492|11519058996|11519071562</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>601.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-BM106</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 (E36) 316 I BMW 3 (E36) 318 IS BMW Z3 1.8 &gt; - 11510393338|11511172872|11511173595|11511173602|11511721872|11511727468|11511734595|11511734602</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>623.19</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219484,6 +219367,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-BM118</Kod>
+    <Aciklama>DEVIRDAIM - BMW SERIE 3 (E46) 330 D M57D30 3.0L BMW SERIE 7 (E38) 730 D M57D30 3.0L BMW SERIE 5 (E39) 525 D M57D25 2.5L BMW X5 (E53) 3.0 D M57D30 3.0L &gt; - 11517786192</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1017.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-BM119H</Kod>
     <Aciklama>DEVIRDAIM - MINI ONE 1.4I MINI ONE 1.6I MINI COOPER 1.6 &gt; - 11511485846|11517510803|11517513062|11517829914|11517829922</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219520,6 +219416,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>959.23</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-BM134</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 (E90) 318D BMW 1 (E88) 118D BMW 1 (E82) 120D BMW 5 (E60) 520D BMW X3 (E83) 2.0 D  &gt; - 11517807311</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>783.05</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-BM137</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 COUPE (E46) M3 3.2L  S54 326 S4/S54 B32  BMW 3 CABRİOLET (E46) M3 3.2L S54 326 S4/S54 B32  &gt; - 11517831907|11517838159</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1024.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219796,6 +219718,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME106</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ C CLASS (W202) C 180 (202.018) MERCEDES BENZ CLK (C208) 200 (208.335) MERCEDES BENZ E CLASS (W124) E 200 (124.019) &gt; - 1112000401|1112004001|1112010401</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>851.55</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME107</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ G CLASS (W461) 230 GE (461) MERCEDES BENZ (W123) 200 &gt; - 1022000301|1022000320|1022000401|1022000420|1022001101|1022004301</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219848,6 +219783,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME117</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ V CLASS (638/2) V 200 (638.214) MERCEDES BENZ VITO (638) 113 2.0 (638.114) &gt; - 1112002401|1112003901</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>788.28</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME118</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ A CLASS (W168) A 140 (168.031) MERCEDES BENZ VANEO (414) 1.6 (414.700) &gt; - 1662000320|1662000420|1662000520|1662000620|1662000720</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219861,6 +219809,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME120</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ 190 (W201) D 2.0 (201.122) MERCEDES BENZ E CLASS (W124) E 200 D (124.120) &gt; - 6012000020|6012000220|6012000226|6012000320|6012000420|6012000920</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>769.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-ME122</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ C CLASS  (W202) C 200 D (202.120) MERCEDES BENZ E CLASS (W210) E 200 D (210.003) &gt; - 6012001120</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>637.55</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME123</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ C CLASS (W202) C 200 CDI (202.134) MERCEDES BENZ CLK (C209) 270 CDI (209.316) MERCEDES BENZ E CLASS (W210) E 200 CDI (210.007) MERCEDES BENZ M CLASS (W163) ML 270 CDI (163.113) &gt; - 6112000201|6112001201</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219871,6 +219845,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>860.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-ME126</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ S CLASS (W126) 280 S (126.021) MERCEDES BENZ KOMBI (S123) 250 T (123.086) &gt; - 1102000420|1102001120|1102001920</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>678.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219926,6 +219913,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME151</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ E CLASS (W211) E 320 CDI (211.026) MERCEDES BENZ S CLASS (W220) S 320 CDI (220.025, 220.125) &gt; - 6132000901</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>886.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-ME154-2</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ SPRINTER B906 W639 03 &gt; - 6462001001|A6462001611</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1014.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-ME155</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ A CLASS (W169) A 150 (169.031, 169.331) MERCEDES BENZ B CLASS (W245) B 150 (245.231) &gt; - 2662000720|2662000820|6402000301</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>463.96</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME169</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ E CLASS (W124) E 300 A MATİC (124.230) MERCEDES BENZ G CLASS (W463) 300 GE (463.227,463.228) MERCEDES BENZ S CLASS (W126) 260 SE (126.020) &gt; - 1032000401|1032001601</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219936,6 +219962,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1236.58</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-ME174</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ E CLASS (W210) E 320 CDI (210.026) &gt; - 6132000701|613200070180</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1158.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219965,6 +220004,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME177-2</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ C CLASS (W204) C 320 CDI (204.022) MERCEDES BENZ CLK (C209) 320 CDI (209.320) MERCEDES BENZ E CLASS (W211) E 280 CDI (211.020) MERCEDES BENZ CLS (C219) 320 CDI (219.322) &gt; - 6422001001</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>703.45</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME179-2</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ W220 V220 99-02 - 6132000601</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219991,6 +220043,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME183</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ CLASS(W204) C180 CGI (204.049) MERCEDES BENZ CLASS T MODEL(S204) C180 &gt; - 2712000601|2712001001|A2712001001</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>540.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME185</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ VİTO / MİXTO (W639) 110 CDI MERCEDES BENZ VİANO (W639) CDI 2.0 &gt; - 6512003501</Aciklama>
     <Uretici>GNS</Uretici>
@@ -220004,6 +220069,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-ME186-2</Kod>
+    <Aciklama>DEVIRDAIM - MERCEDES BENZ VİANO(W639) OM651.940 2.0CDİ ,4 MATİC F636/F639+M006 MERCEDES BENZ LCV VİTO II (639) OM651.940 110 CDİ F636/F639+M006 &gt; - 6512003901</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>993.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-ME256</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ MERCEDES E W213 2.2 CDI &gt; - 6542000001|6542010010</Aciklama>
     <Uretici>GNS</Uretici>
@@ -220014,6 +220092,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1370.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-N202</Kod>
+    <Aciklama>DEVIRDAIM - NISSAN QASHQAİ I (J10) 1.6 DCİ, ALLRAD &gt; - 2101000Q2C|6262000007</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>640.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220095,6 +220186,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-O149</Kod>
+    <Aciklama>DEVIRDAIM - CHEVROLET AVEO HATCHBACK T250, T255 1.2 CHEVROLET SPARK (M300) 1.0 &gt; - 24101215</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>572.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-P112</Kod>
     <Aciklama>DEVIRDAIM - PEUGEOT 306 (7B,N3,N5) 1.9 D PEUGEOT 607 (9D,9U) 2.0 HDI PEUGEOT 807 (E) 2.0 HDİ &gt; - 1201C4</Aciklama>
     <Uretici>GNS</Uretici>
@@ -220134,6 +220238,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-P137</Kod>
+    <Aciklama>DEVIRDAIM - PEUGEOT 1007 (KM_) 1.4 HDİ PEUGEOT 207 (WA_,WC_) 1.4 HDİ PEUGEOT 307 (3A/C) 1.4 HDİ &gt; - 1201F9|1201G8</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>599.70</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-P139</Kod>
     <Aciklama>DEVIRDAIM - PEUGEOT 207 (WA_,WC_) 1.6 HDİ PEUGEOT 407 (6D_) 1.6 HDI 110 &gt; - 11517805992|1201G1|1201G9|3M5Q8591CA|9654514780</Aciklama>
     <Uretici>GNS</Uretici>
@@ -220144,6 +220261,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>554.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-P152</Kod>
+    <Aciklama>DEVIRDAIM - PEUGEOT 407 (6D ) 2.2 HDİ &gt; - 1201H7|1201J6|MN982187</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>613.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220183,6 +220313,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>783.05</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-RE104</Kod>
+    <Aciklama>DEVIRDAIM - RENAULT CLIO I (B/C57_,5/357_) 1.2 (B/C57R) RENAULT RAPID (F40_,G40_) 1.4 (F40U,F40V) &gt; - 7700736091|7701633125</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>543.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220248,6 +220391,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>510.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-V110</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF IV (1J1) 1.6 VW PASSAT (3B2) 1.6 VW BORA (1J2) 1.6 VW NEW BEETLE (9C1,1C1) 1.6 VW POLO CLASSIC (6KV2) 100 1.6  &gt; - 06B121011|06B121011A|06B121011B|06B121011BV|06B121011BX|06B121011C|06B121011CV|06B121011CX|06B121011E|06B121011EX</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>564.45</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-V114</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF V (1K1) 1.4 16V VW BORA (1J6) 1.4 16V VW NEW BEETLE (9C1,1C1) 1.4 VW POLO (6N2) 1.4 16V VW GOLF IV (1J1) 1.4 16V VW BORA (1J6) 1.6 16V &gt; - 036121005B|036121005E|036121005EV|036121005EX|036121005Q|036121005QX|036121005R|036121005S|036121005SV|036121005SX|036121008K|036121008M</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>511.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220352,6 +220521,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>531.16</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-V165-2</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF VI (5K1) 1.8 TSI VW PASSAT CC (357) 1.8 TSI VW PASSAT CC (357) 2.0 TSI VW GOLF VI (5K1) 2.0 GTİ VW TIGUAN (5N_) 2.0 TFSI 4MOTİON VW SCIROCCO (137) 2.0 TSI &gt; - 06H121026AB|06H121026AF|06H121026AG|06H121026B|06H121026BA|06H121026BE|06H121026BF|06H121026CF|06H121026CP|06H121026DD|06H121026N|06J121026A|06J121026F|06J121026G</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>510.27</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-V166</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF VI (5K1) 1.4 TSI VW GOLF V (1K1) 1.4 TSI VW PASSAT (3C2) 1.4 TSI VW JETTA III (1K2) 1.4 TSI VW SCIROCCO (137) 1.4 TSI  &gt; - 03C121005N|03C121005NV|03C121005R|03C121008B|03C121008E</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>440.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220693,32 +220888,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>692778-ELRING</Kod>
-    <Aciklama>EGZOST BOGAZ CONTASI - VW GOLF BORA PASSAT1.8 2.0 2E ABF AGN ADY 92 &gt; - 023253115A|027253115C|533253115C|533253115D|692778</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>142.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>816507-ELRING</Kod>
-    <Aciklama>EMME MANIFOLD CONTASI 5 CLY - AUDI  A100 A200 A80 A90 A6 2.0 2.3 NG PS AAR RT NF 88 &gt; - 034129717F|712711910|816507</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>130.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>Y23007-YTT</Kod>
     <Aciklama>MOTOR TAKOZU ON SAG - OPEL ASTRAL COMBO E GRANDLAND GRANDLAND X 1.5D 18 &gt; - |173521|33101824|3549997|3642776|41752|4323001|49430125|9807992680|9820297580</Aciklama>
     <Uretici>YTT</Uretici>
@@ -220794,32 +220963,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>102.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>V702-TEKNOROT</Kod>
-    <Aciklama>ROT BASI SOL - VW T4 90 &gt; - 701419811A</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>134.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>V711-TEKNOROT</Kod>
-    <Aciklama>ROT BASI SAG - VW T4 90 &gt; - 701419812A</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>132.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220940,19 +221083,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1163421-00</Kod>
-    <Aciklama>AKS KORUGU IC SACLI 108MM - VW PASSAT T4 A4 A6 1.8 1.8T 2.4 2.5TDI 97 &gt; - |03636|103688|300516|431498201D|443498201B|443498201B/E|443498201E|701498201|7D0498201|991135B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>129.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>203183-TOPRAN</Kod>
     <Aciklama>BLOK SU TAPASI - OPEL ASTRA G H CORSA A C VECTRA B C ZAFIRA - |11052823|2060127|2060661|N0119093|N0119096|N0119098</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -221041,19 +221171,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>620.83</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VW1016-RIW</Kod>
-    <Aciklama>ROTIL ALT - VW T2 68-79 - 00855|01795|08136|1015601|1015604|10VW3010|211405371A|211405371B|2903004|30780003|31BJ599|599|92|B77533|JBJ267|TC134|V|V599</Aciklama>
-    <Uretici>RIW</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>182.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
