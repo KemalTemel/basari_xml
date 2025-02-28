@@ -159619,19 +159619,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-965R-VIEWMAX</Kod>
-    <Aciklama>AYNA SAG MANUEL - OPEL COMBO 02-11 - 24432468|24432470|6428119|6428769|VM965R</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>906.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3C8805978A-WISCO</Kod>
     <Aciklama>CAMURLUK DAVLUMBAZ ONUN ARKASI SAG - VW PASSAT CC 08-12 - 1235398|00|3C8805978A|3C8805978</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -164777,19 +164764,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>340.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1T0823359A-WISCO</Kod>
-    <Aciklama>KAPUT AMORTISORU 460N - VW CADDY TOURAN 04 &gt; - 1T0823359|1409100066|818165371</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>88.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218960,7 +218934,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>465.32</Fiyat>
+    <Fiyat>517.03</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218986,7 +218960,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>672.14</Fiyat>
+    <Fiyat>746.82</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218999,7 +218973,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>475.31</Fiyat>
+    <Fiyat>528.13</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220169,7 +220143,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1126.91</Fiyat>
+    <Fiyat>1252.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220182,7 +220156,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>653.93</Fiyat>
+    <Fiyat>726.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220195,7 +220169,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>633.38</Fiyat>
+    <Fiyat>703.76</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220208,7 +220182,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>822.56</Fiyat>
+    <Fiyat>913.96</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220221,7 +220195,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1441.24</Fiyat>
+    <Fiyat>1601.38</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220234,7 +220208,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>486.47</Fiyat>
+    <Fiyat>540.52</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220247,7 +220221,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1125.74</Fiyat>
+    <Fiyat>1250.82</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220260,7 +220234,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1233.82</Fiyat>
+    <Fiyat>1370.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220273,7 +220247,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1350.16</Fiyat>
+    <Fiyat>1500.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220286,7 +220260,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1351.33</Fiyat>
+    <Fiyat>1501.48</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220299,7 +220273,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>894.23</Fiyat>
+    <Fiyat>993.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220312,7 +220286,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1189.19</Fiyat>
+    <Fiyat>1321.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220325,7 +220299,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>3407.75</Fiyat>
+    <Fiyat>3786.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220338,7 +220312,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2996.49</Fiyat>
+    <Fiyat>3329.43</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220351,7 +220325,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1350.77</Fiyat>
+    <Fiyat>1500.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220364,7 +220338,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1233.82</Fiyat>
+    <Fiyat>1370.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220390,7 +220364,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>447.11</Fiyat>
+    <Fiyat>496.79</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220403,7 +220377,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>477.08</Fiyat>
+    <Fiyat>530.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220416,7 +220390,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>410.70</Fiyat>
+    <Fiyat>456.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220429,7 +220403,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>374.84</Fiyat>
+    <Fiyat>416.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220442,7 +220416,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>460.65</Fiyat>
+    <Fiyat>511.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220455,7 +220429,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>473.58</Fiyat>
+    <Fiyat>526.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221157,7 +221131,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1198.57</Fiyat>
+    <Fiyat>1331.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
