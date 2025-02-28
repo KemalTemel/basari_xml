@@ -74852,7 +74852,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>472.13</Fiyat>
+    <Fiyat>590.19</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -97603,7 +97603,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/KGUS1iEmmu1UaSFFtUZ0KYiLl8HPxp9GfjsGmhTZ1mg=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2027.74</Fiyat>
+    <Fiyat>1738.07</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -98656,7 +98656,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JKdS5CA8BJIeWt2gHgpuOu5N4I6Hdt3GxzwiqSFs5A0=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>3114.81</Fiyat>
+    <Fiyat>2709.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -159953,7 +159953,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>590.19</Fiyat>
+    <Fiyat>472.13</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -164101,19 +164101,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>140.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VM-6010GHR-VIEWMAX</Kod>
-    <Aciklama>AYNA CAMI SAG ISITMALI DIS BUKEY - AUDI A4 (8W2) 15&gt; / A5 (F53) 16&gt; - 8W0857528GRU|8W0857536D|8W0949102|8W1857410C9B9|VM6010GHR</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>667.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218990,6 +218977,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-O103</Kod>
+    <Aciklama>DEVIRDAIM - OPEL VECTRA A 1.8 88 &gt; - 1334008|90220568|90272361|R1160018</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>516.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-O108</Kod>
     <Aciklama>DEVIRDAIM - OPEL VECTRA A 2.0 16V X20XEV C20XE 88 &gt; - 1334017|1334038|2110481|90281612|90442207</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219380,6 +219380,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>YH-BM122-2</Kod>
+    <Aciklama>DEVIRDAIM - BMW 3 (E90) 335 D 3.0D M57N 306 D5 BMW X3 (E83) 3.0 D  M57N2 306 D2  &gt; - 11517801063|11517801064|11517805812</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>966.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>YH-BM127</Kod>
     <Aciklama>DEVIRDAIM - BMW FREELANDER (LN_) 2.0 TD4 4X4 &gt; - GWP2604|PEB102440|PEB102440L|PEB102470L</Aciklama>
     <Uretici>GNS</Uretici>
@@ -219494,6 +219507,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>727.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YH-CH109</Kod>
+    <Aciklama>DEVIRDAIM - CHEVROLET BLAZER MWM SPRINT 2.8 4T CHEVROLET GRAND BLAZER 4.2 SPRINT TURBO CHEVROLET SILVERADO 4.2 SPRINT TURBO &gt; - 062121010|940707310035|940707310036</Aciklama>
+    <Uretici>GNS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>648.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
