@@ -18941,6 +18941,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1223977-WISCO</Kod>
+    <Aciklama>STOP SOL - OPEL ASTRA F 94 -98 - 90510601|2240025</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/hXnQf4snnuERbGiqDj3KY3xd^4MoRZSUq8Rb4RQ6mC4=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>622.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1223978-WISCO</Kod>
     <Aciklama>STOP SAG - OPEL ASTRA F 94-98 - 2240026|90510619</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -48064,6 +48077,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5738025-WISCO</Kod>
+    <Aciklama>VITES KORUGU MANUEL - OPEL ASTRA H 04 &gt; - 5738025|93180984</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>69.12</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5738040TEK-WISCO</Kod>
     <Aciklama>VITES TOPUZU 6 ILERI - OPEL ASTRA H CORSA D - |93185666|5738040</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -48087,6 +48113,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>46.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5738405-WISCO</Kod>
+    <Aciklama>VITES KORUGU - OPEL  MERIVA A TIGRA B VECTRA B 96 &gt; - Y1501||5738405|90436277|220612</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>69.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48139,6 +48178,32 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>17.92</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>578412-WISCO</Kod>
+    <Aciklama>EL FREN KORUGU - OPEL ASTRA G 98 &gt; - Y1549|573842|90497957|111040|90437203|220621</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>69.12</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>578424-WISCO</Kod>
+    <Aciklama>EL FREN KORUGU - OPEL ASTRA H 04 &gt; - 13122456|Y1557|111094|220626</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>69.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -59058,6 +59123,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>417.37</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>738423-WISCO</Kod>
+    <Aciklama>VITES KORUGU - OPEL CORSA C MERIVA A TIGRA B VECTRA B 96 &gt; - |738423|Y1541|9200970</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>69.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113598,7 +113676,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1K0407256P-WISCO</Kod>
-    <Aciklama>AKS TASIYICISI ON SAG 4 AYAK - VW GOLF5 A3 JETTA CADDY 04 &gt; - 1K0407256P|1K0407256J|1160252|1K0407256M</Aciklama>
+    <Aciklama>AKS TASIYICISI ON SAG LEON 4 AYAK - VW GOLF5 A3 JETTA CADDY 04 &gt; - 1K0407256P|1K0407256J|1160252|1K0407256M</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -154641,7 +154719,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>850110-WISCO</Kod>
-    <Aciklama>EGZOST MANIFOLF CONTASI - OPEL ASTRA J 2009-2015 CORSA D 2006-2014 MERIVA B MPV 1.3 CDTI 2010-2014 - 027001P|789400|713632200|55569044</Aciklama>
+    <Aciklama>EGZOST MANIFOLD CONTASI - OPEL ASTRA J 2009-2015 CORSA D 2006-2014 MERIVA B MPV 1.3 CDTI 2010-2014 - 027001P|789400|713632200|55569044</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -180706,7 +180784,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>849339-WISCO</Kod>
-    <Aciklama>EGZOST MANIFOLF CONTASI - OPEL ASTRA H-J 2007-2015 CORSA D 2006-2014 MERIVA A-B MPV 2006-2013 MOKKA 2012&gt; ZAFIRA B 1.7 CDTI 2008-2015 - 97385827|460423P|076971|713814400</Aciklama>
+    <Aciklama>EGZOST MANIFOLD CONTASI - OPEL ASTRA H-J 2007-2015 CORSA D 2006-2014 MERIVA A-B MPV 2006-2013 MOKKA 2012&gt; ZAFIRA B 1.7 CDTI 2008-2015 - 97385827|460423P|076971|713814400</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -181703,6 +181781,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>22.44</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>96830992-WISCO</Kod>
+    <Aciklama>SIS FARI SAG - CHEVROLET AVEO T300 12- - 96830992</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/tO56n8C31QxbJA0MGFLXpVKfnWeDSaqRq4pDeccTQbo=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>249.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218756,19 +218847,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1691352580-PSA</Kod>
-    <Aciklama>ANTIFIRIZ KIRMIZI (-37) 3 LITRE - UNIVERSAL</Aciklama>
-    <Uretici>PSA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>192.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>26406-GRAT</Kod>
     <Aciklama>POLEN FILTRESI KARBONSUZ - AUDI A4 A5 Q5 Q7 TOUAREG CAYENNE 15 &gt; - 4M0819439A|8W0819439A|PAB81943900</Aciklama>
     <Uretici>GRAT</Uretici>
@@ -221807,7 +221885,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>142.27</Fiyat>
+    <Fiyat>141.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
