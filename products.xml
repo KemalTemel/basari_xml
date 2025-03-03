@@ -130,6 +130,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>006200709-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - OPEL ASTRA G-H VECTRA B-C MERIVA A ZAFIRA A-B 1.6 Z16XE Z16XEP A16XER Z16XER X18XE1 X16XEL 99 &gt; - 1606152|3000951071|93175343|621237800|621302709|620209809|93171782|05S886200R|1606956|93175342|3000990026|006200709|3000839001|3000828201|1606209|3000838801|1606157|2120030|012200609|1606205</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1362.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>006228520-MAPA</Kod>
     <Aciklama>DEBRIYAJ SETI VOLANLI - VW GOLF5 JETTA PASSAT2.0 FSI - 06F105266|06F105206|415026410|06F105266AB</Aciklama>
     <Uretici>MAPA</Uretici>
@@ -31749,19 +31762,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>200495-TOPRAN</Kod>
-    <Aciklama>SALINCAK BURCU KÜCÜK - OPEL VECTRA A ASTRA F - 352300|90373778|200495755|200495001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>50.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>200748-TOPRAN</Kod>
     <Aciklama>SALINCAK BURCU ARKA - OPEL CORSA B - 200748001|200748755|90217845|402643</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -53211,6 +53211,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>651-DK</Kod>
+    <Aciklama>AMORTISOR TAKOZU ON - OPEL OMEGA A B 87 &gt; - 344511|90251358</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>286.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>652020-WISCO</Kod>
     <Aciklama>YAG KARTERI - OPEL VECTRA B ZAFIRA Z18XE</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -57277,19 +57290,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>623.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6RD837016A-WISCO</Kod>
-    <Aciklama>KAPI KILIT MEKANIZMASI ON SAG - VW GOLF JETTA POLO YETI - 6RD837016E|6RD837016A|1220311|5K1837016D|5E1837016C|5K1837016B|5K1837016C|5K1837016A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>652.06</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -69757,6 +69757,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>35.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y1468-YTT</Kod>
+    <Aciklama>VIRAJ DEMIR KOLU BURCLU SAG - OPEL CORSA B 03 &gt; - 353280|90445101</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>316.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -97789,6 +97802,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5Q0121251EM-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT-AT 650X395X16 MM - VW GOLF7 1.2TSI. 1.4TSI. 1.6TDI. PASSAT1.6TDI. TIGUAN. ARTEON. T-ROC 1.5TSI 16&gt; - 374|5Q0121251GQ|5Q0121251ER|8MK376901|5Q0121251GD|8MK376901374|65303|5Q0121251GK</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/gNnsBMaKtpypUQRefIu3qJsqYNUau8zHB2lMe6U2Io0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1713.89</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>WDS-VW029-WISCO</Kod>
     <Aciklama>KOMPLE AKS SAG ON (36X59,5) UZUNLUK 774mm - VW PASSAT (3G2) 2.0 TDI A-T 14-/ SKODA SUPERB (3V3) 2.0 TDI A-T 15- - 3Q0407272AT|261345|3Q0407762HX|561407272S</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -111543,6 +111569,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1987949071-BOSCH</Kod>
+    <Aciklama>TRIGER KAYISI 124X180 - VW PASSAT GOLF3 2.0I ATU AWF - 037109149C|044109119D|037109119C|048109119B|048109119F|037109119F|048109119D|037109119E|048109119E|5308|037109119D</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>191.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>06J133781C-OEM</Kod>
     <Aciklama>VAKUM HORTUMU - VW GOLF6 09-12 - 06J133781CA|06J133781AN|06J133781BQ|06J133781BC|06J133781AL</Aciklama>
     <Uretici>OEM</Uretici>
@@ -117171,19 +117210,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1776.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6448.N5-AUTOLUX</Kod>
-    <Aciklama>KALORIFER RADYATORU MEKANIK 245X134X35 - PEUGEOT 307 00-07 / CITROEN C4 04-11 - 71157</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JSDtA8hASOnDyGhxeN1LV9h^lyQ10xzL53vm84ZQlnc=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>266.43</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -149557,6 +149583,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y11543-YTT</Kod>
+    <Aciklama>KALORIFER HORTUMU MOTOR BESLEME GIRISI - OPEL ASTRA G ZAFIRA A 1.4 1.6 X14XE Z14XE X16XEL Z16XE 98 &gt; - Y11543|9128511|18135|22H14822|6818435|65720036|9129558|6818482|21410|09129558</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>387.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>8S0199555-WISCO</Kod>
     <Aciklama>MOTOR TAKOZU - AUDI TT2.0 TDI 2.0 TFSI 14 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -171108,19 +171147,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>234.90</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3648662-WISCO</Kod>
-    <Aciklama>KARTER MUHAFAZA SACI METAL - OPEL CROSSLAND X 17 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kuX8DPEziqBf786fXlagmRvm70rR5f1nrz1cQwhk3Rw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>933.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -195382,19 +195408,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4H0959126B-OEM</Kod>
-    <Aciklama>KLIMA BASINC MUSURU - VW GOLF7 A3 A4 A5 LEON OCTAVIA 13 &gt; - 4F0959126B|8K0959126|1280120|8K0959126B|5Q0959126A|4H0959126A|4F0959126C|8K0959126A|4H0959126B|4H0959126|4F0959126A</Aciklama>
-    <Uretici>OEM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>582.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>50243-BREMI</Kod>
     <Aciklama>ABS SENSORU ON SAG SOL - MERCEDES-BENZ 220 215 99-05 - A2205400117</Aciklama>
     <Uretici>BREMI</Uretici>
@@ -214765,19 +214778,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>116606-TOPRAN</Kod>
-    <Aciklama>VITES DEGISTIRME KOL BURCU - VW T4 2.0 90-03 - 701711259B</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>257.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>117030-TOPRAN</Kod>
     <Aciklama>KLIMA AYAR MOTORU - VW GOLF6 PASSAT B8 TIGUAN SUPERB LEON 2.0 12-20 - 2Q0907511G|5Q0898511A|5Q0898511B|5Q0898511F|5Q0898511G|5Q0898511J|5Q0898511K|5Q0907511K|5WA898511|5WA907511B</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -219858,6 +219858,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>91.24</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>90122005-BSG</Kod>
+    <Aciklama>YAGLAMA JETI - VW PASSAT T4 1.9TDI 97 &gt; - 068103157D</Aciklama>
+    <Uretici>BSG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>317.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
