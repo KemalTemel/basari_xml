@@ -2094,7 +2094,7 @@
   </Urun>
   <Urun>
     <Kod>02K945415G-WISCO</Kod>
-    <Aciklama>GERI VITES MUSURU - VW GOLF CADDY A3 LEON 97 &gt; - 02T945415Q|02K945415G|1280125|02T945415D|02K945415D|02K945415E|02K945415Q|02K945415C|02K945415K|02K945415F</Aciklama>
+    <Aciklama>GERI VITES MUSURU KAHVERENGI - VW GOLF CADDY A3 LEON 97 &gt; - 02T945415Q|02K945415G|1280125|02T945415D|02K945415D|02K945415E|02K945415Q|02K945415C|02K945415K|02K945415F</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -2237,7 +2237,7 @@
   </Urun>
   <Urun>
     <Kod>02T945415D-WISCO</Kod>
-    <Aciklama>GERI VITES MUSURU - VW GOLF4 POLO T5 IBIZA LEON OCTAVIA - 02T945415P|02T945415|02T945415D|</Aciklama>
+    <Aciklama>GERI VITES MUSURU KAHVERENGI - VW GOLF4 POLO T5 IBIZA LEON OCTAVIA - 02T945415P|02T945415|02T945415D|</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -24989,6 +24989,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1713400-WISCO</Kod>
+    <Aciklama>CAMURLUK SINYALI BEYAZ - OPEL ASTRA G 98 &gt; - 9196353|93176063||1713013</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/2cqE3cxmRUSUFK0vqhx4DuMk75oYR4g445OI9LZNsng=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>52.58</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1713411B-WISCO</Kod>
     <Aciklama>CAMURLUK SINYALI ON BEYAZ - OPEL CORSA B 93-01 - 90487599</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -25558,19 +25571,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1434.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1850136-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU 570X391X16 - OPEL ASTRA J ZAFIRA C 1.3 CDTI 1.4 1.4 LPG 1.4 TURBO 1.6 1.6 TURBO 1.7 CDTI CHEVROLET CRUZE J300 1.4 1.6 09 &gt; - 22|614|23305638|39010911|940134|1850219|8FC351310611|13377762|611|8FC351310614|8FC351310|13267648|2140054</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/zrJ7n0GElkeQbnebmVpUZenfMvyJYMkQ4lm4zezAEt8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1278.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -27862,6 +27862,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1J0407181-WISCO</Kod>
+    <Aciklama>SALINCAK BURCU ON - VW GOLF4 BORA A3 TOLEDO 98 &gt; - 1160091|108150755|32690009|1J0407181|1J0407181A|10814</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/j43Yz0mnN2zOjFCoZzNB9KF9TitjZSLmqlDf2qQqwD4=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>54.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1J0407255AH-WINPOWER</Kod>
     <Aciklama>AKS TASIYICI ON SOL - VW GOLF4 BORA OCTAVIA 1.8TAGN 98 &gt; - 1J0407255AH|1J0407255R|1160271|1J0407255K</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -29708,6 +29721,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1K0498099B-WISCO</Kod>
+    <Aciklama>AKS KAFASI DIS ABSSIZ 36X27X59,5 UZUNLUK:106mm - VW CADDY GOLF5 PASSAT LEON 1.9TDI 04 &gt; - 1160056|1K0498099J|1K0498099B|8J0498099|1KM498099|3C0498099|5N0498099</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/uZMhXcuZ3f8zbOZwJyBgpd7rVt1mUMcRKri8ksGzBo0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>483.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1K0498099D-WISCO</Kod>
     <Aciklama>AKS KAFASI DIS ABSSIZ 36X30X59,5 UZUNLUK:89mm - VW GOLF5 6 GOLF PLUS SEAT ALTEA TOLEDO LEON 1.4 16V 03 &gt; - 1K0498099D|1160402|304325|1K0407311F|00</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -29783,6 +29809,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>84.70</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1K0498203A-WISCO</Kod>
+    <Aciklama>AKS KORUGU DIS TAKIM 100MM - VW CADDY A3 GOLF5 PASSAT1.9TDI 2.0TDI 03 &gt; - 1K0498203A|306354|7H0498203|1J040728E|3B0498203E|BRC17001|8N0498203|1K0407285K|701498203A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>82.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -70978,7 +71017,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/cmG5hkbJ1AiCNE^NwXHchGgdoxivq4zhQp4zUJUlh4w=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>336.81</Fiyat>
+    <Fiyat>374.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186204,19 +186243,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>607145-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA+KAPAK - OPEL ASTRA J CORSA D INSIGNIA A 1.4 06-17 - 2110691|25198498|607145|25198874|25198877|55573746|607697</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/78DcOntDZqWNP78CgHrMTtrTV^CH565J3DkmrjL4gvc=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>997.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5C6827550-WISCO</Kod>
     <Aciklama>BAGAJ AMORTISORU 110N - VW JETTA 10 &gt; - 5C6827550|818160451</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -193468,6 +193494,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>232.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6284654019-SACHS</Kod>
+    <Aciklama>DEBRIYAJ UST MERKEZI - VW T5 T6 1.9TDI 2.0TDI 2.5TDI 04 &gt; - 6284654019|6284600769|7E0721401E|7H0721401B|7H0721401A|6284605025|7H0721401C</Aciklama>
+    <Uretici>SACHS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>941.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -208058,7 +208097,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>02K945415C-WISCO</Kod>
-    <Aciklama>GERI VITES MUSURU - VW GOLF CADDY A3 LEON 97 &gt; - 02K945415C|02K945415D|02K945415E|02K945415G|02T945415|02T945415D</Aciklama>
+    <Aciklama>GERI VITES MUSURU KAHVERENGI - VW GOLF CADDY A3 LEON 97 &gt; - 02K945415C|02K945415D|02K945415E|02K945415G|02T945415|02T945415D</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -220001,6 +220040,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>347.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>B20277-BETTO</Kod>
+    <Aciklama>ENJEKTOR TUTUCU - VW GOLF6 PASSAT A3 A4 A5 A4 A6 A8 Q5 Q7 YETI 2.0 3.0 08 &gt; - 059130216C</Aciklama>
+    <Uretici>BETTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>330.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
