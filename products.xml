@@ -16692,19 +16692,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111332-ROOT</Kod>
-    <Aciklama>EL FREN KORUGU - OPEL CORSA D 07 &gt; - 95507715|578002</Aciklama>
-    <Uretici>ROOT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>145.20</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>111358-TOPRAN</Kod>
     <Aciklama>KARTER HAVALANDIRMA HORTUMU - VW PASSAT A4 A6 1.8T AWT 95 &gt; - 111358001|06B103221P|111358755</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -20589,19 +20576,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2001.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1300297-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 620X395X34 - OPEL CORSA D 1.3 Z13 DTH 01 &gt; - 13313296|2113017|51808364|1300415|1300287|22</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/24qJiHXTfCPvxbu4PLsUOc438dNNQF7P8MJNvxljugQ=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1434.56</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -100295,19 +100269,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>80.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5K0945105G-WISCO</Kod>
-    <Aciklama>TAMPON REFLEKTORU ARKA SOL - VW GOLF6 08 &gt; - 5K0945105F|5K0945105A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vksarnwXnZF0bsLmLcffJC2pa1yVChy7Ac0qvm7C96U=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>66.73</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -212773,6 +212734,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>165.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>070253039D-WISCO</Kod>
+    <Aciklama>EGZOST MANIFOLD CONTASI - VW TOUAREG T5 03-10 - 070253039C|070253039D</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>46.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
