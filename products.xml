@@ -52,19 +52,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>002180800-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - RENAULT CLIO KANGOO MEGANE 1.2 1.4 D7F D4F - 302055852R|587343|7702258096</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1400.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>003190509-MAPA</Kod>
     <Aciklama>DEBRIYAJ SETI RULMANSIZ - OPEL CORSA B ASTRA F 1.4 94 &gt; - 3000311002|1606493|93188071|1606960|1606554|90540801|90540803|1606954</Aciklama>
     <Uretici>MAPA</Uretici>
@@ -140,19 +127,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1402.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>006200300-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - PEUGEOT106 206 306 1.6 8 16V - 2004G7|2050W7|2050G0|205088</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1506.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -20787,19 +20761,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1304640-WISCO</Kod>
-    <Aciklama>RADYATOR SU DEPOSU KAPAKLI - OPEL VECTRA A 88 95 - 1304629|2110020|1304640|90322478|90409612</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>251.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1304641-WISCO</Kod>
     <Aciklama>RADYATOR SU DEPOSU KAPAKSIZ - OPEL VECTRA A 1.6 1.8 2.0 SV 88 95 - 1304641|2110021|1304630|90322479|90409613</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -27524,6 +27485,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1J0121253P-AUTOLUX</Kod>
+    <Aciklama>SU RADYATORU MEKANIK MT 650X415X23 MM - VW GOLF4 BORA A3 TOLEDO OCTAVIA 1.6 98 &gt; - 1J0121253J|1J0121253H|1J0121253A|1J0121253AF|1J0121253AD|652011|1J0121253AT|1J0121253N|1J0121253B</Aciklama>
+    <Uretici>AUTOLUX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wQNMC2T7wYznJN940rfV66mkSMlqVAHBpBmAxD3AXAg=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1290.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1J0121321B-WISCO</Kod>
     <Aciklama>RADYATOR SU DEPO KAPAGI - VW GOLF BORA PASSAT POLO TOUAREG AUDI A2 A3 A4 A6 96 &gt; - 8E0121321|1J0121321B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -33812,7 +33786,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>974.79</Fiyat>
+    <Fiyat>887.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -46894,19 +46868,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5638127K-WISCO</Kod>
-    <Aciklama>YAG POMPASI KASNAKLI - OPEL ASTRA H VECTRA C CRUZE MOKKA TROX MERIVA ZAFIRA Z16XEP A16XER Z16XE1 04 &gt; - 55559194|55582107|24405893|5638115|638438|55565003|2110417|5638127|638509</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/KWMrZEvQFz9q0zR8LRMKmZ5lCV0fZniRlWJfRQLRcyo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2587.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5638127-WISCO</Kod>
     <Aciklama>YAG POMPASI KASNAKSIZ - OPEL ASTRA H VECTRA C CRUZE MOKKA TROX MERIVA ZAFIRA Z16XEP A16XER Z16XE1 04 &gt; - 638509|638438|55565003|2110416|55559194|5638127|5638115|55582107|24405893</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -52094,6 +52055,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6302006-AUTOLUX</Kod>
+    <Aciklama>SU RADYATORU MEKANIK AT 652X459X34 - OPEL OMEGA B 2.5 V6 2.6 V6 3.0 V6 3.2 V6 X25XE Y26SE X30XE  Y32SE 94 &gt; - 1302110|63073A|52463049|52463050|6302 006|52482600</Aciklama>
+    <Uretici>AUTOLUX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vANbdzG88bcURyiGRcuBuQTqKA838gjUfpIZ6uz5S6w=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1936.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6302008-AUTOLUX</Kod>
     <Aciklama>SU RADYATORU MEKANIK MT-AT 538X371X32 - OPEL OMEGA B 16V OTOMATIK KLIMASIZ - R1150077|58765052|651|6302008|8MK376718651|52463043|8MK376718|52463044|63071</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -53130,19 +53104,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>656.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>650607-WISCO</Kod>
-    <Aciklama>YAG SOGUTUCUSU - OPEL ASTRA G VECTRA B 2.0 DTH 95 &gt; - 650607|9117318|5989070121|9543687|90571674|4772133|S90571674</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/6wkdjwK13uKijPjYPfyTJiyuXXl4R2eEI7cqLjwG6vg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>514.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -73517,6 +73478,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>21460-AX800-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING AT 380X448X16 - NISSAN MICRA 3 (K12) 1.2-1.4 03-10/ NOTE (E11) 1.6 06-12 - 214609U01A|68700A|21460BH51A|21460BH50A|214609U00A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yQWLA0aIdNDiRyhlVQvNIaF7FumULBkqIZuqu3ov9MI=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1711.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>2E0407151M-WISCO</Kod>
     <Aciklama>ROTIL ALT - VW CRAFTER SPRINTER 06 &gt; - 2E0407152M|2E0407151L|2E0407151M|2E0407361|2E0407152L|08429</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -89933,6 +89907,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>163.69</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>22829850-WISCO</Kod>
+    <Aciklama>TURBO RADYATORU (INTERCOOLER) 665X316X32 - OPEL INSIGNA A 1.6CDTI 15-17 - 22829850|961252</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HLhZPcbIU3HxTp488a01Kk5ZMfS7FlnE3L^9kUVbdcM=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2494.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -118019,6 +118006,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6K0121253G-AUTOLUX</Kod>
+    <Aciklama>SU RADYATORU MEKANIK MT 630X299 MM - VW CADDY 1.9 D SEAT CORDOBA 1.6 I 1.8 I 1.9 D 93&gt; - 8MK376713731|6K0121253G|652681|8MK376713|6K0121253N|731|6K0121253E</Aciklama>
+    <Uretici>AUTOLUX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/WTA1ZWnrwGVmXl0ExefGVg3Wpr2AH9TKBfpP9wn^1cY=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1129.47</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>95520332-WISCO</Kod>
     <Aciklama>MARS MOTORU - OPEL COMBO CORSA D TIGRA AGILA A 1.3 CDTI 04&gt; - 95520332|446771|95511894|10VAL0310|1202265|438168|D6G32|1202499</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -120125,19 +120125,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>849541-WISCO</Kod>
-    <Aciklama>EGZOST MANIFOLD CONTASI CELIK - OPEL ADAM 12-19 AGILA A 04-07 AMPERA 11-15 ASTRA G-H-J 07-15 CORSA C-D-E 04-20 MERIVA A-B MPV 04-17 TIGRA 1.2 1.4 04-10 - 55566925|849795|809333|24457013|949541</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>98.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4F0820020A-WISCO</Kod>
     <Aciklama>KALORIFER MOTORU REZISTANSSIZ - AUDI A6 2.0 TDI 2.4 2.7 TDI 2.8 FSI 04 &gt; - 4F0820020</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -120161,6 +120148,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>505.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1405247-WISCO</Kod>
+    <Aciklama>TAMPON DEMIRI ON - OPEL CORSA E 15 &gt; - 13426328</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pgRqQFh8wWpqnk^^b8R8Cmns9gQe^1e6Bb8WSWyiVYs=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1587.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137191,19 +137191,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1332.90</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>007200100-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - RENAULT MEGANE CLIO LOGAN 1.6 - 821071|6001548020|302052223R|620108000|014200800|7711134823|7701468831|7701470987</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1810.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -166444,6 +166431,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1K0121251N-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 650X439X26 MM CAY MOTOR - VW GOLF5. GOLF6 2.0TDI. JETTA. CADDY1.6TDI. PASSAT - 3C0121253AL|8MK376774041|1K0121251N|1K0121251AB|65181|1K0121251EH|1K0121251DD|3C0121253Q|3C0121253AR|3C0121253K|1K0121251DM|1K0121251BK|65281A|8MK376774|041</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JyKjWSjGA3u19yf1iO2rWWM3bDW^uKtfSXh2vw0PqU4=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2034.44</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>96328597-WISCO</Kod>
     <Aciklama>SANZUMAN TAKOZU - CHEVROLET EPICA EVANDA 2.0 05 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -192327,19 +192327,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1405236-WSC</Kod>
-    <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL CORSA D 07&gt; - 13191879</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1BMVudVlpqWx3QeVGqhQcLgDEYVtxKB4V1N552PjZhk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1303.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>P33981-4U</Kod>
     <Aciklama>VIRAJ LASTIGI - OPEL ASTRA G VECTRA B 1.6 I 1.8 2.0 I 95 &gt; - 90468567|350130</Aciklama>
     <Uretici>4U</Uretici>
@@ -194950,19 +194937,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>6804.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6Q1423055E-WISCO</Kod>
-    <Aciklama>DIREKSIYON KUTUSU ROT KOLLU TRW TIPI - VW POLO 3 1.2 1.4 1.6 94-09 SEAT CORDOBA IBIZASKODA FABIA 1.2 1.6 2.0 1.4 TDI 1.9 SDI 99-07 - |6Q1423055BJ|6Q1423055BM|6Q1423061N|6Q1423061NV|6Q1423061NX|6Q1423061S|6Q1423061SV|6Q1423061SX|6Q1423062F|6Q1423062FX|6R1423061</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yJctw3coro^PEBbwMMezfg8Q9WMCUweDWO79X84uocg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5565.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
