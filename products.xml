@@ -25791,7 +25791,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>47.84</Fiyat>
+    <Fiyat>42.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -27547,19 +27547,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1403.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1J0121253P-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 650X415X23 MM - VW GOLF4 BORA A3 TOLEDO OCTAVIA 1.6 98 &gt; - 1J0121253J|1J0121253H|1J0121253A|1J0121253AF|1J0121253AD|652011|1J0121253AT|1J0121253N|1J0121253B</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wQNMC2T7wYznJN940rfV66mkSMlqVAHBpBmAxD3AXAg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1291.10</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -70982,19 +70969,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>059103469AC-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA - VW TOUAREG (7LA, 7L6, 7L7) 3.0 V6 04-10 AUDI A4 B7 (8EC) 2.7TDI 3.0TDI 05-08 A5 (8T3) 2.7TDI 3.0TDI 07-12 A6 C6 (4F2) 2.7TDI 04-11 - 059103469AH|059103469AC|059103469T</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2455.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5F0821022G-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT LEON 13 &gt; - 5F0821022J|5F0821022H</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -94734,19 +94708,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4B1823029B-WISCO</Kod>
-    <Aciklama>MOTOR KAPUTU MEGESLI (SIMYI) - AUDI A6 98-01 - 4B1823029</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/TVImh43SmRPT2HZsiSGnaf3pB9Ja5cfCPUiJJ4wpjV4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5892.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>9822100180-WISCO</Kod>
     <Aciklama>TAMPON DEMIRI ON - OPEL GRANDLAND GRANDLAND X 17 &gt; - |9822100180|3552430</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -107237,19 +107198,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1543.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>059103470AC-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA - VW TOUAREG (7LA, 7L6, 7L7) 3.0 V6 04-10 AUDI A4 B8 (8K2) 3.0TDI 07-15 A5 (8T3) 2.7TDI 3.0TDI 07-17 A6 C6 (4F2) 2.7TDI 3.0TDI 04-11 A8 D3 (4E2, 4E8) 3.0TDI 03-10 - 059103470AC</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2455.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -155355,6 +155303,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>04L199207-WISCO</Kod>
+    <Aciklama>MOTOR TAKOZU - VW GOLF7 CADDY A3 LEON 1.6TDI 2.0TDI CLHA CLHB DCXA CRLB CRKB CUVC 13 &gt; - 04L199207</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HKfx^xC4QCEgcEBuxNXi02lq2nRWVA3TZOzAfaRxPgU=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>841.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5FA853665D9B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI ON SOL - SEAT LEON FR (KL1) 20&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -157978,19 +157939,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>533.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>103294-TOPRAN</Kod>
-    <Aciklama>DEBRIYAJ ALT MERKEZI - VW T3 1.6 D 79&gt; - 251721263|251721263A|103294001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/WHQpE4iFcLT6CA3VtcRudpAec9^PpOXdeGGHdVUYL5M=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>346.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -192470,19 +192418,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4G8823301E-WISCO</Kod>
-    <Aciklama>MOTOR KAPUT MENTESESI SOL - AUDI A6 C7AUDI A7 11-18 - 4G8823301C|4G8823301D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>982.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>638130-WISCO</Kod>
     <Aciklama>YAG POMPA CONTASI - OPEL ASTRA J CORSA D E AVEO INSIGNIA CRUZE 1.2 1.4 11 &gt; - 503241|55562793|503.241</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -194586,19 +194521,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>530.48</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6Q6827550C-WISCO</Kod>
-    <Aciklama>BAGAJ AMORTISORU 400N - VW POLO 02-09 - B0728|612495|B0729|6Q6827550|818200464|6Q6827550C|6Q0827550D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>92.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217599,110 +217521,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>YH-F133</Kod>
-    <Aciklama>DEVIRDAIM - FORD FIESTA IV (JA_,JB_) 1.8 DI FORD FOCUS II (DA_) 1.8 TDCI FORD TOURNEO CONNET 1.8 Dİ FORD TRANSIT CONNECT (P65_,P70_,P80_) 1.8 Dİ FORD GALAXY 1.8 TDCİ FORD FOCUS C MAX 1.8 TDCI &gt; - 1078500|1079085|1104115|1131878|XS4J8591AC|XS4Q8501AC7G9Q8501AA</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>659.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F139</Kod>
-    <Aciklama>DEVIRDAIM - FORD FIESTA IV (JA_,JB_,) 1.25 I 16V FORD FOCUS (DAW,DBW) 1.4 16V FORD FOCUS II (DA_) 1.4 FORD FUSION (JU_) 1.4 FORD PUMA (EC_) 1.4 16V FIESTA IV (JH_,JD_,) 1.6 16V &gt; - 1007714|1020538|1132607|1326374|1350461|96MM8501CD|96MX8591AA|EPW80|YS6G8501A2C|YS6G8591A2C</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>605.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F141</Kod>
-    <Aciklama>DEVIRDAIM - FORD TRANSIT (E__) 2.5 DI (EBL,ECL,EDS,EDL) FORD TRANSIT (V__) 2.5 D (VVL) &gt; - 1233218|5012773|5024545|914FX8591A1B|914FX8591A2B|914FX8591AA|A840X8591AA|A840X8591ATA|EPW20|EPW38|ME914F8591A2B</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>607.60</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F190</Kod>
-    <Aciklama>DEVIRDAIM - FORD MONDEO III (B5Y) 2.0 16V DI/TDDI/TDCI FORD TRANSIT (FA_) 2.0 TDCI FORD MONDEO III (B4Y) 2.0 16V TDDI/TDCI &gt; - 1116996|1143851|1341835|1347102|1417825|MEXS7Q8591A|X57Q8K500AE|X57Q8K500AH|XS7Q8501AM|XS7Q8591AA|XS7Q8K500AE|XS7Q8K500AM</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>757.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F190H</Kod>
-    <Aciklama>DEVIRDAIM - FORD MONDEO III (B5Y) 2.0 16V DI/TDDI/TDCI FORD TRANSIT (FA_) 2.0 TDCİ &gt; - 1116996|1143851|1341835|1347102|1417825|MEXS7Q8591A1|X57Q8K500AE|X57Q8K500AH|XS7Q8501AM|XS7Q8591AA|XS7Q8K500AE|XS7Q8K500AM</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>899.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F201H-2</Kod>
-    <Aciklama>DEVIRDAIM - FORD TRANSIT (FD_,FB_,FS_,FZ,FC_) 2.4 Dİ (F_B,F_C) FORD TRANSIT 2.4 TDCİ H9FD/PHFC/H9FB FORD TRANSIT 3.2 TDCİ SAFB &gt; - 1358577|1459513|1745231|3C108A558AA|3C1O8A558AA|4C1O8K500AA|7C168K500AA</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1463.46</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F251</Kod>
-    <Aciklama>DEVIRDAIM - FORD FIESTA V (JH_,JD_) 1.25 16V  FORD FOCUS II (DA_) 1.4 FORD FUSION (JU_) 1.25 FORD MONDEO IV 1.6 Tİ FORD C MAX 1.6  &gt; - 1406479|1472867|7S7G8501A2A|7S7G8505A2A|7S7G8591A2A</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>627.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F273</Kod>
-    <Aciklama>DEVIRDAIM - FORD RANGER(TKE) DURATORQ  ZSD 422 2.2 L FORD TRANSIT  DURATORQ  ZSD 422 2.2 L FORD EVEREST DURATORQ  ZSD 422 2.2L &gt; - 1719125|1849276|BK3Q8A558CB|BK3Q8A558CC|LR071294</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1110.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>YH-F273H</Kod>
     <Aciklama>DEVIRDAIM - FORD RANGER(TKE) DURATORQ  ZSD 422 2.2 L FORD TRANSIT  DURATORQ  ZSD 422 2.2 L FORD EVEREST DURATORQ  ZSD 422 2.2L &gt; - 1719125|1849276|BK3Q8A558CB|BK3Q8A558CC|LR071294</Aciklama>
     <Uretici>GNS</Uretici>
@@ -217716,19 +217534,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>YH-F273H-2</Kod>
-    <Aciklama>DEVIRDAIM - FORD RANGER(TKE) DURATORQ  ZSD 422 2.2 L FORD TRANSIT  DURATORQ  ZSD 422 2.2 L FORD EVEREST DURATORQ  ZSD 422 2.2L &gt; - 1719125|1849276|BK3Q8A558CB|BK3Q8A558CC|LR071294</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1470.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>YH-F274H</Kod>
     <Aciklama>DEVIRDAIM - FORD TRANSIT 3.2L FORD RANGER 3.2L &gt; - 1719128|1805484|1900052|BK3Q8A558GB|BK3Q8A558GC</Aciklama>
     <Uretici>GNS</Uretici>
@@ -217739,32 +217544,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1285.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F274H-2</Kod>
-    <Aciklama>DEVIRDAIM - FORD TRANSIT 3.2L FORD RANGER 3.2L &gt; - 1719128|1805484|1900052|BK3Q8A558GB|BK3Q8A558GC</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1397.48</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>YH-F300</Kod>
-    <Aciklama>DEVIRDAIM - FORD  TRANSİT 2.0 TDCİ 16V ECO BLUE 105 &gt; - GK2Q8501AA|GK2Q8501AC</Aciklama>
-    <Uretici>GNS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1045.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
