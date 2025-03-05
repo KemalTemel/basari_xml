@@ -220835,4 +220835,30 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Fiyat>233.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
+  <Urun>
+    <Kod>80164-MGA</Kod>
+    <Aciklama>SU RADYATORU MEKANIK AT 680X262X23 - OPEL CORSA B TIGRA 1.4 1.6L 94-96 - 1300152|1300153|2140015|52459322|52459323|574|591|594|632921|8MK376713|8MK376713574|8MK376713591|8MK376713594</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1598.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8TF358106451-HELLA</Kod>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW TIGUAN AUDI Q3 1.4 TFSI 2.0 TFSI 07&gt; - 116648|116648001|5N0919087E|5N0919087F|5N0919087G</Aciklama>
+    <Uretici>HELLA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>4402.62</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
 </Products>
