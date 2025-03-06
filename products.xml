@@ -4810,19 +4810,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>038903315C-WISCO</Kod>
-    <Aciklama>ALTERNATOR GERGI RULMANI DEMIR - VW GOLF4 BORA A3 OCTAVIA 1.9TDI AGR ALH AGP 98 &gt; - 1110078|1253065|00</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>60.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>038903315PGA-WINPOWER</Kod>
     <Aciklama>ALTERNATOR GERGI AMORTISORU - VW GOLF4 BORA 1.9 TDI 98 &gt; - 038903315P</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -36403,6 +36390,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>324055-WISCO</Kod>
+    <Aciklama>ROT BASI SOL - OPEL ASTRA F VECTRA A 88 &gt; - 90369704|324053|2180001|90350447|324055</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>138.38</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>324056-WISCO</Kod>
     <Aciklama>ROT BASI SAG - OPEL ASTRA F VECTRA A 88 &gt; - 324056|90350448|90369705|324054|2180002</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -58034,19 +58034,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>701419831-WISCO</Kod>
-    <Aciklama>DIREKSIYON KORUGU - VW T4 96 &gt; - 7D0419831</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>36.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>701507-IMAGE</Kod>
     <Aciklama>UST KAPAK CONTASI - OPEL OMEGA B VECTRA C25XE X25XE X30XE Y26SE Y32SE Z32SE 94 &gt; - 90511451|469440|372320|607642|9050641|5607833|55351456|153426802|90501642|90411753|205530786</Aciklama>
     <Uretici>IMAGE</Uretici>
@@ -64638,6 +64625,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>8D0959455R-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (280 MM-2 FIS-8 KANAT) - VW PASSAT A4 A6 1.8 1.9TDI ALT AVF 00 &gt; - 1110760|8D0959455P|00|000959455</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/II4IYbMbtkmUmhR614iboNXUL3vKVLgfyiCc2XT4ISM=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>934.52</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>8D0959481B-WISCO</Kod>
     <Aciklama>HARARET MUSURU - VW PASSAT 18T - 8D0959481B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -65753,6 +65753,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1682.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8K0959455F-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (350 MM-2 FIS-9 KANAT) - AUDI A4 A5 A6 2.0TDI 08 &gt; - 8K0959455R|8K0959455C|1110436|8K0959455M|00|8K0959455F|8K0959455Q</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/QWLjGF8SCJmJVIw1VqVNcPyOin5o5M9JRUm2uqjL0wo=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>747.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -67664,19 +67677,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>623.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>96550261-WISCO</Kod>
-    <Aciklama>MOTOR TAKOZU ARKA ALT - CHEVROLET LACETTI NUBIRA 1.4 1.6 16V 04 &gt; - 96852453|5486675|96550266|96550263</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>420.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -83329,6 +83329,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1277.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5C6807217GRU-WISCO</Kod>
+    <Aciklama>TAMPON ON FAR YIKAMASIZ SENSORSUZ ASTARLI - VW JETTA 10 &gt; - 5CH807217GRU|5C6807217FGRU|5C6807217AGRU|5C6807217DGRU</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/G3aww7kRcfdvIBL3evouKJqFtNLp4EvW2hy4Au1pRYc=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>872.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -108124,19 +108137,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2H6807221AGRU-WISCO</Kod>
-    <Aciklama>TAMPON ON SENSORSUZ FAR YIKAMASIZ ASTARLI - VW AMAROK (2HA, 2HB, S1B, S6B, S7A, S7B) 16- - 2H6807217AGRU</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/WGANwiDL1nMh3bFKKkRze^PhG7qeXVslEl2ol63XOm0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3738.10</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1087298130-WISCO</Kod>
     <Aciklama>SANZUMAN YAG KARTERI - JEEP GRAND CHEROKEE 3 05-10 / GRAND CHEROKEE 4 3.0CRD V6 11&gt; - 0501219037|68225344AA|68233701AB|68233701AA|52854834AB|0501220214</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -110617,6 +110617,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>233.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8E0959455K-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (380 MM-2 FIS-11 KANAT) - AUDI A4 A6 SEAT EXEO 1.6 1.8 T1.9 TDI 2.0 2.0 FSI 2.0 TDI 00 &gt; - 8E0959455|115545755|4F0959455</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>934.52</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -127207,19 +127220,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>133.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K0407182-WISCO</Kod>
-    <Aciklama>SALINCAK BURCU KUCUK CIFT BORULU - AUDI A3 1.2 TSI 1.4 TFSI 1.6 TDI TOLEDO 3 OCTAVIA 2GOLF5 6 JETTA 3 4 PASSAT TIGUAN TOURAN 1.4 1.6 TDI 2.0 TDI 03 &gt; - 110060001|24390|1160200|03414|5Q0407182|Y11373|110060755|2991601|1K0407182A|R51732|TD521W</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1ZrpQukKiDTpgngO^XsUcI9uw68YEfkw2IXTiiPanLo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>43.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -155654,19 +155654,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>04L199207-WISCO</Kod>
-    <Aciklama>MOTOR TAKOZU - VW GOLF7 CADDY A3 LEON 1.6TDI 2.0TDI CLHA CLHB DCXA CRLB CRKB CUVC 13 &gt; - 04L199207</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HKfx^xC4QCEgcEBuxNXi02lq2nRWVA3TZOzAfaRxPgU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>841.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5FA853665D9B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI ON SOL - SEAT LEON FR (KL1) 20&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -162544,19 +162531,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0AM927769DRK-ITL</Kod>
-    <Aciklama>MEKATRONIK TAMIR TAKIMI - VW AUDI SEAT SKODA - 0AM927769D|0AM325066AE</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/BBBawPE47NwXQhnEZWT1RaT23b34n^1g2MohDlnhsVQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1918.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1T0711265AF-WISCO</Kod>
     <Aciklama>VITES TELI SOL - VW CADDY3 TOURAN 1.9 TDI 03-10 - 1T0711265P|1T0711265AF</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -165141,19 +165115,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>207.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8D0821106-WSC</Kod>
-    <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A4 95-99</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/NZLIuVtx4NdfomD3rh7OPTjHN^XtZwlSkSJfi9mjML8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1225.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -176815,6 +176776,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>112.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6R0959455C-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (390 MM-3 FIS-7 KANAT) - VW POLO IBIZA FABIA 1.4 0202 &gt; - 6Q0959455AD|8EW351040381|6R0959455E|1111654|11|6R0959455C</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>918.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -189243,19 +189217,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1152.57</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>111115-ROOT</Kod>
-    <Aciklama>TAMPON IZGARASI ON KAPAGI KUCUK SAG ALT - OPEL ASTRA J 09 &gt; - 1401029|13387233</Aciklama>
-    <Uretici>ROOT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>98.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220381,19 +220342,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1313-KITATECH</Kod>
-    <Aciklama>KAPI GERGISI ON - OPEL ASTRA J 1.6CDTI 09 &gt; - 0160010|1313|13270665|13305770|160010</Aciklama>
-    <Uretici>KITATECH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>348.12</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>21030327-KRAFTVOLL</Kod>
     <Aciklama>SU TAHLIYE TAPASI - VW AMOROK BORA CADDY CRAFTER GOLF5 PASSAT T5 GOLF 98 &gt; - 06A103035A|Y13114</Aciklama>
     <Uretici>KRAFTVOLL</Uretici>
@@ -220820,19 +220768,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1404.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>13585947-ITH</Kod>
-    <Aciklama>DIKIZ AYNASI IC - OPEL ASTRA J CRUZE ASTRA K AVEO T300 SPARK 09 &gt; - |13503045|13585947|1428322|1428585</Aciklama>
-    <Uretici>ITH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>822.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
