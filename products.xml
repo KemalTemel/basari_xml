@@ -77157,19 +77157,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>39031207-WISCO</Kod>
-    <Aciklama>FAR SOL - OPEL INSIGNIA A 13-17 - 13409906|1216810</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4050.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3C8945094D-WISCO</Kod>
     <Aciklama>STOP SAG IC - VW PASSAT CC 08-12 - 3C8945094C|3C8975094|3C8945094E|3C8945094F|3C8945094B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -96499,19 +96486,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>210.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>96863981-WISCO</Kod>
-    <Aciklama>AMORTISOR TAKOZU ON UST - OPEL CHEVROLET CAPTIVA 2.0 2.2 2.4 06 &gt; - 4813836|2190093|00</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>280.40</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -178781,19 +178755,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>162STP200H-DAYCO</Kod>
-    <Aciklama>TRIGER KAYISI 162X200 - OPEL ASTRA G VECTRA C ZAFIRA CORSA C 1.4 1.6 .1.8 98 &gt; - 90531858|5499XS|24451895|9129060|5636373|96413861|94787|95522524|5636564|162STP200H</Aciklama>
-    <Uretici>DAYCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>569.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>16615004-BSG</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - CHEVROLET AVEO KALOS 1.4 1.6 16V F14D3 A16DM A16DMS F16D3 05 &gt; - 59004|APV2729|96870202|96351533|25184786|VK60014|53025010|96966707</Aciklama>
     <Uretici>BSG</Uretici>
@@ -214323,19 +214284,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>115412-TOPRAN</Kod>
-    <Aciklama>YAG CUBUGU - VW GOLF5 PASSAT B7 TIGUAN SUPERB LEON 1.4TSI 08-18 - 03C115611AD</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>96.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>116306-TOPRAN</Kod>
     <Aciklama>TURBO HORTUMU ORINGI 67,9MM - VW TOUAREG BAC BLK BPD BPE 06 &gt; - 3C0145117K|7L6145117</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -215064,19 +215012,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>K169-KENTPAR</Kod>
-    <Aciklama>KRANK KASNAGI - RENAULT MASTER 11 &gt; - |00Q2A|12303|4420381|8200805671|93168039</Aciklama>
-    <Uretici>KENTPAR</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>892.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1341344P-EXPORT</Kod>
     <Aciklama>FAN PERVANESI - OPEL ASTRA G ZAFIRA 98 &gt; - 1341344P|24431825|345C6208|6341168P</Aciklama>
     <Uretici>EXPORT</Uretici>
@@ -215802,32 +215737,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1580.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3858501-LEMFORDER</Kod>
-    <Aciklama>ORTA ROT KISA - MERCEDES-BENZ W463 00 &gt; - 1906036|3858501|A4634631115|M552</Aciklama>
-    <Uretici>LEMFORDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3234.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>003215800-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - VW POLO CORDOBA FABIA AMF BNV BHC BWB BNM BAY BMS 1.4TDI - 02A141165M|045141031A|045141031AX|051141025B|051141025BX|3000951092|3000951704|622301800|826533</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2222.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
