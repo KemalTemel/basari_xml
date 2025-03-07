@@ -149102,19 +149102,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-604EHPAL-VIEWMAX</Kod>
-    <Aciklama>AYNA SOL+ISI+ELK+ASP+ASF - SKODA FABIA 1 (6Y2) 99-06 - 6Y1857501BJGRU|VM604EHPAL</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1039.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5Q0122291BB-WISCO</Kod>
     <Aciklama>TERMOSTAT YUVASI - VW PASSAT (3G2) 15&gt;/ TIGUAN (AD1) 16&gt;/ ARTEON (3H7) 17&gt;/ AUDI Q3 (F3B) 18&gt; 2.0 TFSI (DKTA-DNNA-CJSC-CXDA-DNFE) - 5Q0122291BB</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -220226,7 +220213,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>DF6262S-TRW</Kod>
-    <Aciklama>FREN DISKI ON - MERCEDES-BENZ W176 W246 W242 X117 X117 X156 12 &gt; - DF6262S|A2464212512</Aciklama>
+    <Aciklama>FREN DISKI ON TAKIM - MERCEDES-BENZ W176 W246 W242 X117 X117 X156 12 &gt; - DF6262S|A2464212512</Aciklama>
     <Uretici>TRW</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
