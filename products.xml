@@ -85412,19 +85412,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5N0807521B9B9-WISCO</Kod>
-    <Aciklama>TAMPON SPOYLERI ARKA SENSORLU SIYAH - VW TIGUAN 08 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>923.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6Q0820103B-WISCO</Kod>
     <Aciklama>EVAPORATOR - VW POLO FOX SEAT CORDOBA IBIZA 4 SKODA FABIA 1 2 ROOMSTER 99 &gt; - 8FV351211561|6Q0820103A|92191|6Q0820103|8FV351330711</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -90960,19 +90947,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>349.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6K0121253AG-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 645X372X30 MM - SEAT CORDOBA IBIZA 2 VW CADDY 2 1.9 SDI 95 &gt; - 6K0121253AG||6K0121253AE|8MK376716324|8MK376716|6KO121253AM|67301|CR1512000S|8MK376716321|6K0121253BC|6KO121253AG|321|CR463000S|6K0121253AM</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1213.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -190949,6 +190923,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>424071-WISCO</Kod>
+    <Aciklama>HELEZON ARKA - OPEL VECTRA C BM 02 &gt; - 93171836|93176260|424106|124070R|93185774|424083</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>2</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>303.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>8D0407257AR-WISCO</Kod>
     <Aciklama>AKS TASIYICISI ON SOL - VW PASSAT A4 2.5 TDI 97 &gt; - 1160275|8D0407257AR|8D0407253C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -200384,19 +200371,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>142.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>42F001L-TECHNOSHOCK</Kod>
-    <Aciklama>AMORTISOR ON SOL - OPEL ASTRA G ZAFIRA A 98 &gt; - 72119092|72119132|344047|344108|72119046|72119044|344077|93170464|344014|344053|72119094|344041|344049|344011|344106|344012|93170483|93172563</Aciklama>
-    <Uretici>TECHNOSHOCK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>498.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217596,6 +217570,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>230.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10031523-KRAFTVOLL</Kod>
+    <Aciklama>TURBO HORTUMU - BMW E60 E61 E88 02 &gt; - 11617791664|11617797697|11617799401</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>104.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8PK2080-BOSCH</Kod>
+    <Aciklama>V KAYISI - MERCEDES-BENZ ATEGO ZETROS 98 &gt; - 1398058|1530984|1888471|1987947067|A9069932296|A9069971192</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>295.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>FO3011-RIW</Kod>
+    <Aciklama>ROT KOLU - FORD FOCUS C-MAX KUGA TRANSIT 10 &gt; - |1251937|1510270|1714484|1715414|1780104|274502|30776283|31201817|31317779|3M513L519AA|3M513L519AB|AMAV6C3280AA|AV6C3L519AA|AV6C3L519BA</Aciklama>
+    <Uretici>RIW</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>177.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
