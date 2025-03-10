@@ -78,19 +78,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>003220400-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - VW CADDY GOLF5 JETTA 1.2TSI 1.6FSI BSE BAG BLF BLP BGU CBZA CBZB BDJ 03 &gt; - 036141026G|036141015BB|622333600|826326|036141026|877326|622333200|3000951035|622310800|036141015AF|3000950019</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2360.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>004026254-WISCO</Kod>
     <Aciklama>DISTRUBITOR KAPAGI - SKODA FELICA 98-01 - 004026254A|2260065</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -25366,6 +25353,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>186711-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI - OPEL ASTRA F-G VECTRA B CORSA X16XEL X16XE C16XE C16SEL 98 &gt; - 90511490|607491</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>446.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1878003852-AUTOLUX</Kod>
     <Aciklama>DEBRIYAJ BALATASI - VW POLO SEAT CORDOBA IBIZA SKODA FABIA 1.9 SDI 99 &gt; - 038141031R|190X28|319014910</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -29211,19 +29211,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>133.45</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K0423831A-WISCO</Kod>
-    <Aciklama>DIREKSIYON KORUGU - VW GOLF V CADDY JETTA PASSAT - Y11253|1K0423831A|1K0423831B|93742552</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>43.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -44476,19 +44463,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>522618-WISCO</Kod>
-    <Aciklama>EL FREN TELI ARKA 1659 MM - OPEL CORSA B COMBO B 94 &gt; - 522000</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>227.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>522620-WISCO</Kod>
     <Aciklama>EL FREN TELI ARKA SAG - OPEL VECTRA A 1.4 1.6 1.8 88 95 - 90421704|90495223|90375406|522596|2120046|522602</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -55353,19 +55327,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>112.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6Q0498099D-WISCO</Kod>
-    <Aciklama>AKS KAFASI DIS ABSSIZ 36X30X50,7 UZUNLUK:106mm - VW POLO FABIA IBIZA 1.4 16V BKY 02 &gt; - 6Q0498099D|6Q0498099|1160051|6R0498099</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/G0iQH1q^tZEHmWYpbWi7ObLfOASddY40jRnG5I72WtQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>435.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -130954,19 +130915,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3G9035534-OEM</Kod>
-    <Aciklama>KONTROL UNITE MODULU - VW PASSAT B8 GOLF7 POLO 20 &gt; - 3G9035534</Aciklama>
-    <Uretici>OEM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1183.28</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>919107-USP</Kod>
     <Aciklama>YAG MUSURU SIYAH - VW GOLF CADDY PASSAT POLO FABIA 04 &gt; - 06A919081A|06A919081D|06A919081J</Aciklama>
     <Uretici>USP</Uretici>
@@ -134799,6 +134747,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1152.25</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5679040-FTE</Kod>
+    <Aciklama>DEBRIYAJ BAGLANTI BORUSU - OPEL ASTRA G H VECTRA B C 1.6 16V 95 &gt; - 5679040|24422066||4206100</Aciklama>
+    <Uretici>FTE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>221.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -165690,19 +165651,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5PK1550-WISCO</Kod>
-    <Aciklama>V KAYISI - SUZUKI - |5PK1548|1752162G10|5PK1551|5PK1552|3033665|3807376|5PK1549</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>112.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>560-DK</Kod>
     <Aciklama>DEBRIYAJ TOZ LASTIGI - OPEL RECORD 66-82 - 668257</Aciklama>
     <Uretici>DK</Uretici>
@@ -192951,19 +192899,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0199855AG-WISCO</Kod>
-    <Aciklama>SANZUMAN TAKOZU - AUDI A3 SEAT ALTEA LEON SKODA OCTAVIA YETI VW GOLF5 6 GOLF PLUS JETTA 3 SCIROCCO TOUARAN 1.2 TSI 1.4 TSI 04 &gt; - 1K0199855BD|31968</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/DnZnxb1svIDEyNjKCbQzIr8NE6jQBjk7aqYjdIJhl9I=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>290.39</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8N1837015B-WISCO</Kod>
     <Aciklama>KAPI KILIDI MOTORLU SOL ON - AUDI TT (8N9) 98-06 - 8N1837015B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -204664,19 +204599,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4G9955711A-WISCO</Kod>
-    <Aciklama>SILECEK MOTORU ARKA - AUDI A1 (8X1, 8XK) 2010-2018 , AUDI Q3 (8UB, 8UG) 2011-2018 , AUDI A6 C7 Avant (4G5, 4GD) 2011-2018 - 4G9955711A|4G9955711C|579717|8U0955711A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/gkkc9tteLtuW^1iGcEFjhtL4CcdfyrJY8c64Xk0FZgQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1249.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4M0955711A-WISCO</Kod>
     <Aciklama>SILECEK MOTORU ARKA - AUDI A4 Allroad B9 (8WH, 8WJ) 2016- , AUDI Q7 (4MB, 4MG, 4MQ) 2015- - 4M0955711A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -207391,19 +207313,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1561.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>001225409-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI RULMANSIZ - RENAULT MEGANE CLIO KANGOO FLUENCE MODUS LAGUNA 1.5DCI 07-13 - 001225409|130220|2335400QAF|2335400QAL|3000950538|302057505R|623355309</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1822.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214128,19 +214037,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>26406-GRAT</Kod>
-    <Aciklama>POLEN FILTRESI KARBONSUZ - AUDI A4 A5 Q5 Q7 TOUAREG CAYENNE 15 &gt; - 4M0819439A|8W0819439A|PAB81943900</Aciklama>
-    <Uretici>GRAT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>55.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1J1863201E2QL-EXPORT</Kod>
     <Aciklama>ORTA KONSOL SIYAH - VW GOLF4 BORA 99 &gt; -  1J1863201L2QL|1J1863201D2QL</Aciklama>
     <Uretici>EXPORT</Uretici>
@@ -217258,6 +217154,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>949.45</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>293213-GKL</Kod>
+    <Aciklama>MARSBIYEL KOSE PLASTIGI SOL - VW PASSAT B5 98 &gt; - 1230460|3B0853897AB41</Aciklama>
+    <Uretici>GKL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>61.81</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>293214-GKL</Kod>
+    <Aciklama>MARSBIYEL KOSE PLASTIGI SAG - VW PASSAT B5 98 &gt; - 3B0853898A|3B0853898AB41</Aciklama>
+    <Uretici>GKL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>61.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
