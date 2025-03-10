@@ -87,7 +87,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2458.14</Fiyat>
+    <Fiyat>2351.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -70189,6 +70189,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>222729-WISCO</Kod>
+    <Aciklama>TAMPON CEKI DEMIR KAPAGI ON - OPEL ASTRA H 04 &gt; - 222729|Y2021|93183331</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/v6Hm5YAtHaXPbcOMfNzapwKISrDBRJbV9gF23aVPID0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>31.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>04E906455Q-OEM</Kod>
     <Aciklama>EKSANTRIK MIL SENSORU - VW GOLF7 12-20 - 04E906455S|04E906455Q</Aciklama>
     <Uretici>OEM</Uretici>
@@ -109083,19 +109096,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>217.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K9827550AB-WISCO</Kod>
-    <Aciklama>BAGAJ AMORTISORU GAZLI 420N - VW GOLF5 6 VARIANT - 1K9827550AB|1K9827550B|8181954915|Y140172</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>83.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -171865,19 +171865,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>8K0823029D-WSC</Kod>
-    <Aciklama>MOTOR KAPUTU (TAIWAN) - AUDI A4 08-12 - 8K0823029B|8K0823029C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5280.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5K0807651D-WSC</Kod>
     <Aciklama>TAMPON TRAVERSI ON (TAIWAN) - VW GOLF6 08-13 VW CADDY 10-15 - 5K0807651B|5K0807651C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -183653,19 +183640,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>72.31</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>88450-12280-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU MT 627X366 MM - TOYOTA COROLLA. AURIS 1.6. 1.4D-4D 06&gt; - 8845002360|02330|8846002390|940037|8845002300|8845012300|88450|12280|02280</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1182.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
