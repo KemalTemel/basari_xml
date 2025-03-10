@@ -27160,19 +27160,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1J0121253P-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 650X415X23 MM - VW GOLF4 BORA A3 TOLEDO OCTAVIA 1.6 98 &gt; - 1J0121253J|1J0121253H|1J0121253A|1J0121253AF|1J0121253AD|652011|1J0121253AT|1J0121253N|1J0121253B</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wQNMC2T7wYznJN940rfV66mkSMlqVAHBpBmAxD3AXAg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1287.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1J0121321B-WISCO</Kod>
     <Aciklama>RADYATOR SU DEPO KAPAGI - VW GOLF BORA PASSAT POLO TOUAREG AUDI A2 A3 A4 A6 96 &gt; - 8E0121321|1J0121321B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -46422,7 +46409,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>96.19</Fiyat>
+    <Fiyat>146.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -46526,7 +46513,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>181.98</Fiyat>
+    <Fiyat>251.96</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -50881,7 +50868,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Yuy0gIf1Og7gAqe7ONZycW2JJj8HndE^ZfnR6NLj5xI=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>98.80</Fiyat>
+    <Fiyat>97.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -73371,6 +73358,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>349.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5H0853651AA041-WISCO</Kod>
+    <Aciklama>PANJUR LEDLI - VW GOLF8 R-LINE 20&gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2581.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -109511,7 +109511,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/d0d8U5zxF3VrghnaRc4XHj^jYXCk^YPb1ZE6Nfdt4KQ=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>157.75</Fiyat>
+    <Fiyat>192.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137008,7 +137008,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>157.75</Fiyat>
+    <Fiyat>192.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -140622,7 +140622,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xA0shHjczBppXhtKWBUfnhwXndxdNOGyywK^lcwLBxw=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>59.90</Fiyat>
+    <Fiyat>69.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -151958,7 +151958,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>502.74</Fiyat>
+    <Fiyat>534.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -162258,6 +162258,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0853666F9B9-WISCO</Kod>
+    <Aciklama>TAMPON IZGARASI SAG SISSIZ - VW POLO 02-05 - 6Q0853666FB41|6Q08536669B9|6Q0853666F</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ya1Gz4zOUfniuui^a2TrzX9oZRT6omIYO6VbllkvKeM=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>80.89</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6R08536719B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI ORTA NIKELAJLI - VW POLO 09 &gt; - 6R08531012ZZ</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -170588,6 +170601,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1038.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3AA854661B9B9-WISCO</Kod>
+    <Aciklama>TAMPON IZGARASI SOL SISLI UC NIKELAJLI - VW PASSAT B7 11-14</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/h4yXOAL0oTBfrQMetXMLFe^Ov2aU2zpsdDgIq8RLGe0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>544.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -180636,7 +180662,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Am8Ve4WXfvxHz7cVtKq8rVbDhbZcqOIRl9qxrgVoqYw=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>502.74</Fiyat>
+    <Fiyat>534.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
