@@ -18538,19 +18538,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1223977-WISCO</Kod>
-    <Aciklama>STOP SOL - OPEL ASTRA F 94 -98 - 90510601|2240025</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/hXnQf4snnuERbGiqDj3KY3xd^4MoRZSUq8Rb4RQ6mC4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>625.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1223978-WISCO</Kod>
     <Aciklama>STOP SAG - OPEL ASTRA F 94-98 - 2240026|90510619</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -21083,19 +21070,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>281.43</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1334014-WISCO</Kod>
-    <Aciklama>DEVIRDAIM - OPEL ASTRA F VECTRA A 1.7D 88 &gt; - 90295078|2110013|90284913</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/MhfAZXopAAWTFiIU38Dpik5RYMCVsvSPcR4PAHHcGW8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>319.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -51145,19 +51119,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6272MC-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL ASTRA F VECTRA A CORSA B 1.4 10X913 1988 &gt; - 91149464|1340612|10A0915C|AVX10X913|1340709</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>54.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>627-DK</Kod>
     <Aciklama>SALINCAK BURCU ALT - OPEL OMEGA A SENATOR B 87-94 - 352341|90279193</Aciklama>
     <Uretici>DK</Uretici>
@@ -76910,19 +76871,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>03C121111T-LEX</Kod>
-    <Aciklama>TERMOSTAT YUVASI - VW GOLF JETTA SUPERB 1.4TSI CAXA - 03C121026AC|TM3483|03C121111T</Aciklama>
-    <Uretici>LEX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0iWxKo^CAyBClKdzsIAITYQJ7^lmTqHAUnvWr1JkgvY=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>644.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8Z0611775A-WISCO</Kod>
     <Aciklama>FREN HORTUMU ARKA - AUDI A2 00-05 - 8Z0611775B|8Z0611775A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -88620,19 +88568,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>164.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>22829850-WISCO</Kod>
-    <Aciklama>TURBO RADYATORU (INTERCOOLER) 665X316X32 - OPEL INSIGNA A 1.6CDTI 15-17 - 22829850|961252</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HLhZPcbIU3HxTp488a01Kk5ZMfS7FlnE3L^9kUVbdcM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2501.72</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113386,6 +113321,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>179.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>7H0805687-WISCO</Kod>
+    <Aciklama>KARTER MUHAFAZASI PLASTIK - VW T5 T6 T7 04 &gt; - 00|1235421|7H0805687E|7H0805687|7E0805687|7H0805687B|W075|7H0805687C|7H0805687F|7H0805687D|7H0805687A|7E0805685A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/e9JvzC^maP2Zs7UWDAGo782^lsjUtm4puCPaU8uyscg=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>532.44</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -140249,6 +140197,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3U0809957-WISCO</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - SKODA SUPERB 02-08 - 3U0809957|00|1235518</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1MC0teBlcelboutdayrBtVEJ^ldu8eVRDOlLq78c174=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>169.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>23128506-WISCO</Kod>
     <Aciklama>KARTER MUHAFAZA SACI METAL - OPEL INSIGNIA B 17 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -158358,6 +158319,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>96548771-WISCO</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - CHEVROLET LACETTI HB 03-12 - 96548771</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/XLShkN8AdnuUzqSDErt7gOq50ygFlbPCSnyiEci3jkI=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>245.86</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>10x800-DAYCO</Kod>
     <Aciklama>V KAYISI - UNIVERSAL</Aciklama>
     <Uretici>DAYCO</Uretici>
@@ -159265,19 +159239,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>211.08</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1850076-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU 658X411X16 - OPEL VECTRA C SIGNUM 1.6 1.8 2.2 3.2 03 &gt; - 8FC35|13101839|24418362|22|2140051|304|94597|71740527|1850079|301|71746356|8FC351300|8FC351300301</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/3aQWjJTc1fTpWHrUtKCV30YKFsfZgzonWYbcc1eoXV8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1266.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -160617,19 +160578,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2617.41</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3189000536-SACHS</Kod>
-    <Aciklama>DEBRIYAJ RULMANI - SKODA FABIA 1.0 1.4 99 &gt; - 002141170|3189000536</Aciklama>
-    <Uretici>SACHS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>504.79</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -163048,19 +162996,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>70.10</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1312121-WISCO</Kod>
-    <Aciklama>FAR YUVA SACI SAG - OPEL ASTRA J CASCADA 10 &gt; - 13307699</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/B2c^nFchiyt9l3MMKIaWBsGTypk62W0dvIHnnA3ibt0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>730.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -191183,19 +191118,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-973EBR-VIEWMAX</Kod>
-    <Aciklama>AYNA SAG ELEKTRIKLI ISITMALI KATLANIR 7 PIN - OPEL ASTRA J 09-15 - 13308368|13265470|VM973EBR|6428277|1428460|1428452</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2297.54</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>110885-TOPRAN</Kod>
     <Aciklama>SU TAPASI 42.3 MM - VW GOLF4 BORA A3 98 &gt; - 036103113|281415763|06B103113|6B103113|110885756|N90818701|110885001</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -191999,19 +191921,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2181.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2K5853651CLDB-WISCO</Kod>
-    <Aciklama>PANJUR FULL NIKELAJ - VW CADDY 15-20</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vR5BvuQXYFhkumhVVCqm2OtjSZd5AEPo528SrcQPBbs=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2251.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
