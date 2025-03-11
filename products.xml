@@ -139,7 +139,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1365.45</Fiyat>
+    <Fiyat>1367.89</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -25349,7 +25349,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>446.93</Fiyat>
+    <Fiyat>446.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -28470,19 +28470,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>174.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1J4837462D-WISCO</Kod>
-    <Aciklama>CAM MEKANIZMASI ON SAG SACSIZ - VW GOLF4 BORA 99 &gt; - 1220473|108671755|1J4837462H|1J4837462B|1J4837462F|112879755|1J4837462D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>421.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -102599,19 +102586,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>92100-6454R-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU MT 515X397X12 MM - RENAULT CLIO4. DACIA LOGAN. DOKKER 1.5DCI13&gt; - 921006454R|921001908R|940321|8660003630|921006843R|8660003626</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1249.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6U0407615A-WISCO</Kod>
     <Aciklama>PORYA ON SOL-SAG RULMANSIZ 4X100 121,5X22 ABSSIZ - SKODA FAVORIT FELICIA 93 &gt; - 9422040|6U0407615|115430011|002301260|6U0407615A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -133372,19 +133346,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-013GHR-VIEWMAX</Kod>
-    <Aciklama>AYNA CAMI SAG ISITMALI DIS BUKEY - AUDI A6 (4F2) 04-08 - 8E0857508BGRU|8P1858532K01C|8E0857536D|VM013GHR</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>474.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5K6807521K9B9-WISCO</Kod>
     <Aciklama>TAMPON SPOYLERI ARKA - VW GOLF6 08-13 - 5K6807521K</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -152817,6 +152778,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>136.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>33104125-ATL</Kod>
+    <Aciklama>DIREKSIYON TAMIR TAKIMI - OPEL VECTRA A - 1609076|26057095|OP28666</Aciklama>
+    <Uretici>ATL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>435.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -184969,6 +184943,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0242229654-BOSCH</Kod>
+    <Aciklama>BUJI CIFT TIRNAK - OPEL ASTRA G VECTRA B MERIVA 95 &gt; - 1214000|1214117|9195109|95519055|91132006</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>73.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1K1614019N-WINPOWER</Kod>
     <Aciklama>FREN ANA MERKEZI - VW GOLF5 CADDY 04 &gt; - 1K1614019S</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -198993,19 +198980,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1092.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2K8941005B-WISCO</Kod>
-    <Aciklama>FAR SOL - VW CADDY 21 &gt; - 2K8941005|2K8941005A|2K8941005B|2K8941005C|2K8941005D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ttYK61bwswWeAGIKFwKU15W6Kr6JN02e39On6fAmDNw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3210.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
