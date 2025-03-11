@@ -23806,19 +23806,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1603277-WISCO</Kod>
-    <Aciklama>AKS KORUGU DIS TAKIM - OPEL ASTRA H CORSA C VECTRA C 1.3 1.6 1.7 1.8 02 &gt; - 93182542|93180022|Y1562</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>70.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1603295-WINPOWER</Kod>
     <Aciklama>PORYA ON SOL-SAG RULMANLI 5X110 137X30DIS ABS - OPEL VECTRA C SIGNUM 1.6 16V 05 &gt; - 8126|1603255|93178661|93186388|1603295|R153.43|9330021|19</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -25362,7 +25349,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>446.76</Fiyat>
+    <Fiyat>446.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -96255,6 +96242,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>621302709-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI RULMANSIZ - OPEL ASTRA G H CORSA C VECTRA B C MERIVA A Z16XE X18XE1 Z18XE 98-07 - 3000839001|93175343|1606152|93171782|620209809|3000828201|3000990026|3000838801|1606205|05S886200R|2120030|1606209|1606956|1606157|006200709|3000951071|621237800|93175342|621302709|012200609</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3613.99</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>3C8941754CF-WISCO</Kod>
     <Aciklama>FAR SAG XENON + BEYIN - VW PASSAT CC 09 &gt; - 44111C9RMLDAEM|441|11C9RMLDAEM|3C8941754</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -107864,19 +107864,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1302148-WISCO</Kod>
-    <Aciklama>TURBO RADYATORU (INTERCOOLER) 665X284X30 - OPEL ASTRA J ZAFIRA C CHEVROLET CRUZE J300 J305 J308 1.4 1.6 A1.4NET A1.4NEL B1.4NEL A1.6LET B1.4NET 09&gt; - 354|8ML376988354|1302148|13311080|96555|8ML 376 988</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/g4dID1mxJt1jY7NN^oY4f5pKKqz4LVgYPAW8MefekD0=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2079.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5FA945105C-WISCO</Kod>
     <Aciklama>TAMPON REFLEKTORU ARKA SOL - SEAT LEON 4 20-</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -109005,19 +108992,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>85.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>MN123606-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU KUCUK TIP 447X428X16 - MITSUBISHI L200 / TRITON 2.5 DI-D 05-15 - 940068|7812A171</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rI1p6KgLUI1d3qtYC^LfluneLN2oF5PQ9KBKwG5tEeA=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1278.71</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -147139,19 +147113,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4475010501-WISCO</Kod>
-    <Aciklama>TURBO RADYATORU (INTERCOOLER) 650X143X50 - MERCEDES-BENZ VITO (W447) 109 CDI - 111 CDI 14&gt; - 4475010501|96016</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/FmtXdWY4Ondr3v1OZYeOeiilMFLa324h2uMY63mmI9U=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2669.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1100004-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL MERIVA B 10 &gt; - 93167924</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -165898,19 +165859,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1245008703-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING AT 490X488X32 - MERCEDES-BENZ W124 200E 87&gt; - 8MK376712441|A1245008703|1245000103|317110048|8MK376712|62751A|A1245000103|444|8MK376888|1245000203|A1245000203|00|8MK376712444|441|8MK376888444</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/6wNRK223jS9AJSDDpCD5^jj5ii60rNdGcPM0sJ3VkWg=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2810.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>9830283280-WISCO</Kod>
     <Aciklama>PANJUR CITASI NIIKELAJLI SOL - OPEL CORSA F 20&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -168118,19 +168066,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>31.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>97606-1C300-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU MT-AT 550X350 MM - HYUNDAI GETZ 1.5CRDI 1.6 02&gt; - 97606|94815|1C300|976061C300</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yzv16fKUKpZiBJVY^9BbDjOj6OVr1K0PLJzEqyoMQEI=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1405.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -184420,19 +184355,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1009.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1C1H8005JE-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT 770X387X26 MM - FORD TRANSIT2.0TDI V184 00&gt; - 4156969|4493553|8MK 376 755|1C1H8005JE|62046A|1C1H8005JB|091|8MK 376 764|1C1H8005FD|4070925|1C1H 8005 FE|1C1H8005JA|1671800|4104714||4596740|321|8MK376755321|1C1H8005JC|4331444|1C1H8005JD|4084418</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Hza7Mp80slzzmjpIpYEHP2gTERuQPqRqAFr6FL5Ainc=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2154.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217313,19 +217235,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>29318-FEBI</Kod>
-    <Aciklama>HARARET MUSURU GRI - VW GOLF4 GOLF5 BORA JETTA PASSAT CRAFTER CADDY GOLF6 JETTA 98 &gt; - 05C919501|06A919501|06A919501A|06A919501B</Aciklama>
-    <Uretici>FEBI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>365.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>522614-TAP</Kod>
     <Aciklama>EL FREN TELI - OPEL CORSA B TIGRA 94 &gt; - 2120055|300522614|522614|522642|90445986|90536899</Aciklama>
     <Uretici>TAP</Uretici>
@@ -217348,7 +217257,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>65.52</Fiyat>
+    <Fiyat>65.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217466,19 +217375,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>67.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>0986424741-BOSCH</Kod>
-    <Aciklama>FREN BALATASI ARKA - VW TOUAREG CAYYENE Q7 03 &gt; - 1200147|2369402|4L0698451D|7L0698451|7L0698451A|7L0698451G|7L0698451H|7L6698451A|7L6698451D|95535293950</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1307.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
