@@ -3328,6 +3328,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>035-DK</Kod>
+    <Aciklama>VIRAJ LASTIGI - MERCEDES-BENZ W124 - 1243232385</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>49.81</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>036103383AJ-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI METAL - VW POLO 14 16V AHW BKY BBZ 99 &gt;01 - 036103383AM|1110328|148331|036103383Q|036103383AJ</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -6731,6 +6744,32 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3596.19</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>040-DK</Kod>
+    <Aciklama>EGZOST LASTIGI KALPLI - MERCEDES-BENZ W124 W201 - 2033330914</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>59.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>041-DK</Kod>
+    <Aciklama>VIRAJ LASTIGI - MERCEDES-BENZ - 2013261081</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>27.73</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -14638,19 +14677,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>100963-TOPRAN</Kod>
-    <Aciklama>KARBURATOR FLANSI - VW GOLF3 PASSAT1.8 88 &gt; - 050129761A|050129761B|050129761F|050129761H|100963001|100963755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/qYR^RHnakzgslYJeCNrYE203hPjI^o8umC9A7eF3kFs=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>207.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>101048-TOPRAN</Kod>
     <Aciklama>SUBAP GAYDI 36.50X12.06X8MM 4 LU SET - VW T4 LT35 A80 GOLF2.4D 2.5TDI AJA 96&gt; - 101048965|101048002|101048001|101048546|056103419A</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -14755,6 +14781,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1024-DK</Kod>
+    <Aciklama>DEBRIYAJ PEDAL LASTIGI - OPEL ASTRA H 04 &gt; - 90468789|560775</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>21.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>10275555-GM</Kod>
     <Aciklama>VIRAJ LASTIGI - OPEL SINTRA - 350131|350131350131|10275555</Aciklama>
     <Uretici>GM</Uretici>
@@ -14820,19 +14859,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>102975-TOPRAN</Kod>
-    <Aciklama>FAN MUSURU - VW GOLF3 BORA POLO 1990 &gt; - 102975001|321959481D|102975755|191959481A80|321959481C</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>180.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>102995-TOPRAN</Kod>
     <Aciklama>RADYATOR HORTUMU ALT - VW GOLF3 VENTO 1.8 - 1H0121051A|102995586|102995001</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -14882,19 +14908,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>277.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>103052-TOPRAN</Kod>
-    <Aciklama>DIREKSIYON KORUGU - VW POLO CLASSIC CADDY 94 &gt; - 1H0422831B|103052|103052001|357422831A|103052755|103052546</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>64.04</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -15314,19 +15327,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>107699-TOPRAN</Kod>
-    <Aciklama>ROTIL ALT SOL - VW GOLF4 BORA A3 1.6 1.8 T1.9 TDI TOLEDO LEON OCTAVIA 1998 &gt; - 1J0407365J|1J0407151C|107699586|107699001|107699002|1J0407151A|1J0407151B|107699755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ZCSNI^bWHeu6kHWBkqXJJlZh1no9Hyn^RcLwaxxOFgM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>200.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>107919-TOPRAN</Kod>
     <Aciklama>SU FLANSI - VW GOLF3 VENTO VR6 - 026121144B|107919755|026121144F|107919001|021121121A</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -15355,19 +15355,6 @@
   <Urun>
     <Kod>107922-TOPRAN</Kod>
     <Aciklama>SU FLANSI - VW POLO CLASSIC OTOM. - 107922755|107922001|037121145G|037121144J</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>67.08</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>107948-TOPRAN</Kod>
-    <Aciklama>SU FLANSI - VW GOLF3 POLO PASSAT IBIZA 1.6 AFT 97 &gt; - 107948001|037121144H|107948755</Aciklama>
     <Uretici>TOPRAN</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -15509,19 +15496,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>108227-TOPRAN</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - VW GOLF4 BORA A3 1.6 1.8 1.9TDI 98 04 - 1J0121403|108227755|1J0121407F|108227001|1J0121403A|1J0121403B</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>230.19</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>108557-TOPRAN</Kod>
     <Aciklama>AMORTISOR TAKOZU ON+RULMANI - VW CADDY POLO GOLF3 1.6 1.9TDI 92 &gt; - 108557001|357412331AS|108557755|108557002</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -15561,19 +15535,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>108645-TOPRAN</Kod>
-    <Aciklama>SALINCAK BURCU - VW PASSAT. A4. A6 - 4B0407515|108645755|8D0407515C|108645001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>60.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>108661-TOPRAN</Kod>
     <Aciklama>KLIMA MUSURU - AUDI A3 VW BORA GOLF3 1.8 91 &gt; - 108661755|1H0959139B|108661001</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -15597,19 +15558,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1326.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>108752-TOPRAN</Kod>
-    <Aciklama>OTOMATIK SANZUMAN FILTRESI - AUDI A100 A6 PASSAT 88 &gt; - 108752001|108752786|095325429D</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>165.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -15678,19 +15626,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>108901-TOPRAN</Kod>
-    <Aciklama>RADYATOR SU BORUSU SAC - VW CADDY IBIZA GOLF3 1.6 1.9 - 108901755|108901001|037121065L</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>316.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>108911-TOPRAN</Kod>
     <Aciklama>AKS KORUGU DIS - VW PASSAT A4 A6 1.8T 97 00 - 108911001|8D0498203A|108911546</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -15701,19 +15636,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>353.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>109010-TOPRAN</Kod>
-    <Aciklama>DEVIRDAIM HORTUMU - VW CADDY PASSAT POLO GOLF3 1.8 91&gt; - 037121053H|109010001|109010755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>77.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -16276,19 +16198,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111020-TOPRAN</Kod>
-    <Aciklama>SALINCAK BURCU SOL METAL - VW GOLF5 CADDY JETTA A3 LEON 04 &gt; - 1K0199231G|1K0199231J|111020001|111020755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/FMdub8xqLKDR^ozo86LsHON3ivUQV7HfZaWpZRtptRE=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>390.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>111073-ROOT</Kod>
     <Aciklama>TAMPON IZGARASI SOL SISLI - OPEL ASTRA H 04 &gt; - 2233418|13126029|1400305|00|8514003054R</Aciklama>
     <Uretici>ROOT</Uretici>
@@ -16520,19 +16429,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>33.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>111898-TOPRAN</Kod>
-    <Aciklama>DINGIL BURCU ARKA - VW GOLF4 NEW BEETLE POLO 98 &gt; - 111898755|1J0501541C|6R0501541A|111898001|1J0501541D</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>311.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -17300,6 +17196,32 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1012.25</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1194-DK</Kod>
+    <Aciklama>TRAVERS TAKOZU KUCUK - MERCEDES-BENZ W124 - DK|2013512747|015</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1108.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>119-DK</Kod>
+    <Aciklama>SAFT TAKOZU - MERCEDES-BENZ 906 - 9063220019</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>204.38</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -23143,16 +23065,16 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1407036-WISCO</Kod>
-    <Aciklama>SASE BAGLANTI KOLU UCU SAG - OPEL VECTRA C 02 &gt; - 13231169</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Kod>140-DK</Kod>
+    <Aciklama>VIRAJ LASTIGI 30MM - MERCEDES-BENZ - 9043260981</Aciklama>
+    <Uretici>DK</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/nHflg7yFWqHYa9XWDzNcddrwGgJrT0mkq56dPGg6og0=.jpg</Resim>
+    <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>818.75</Fiyat>
+    <Fiyat>44.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -31710,19 +31632,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>203850-TOPRAN</Kod>
-    <Aciklama>TRIGER KAYISI 111X170 - OPEL CORSA B ASTRA F 1.4 1.6 8V - 203850055|90531678|90354782|90531677|5636356|5636364|203850001|636561|9128723|5636560</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vdJDxyGWsIpgWB3EVqjdcNlf2Ba7U1bqXTG^wciOMsA=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>270.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2038800429-WISCO</Kod>
     <Aciklama>KAPUT AMORTISORU - MERCEDES-BENZ C SERISI 02 &gt; - A211800429|A2038800429|818202507|ML5560</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -31879,19 +31788,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>205257-TOPRAN</Kod>
-    <Aciklama>DEBRIYAJ RULMANI ALT - OPEL VECTRA B ASTRA G 2.0 16V XX18XE XXEV XDTH YDTH 96 &gt; - 205257755|205257001|679346|90522279</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>970.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>205455-TOPRAN</Kod>
     <Aciklama>AMORTISOR RULMANI KULESIZ - OPEL ASTRA G VECTRA B CORSA C - 312510|205455015||205455001|90468618</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -32022,19 +31918,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>205586-TOPRAN</Kod>
-    <Aciklama>YAG POMPASI - OPEL ASTRA F VECTRA A OEMGA B FRONTERA A18NV 18SV 20NE 20SE C18NZ C20NE 18XE X20XEV X22XE 88-00 - 205586755|90541506|646042|205586001|646001|90442362</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/b8oo1pQP9dyJIX8Cv1M73sHeWeo29GGAkxB0ngGJYKA=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1883.62</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>205587-TOPRAN</Kod>
     <Aciklama>EKSANTRIK KECESI 30X40X7 - OPEL ASTRA G VECTRA B-C ZAFIRA Z 1.8 XE Z 1.8 XEL X 1.8 XE1 95 &gt; - 205587755|646260|205587001|90536154</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -32162,19 +32045,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>426.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>206168-TOPRAN</Kod>
-    <Aciklama>ROLANTI VALFI - OPEL CORSA B ASTRA F 1.6 1.6 V 85&gt; - 17112031|206168001|817255|206168756</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/T6LONclmzpraLMfCD48lZELKWA02po1jygv2MroMksg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>232.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -37960,19 +37830,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1282.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3B0413031-WISCO</Kod>
-    <Aciklama>AMORTISOR ON SOL-SAG - AUDI A4 A6 PASSAT 96 &gt; - 8D0413031BD|1190013|8D0413031AG|3B0413031Q|086|3B0413031A|4B0412031AN|4B0412031BQ|4B0412031N|3B0413031|F|4B0412031CF|4B0412031AP|33086F|8D0413031BM|266|3B0413031H|33|3B0413031P</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/FHgOmObL9bSjZFtcCFBh2AgUq8wUOiwrgDbBlGcCtFo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>640.30</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -60881,6 +60738,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>815187-ELRING/OEM</Kod>
+    <Aciklama>EGZOST MANIFOLD CONTASI - VW AUDI SEAT SKODA ALL MODEL - 034129589B|028129589B|026129589A|1400106</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>26.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>815510-WISCO</Kod>
     <Aciklama>YAKIT BASIN REGULATORU - OPEL ASTRA F G VECTRA A FRONTERA 88 &gt; - 2130009|90411542|815510</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -62646,6 +62516,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>991.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>898510-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI - VW PASSAT JETTA CAGA 3 2.0 TDI - 03L103383AS|03L103383B</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1318.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -65376,6 +65259,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1063.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>919497-ELRING</Kod>
+    <Aciklama>UST KAPAK CONTASI - OPEL ASTRA F CORSA B X14NZ Z16SE 91 &gt; - 919497|053881|638260|96181318</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>105.82</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -82994,19 +82890,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>100559-TOPRAN</Kod>
-    <Aciklama>EKSANTRIK GERGI RULMANI - VW GOLF3 (1H1) 1.6 92-97 POLO 3 (6N1) 1.6 94-99 SEAT IBIZA 2 (6K1) 1.6 93-02 - 030109243F|030109243J|030109243D|030109243K</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/dFmZOv9kGNPYfXuEpF6tne^Wj4q8BPnqkiZnJcdyyYU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>467.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>059121506H-WISCO</Kod>
     <Aciklama>SU FLANSI - AUDI A6 C7 (4G2, 4GC) 3.0TDI 10-18 A6 C7 AVANT (4G5, 4GD) 3.0TDI 11-18 A7 SPORTBACK (4GA, 4GF) 3.0TDI 10-18 Q5 (8RB) SQ5TDI 12-17 VW TOUAREG (7P5, 7P6) 3.0 V6TDI 10-18 - 059121506G|059121506E|059121506C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -85620,19 +85503,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>652075-WISCO</Kod>
-    <Aciklama>YAG KARTERI - OPEL CORSA C ASTRA G ZAFIRA A Y17DT 00 &gt; - 652421|652423|652420|97240799|97248372|97351460|97255415|652067</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ZyXUZhaLOJWF7MoYk8nNzj^NGU6nQfJl2tRQDBdQoww=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>591.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>90580533-WISCO</Kod>
     <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - OPEL ZAFIRA A 98-04 - 90580533|00|43400|45|1101023|2233404</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -85786,19 +85656,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>5733.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>401178-TOPRAN</Kod>
-    <Aciklama>DEVIRDAIM - MERCEDES-BENZ C-SERISI C280 97&gt; - A1122000401|A1122001101|401178001|1122000201|A1122000201|A1122001401|1122001401|1122000401|1122001101</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JnJADS0X0RfcX7Vys2Nkq4IUKRpSkk2mxvZ^uOY8OFQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1400.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -88051,6 +87908,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>322-DK</Kod>
+    <Aciklama>SALINCAK BURCU ARKA - AUDI 80 78-86 - 811511247</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>107.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7E0807109K-WISCO</Kod>
     <Aciklama>TAMPON DEMIRI ON - VW T7 15 &gt; - 7E0807109K</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -88893,19 +88763,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>5417.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5PK1546-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL ASTRA G-H 1.6 1.8 02-10 CORSA D-E 1.6 07 &gt; - 5PK1548|5PK1545|5PK1544|5PK1547</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>140.72</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -90219,19 +90076,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>281.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>102776-TOPRAN</Kod>
-    <Aciklama>SALINCAK BURCU ICI - VW GOLF2 (19E, 1G1) 1.0 1.3 1.6 1.6TD 1.8 1.8GTI 83-92 JETTA 2 (19E, 1G2, 165) 1.3 1.6D 1.8 16V 84-92 - 191407190A|102776001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/9VcFMEjMlRcfZUovdwu0eYBNHArr78L2mdYjawRQk68=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>6.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -98764,19 +98608,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>500849-TOPRAN</Kod>
-    <Aciklama>EGZOST BOGAZ CONTASI - BMW 3 BMW 5 318 85&gt; - 18111712324|18301711969|500849001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/fodLkz3asl26eklrzyJHzhstEk3y5W7PHYQmEkTwZnk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>31.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>280269-FEBI</Kod>
     <Aciklama>ROTIL ALT - MERCEDES-BENZ BENZ C SERISI 93 &gt; - 2103330427|2113300335|A2103330427|A2113300335|2103330407|2103300035|A2103300427</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -101868,19 +101699,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1688.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>108262-TOPRAN</Kod>
-    <Aciklama>DEVIRDAIM - VW GOLF5 POLO CADDY BORA SKODA FABIA 1 2 SEAT CORDOBA AUDI A2 1.4 99&gt; - 036121005Q|036121008K|036121008KV|036121005QV|036121005EX|036121005QX|036121008M|036121005SX|108262001|036121005EV|036121005SV|036121008LX|036121008KX|036121008L|036121005B|036121005|036121005E|036121</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>783.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -117421,19 +117239,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>401305-TOPRAN</Kod>
-    <Aciklama>SAFT ASKISI - MERCEDES-BENZ CLK C SERISI C208 230 1993&gt; - 2024100581|401305755|2024100381|401305001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>291.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>17233-AYD</Kod>
     <Aciklama>SALINCAK BURCU ON BUYUK - VW CRAFTER 17 &gt; - 2N0407182B</Aciklama>
     <Uretici>AYD</Uretici>
@@ -120408,19 +120213,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>7129.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>400518-TOPRAN</Kod>
-    <Aciklama>FREN BALATASI ON SET - MERCEDES-BENZ C SERISI C 200 93&gt; - A0054204720|A0024204420|A005420472041|0044200220|A0044200220|005420472041|A0024209620|0024209620|0054204720|0024204420|400518001|44200220</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>569.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -143551,19 +143343,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>BS922-WISCO</Kod>
-    <Aciklama>FREN BALATASI ARKA PABUC - OPEL CORSA D PUNTO 1.0 1.2 06-14 - 1605107|95517922|1605458|93168956|93189993</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>781.77</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2G68075689B9-WISCO</Kod>
     <Aciklama>TAMPON SPOYLERI ARKA (DIFUZOR) EGZOST GORUNUMLU MAT - VW POLO R-LINE 18 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -143613,19 +143392,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>506.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>101407-TOPRAN</Kod>
-    <Aciklama>KRANK KECESI - VW GOLF 3 (1H1) 1.6 92-97 CADDY 2 MPV (9K9B) 1.9 TDI 96-04 SKODA OCTAVIA 1 (1U2) 1.6 96-04 A4 B5 (8D2) 1.6 94-00 - 068103051A|068103051G|068103051B|026103051A|056103051D|101407001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>177.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -143717,6 +143483,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>980.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>381-DK</Kod>
+    <Aciklama>AMORTISOR TAKOZU UST ON SOL - OPEL COMBO D 1.3 1.6 CDTI 12 &gt; - 345071|344812|51963859|51902406|51963860|95521000|52109287|344897|51855157|345173|52023354|95516718|95514539|51916660</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>415.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -145098,19 +144877,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>109219-TOPRAN</Kod>
-    <Aciklama>DEBRIYAJ SETI - VW POLO CADDY 2 CORDOBA 1.6 I 1.4 92&gt; - 109219001|030198141|3000581001|030198141X|030198141V</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2414.35</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6L0949117A-WISCO</Kod>
     <Aciklama>CAMURLUK SINYALI ICI SARI - SEAT LEON IBIZA TOLEDO 02 &gt; - 1J0949117|6L0949117A|B20185</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -146421,19 +146187,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1829.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>500519-TOPRAN</Kod>
-    <Aciklama>HARARET MUSURU - BMW 3 316 I 90&gt; - 500519001|12621747281|12621710535</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>125.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -149502,19 +149255,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>891.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>302363-TOPRAN</Kod>
-    <Aciklama>TRAVERS TAKOZU ARKA - FORD FOCUS 98 &gt; - 1304124|30666821|1061670|3M515K896AC|302363001|98AG5K896AB|C2Y62846X|3M515K896AB</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>145.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -168368,19 +168108,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>109747-TOPRAN</Kod>
-    <Aciklama>HAVA DEBIMETRESI - VW GOLF4 BORA LUPO NEW BETTLE AUDI A3 SEAT LEON TOLEDO 2 SKODA OCTAVIA 1 AGN AQ7 APK AZH APG 1.8 2.0 98 &gt; - 109747755|0280218002|109747001|A2C59515355|0986280205|06A906461AX|06A906461A|30020</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1349.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>650228-WISCO</Kod>
     <Aciklama>YAG FILTRE KUTUGU SOGUTUCUSUZ - OPEL ASTRA J CORSA D MERIVA B 1.3 DTC DTJ DTH DTE EURO 5 - 650228|55238293|2110881|93195455|00|650179</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -172190,19 +171917,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>109154-TOPRAN</Kod>
-    <Aciklama>EKSANTRIK TITRESIM AMORTISORU - VW LT 28-35 2 (2DB, 2DE, 2DK) 2.3 96-06 MB C-SERISI (W203) C 180 00-02 E-SERISI (W210) E 200 95-02 - 1112000214|A1112000214|00A145299|1112000414|A1112000414</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>351.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>W960-HILEKS</Kod>
     <Aciklama>KARTER MUHAFAZASI PLASTIK DIZEL BUYUK - VW POLO JTI 10-18 &gt; - 00|1235490|W960|6R0825235A</Aciklama>
     <Uretici>HILEKS</Uretici>
@@ -172629,19 +172343,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>137.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>108513-TOPRAN</Kod>
-    <Aciklama>DEBRIYAJ BALATASI - VW JETTA 1 2 GOLF 1 2 CORDOBA IBIZA 2 TOLEDO 1 1.8 I 1.9 D 83&gt; - 108513001|068141037M|068141036N|068141037G|027141033S|108513546</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>899.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -185824,6 +185525,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1157.02</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>111115-ROOT</Kod>
+    <Aciklama>TAMPON IZGARASI ON KAPAGI KUCUK SAG ALT - OPEL ASTRA J 09 &gt; - 1401029|13387233</Aciklama>
+    <Uretici>ROOT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>98.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216491,6 +216205,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>495.55</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>0221504024-BOSCH</Kod>
+    <Aciklama>ATESLEME BOBINI - OPEL COMBO TOUR A14FC 12 &gt; - |0221504024|1208107|20634|245742|55209603|55213613|55224494|55268859|GN10528</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>950.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>132742-ASPART</Kod>
+    <Aciklama>BAGAJ AMORTISORU - OPEL ZAFIRA A 99-05 - 132742|7GSP1009|90579440|93278|GS2003</Aciklama>
+    <Uretici>ASPART</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>102.55</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y120818-YTT</Kod>
+    <Aciklama>BAGAJ AMORTISORU - OPEL ZAFIRA A 99-05 - 132742|90579440|93278|GS2003</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>70.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
