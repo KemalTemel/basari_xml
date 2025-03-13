@@ -31892,19 +31892,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>205529-TOPRAN</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - OPEL ASTRA F VECTRA B X 1.6 XEL 16V - 607491|205529001|205529885|90511490|205529785</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>175.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>205568-TOPRAN</Kod>
     <Aciklama>UST KAPAK CONTASI - OPEL ASTRA F G OMEGA 1.7DTL 95 &gt; - 638733|205568001|205568786|90467661</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -40170,19 +40157,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>475.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>436268-WISCO</Kod>
-    <Aciklama>AMORTISOR ARKA SOL-SAG - OPEL VECTRA B 96 &gt; - 436271|436257|F|72119078|436232|436160|B17|27|72119030|23876|436258|27B17F</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>2</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>624.40</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -178482,19 +178456,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>52079883AD-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING AT 588X516X26 MM - JEEP CHEROKEE 4.7I 02&gt; - K52079883AB|52079883AC|K52079883AD|61023|52079883AB|K52079883AC</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JUjsZYeApM^cSbGbFj2FGWVNTWGAwJjNmPM4r9WdH70=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2816.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>038957147C-WISCO</Kod>
     <Aciklama>KRANK DEVIR SENSORU - VW POLO SKODA FABIA 1 CORDOBA 1.9 99&gt; - 38957147</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -181911,19 +181872,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1282.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>94610505276-WISCO</Kod>
-    <Aciklama>EKSANTRIK DISLISI EGZOST - PORSCHE CAYENNE 3.6 V6 15-18 PANAMERA 4S 14-16 MACAN 14-18 - 94610505275|0PB109084</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Z9kbex0pf3kalvY2bE6WX0GrTxFt^apWhmEIKn^RYNk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>7276.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -192545,6 +192493,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>56.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1J0998226-WISCO</Kod>
+    <Aciklama>FAR BAGLANTI AYAGI SAG - VW GOLF4 BORA 97 &gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/5TfTA^XM7xs8g4qtERUWUaUZaS6OoH3nDj6sDBzZqeo=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>32.40</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206042,6 +206003,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>ZS077-BERU</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W203 W204 C204 S203 A209 W211 W212 02 &gt; - 20185|A0001502580|ZS053|ZS077</Aciklama>
+    <Uretici>BERU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>639.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>625306109-LUK</Kod>
     <Aciklama>DEBRIYAJ SETI - FORD TRANSIT 2.2TDCI 07 &gt; - 1517988|1526467|1788699|3000951979|625306109|6C117563CC|832059|832138|8C117540CA|8C117540CB|8C117550CA|8C117550CB|RM8C117540CB</Aciklama>
     <Uretici>LUK</Uretici>
@@ -216322,6 +216296,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1673.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>IT16TT-DENSO</Kod>
+    <Aciklama>ATESLEME BUJISI - MAZDA ATENZA 5 1.8 2.0 05 &gt; - 1012639|12622441|1E0318110|1E0418110|3333704|3539125|4331810|5190932|5190933|9009816875|9009866083|9009866113|93TF12405AA|96BF12405AA|F43E12405EA|F43E12405EB|F43E12405EC|F75E12405|ZZC218110|ZZC218110A</Aciklama>
+    <Uretici>DENSO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>354.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
