@@ -1491,7 +1491,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>203.44</Fiyat>
+    <Fiyat>187.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -46426,19 +46426,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>574200T-WISCO</Kod>
-    <Aciklama>EL FREN BUTONU TEK - OPEL MOKKA MOKKA X TRAX 12 &gt; - 574180|574221|42576659|95137963|95278934|574196|42576665|42504680|42389776|42371922</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>4</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/gZ8UxXyylbRAzeUDu7hLr95m7HzwyEcgMp6RfUcDc6Q=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>56.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>576169S-WISCO</Kod>
     <Aciklama>KAPI CEBI TAKIM SIYAH - OPEL CORSA C COMBO C 01 &gt; - 13106159|7233800</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -53130,19 +53117,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>78.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6K0121253AS-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK MT 627X377 MM - VW POLO 1.6 1.9SDI AFT AKL AEH ASV 98&gt; - 8MK376773|1140097|791|6K0121253A|8MK376773791|6K0121253AS|65290</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Dj0^UnHTn9YCc5KC8vD8QKXe5iuwqvJxe1VMeF1BXW8=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1295.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -62515,7 +62489,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1317.03</Fiyat>
+    <Fiyat>1316.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -65129,19 +65103,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>140.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>914850-WISCO</Kod>
-    <Aciklama>KONTAK SOKETI BEYAZ 5 PIM - OPEL VECTRA A B ASTRA F CORSA B KADETT E 1988 &gt; - 201797755|26004052|90052497|914496</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>78.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -84307,19 +84268,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1300326-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT 680X388X26 MM - OPEL INSIGNIA 1.4T / AC+ 09-17 - 1300326|13311078|630745|39074658</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/2MUDNARXPZWp8Fmgj7FO2VLL8hVXFJmwQULgOCnCtmU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2253.39</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-185GR-VIEWMAX</Kod>
     <Aciklama>AYNA CAMI SAG MANUEL DIS DUKEY - VW T4 (70B) 90-04 - VM185GR|701857522L</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -95605,6 +95553,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>621302709-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI RULMANSIZ - OPEL ASTRA G H CORSA C VECTRA B C MERIVA A Z16XE X18XE1 Z18XE 98-07 - 3000839001|93175343|1606152|93171782|620209809|3000828201|3000990026|3000838801|1606205|05S886200R|2120030|1606209|1606956|1606157|006200709|3000951071|621237800|93175342|621302709|012200609</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3698.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>3C8941754CF-WISCO</Kod>
     <Aciklama>FAR SAG XENON + BEYIN - VW PASSAT CC 09 &gt; - 44111C9RMLDAEM|441|11C9RMLDAEM|3C8941754</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -95914,19 +95875,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2722.83</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8V0821106G-WSC</Kod>
-    <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 HB 12-20 - 8V0821106B|8V0821106E|8V0821106L|8V0821106C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Tft1F^zc8wrIApKv46bGyOo1swG1^E7coLqgBqOqSvY=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1949.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -104091,19 +104039,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>748.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>005200800-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - FIAT FIORINO PUNTO QUBO PARTNER TEPE 1.4 1.9 99 &gt; - 2051S8|3000950020|9467597280|826213|620308400|2050Q6|2050R7|205151|007200400|2050R3|2004Y2|014200300|620308600</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1494.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -122283,19 +122218,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>45007-FEBI</Kod>
-    <Aciklama>EKSANTRIK ZINCIR SETI 10 PARCA - VW TOUAREG A4 A6 Q7 2.7 3.0 TDI 2.7-3.0 TDI CASA CASB CAMA CGKA CAMB 04 &gt; - 057109218F|079109229J|057109218G|057109229G|059109229M|079109510F|059109229N|057109510B|057109510A|057109229L|059109229H|057109218K|057109218J|057109229K|057109217J|059109229K|0479109139M|079109139A</Aciklama>
-    <Uretici>FEBI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>15197.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4A0615123A-WISCO</Kod>
     <Aciklama>FREN KALIPERI ON SOL - AUDI A6 C4 2.6 2.8 94-97 - BRF85088|BDV341982|TWBHX156E</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -134607,19 +134529,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>007200100-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - RENAULT MEGANE CLIO LOGAN 1.6 - 821071|6001548020|302052223R|620108000|014200800|7711134823|7701468831|7701470987</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2040.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1405046-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL ASTRA H ZAFIRA B 04 &gt; - 24460537</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -138894,6 +138803,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>155.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6Q0698525A-WP</Kod>
+    <Aciklama>FREN PABUC BALATA ARKA LEVYELI 200X40mm - VW GOLF 3 (1H1) 91-97/ POLO (6N2) 99-01/ SEAT IBIZA 3 (6L1) 02-09/ CORDOBA (6K1) 94-02/ SKODA RAPID (NH3) 12-19/ FABIA 3 (NJ3) 14-21 - 6R0698525|6U0698525|GS8526|1H0609525|6Y0609525</Aciklama>
+    <Uretici>WP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>475.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -163376,19 +163298,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4L0945096-WISCO</Kod>
-    <Aciklama>TAMPON REFLEKTORU ARKA SAG - AUDI Q7 10 &gt; - 4L0945096|4L0945096C|1240409</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/OoEsNZ13a73GvVt9X^F67Hv1a8BY4rcmecpZlAzsdko=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1412.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1878600601-WINPOWER</Kod>
     <Aciklama>DEBRIYAJ BALATASI 190X28X22.1 - VW POLO SKODA FABIA SEAT IBIZA CORDOBA 1.9 SDI ASY 99 &gt; - 038 141 031 R|11|1878003852|319 0149 10|319014910|1878 600 601|038141031R|1878600601|1878 003 852|1120148</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -165401,6 +165310,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>344.28</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>06A109601E-WISCO</Kod>
+    <Aciklama>SUBAP EMME 7 MM 4 LU SET - VW BORA CADDY GOLF3 4 5 JETTA 4 PASSAT B3 B4 TOUARAN VENTO T4 T5 AUDI A3 A4 A6 A8 A80 A100 1.6 2.0 2.4 2.6 2.8 90 &gt; - 037109601|33403|078109601B</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>250.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -169512,19 +169434,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>136040-WISCO</Kod>
-    <Aciklama>KAPI KILIT MEKANIZMA PIMI - OPEL CORSA D 07-14 - 13297179</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>25.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>24004021W-FITPART</Kod>
     <Aciklama>TERMOSTAT - VW GOLF6 JETTA POLO 1.6TDI CAYC CAYB 09 &gt; - 03L121111S|TH47792G1|1110249|8MT354777481|03L121111R|113183055</Aciklama>
     <Uretici>FITPART</Uretici>
@@ -171199,19 +171108,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>222.37</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1845055-WISCO</Kod>
-    <Aciklama>KALORIFER MOTORU REZISTANSSIZ - OPEL VECTRA B 1.6 I 1.8 I 2.0 I 95 &gt; - 90568692</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Ukm7305zuDT2xAToSGQwwXUo1YEud3juiImmoSPo3iM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1220.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -183137,7 +183033,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>5F0945096D-WISCO</Kod>
-    <Aciklama>STOP DIS SAG - SEAT LEON (5F1) 13&gt; / LEON SC (5F5) 13&gt; - 5F0945096B</Aciklama>
+    <Aciklama>STOP DIS SAG - SEAT LEON (5F1) 13&gt; / LEON SC (5F5) 13&gt; - 5F0945096B||5F0945096A|5F0945096C|5F0945096D</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -216244,6 +216140,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1095.41</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>598250-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI SOL - MERCEDES-BENZ W204 W212 A207 C204 S212 W251 W221 W222 11 &gt; - A2760160220</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1024.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
