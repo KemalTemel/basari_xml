@@ -18226,19 +18226,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1216660-WISCO</Kod>
-    <Aciklama>FAR SAG KROM - OPEL ASTRA H 04 &gt; - 00|2240044|13239289|93190070</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/m2Hn^^3hwjJKWHXDTWhp5qsrAu^PIkjIrJmIE2VCz3M=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2347.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1222023-WISCO</Kod>
     <Aciklama>STOP SOL - OPEL VECTRA A 93-95 - 90443646|90511523|1222037</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -23647,6 +23634,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>432.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1603276-WISCO</Kod>
+    <Aciklama>AKS KORUGU DIS TAKIM - OPEL ASTRA H MERIVA A ZAFIRA B Z16XEP Z16XER Z14XEP 04 &gt; - 93176745|1604011|1603276|1603249|93182573</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>70.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -49676,19 +49676,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>602000700-LUK</Kod>
-    <Aciklama>KAVRAMA KITI - VW GOLF POLO JETTA PASSAT11 &gt; - 0AM194140|0AM198142H|0AM198141S|0AM141017CK|0AM141017BN|0AM198140G|0AM198140R|0AM198142T|0AM194140Q|0AM141017CB|0AM198141Q|0AM198140K|0AM141017BK|0AM194140S|0AM141017BA</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>13249.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>606-DK</Kod>
     <Aciklama>SALINCAK BURCU UST - OPEL - 310452|310453</Aciklama>
     <Uretici>DK</Uretici>
@@ -67433,6 +67420,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>F026407024-BOSCH</Kod>
+    <Aciklama>YAG FILTRESI - FIAT DUCATO DAILY EURO 4 EURO 5 2.3D 06 &gt; - 71779555|8094872|F026407024|8094872E|8094872F</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>360.02</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>FOA306-FLAS</Kod>
     <Aciklama>TAVAN ANTEN CUBUGU KOBRA M6 - VW TOYOTA RENO FIAT OPEL - FOA306RYP</Aciklama>
     <Uretici>FLAS</Uretici>
@@ -77417,6 +77417,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>13171805-WISCO</Kod>
+    <Aciklama>SU FISKIYE VALFI - OPEL ASTRA H ZAFIRA 04 &gt; - 13171805|1452941</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>12.47</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>VM-615CL-VIEWMAX</Kod>
     <Aciklama>AYNA KAPAGI SOL - SEAT TOLEDO 4 (KG3) 16-20 / SKODA FABIA 3 (NJ3) 14-21 /  RAPID (NH3) 16-20 - 6V0857537|VM615CL|6V08575379B9  </Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -84993,6 +85006,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>98.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>532085510-INA</Kod>
+    <Aciklama>ALTERNATOR GERGI RULMANI - MERCEDES-BENZ A160 180 200 220 250 - A2742020119</Aciklama>
+    <Uretici>INA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>538.10</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -124233,6 +124259,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y13242-YTT</Kod>
+    <Aciklama>SANZUMAN DEBRIYAJ CATAL CIVATASI - VW GOLF JETTA PASSAT T5 T6 04 &gt; - 02A141777|02A141777A|109644|BRC3062|Y13242|02A141777B</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>86.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1T0821022B-WISCO</Kod>
     <Aciklama>CAMURLUK ON SAG (SIMYI) - VW TOURAN 07 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -142963,6 +143002,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>505.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>623316000-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW T5 2.0 AXA 03-15 - 02A141165G||3000951262|02A141165D|02A141165A|06A141032C|02A141165E|006228900|02A141165M|826799|06A141026C|02A141165B|623316000</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>8614.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -163558,6 +163610,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1273083D-WISCO</Kod>
+    <Aciklama>SILECEK MOTOR DISLISI - OPEL ASTRA H 04 &gt; - 93179149||0390241538|1273421|40937435|623401|93179150</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/TnQeDSkghz8jXcWDhsnpZAwu8FhRBScwCWKFQuSmRm8=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>76.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5N0807305-WISCO</Kod>
     <Aciklama>TAMPON DEMIRI ARKA - VW TIGUAN 08 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -173422,19 +173487,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>84.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4F0823029F-WISCO</Kod>
-    <Aciklama>MOTOR KAPUTU MEGESLI (SIMYI) - AUDI A6 05-11 - 4F0823029D|4F0823029E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/4F1xlIIPgMiYZH5Vu4KYQJgu0iE2c8TOwn8GpvXPXYg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4300.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -194992,19 +195044,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3AB819701AMAI-WISCO</Kod>
-    <Aciklama>HAVALANDIRMA IZGARASI ON SOL - VW PASSAT B7 PASSAT CC 08 &gt; - 3AB819701AST3|3AB819701AVAL</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/GQMUXr2EZtTM8R365uWgxhG76DJpTjIoIr8sHYTDckU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>782.41</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4L0820901T3Q7-WISCO</Kod>
     <Aciklama>HAVALANDIRMA IZGARASI ON SOL - AUDI Q7 06-15 - 4L0820901P3Q7|4L0820901S3Q7|4L0820901N3Q7|4L0820901J3Q7|4L0820901K3Q7</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -201570,6 +201609,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>28534-RAPRO</Kod>
+    <Aciklama>RADYATOR HORTUMU UST - MERCEDES-BENZ W221 S450 05-13 - |A2215013582</Aciklama>
+    <Uretici>RAPRO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>634.37</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5G0947291-OEK</Kod>
     <Aciklama>TAVAN LAMBASI - VW GOLF7 13 &gt; - 5G0947291|5G09472914</Aciklama>
     <Uretici>OEK</Uretici>
@@ -202321,6 +202373,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>51.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10400-GRAT</Kod>
+    <Aciklama>POLEN FILTRESI KARBONSUZ - FIAT BIPPER NEMO FIORINO LINEA DOBLO 10 &gt; - 647962|647963|6479E0|77364561</Aciklama>
+    <Uretici>GRAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>75.03</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -210020,6 +210085,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>01989-FEBI</Kod>
+    <Aciklama>Z ROT TAMIR TAKIMI - MERCEDES-BENZ W140 C140 91 &gt; - 1404600819|2404600419|A1404600819|A2404600419</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>782.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>15635-FEBI</Kod>
     <Aciklama>MOTOR TAKOZU ON SOL - OPEL ASTRA G ZAFIRA A C16SEL X12XE X14XE X16SZR X16XEL X18XE1 Z16XEP Z18XEL 98-05 - 5684045|90575456|90575457</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -216244,6 +216322,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1146.04</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>TH624787J-VERNET</Kod>
+    <Aciklama>TERMOSTAT 87C - MERCEDES-BENZ W202 S202 A208  W210 S210 93 &gt; - |A1112000315|A1112001515|A1112001615|A1112001715|A1112030375|A1112031075</Aciklama>
+    <Uretici>VERNET</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>518.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
