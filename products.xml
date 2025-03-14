@@ -22233,6 +22233,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1340550-WISCO</Kod>
+    <Aciklama>ALTERNATOR GERGI RULMANI PLASTIK - OPEL CORSA C CORSA B 1.0 1.2 - 90531986|ALT|2048992|OP711||55565236|55352021|6340553|2250013</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1340554-WISCO</Kod>
     <Aciklama>GERGI RULMANI TEK PLASTIK - OPEL VECTRA ASTRA G GOLF4 1.6 70MM - 2110255|06A903315E|90530764</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -27069,6 +27082,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1J0145276-WISCO</Kod>
+    <Aciklama>ALTERNATOR GERGI RULMANI CIVATALI - VW GOLF5 GOLF6 PASSAT JETTA TIGUAN A1 FABIA OCTAVIA 1.4 TSI 1.6FSI  BLF CAXA 03 &gt; - 30859|1J0145276|T38054|VW821|1J0145276B|532034610|1250008|6QD145276|110377755|125301200|110377596|1111592</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1J0145803M-AUTOLUX</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 185X205X85 - VW GOLF4 1.9 TDI 97 05 - 1J0145803M|1140008|1J0145803E</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -30316,6 +30342,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1830.87</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1T0498621-WINPOWER</Kod>
+    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X112 137X36DIS ABS - AUDI A3 GOLF5 6 CADDY3 PASSAT JETTA LEON 04 &gt; - 1T0498621|2K0498621A|2317|19|9336007|8J0598625|R154.56|3C0498621|1K0407621G|5K0498621</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>631.13</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -47124,7 +47163,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>464.76</Fiyat>
+    <Fiyat>516.40</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -51261,6 +51300,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6340554GB-WISCO</Kod>
+    <Aciklama>ALTERNATOR GERGI RULMANI - OPEL CORSA C D ASTRA H J AGILA - OP716|55562245|55574238|6340676|00|55185074|GRG291|2253036|636166</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6340557GB-WISCO</Kod>
     <Aciklama>ALTERNATOR GERGI RULMANI - OPEL VECTRA C ASTRA H Z19DTH 02 &gt; - 55190813||6340557</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -52896,6 +52948,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>141.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>694770-ELRING</Kod>
+    <Aciklama>KRANK KECESI ARKA 90X104X11 - OPEL VECTRA A ASTRA F X20XEV - 614840|614829|05101|410359V|90325572</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>232.71</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -84918,6 +84983,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1340555-WISCO</Kod>
+    <Aciklama>ALTERNATOR GERGI RULMANI - OPEL ASTRA G VECTRA C 1.6 16V Z16XE 95 &gt; - 90571758|0K88R15981|7799851|1340555|25316203|1340514|252814X100|9157970</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>T479698-ROYAL</Kod>
     <Aciklama>UST TAKIM CONTA - OPEL VECTRA C Z19DT 04 &gt; - 023563803|D3696200|1606256|497710|417113P|97178526</Aciklama>
     <Uretici>ROYAL</Uretici>
@@ -116000,7 +116078,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ewEmKpRjsYs6kwQ1z9BB5LQRIvziQN9kUE1dpkF7feU=.JPG</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2753.34</Fiyat>
+    <Fiyat>3059.26</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -122943,19 +123021,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>64.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VM-6197CPL-VIEWMAX</Kod>
-    <Aciklama>AYNA KAPAGI SOL+ASP - VW GOLF 6 (5K1) 08-13 / TOURAN (1T3) 10-15 - 5K0857507AD9B9|6R0949101D|5K0857537|5K0857507N|5K0857507AD|6R0857537GRU||VM6197CPL|5K0857507S|5K0857507S9B9|5K0857521|5K0857507N9B9</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>287.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -138855,19 +138920,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>155.48</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6Q0698525A-WP</Kod>
-    <Aciklama>FREN PABUC BALATA ARKA LEVYELI 200X40mm - VW GOLF 3 (1H1) 91-97/ POLO (6N2) 99-01/ SEAT IBIZA 3 (6L1) 02-09/ CORDOBA (6K1) 94-02/ SKODA RAPID (NH3) 12-19/ FABIA 3 (NJ3) 14-21 - 6R0698525|6U0698525|GS8526|1H0609525|6Y0609525</Aciklama>
-    <Uretici>WP</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>475.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
