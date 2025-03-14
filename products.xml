@@ -57046,19 +57046,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>758223-WISCO</Kod>
-    <Aciklama>VITES TAMIR TAKIMI - OPEL ASTRA F VECTRA A CORSA B 92 &gt; - 2210002|90442265</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/lE62FkIKNGIuBab5Uctydqyx3a64rkPAJm3pwunfAAs=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>40.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>758405-WISCO</Kod>
     <Aciklama>VITES KOLU - OPEL ASCONA C 1981 &gt;14 - 758405</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -89348,19 +89335,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2429.42</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>23814-FEBI</Kod>
-    <Aciklama>ABS SENSORU ON SOL - VW POLO GOLF7 PASSAT ARTEON FABIA IBIZA TIGUAN 02 &gt; - 6Q0927803A|6Q0927803B|WHT003861</Aciklama>
-    <Uretici>FEBI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>213.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216283,6 +216257,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>518.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1682951080-PSA</Kod>
+    <Aciklama>POLEN FILTRESI KARBONLU - FIAT DUCATO BOXER JUMPER 06 &gt; - |1613733080|1615646880|6000633318|6447YA|6479C9|71773190|71776016|77364063|77368846</Aciklama>
+    <Uretici>PSA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>326.38</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
