@@ -13,6 +13,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>000220900-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW CADDY GOLF5 JETTA 1.2TSI 1.6FSI BSE BAG BLF BLP BGU CBZA CBZB BDJ 03 &gt; - 036141032T|622333200|036141015AF|622310800|3000951035|622333600|826326|036141033H|036141026G|877326|036141026|3000950019|036141015BB</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1922.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>00042-AYD</Kod>
     <Aciklama>ROTIL ALT 19MM - VW CADDY GOLF2 3 PASSAT POLO 87 &gt; - 357407365|357407365A</Aciklama>
     <Uretici>AYD</Uretici>
@@ -39975,6 +39988,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1408.23</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>4229050-YENMAK</Kod>
+    <Aciklama>PISTON + SEGMAN 81,00MM 0,50 ADET - OPEL ASTRA H VECTRA C ZAFIRA 1.8 Z18XER 04 &gt; - 4229050RYP</Aciklama>
+    <Uretici>YENMAK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>474.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -85113,19 +85139,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2201099-WISCO</Kod>
-    <Aciklama>HAVALANDIRMA MUZULU IZGARA ON PERDESI SIYAH - OPEL CORSA D 07 &gt; - 1814154|1814700|13180868|13365420|13417363|13180765|13061502</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>53.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4H0941309C-WISCO</Kod>
     <Aciklama>FAR SEVIYE SENSORU - AUDI A6 S6 C7 A8 11-17 - 4H0907503</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -92287,6 +92300,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>411.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3182600241-SACHS</Kod>
+    <Aciklama>DEBRIYAJ RULMANI - VW T5 PASSAT GOLF A3 Q3 TT10 &gt; - 875031|1100029|0A5141671N|0A5141671L|3182600241|084141165B|0A5141671H|510017610|560070|0A5141671S|3182600204|ADV183603</Aciklama>
+    <Uretici>SACHS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2377.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -112710,19 +112736,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1517.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>12755013-GM</Kod>
-    <Aciklama>AKS KECESI ON 35X55X9 - OPEL ASTRA G CORSA C VECTRA A ZAFIRA B 1.6 1.7 CDTI 1.8 1.9 CDTI 2.0 81&gt; - 0374514|0374151|374151|200529001|374514|12755013|200529016|200529|9119898|S8749046</Aciklama>
-    <Uretici>GM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>230.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -161410,19 +161423,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3550.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3B0853601CULM-ITL</Kod>
-    <Aciklama>PANJUR ARMASI ON - VW PASSAT B5 96 &gt; - 3B0853601CFDY</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>88.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217547,19 +217547,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1J0601149G-ITL</Kod>
-    <Aciklama>JANT KAPAGI GOBEK - VW BORA 99 &gt; - 1J0601149G|1J0601149GGJW</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>164.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5679333-ITH</Kod>
     <Aciklama>DEBRIYAJ RULMANI GM - OPEL ASTRA G ASTRA H ASTRA J CORSA C CORSA D MERIVA A MERIVA B VECTRA B VECTRA C ZAFIRA A ZAFIRA B COMBO 96 &gt; - 24422061|5679304|5679332|679344|90470874|90523765</Aciklama>
     <Uretici>ITH</Uretici>
@@ -217609,6 +217596,58 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1053.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>012215600-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW GOLF4 BORA LEON OCTAVIA A3 1.8T AGN 98 &gt; - 010215600|012215200|012215600|11|1120146|1862 516 343|1862516343|3000822701|3082 194 233|3082194233|3151 000 388|3151000388|621173800|622114600|622224000</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2388.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1987949686-BOSCH</Kod>
+    <Aciklama>TRIGER KAYISI - DACIA DUSTER NISSAN RENAULT CLIO KANGOO LAGUNA MEGANE 1.6 16V 03 &gt; - 119316259R|119A00397R|130701192R|130703001R|130775630R|8200897097|8200897100|8201058069|8201069699|8660005001</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>801.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>41278FP-SKT</Kod>
+    <Aciklama>EKSANTRIK KECESI 28X42X6 - RENAULT FLUENCE KANGOO LOGAN SANDERO TOURAN 1.5DCI 05 &gt; - |130429913R|7701474149|7701478550|8200079247</Aciklama>
+    <Uretici>SKT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>199.81</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>41283FP-SKT</Kod>
+    <Aciklama>KRANK KECESI - DACIA LOGAN C209 KUBISTAR CLIO KANGOO 440 1.6 88 &gt; - 41283FP|7701473494</Aciklama>
+    <Uretici>SKT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>209.38</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
