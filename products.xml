@@ -9265,7 +9265,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>33.80</Fiyat>
+    <Fiyat>36.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -17351,7 +17351,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>28.46</Fiyat>
+    <Fiyat>62.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -17741,7 +17741,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/q1dh7q5ad9qfijawkCqcZ2RkveXXiEaEPnSEyKf7WwQ=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>19.70</Fiyat>
+    <Fiyat>25.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -17754,7 +17754,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yfiztOiWuypkSQnrsw2Eavn55IRGG9^JenCMFRbKaQY=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>23.08</Fiyat>
+    <Fiyat>28.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -20523,7 +20523,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>49.41</Fiyat>
+    <Fiyat>53.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -25314,19 +25314,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>191199402-WISCO</Kod>
-    <Aciklama>SANZUMAN TAKOZU - VW GOLF2 82 &gt; - 1110813|357199402B|191199402C|102743755|02230</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/eJgMA7GuCYL39Ib2vS2RDo6rlh^571ZM7cDShbj3mzM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>168.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>191253111-METPART</Kod>
     <Aciklama>EGZOST KELEPCESI - VW GOLF2 JETTA 86 &gt; - 191253111|161253111</Aciklama>
     <Uretici>METPART</Uretici>
@@ -28821,19 +28808,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>640.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K0199262CN-WISCO</Kod>
-    <Aciklama>MOTOR TAKOZU SAG - VW CADDY GOLF6 LEON 1.6TDI BLS CAYB CAYC CAYD CAYE CBDA CBDB CBDC CFFB CFHB CFHC CFHF CFJA CFJB CJAA CLCA CLCB 10 &gt; - 80001421|1K0199262CJ|37687|Y11140|3575101|1K0199262CN|30937687|1110039</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>876.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34280,7 +34254,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>281.63</Fiyat>
+    <Fiyat>337.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34566,7 +34540,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2820.91</Fiyat>
+    <Fiyat>2962.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -54927,6 +54901,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0407621AJ-WINPOWER</Kod>
+    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X100 126,8X72 ABSLI - VW POLO FABIA CORDOBA IBIZA 02 &gt; - 6Q0407621BR|6C0407621A|1160026|6Q0407621AD|6Q0407621R|6Q0407621H|6Q0407621AJ|6C0407621|6Q0407621AH|6R0407621E</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>483.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6Q0411305AM-WISCO</Kod>
     <Aciklama>VIRAJ DENGE CUBUGU - VW POLO AUDI A1 SEAT CORDOBA TOLEDO IBIZA SKODA RAPID FABIA 02 &gt; - 00|6Q0411305AB|6Q0411303AD|6Q0411305AM|1160405|6Q0411303AA</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -58433,7 +58420,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>96.02</Fiyat>
+    <Fiyat>140.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -58446,7 +58433,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>96.02</Fiyat>
+    <Fiyat>140.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61462,7 +61449,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>76.31</Fiyat>
+    <Fiyat>84.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -76936,19 +76923,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7H0847788A-WISCO</Kod>
-    <Aciklama>CAM ACMA MANDALI SURGULU SET 14 PARCA - VW T5 03-15 - 7H0847788A|7H0847787A|7H0847789|7H0847790|7H0847781B|7H0847796|7H0847785A|7H0847773</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/016NLIRt3dxbYX32^FPISgnZOytpeDepXxFmyddZpVQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>121.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K1614019B-WINPOWER</Kod>
     <Aciklama>FREN ANA MERKEZI - AUDI A3 1.6 2.0 TDI SKODA OCTAVIA 2 VW GOLF5 1.6 1.9 TDI 2.0 TDI 03 &gt; - 1K1614019F|1K1614019B</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -78700,7 +78674,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>74.75</Fiyat>
+    <Fiyat>85.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -96797,7 +96771,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>96.70</Fiyat>
+    <Fiyat>125.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -106222,7 +106196,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/IgAOo015Ofk14q8^dLWPJ7^FXZHb5LVgKWpeYTOlhhU=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>675.00</Fiyat>
+    <Fiyat>720.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -139920,7 +139894,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xA0shHjczBppXhtKWBUfnhwXndxdNOGyywK^lcwLBxw=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>70.40</Fiyat>
+    <Fiyat>77.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -144795,7 +144769,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>71.89</Fiyat>
+    <Fiyat>84.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -159797,7 +159771,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/I1lvLJ7g790GgT^mWjV9B8pot7RA^4rSvr2geopxNkU=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>450.62</Fiyat>
+    <Fiyat>478.80</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -162423,7 +162397,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>4511.00</Fiyat>
+    <Fiyat>4947.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -164503,7 +164477,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>300.11</Fiyat>
+    <Fiyat>384.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -173617,19 +173591,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>123.12</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4G5949102A-WISCO</Kod>
-    <Aciklama>AYNA SINYALI SAG - AUDI A6 11 &gt; - 4G5949102B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/KF5ns2elGIMiO8hYatRA08BGtEVbAgx7yvV9SkiLOKQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>375.52</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -184602,19 +184563,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1689.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K1614019N-WINPOWER</Kod>
-    <Aciklama>FREN ANA MERKEZI - VW GOLF5 CADDY 04 &gt; - 1K1614019S</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1408.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -208759,19 +208707,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5F0807217ENGRU-WISCO</Kod>
-    <Aciklama>TAMPON ON 4 SENSORLU FAR YIKAMASIZ ASTARLI - SEAT LEON FR 13-17</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3129.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5F1941005ACAM-WISCO</Kod>
     <Aciklama>FAR CAMI SOL - SEAT LEON 13-17 - 5F1941005|5F1941005B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -217296,7 +217231,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>529.69</Fiyat>
+    <Fiyat>529.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
