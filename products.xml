@@ -1313,19 +1313,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0265202070-BOSCH</Kod>
-    <Aciklama>FREN HIDROLIK BASINC TUPU - MERCEDES-BENZ W219 W230 - A0004302694</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4805.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>026905205L-WISCO</Kod>
     <Aciklama>DISTRIBUTOR - VW GOLF2 JETTA 2 TOLEDO 1.6 1.8 91 &gt; - 026509205AG|026905205AF|026905205AB|026905205AD|1260012|026905205AA|026905205L|026905205AC</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -2935,19 +2922,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1251.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>032115611N-WISCO</Kod>
-    <Aciklama>YAG CUBUGU - VW POLO 1.6 BAH 97 &gt; - 1111610|032115611N|114801755</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>70.40</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -33179,19 +33153,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>235831-ELRING</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI METAL - VW GOLF4 BORA OCTAVIA 98 &gt; - 06A103383AN|06A103383AS</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1123.08</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>235X150X3,5-WISCO</Kod>
     <Aciklama>DEBRIYAJ BALATASI FERODO - UNIVERSAL</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -44294,19 +44255,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>524215-ELRING</Kod>
-    <Aciklama>YAG KEÇESİ - MERCEDES-BENZ 112 113 628 - 1129970046|1129970346</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>438.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>528-DK</Kod>
     <Aciklama>DIREKSIYON KORUGU - OPEL VECTRA A 88 &gt; - 3011501|90345195||902825|1609074|902828|Y1582|26024585|90090811</Aciklama>
     <Uretici>DK</Uretici>
@@ -46631,19 +46579,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>579.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>585090-ELRING</Kod>
-    <Aciklama>YAG SOGUTUCUSU - MERCEDES-BENZ BM 272 05 &gt; - A2721840080|585090|A2721840380</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>178.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61232,19 +61167,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>830177-ELRING</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - MERCEDES-BENZ C180 W202 93 &gt; - 1110162420|830177|121805</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>845.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>832962-ELRING/OEM</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI - MERCEDES-BENZ SPRINTER T1 2.3 MUSSO 2.2TD - A6010163320|6010163320|6610163120|A6610163120</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -62659,19 +62581,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1315.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>899917-ELRING</Kod>
-    <Aciklama>UST KAPAK CONTASI TAKIM - MERCEDES-BENZ W111 - 899917|A1110100430</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>716.31</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -65366,19 +65275,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>914932-ELRING</Kod>
-    <Aciklama>KRANK KECESI INCE ARKA 93X114X13 - MERCEDES-BENZ SPRINTER 312 D OM 601 602 603 82 &gt; - A0179977447</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>341.43</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>915491-ELRING</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI - AUDI A100 A6 2.3 AAR - 05413383L|5015380F|054103383G|054103383L</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -67664,19 +67560,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>36.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>GN1023512B1-DELPHI</Kod>
-    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W203 W204 W211 SPRINTER VIANO VITO 05 &gt; - A0001502780|0001502780|A2729060060</Aciklama>
-    <Uretici>DELPHI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1313.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -94588,19 +94471,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>110.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3103817050-YENMAK</Kod>
-    <Aciklama>PISTON + SEGMAN 79,50MM 0,50 ADET - OPEL ASTRA G VECTRA B ZAFIRA 1.6 16V X16XE X16XEL 98 &gt; - 716830,50|5623041|79.5*1.2+1.5+2.50,50|90570695|90412907|624225</Aciklama>
-    <Uretici>YENMAK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>781.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -129381,19 +129251,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>13422271-WISCO</Kod>
-    <Aciklama>BAGAJ ACMA DUGMESI - OPEL MERIVA B 10 &gt; - 1241460</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xCEa^6Iz67pQ03sNhKVjJBxlKSty1g5B9M51TF8P13c=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>506.96</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5C0407255A-WISCO</Kod>
     <Aciklama>AKS TASIYICI ON SOL - VW JETTA 4 (162, 163, AV3, AV2) 11- - 5C0407255</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -150438,19 +150295,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>447.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>382711-ELRING</Kod>
-    <Aciklama>UST KAPAK CONTASI - BMW E46 E87 E90 E91 X3 N42 N46 05-12 - 382711|11120032224|</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2028.48</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186256,19 +186100,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>598993-ELRING</Kod>
-    <Aciklama>ON KAPAK KECESI 30X40X7 - MERCEDES-BENZ W124 W126 - 040693V|598993|90536154|A0189977947|7700619237|7700854842|7703087189</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>90.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>90587326-WISCO</Kod>
     <Aciklama>YAKIT DEPO KILIT MOTORU - OPEL ASTRA G 98-05 - 90587326</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -192613,19 +192444,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>154980-ELRING</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - BMW 3.20 5.20 M54 - 11127506983|11121435586</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1878.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-968EHR-VIEWMAX</Kod>
     <Aciklama>AYNA SAG ELEKTRIKLI ISITMALI - OPEL ASTRA H 2004-2009 - 6428184|6428918|6428785|13141984|13141996|VM968EHR|24463032</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -195678,19 +195496,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>4097.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>366500-ELRING</Kod>
-    <Aciklama>EMME MANIFOLD CONTASI - BMW E39 E46 E60 E61 E65 E67 E66 98 &gt; - 11 61 1 436 631|11611436631</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>886.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -209240,19 +209045,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1160045-SIMYI</Kod>
-    <Aciklama>MOTOR KAPUTU MEGESLI - OPEL INSIGNIA A 09 &gt; - 1160013|13276949|20970122</Aciklama>
-    <Uretici>SIMYI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4814.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1160093-SIMYI</Kod>
     <Aciklama>MOTOR KAPUTU MEGESLI - OPEL MOKKA 13 &gt; - 1160091|42372135|94536913</Aciklama>
     <Uretici>SIMYI</Uretici>
@@ -211005,19 +210797,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>28.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>301870-ELRING</Kod>
-    <Aciklama>KRANK KECESI 90X110X12 - BMW E88 E21 E30 E36 E46 E90 75 &gt; - 1114224533|301870|614802|LUF100540</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>506.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213176,19 +212955,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1104.19</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>NET1001T-DELPHI</Kod>
-    <Aciklama>FREN BALATA SPREYI 500ML - UNIVERSAL - UNIVERSAL</Aciklama>
-    <Uretici>DELPHI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>66.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216975,32 +216741,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>302350-ELRING</Kod>
-    <Aciklama>UST KAPAK CONTASI - BMW E36 E39 E38 91 &gt; - 11120034108|11129070532|302350|500937001</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>689.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>353264-ELRING</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - BMW E81 E87 E88 E82 E90 E93 E92 E91 E60 E61 E84 E83 06 &gt; - 11127563412|353263|353264</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1648.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>47576-FEBI</Kod>
     <Aciklama>DIREKSIYON BURCU - MERCEDES-BENZ W210 S210 VF210 95 &gt; - |A2104631066</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -217648,6 +217388,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>209.38</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>MH11006-MEHA</Kod>
+    <Aciklama>AMORTISOR TAKOZU ON SOL - FIAT DUCATO BOXER 15 &gt; - |1374666080|1374666080S1|1612735980|1612736180|1612736180S1|1612736180SK2|503829|503842|5038F3</Aciklama>
+    <Uretici>EXPORT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1560.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>MH11007-MEHA</Kod>
+    <Aciklama>AMORTISOR TAKOZU ON SAG - FIAT DUCATO BOXER 15 &gt; - 1374667080|1612735980</Aciklama>
+    <Uretici>MEHA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1950.43</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
