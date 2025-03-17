@@ -16107,19 +16107,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111073-ROOT</Kod>
-    <Aciklama>TAMPON IZGARASI SOL SISLI - OPEL ASTRA H 04 &gt; - 2233418|13126029|1400305|00|8514003054R</Aciklama>
-    <Uretici>ROOT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/miQpaijJB5Cs4^58lFvX9bHJwtVPoUrUuWRL4jAdro4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>224.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>111074-ROOT</Kod>
     <Aciklama>TAMPON IZGARASI SAG SISLI - OPEL ASTRA H 04 &gt; - 13126030|2233419|8514003064R|00|1400306</Aciklama>
     <Uretici>ROOT</Uretici>
@@ -23585,6 +23572,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1603277-WISCO</Kod>
+    <Aciklama>AKS KORUGU DIS TAKIM - OPEL ASTRA H CORSA C VECTRA C 1.3 1.6 1.7 1.8 02 &gt; - 93182542|93180022|Y1562</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>70.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1603295-WINPOWER</Kod>
     <Aciklama>PORYA ON SOL-SAG RULMANLI 5X110 137X30DIS ABS - OPEL VECTRA C SIGNUM 1.6 16V 05 &gt; - 8126|1603255|93178661|93186388|1603295|R153.43|9330021|19</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -29162,19 +29162,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0611775A-WISCO</Kod>
-    <Aciklama>FREN HORTUMU ARKA - VW GOLF5 GOLF6 JETTA PASSAT A3 OCTAVIA SUPERB LEON TOLEDO ALTEA 03 &gt; - 1K0611775B|3C0611775A|1K0611775|3C0611775|1K0611775A|1K0611775C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>67.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1K0615423M-WISCO</Kod>
     <Aciklama>FREN KALIPERI ARKA SOL - VW JETTA OCTAVIA SUPERB 03 &gt; - 115677055|1K0615423H|1K0615423C|1K0615423M|1K0615423|1200168|1J0615423C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -33397,6 +33384,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>187.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>25308710-ABA</Kod>
+    <Aciklama>TRIGER GERGI RULMANI YARDIMCI - OPEL ASTRA F G ZAFIRA 2.0 16 V 98 &gt; - 5636423|90529810</Aciklama>
+    <Uretici>ABA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>162.43</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -46280,19 +46280,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>422.46</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>569044-WISCO</Kod>
-    <Aciklama>FREN DISKI ON TEK - OPEL OMEGA B SENATOR 94 &gt; - 2200080|90393496|DDF330|569016|90392559|90344650|569045|93182283|DDF330C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>2</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>647.79</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -89351,6 +89338,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>415054509-ITL</Kod>
+    <Aciklama>VOLANT OTOMATIK 129 DIS - VW GOLF6 GOLF7 JETTA PASSAT POLO A3 LEON 1.6TDI CAYB CAYC CLHA CRKB DCXA 10 &gt; - |03C105266AA|03C105266G|03C105266T|04E105266|04E105266B|04E105266F|2295601038|415054509|415076809|41562609</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>7246.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>VM-611CPR-VIEWMAX</Kod>
     <Aciklama>AYNA KAPAGI SAG+AST - SKODA OCTAVIA 2 (1Z3) 09-13  /  SUPERB 2 (3T4) 08-15 - VM611CPR|1Z1857508N|1Z1857508M|4F0857536AE|3T0857538|3T0857538GRU</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -92131,6 +92131,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2444.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>21260-IBRAS</Kod>
+    <Aciklama>GAZ KELEBEK HORTUMU - OPEL ASTRA H MERIVA ZAFIRA 1.6 04 &gt; - Y11656|55353838|5825240</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>157.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -104104,6 +104117,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>748.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>005200800-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - FIAT FIORINO PUNTO QUBO PARTNER TEPE 1.4 1.9 99 &gt; - 2051S8|3000950020|9467597280|826213|620308400|2050Q6|2050R7|205151|007200400|2050R3|2004Y2|014200300|620308600</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1680.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -118341,6 +118367,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1029.64</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>12131474-MAXTEL</Kod>
+    <Aciklama>SILECEK TAKIMI ON 500MM 600MM - AUDI A4 A5 Q5 12 &gt; - 500MMX600MM|8R1955426B|8K1955426A|8U0998002|8R1998002|8U1955426|8K1998002|8K1955425|1230603|8R1955425B|8K1955425A|8K1955426|8K1998002A|8U1955425|8W1998002</Aciklama>
+    <Uretici>MAXTEL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>126.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -189389,6 +189428,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1300410-WISCO</Kod>
+    <Aciklama>TURBO RADYATORU (INTERCOOLER) 278X137X50 - OPEL COMBO 12 CORSA C TIGRA 1.3 1.7 00 &gt; - 96656|8ML376723|8ML376723281|24466787|93177425|281</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1595.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>13417362-WISCO</Kod>
     <Aciklama>HAVALANDIRMA MUZULU KROMLU - OPEL CORSA D ADAM 1.0 1.2 1.4 06-14 - 2201098</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -216208,6 +216260,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0221504024-BOSCH</Kod>
+    <Aciklama>ATESLEME BOBINI - OPEL COMBO TOUR A14FC 12 &gt; - |0221504024|1208107|20634|245742|55209603|55213613|55224494|55268859|GN10528</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>947.99</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>132742-ASPART</Kod>
     <Aciklama>BAGAJ AMORTISORU - OPEL ZAFIRA A 99-05 - 132742|7GSP1009|90579440|93278|GS2003</Aciklama>
     <Uretici>ASPART</Uretici>
@@ -216985,6 +217050,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1950.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>28064-IBRAS</Kod>
+    <Aciklama>SU BORUSU - VW T4 1.9 TDI 96 &gt;04 - 028121065Q|28064|Y16825</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>343.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1626505-ROYAL</Kod>
+    <Aciklama>SUBAP LASTIGI - FORD FOCUS FIESTA BMAX 1.0 1.5 1.6 08 &gt; - 1685838|171865|3133043|31370986|BM5G6571CA|BM5G657BA</Aciklama>
+    <Uretici>ROYAL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>43.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
