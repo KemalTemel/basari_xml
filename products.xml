@@ -20306,19 +20306,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1310628-WISCO</Kod>
-    <Aciklama>RADYATOR BAGLANTI AYAGI UST SAG - OPEL VECTRA B 96 &gt; - 111476|Y1621|90501021</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>80.96</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1310629-WISCO</Kod>
     <Aciklama>RADYATOR BAGLANTI AYAGI UST SOL - OPEL VECTRA B 96 &gt; - 1310629|Y1622|111477|2386|90501020</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -30732,6 +30719,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1262.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1Z5807417-WISCO</Kod>
+    <Aciklama>TAMPON ARKA SENSORSUZ ASTARLI - SKODA OCTAVIA 2 09-13 - 1Z5807421F|1Z5807421G|1Z5807417A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1461.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -50677,19 +50677,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6320014-WISCO</Kod>
-    <Aciklama>PANJUR ON KOMPLE - OPEL OMEGA B 94 &gt; - 00|90487238|2230070|6320025</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/J^lrqqjJRhApatfurBItVnj1X2VWugEQVOJQpAVmzeI=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>776.20</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6320026-WISCO</Kod>
     <Aciklama>PANJUR ON - OPEL ASTRA F 94-98 - 90510961</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -54430,19 +54417,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>112.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6Q0407621AJ-WINPOWER</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X100 126,8X72 ABSLI - VW POLO FABIA CORDOBA IBIZA 02 &gt; - 6Q0407621BR|6C0407621A|1160026|6Q0407621AD|6Q0407621R|6Q0407621H|6Q0407621AJ|6C0407621|6Q0407621AH|6R0407621E</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>484.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -62373,19 +62347,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>310.49</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8D0260403E-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU MT-AT 565X420 MM - VW PASSAT AUDI A4 1.6 1.8 1.8T1.9 TDI 2.3 2.8 94 &gt; - 1140053|8D0260403E|401|8D0260403H|8D0260403D|8FC351301|22|94594|8FC351301401</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1340.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -87124,7 +87085,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2135.07</Fiyat>
+    <Fiyat>2101.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -92391,6 +92352,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2116.89</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>96629055-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING AT 670X410X26 MM - CHEVROLET CAPTIVA. ANTARA 2.0 DIZEL 06&gt; - 4803040|4803041|4817486|92220342|63119|20777046|96629056|96629055|20777045|4817548</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2759.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -115701,7 +115675,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ewEmKpRjsYs6kwQ1z9BB5LQRIvziQN9kUE1dpkF7feU=.JPG</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>3065.56</Fiyat>
+    <Fiyat>2571.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -134187,7 +134161,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ICSNAkz8rQOvZYKiazb6PW7M1iu2sgDKfWsaon8^1xo=.JPG</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2508.92</Fiyat>
+    <Fiyat>2414.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -158653,7 +158627,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UP69jL0Lnr1UMiNey^KFZAsvHEWiU5dVPA5gEDY0ZM8=.JPG</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1983.59</Fiyat>
+    <Fiyat>1724.86</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -172291,6 +172265,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2979.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8D0121251Q-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 630X415 MM - VW PASSAT AUDI A4 A6 SKODA SUPERB 1.6 1.8 1.8 T1.9 TDI 2.0 2.3 2.4 2.6 2.8 97 &gt; - 8D0121251K|8D0121251J|8D0121251P|611|8D0121251Q|8MK376714|60299|8D0121251E|60489|8MK376714611</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2352.10</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -200695,7 +200682,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2352.10</Fiyat>
+    <Fiyat>2383.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206549,6 +206536,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1350A807-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 525X645X26 - MITSUBISHI L200 2.4DI-D 15 &gt; - 6000605263</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2571.62</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>42532762CAM-WISCO</Kod>
     <Aciklama>FAR CAMI SOL - CHEVROLET TRAX 13 &gt; - 42532762</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -208067,19 +208067,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>6170.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6R6827025C-SIMYI</Kod>
-    <Aciklama>BAGAJ KAPAGI - VW POLO 09-18 - 6R6827025B</Aciklama>
-    <Uretici>SIMYI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>7051.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
