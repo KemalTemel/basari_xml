@@ -8957,19 +8957,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>06993-AYD</Kod>
-    <Aciklama>ROTIL ALT - FIAT DUCATO 06 &gt; - 93501837|50705629</Aciklama>
-    <Uretici>AYD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>268.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06A103171B-WISCO</Kod>
     <Aciklama>FLANSLI KRANK KECESI ARKA - VW GOLF4 BORA POLO T5 A3 LEON 1.8 1.4TDI 1.9TDI AGN AGR AHF ALH AVF AMF BNV BNM AXB AXC 97 &gt; - 06A103171A|20020383B|012370|1100575|06A103171B|038103171B|82020383|06B103171A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -19119,7 +19106,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>871.21</Fiyat>
+    <Fiyat>829.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -39757,19 +39744,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>427101310-ITL</Kod>
-    <Aciklama>EKSANTRIK DISLISI INA - OPEL ASTRA J INSIGNIA 1.6XER 1.8 08 &gt; - 55568386|5636155</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1931.21</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4307000-YENMAK</Kod>
     <Aciklama>PISTON + SEGMAN 81,01 MM STD ADET - VW GOLF4 BORA A3 1.6 AKL AEH - 050107065D|050107065F</Aciklama>
     <Uretici>YENMAK</Uretici>
@@ -50804,6 +50778,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>580.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6320031-WISCO</Kod>
+    <Aciklama>PANJUR ON NIKELAJLI - OPEL VECTRA B 96 &gt; - 00|2230001|6320072|9118727|90540318</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/a9yXflXpUVPXpOG5hHY15rWyfaQpEqVHbwrrT2dqGXU=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>313.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113854,19 +113841,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>225.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>620033400-ITL</Kod>
-    <Aciklama>DEBRIYAJ SETI LUK - OPEL CORSA B ASTRA F COMBO B VECTRA A C16SE C16NZ X16SZ X14XE 88 &gt; - 007200800|007200809|008200009|05S887200R|1606010|1606026|1606522|1606684|1606954|1606960|2120028|3000174001|620033400|90421578|90540801|90540803|90541812|90541815</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1782.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -194459,19 +194433,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>CI668-TEKNOROT</Kod>
-    <Aciklama>SALINCAK ON SAG - FIAT DUCATO JUMPER BOXER 06 &gt; - 1612735580|1374222080|</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2222.51</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>51237347402-WISCO</Kod>
     <Aciklama>BAGAJ AMORTISORU - BMW G11 G12 B47D20B &gt; - 51237347402</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -194521,19 +194482,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>4106.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>CI669-TEKNOROT</Kod>
-    <Aciklama>SALINCAK ON SOL - FIAT DUCATO JUMPER BOXER 06 &gt; - 1374223080|1612735680</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2222.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -215997,32 +215945,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>47.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>MH11006-MEHA</Kod>
-    <Aciklama>AMORTISOR TAKOZU ON SOL - FIAT DUCATO BOXER 15 &gt; - |1374666080|1374666080S1|1612735980|1612736180|1612736180S1|1612736180SK2|503829|503842|5038F3</Aciklama>
-    <Uretici>EXPORT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1563.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>MH11007-MEHA</Kod>
-    <Aciklama>AMORTISOR TAKOZU ON SAG - FIAT DUCATO BOXER 15 &gt; - 1374667080|1612735980</Aciklama>
-    <Uretici>MEHA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1954.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
