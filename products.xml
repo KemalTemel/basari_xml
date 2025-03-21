@@ -218118,4 +218118,17 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Fiyat>29.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
+  <Urun>
+    <Kod>10930506-SWAG</Kod>
+    <Aciklama>EKSANTRIK ZINCIR GERGISI - MERCEDES-BENZ W203 W204 S203 S204 W211 W212 A207 W463 X164 W251 05 &gt; - |A2720500311|A2720500711|A2720500811</Aciklama>
+    <Uretici>SWAG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2818.77</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
 </Products>
