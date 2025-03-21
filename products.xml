@@ -152,7 +152,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2425.87</Fiyat>
+    <Fiyat>2284.76</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -30384,6 +30384,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1Z0807221N-WISCO</Kod>
+    <Aciklama>TAMPON ON SENSORSUZ FAR YIKAMALI ASTARLI - SKODA OCTAVIA 2 09-13 - 1230479|1Z0807221|SK0281021|1Z0807221NGRU</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2162.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1Z0807717-WISCO</Kod>
     <Aciklama>TAMPON BANDI ON SOL - SKODA OCTAVIA 04 08 - 1230498|1Z0807717</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -30771,6 +30784,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1688.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1Z5807421-WISCO</Kod>
+    <Aciklama>TAMPON ARKA SENSORSUZ ASTARLI - SKODA OCTAVIA 2 04-08 - 1Z5807421A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kxQCMCX5H5AuXk2iKwcnGSTPl0riH1iUEvMjXjrVD7g=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1493.87</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -76195,19 +76221,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2045000154-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU MT 610X420 MM - MERCEDES-BENZ W204 07&gt; - A2045000254|A2045000154|940035|2045000654|A2045000654|2045000154|2045000254</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/GnR3dIdTXFWQga6H1U0j8gQPFXXGCA5WudYuEpcubEE=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1428.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1845105-WISCO</Kod>
     <Aciklama>KALORIFER MOTORU REZISTANSSIZ - OPEL ASTRA J ZAFIRA C 09 &gt; - 00|2140098|13276230</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -80433,19 +80446,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4411136LNDEM-DEPO</Kod>
-    <Aciklama>FAR SOL MERCEKLI - AUDI A4 95-99 - 8D0941029AB</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/QuCvZxa^rfBxiVTp3FfDTtnxZRUz0oEQH89TM4LUz64=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1845.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>511-DK</Kod>
     <Aciklama>SANZUMAN TAKOZU - OPEL RECORD 66 - 684761</Aciklama>
     <Uretici>DK</Uretici>
@@ -81873,19 +81873,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>341.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4411136RND7E-DEPO</Kod>
-    <Aciklama>FAR SAG MERCEKLI - AUDI A4 95-99 - ND7E|8D0941030AB|1136R|441</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4225.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -110474,19 +110461,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>178.60</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6PK1550-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL VW CHEVROLET - 1340055|1340019|55578813|6PK1549|6PK1548|6PK1552|6PK1551|55578115</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>146.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -177871,19 +177845,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1232369-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL INSIGNIA A 1.6 2.0 CDTI 08-17 - 13303514|15776410|0580203028 1232369 1232392 13303514 15776410 815332 13577227 13303506 ...|1232392</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/g6iUZkoi552OsVwyjcY5JPhca43BuIuU6UHRO6SaOMw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1899.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>70389-MGA</Kod>
     <Aciklama>AKS KAFASI DIS - AUDI A3 GOLF CADDY PASSAT1.6 2.0FSI 04 &gt; - 1K0498099E||1K0498099C|1K0498099A|1160055|1K0498099</Aciklama>
     <Uretici>MGA</Uretici>
@@ -203520,32 +203481,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>25870193-WISCO</Kod>
-    <Aciklama>STOP IC SOL - OPEL ASTRA J SEDAN 12 &gt; - 1222341|25870193</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1786.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>25870194-WISCO</Kod>
-    <Aciklama>STOP IC SAG - OPEL ASTRA J SEDAN 12 &gt; - 1222342|25870194</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1786.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2GA945093A-WISCO</Kod>
     <Aciklama>STOP IC SOL - VW T-ROC 17 &gt; - 2GA945093A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -205441,19 +205376,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>77.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>13340395-WISCO</Kod>
-    <Aciklama>EL FREN TELI ARKA DISK 1647 MM - OPEL ASTRA H 04 &gt; - 13157062|13220099|13237271|13321657|13340395|2120040|522029|522056|522070|522456</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>261.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -207430,19 +207352,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1217.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5F1941005A-WISCO</Kod>
-    <Aciklama>FAR SOL MOTORLU - SEAT LEON 13-17 - 5F1941005|5F1941005B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3799.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -210173,19 +210082,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>649.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5E38537612ZZ-WISCO</Kod>
-    <Aciklama>PANJUR CERCEVESI NIKELAJLI - SKODA OCTAVIA 4 20 &gt; - 5E38537612ZZ</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1136.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
