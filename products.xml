@@ -207433,6 +207433,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5F1941005A-WISCO</Kod>
+    <Aciklama>FAR SOL MOTORLU - SEAT LEON 13-17 - 5F1941005|5F1941005B</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3799.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5F1941006ACAM-WISCO</Kod>
     <Aciklama>FAR CAMI SAG - SEAT LEON 13-17 - 5F1941006|5F1941006B</Aciklama>
     <Uretici>WISCO</Uretici>
