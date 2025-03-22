@@ -101373,7 +101373,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>13961.16</Fiyat>
+    <Fiyat>12652.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -191959,7 +191959,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>903.64</Fiyat>
+    <Fiyat>945.31</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -211008,19 +211008,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>110172-TOPRAN</Kod>
-    <Aciklama>DIREKSIYON KORUGU - VW PASSAT B5 SUPERB A4 B5 1.9TDI 95-08 - 8D0419831K</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>84.10</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>110730-TOPRAN</Kod>
     <Aciklama>GENLESME VALFI - VW SHARAN ALHAMBRA GALAXY 1 1.9TDI 95-10 - 7M0820679|7M0820679A</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -215662,19 +215649,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>741F7853-METTE</Kod>
-    <Aciklama>POLEN FILTRESI KARBONSUZ - VW PASSAT A4 96 &gt; - |592313014|893091400A|893091700|893819439|8A0819439|8A0819439A</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>58.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4321112012-FROW</Kod>
     <Aciklama>FREN HORTUMU ARKA - VW TOURAN  03-10 - 1T0611775|1T0611775A</Aciklama>
     <Uretici>FROW</Uretici>
@@ -216607,7 +216581,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>55.16</Fiyat>
+    <Fiyat>55.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
