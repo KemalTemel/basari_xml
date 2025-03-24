@@ -11310,19 +11310,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>06F121111H-BEHR</Kod>
-    <Aciklama>TERMOSTAT 80°C - VW GOLF6 SCIROCCO 2.0 16V 10 &gt; - BEHR|06F121111H|TI680</Aciklama>
-    <Uretici>BEHR</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>578.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06F121111-WISCO</Kod>
     <Aciklama>TERMOSTAT KOMPLE - VW GOLF5 PASSAT2.0FSI - |06F121111</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -21921,19 +21908,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>13402939-WISCO</Kod>
-    <Aciklama>AMORTISOR ON SAG - OPEL ASTRA J CRUZE 10 &gt; - 345014|345078|2190048|312631|312606|13329596|13354026|345077|23448004|344715|19260799|13354030|312583|13333974|22847111|23448005</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1099.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1340512-WISCO</Kod>
     <Aciklama>ALTERNATOR GERGI RULMANI - OPEL VECTRA B OMEGA B 2.5 V6 - 534013430|T38343||OP714|57919487|1340536|9202550|90528760|90409783|1340547|6340538|2110242|VKM35500|1340512|19487</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -22802,19 +22776,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>107.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1428358-WISCO</Kod>
-    <Aciklama>AYNA CAMI SOL ISI+ASF - OPEL ASTRA H 10&gt; - 13300626</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>194.52</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -25132,6 +25093,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>191407311B-WISCO</Kod>
+    <Aciklama>AKS KAFASI DIS ABSSIZ 22X30X53,2 UZUNLUK:139mm - VW GOLF3 VENTO IBIZA POLO CLASSIC CADDY GOLF2 PASSAT 84 &gt; - 302175|191407311F|357498099E|191498099B|191407311J|1160041|1H0407311D|1H0498099|1H0498099V|191407311L|191498099AV|357498099|191498099AX</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/DTu55NHxLg^lkxBINhSzxq9ZMNxn^cN77eYICIbUSWc=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>389.04</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>191411315BS-WISCO</Kod>
     <Aciklama>Z ROT LASTIKLI 18MM - VW GOLF2 3 POLO 94 &gt; - 6N0419811|191422803A|191411315B|191412804A|191411315|07863</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -25948,6 +25922,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>136.51</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1H0498099-WISCO</Kod>
+    <Aciklama>AKS KAFASI DIS ABSSIZ 22X30X53,2 UZUNLUK:139mm - VW GOLF3 VENTO CORDOBA 1.9TDI 92 &gt; - 1H0498099X|JZW498340BX|1H0498099|191498099AV|1160043|191498099B|191498099A|302175|357498099E|JZW498340AX|1H0498340X</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>389.04</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -29367,19 +29354,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>291.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1K0949101-WISCO</Kod>
-    <Aciklama>AYNA SINYALI SOL - VW GOLF5 JETTA PASSAT 04 &gt; - 1KD949101B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0OkJ9qR5kAEjz2ua07soYxMZ1GTVRnH6eftPHshSCb4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>70.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -46660,32 +46634,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5C7941699P-WISCO</Kod>
-    <Aciklama>SIS FARI SOL - VW JETTA4 15-18 - 5C7941699R|5C7941699P</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/SlqgDYIH^tkAJegGg9qxtrtYSnpylSxIb7XNybaMyro=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>615.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5C7941700P-WISCO</Kod>
-    <Aciklama>SIS FARI SAG - VW JETTA4 15-18 - 5C7941700R|5C7941700P</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kLQOTpOlCj^02THOWC7FNOIkDxNWAEqbTVGPc1Oy^w4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>615.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5E0805588-WISCO</Kod>
     <Aciklama>PANEL - SKODA OCTAVIA 3 13-20 - SK0303210</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -58151,32 +58099,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7L0422817C-WISCO</Kod>
-    <Aciklama>ROT BASI SOL - VW TOUAREG AMAROK CAYENNE 03 &gt; - 7L0422817D|7L6422817C|7L0422817C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>99.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7L0422818C-WISCO</Kod>
-    <Aciklama>ROT BASI SAG - VW TOUAREG AMAROK AUDI Q7 CAYENNE 03 &gt; - 7L6422818C|7L0422818C|7L0422818D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>99.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7L0422821-WISCO</Kod>
     <Aciklama>ROT KOLU - VW TOUAREG AMAROK 3.0 TDI 3.6 4.2 FSI 02 &gt; - 7L0422821|7L8422055BF|7L0422821B|7L8422055AD|7L8422055F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -63377,19 +63299,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>8K0121251Q-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING AT 720X470X36 MM - AUDI A4 2.7TDI. 3.0 TDI 08&gt;. A6 3. TDI. PORSCHE MACAN 3.0 TDI 14&gt; - 8K0121251AL|654|9A712125110|8MK376745|60318|8MK376745654|8K0121251AA|8K0121251Q|8K0121251H</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ENFJuoMD96HowiLHCpyfGHvKqric4u4TeN1CA90wntc=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3647.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8K0121251T-AUTOLUX</Kod>
     <Aciklama>SU RADYATORU MEKANIK AT 720X469 MM - AUDI A4 A5 Q5 1.8 TFSI 2.0 TDI 2.0 TFSI 08&gt; - 1110804|8K0121251T|8K0121251AJ|631|8K0121251AK|8MK376745631|8MK3|8MK376745|22|8K0121251K|60321|8K01211251AG|8K0121251AD|8K0121251AH</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -65623,19 +65532,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>340.41</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>96565412-WISCO</Kod>
-    <Aciklama>YAG FILTRESI KUTULU - CHEVROLET KALOS 1.2 72HP 03 &gt; - 25183779|96570765|1111504</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>58.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -68093,19 +67989,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>483.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>97606-1C200-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU 552X331X16 - HYUNDAI GETZ 02&gt; 1.1. 1.3 - 976061C200|94647|97606|1C200</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/brceWdcOfzMILOi3UJHuhvgo3t8sVxtmhyVF1azSKBU=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1283.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -80573,19 +80456,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1984.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7L6807699B-WISCO</Kod>
-    <Aciklama>TAMPON DESTEK BRAKETI ON IC - VW TOUAREG 03-07</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/l9kRbZPDUUipTdsbdQ4^dg1AsGwxMR8anvdG2sXbb70=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1005.01</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -95514,19 +95384,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3AA823359A-WISCO</Kod>
-    <Aciklama>KAPUT AMORTISORU 320N - VW PASSAT 11-15 - 115897586|3AA823359</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>96.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>654-DK</Kod>
     <Aciklama>RADYATOR LASTIGI YAN TAKOZ - OPEL VECTRA A 88-95 - 1310954</Aciklama>
     <Uretici>DK</Uretici>
@@ -104094,19 +103951,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>103569-TOPRAN</Kod>
-    <Aciklama>FAR ANAHTARI - VW PASSAT 1.8 88-97 POLO 1.4 85-94 T4 2.5 90-03 - |103569001|357941531|35794153101C</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>153.42</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>96535162-WISCO</Kod>
     <Aciklama>AMORTISOR KORUGU - CHEVROLET AVEO/KALOS HB (T200) 1.4 03-08 AVEO/KALOS Sedan (T250, T255) 1.4 05&gt; - 96494604</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -112658,19 +112502,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2275.90</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1245000403-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT 532X368X32 - MERCEDES-BENZ W124 200E 84&gt; - 1245001202|A1245004903|62549A|1245002303|1245004903|A1245000403|654|00|1245002003|8MK376710654|A1245002303|8MK376710651|A1245001202|651|317110030|8MK376710</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pieMeN9MF9rtOeowgiki3oTbiJxlghImqlGfSAQDEwo=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2480.14</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -153327,19 +153158,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>46826683-WISCO</Kod>
-    <Aciklama>KLIMA RADYATORU 490X351X16 - FIAT PALIO. ALBEA 1.2I 8V 1.6 01&gt; - 94825|K46826682|K46803403|46803403|46826682|46826683</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/guI^cyc9azYfc4n6dMEp1jzsbx58JvoY^neofBHo3nQ=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1167.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-389AGHL-VIEWMAX</Kod>
     <Aciklama>AYNA CAMI SOL ISITMALI DUZ - VW JETTA 3 (1K2) 11-13 / JETTA 4 (162) 11-17/ PASSAT CC (357) 08-12 / SCIROCCO 3 (137) 08-17 - 3C8857521  |VM389AGHL</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -169772,19 +169590,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6N0807421DGRU-WSC</Kod>
-    <Aciklama>TAMPON ARKA ASTARLI (TAIWAN) - VW POLO 95-00 - 6N0807421D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2950.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>25310-2P300-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING AT 510X483X26 MM - KIA SORENTO 2.0CRDI. 2.2CRDI 10-12 KAPAKLI - 253102P300|67465</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -169886,19 +169691,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>175.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1452124-WISCO</Kod>
-    <Aciklama>FAR YIKAMA MOTORU SAG - OPEL INSIGNIA A 11-17 - 13227338</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UZK6oIxZid4cLivTXDQO4Eb9pBIpLUtNcvcWdTNB34c=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>132.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179974,19 +179766,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>113.33</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>13332639-WISCO</Kod>
-    <Aciklama>AMORTISOR ARKA SOL-SAG - OPEL ASTRA J CRUZE 09 &gt; - 436530|13412740|436793|13279263</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>527.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217115,6 +216894,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1068.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>64215-OSRAM</Kod>
+    <Aciklama>AMPUL H7 24V - UNIVERSAL</Aciklama>
+    <Uretici>OSRAM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>139.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
