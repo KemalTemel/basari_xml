@@ -31382,19 +31382,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>835607-WISCO</Kod>
-    <Aciklama>HAVA FILTRESI KUTULU - OPEL OMEGA B 2.5 3.0 88 &gt; - 90512851|835609|90509317|90469412|835608|835617|90510290|90448738</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>102.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8K0839462-WISCO</Kod>
     <Aciklama>CAM KRIKOSU ARKA SAG SACSIZ - AUDI A4 09 &gt; - 114696755|1220502|8K0839462</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -50765,6 +50752,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>41.92</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1603276-WISCO</Kod>
+    <Aciklama>AKS KORUGU DIS TAKIM - OPEL ASTRA H MERIVA A ZAFIRA B Z16XEP Z16XER Z14XEP 04 &gt; - 93176745|1604011|1603276|1603249|93182573</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>72.95</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -109530,19 +109530,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2100153-WISCO</Kod>
-    <Aciklama>SAFT ISTAVROZU - UNIVERSAL</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yBAG9ReIF0azbDPDuwIQtaxNZi6huav1n4bSIQSz1^g=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>145.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>97606-1P200-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 520X375X12 - HYUNDAI IX20 KIA VENGA 1.4 1.6 CRDI 10 &gt; - 97606|1P200|940252|976061P200</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -120291,19 +120278,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>229.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>GH21170-GMB</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X98 78X45MM ABSSIZ - FORD TRANSIT V347 V348 06-14 - |6C112B663AA|1377907</Aciklama>
-    <Uretici>GMB</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>883.43</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -138140,19 +138114,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>123.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4400000001-CASTROL</Kod>
-    <Aciklama>MOTOR YAGI 5W30 4LT - UNIVERSAL GTX C4</Aciklama>
-    <Uretici>CASTROL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1093.05</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -207394,19 +207355,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>GH21170-ITL</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X98 78X45MM ABSSIZ GMB - FORD TRANSIT Minibüs/Otobüs (FD_ _, FB_ _, FS_ _, FZ_ _, FC_ _) 2.2TDCI 2.4TDCI 06-14 - 6C112B663AA</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>682.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>805969-ITL</Kod>
     <Aciklama>AMORTISOR RULMANI FAG - VW T5 T6 T7 04 &gt; - 713007900|713042520|7E0412249|7H0412249|7H0412249A</Aciklama>
     <Uretici>ITL</Uretici>
@@ -207612,58 +207560,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>477.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>FN5Q9155AA-FORD</Kod>
-    <Aciklama>YAKIT FILTRESI KOMPLE - FORD FOCUS FIESTA 12 &gt; - |1870169|9676133480|FN5Q9155AA</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1261.20</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2S6Q6714AA-FORD</Kod>
-    <Aciklama>YAG FILTRESI - FORD FOCUS FIESTA TRANSIT CONNECT1.6 TCDI TDCI 11 &gt; - 1147685|1254385|1359941|2S6Q6714AA|2S6Q6714AB</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>280.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>DG938101AA-FORD</Kod>
-    <Aciklama>RADYATOR SU DEPO KAPAGI - FORD FOCUS FIESTA MONDEO S40 V50  CONNECT 05 &gt; - 1224233|1301104|30680002|31368311|31370709|3M5H8100AC|3M5H8100AD|5193938|DG938101AA</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>523.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>GN159601AA-FORD</Kod>
-    <Aciklama>HAVA FILTRESI - FORD FIESTA TOURNEO TRANSIT 1.5 18 &gt; - 2066235|GN159601AA</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>210.22</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -209250,32 +209146,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>29.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>ET768K2T8-FORD</Kod>
-    <Aciklama>YEDEK SU DEPOSU - FORD - ET768K2T8</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>392.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8U5I196244AA-FORD</Kod>
-    <Aciklama>POLEN FILTRESI - FORD - 8U5I196244AA</Aciklama>
-    <Uretici>FORD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>140.13</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
