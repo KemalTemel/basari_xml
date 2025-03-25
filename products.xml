@@ -260,19 +260,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>002200100-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - VW POLO GOLF3 1.4 16V 1.6 AHW AEE 94 &gt; - 030198141AX|030198141X|6K0198007|032198141X</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1677.54</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>020301227D-WISCO</Kod>
     <Aciklama>SANZUMAN KECE 18X30X8 - VW BORA CADDY GOLF POLO CLASSIC - 020301227F|18X30X8|1210023|020301227D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -21255,19 +21242,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0498203-WISCO</Kod>
-    <Aciklama>AKS KORUGU DIS TAKIM KUCUK TIP - VW GOLF5 PASSAT1.6 2.0TDI 05 &gt; - 1K0498203|1163232|00|6C0498203|6Q0498203A|C7043</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>77.49</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2D0611775A-WISCO</Kod>
     <Aciklama>FREN HORTUMU ARKA - VW LT35 SPRINTER 97-07 - 9044280435|2D0611775A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -31941,19 +31915,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>TA1634-DELPHI</Kod>
-    <Aciklama>ROT KOLU - OPEL VECTRA B 94 &gt; - 1603198|90540319|1603206|324186</Aciklama>
-    <Uretici>DELPHI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>212.28</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>BHB1909-AUTOLUX</Kod>
     <Aciklama>MARS KOMUR YUVASI - MERCEDES-BENZ OPEL POLO GOLF</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -42026,19 +41987,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1167.43</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>TA2029-DELPHI</Kod>
-    <Aciklama>ROT KOLU - OPEL CORSA C COMBO C 00 &gt; - 26087867|93192421|1603845|1603008</Aciklama>
-    <Uretici>DELPHI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>239.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61583,6 +61531,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0959455AE-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (390 MM-3 FIS-7 KANAT) - VW POLO FABIA IBIZA 1.2 1.4TDI 02 &gt; - 6R0959455E|11|85690|6R0959455D|1110763|6Q0959455AE</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1258.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6Q1857507NMA-WISCO</Kod>
     <Aciklama>AYNA SOL MEK+SIN+AST - VW POLO (9N_,9A_) 05-09 - 00|6Q1857507AH9B9|6Q1857507AC9B9|6Q1857507P|1Z1857521|1231224|6Q1857507N9B9|6Q0857521E|1Z0857537A|6Q1857507N|1Z0857537AGRU</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -74554,19 +74515,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>170.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>MC127005-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT 525X518X48 CERCEVELI - MITSUBISHI CANTER 839-589E EURO3 - MC127005|ME417293</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/jYRknNKSgjT1shn5kSECYEf0fuHKyiMs9yg96ekq3sY=.JPG</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3761.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -93535,19 +93483,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>70.96</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>019200009-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI - VW POLO CLASSIC CADDY INCA 1.6 1.9D 1.9SDI AFT1Y AEY AYQ AEK AKS ABU AEA 97 &gt; - 032198141AX|067198141AX|3000287002|037198141X|620116609|1L0198010</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1689.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -157409,19 +157344,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4421122LLDEM-DEPO</Kod>
-    <Aciklama>FAR SOL - OPEL ZAFIRA A 99 &gt; - 1216277|9118791|2240140|00|4421122LLDEM|WHL51817</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2528.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2D0615124A-WISCO</Kod>
     <Aciklama>FREN KALIPERI ON SAG - VW LT2.3 96-06 2.5 TDI 96-06 - BRF50173|BDV343233</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -172031,19 +171953,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2087.33</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>000210509-MAPA</Kod>
-    <Aciklama>DEBRIYAJ SETI 9 DELIK - VW GOLF3 POLO CLASSIC CADDY CORDOBA 1Y AAZ 1.9D 1.9TDI 83-97 - 051198141X|621133209|1L0198012|3000288002|051198141FX</Aciklama>
-    <Uretici>MAPA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2060.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -198294,19 +198203,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7L0616214C-WISCO</Kod>
-    <Aciklama>FAR SEVIYE SENSORU ON SAG - VW TOUAREG Q7 3.0TDI 3.0 V6 02 &gt; - 7L0616214B|7L0616214C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>907.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>96253548-WISCO</Kod>
     <Aciklama>EGR VALFI - CHEVROLET LACETTI J200 1.6 05 &gt; - 96253548</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -209032,19 +208928,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>FP-669NGHL-VIEWMAX</Kod>
-    <Aciklama>AYNA CAMI ISITMALI SOL - OPEL COMBO D 12 &gt; - 1426596|2220011|95511543</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>177.61</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6OCO1024-ASPART</Kod>
     <Aciklama>YAG SOGUTUCUSU - VW GOLF4 BORA POLO JETTA 1.6 AKL 00 &gt; - 078117021A|200224901|RD4291</Aciklama>
     <Uretici>ASPART</Uretici>
@@ -209055,19 +208938,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>396.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>FP-669NGHR-VIEWMAX</Kod>
-    <Aciklama>AYNA CAMI ISITMALI SAG - OPEL COMBO D 12 &gt; - |1426594|2220012|95511540</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>177.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
