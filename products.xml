@@ -18369,19 +18369,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0423811A-WISCO</Kod>
-    <Aciklama>ROT BASI SOL - VW CADDY PASSAT TOURAN OCTAVIA 04 &gt; - 1K0423811K|1K0423811J</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>138.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>701615301E-WISCO</Kod>
     <Aciklama>FREN DISKI ON HAVASIZ TEK - VW T4 1.9D 2.0 2.4D 90-96 - 701615301E|1200125|701615301B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -27232,19 +27219,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>74.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6PK2380-WISCO</Kod>
-    <Aciklama>V KAYISI - MERCEDES-BENZ C SERI W203 W211 03 &gt; - 119973492</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>233.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -138676,19 +138650,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2K5823031-WSC</Kod>
-    <Aciklama>MOTOR KAPUTU (TAIWAN) - VW CADDY 15-20 - 2K5823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/x0RPUgcTu5euypwgfk1ZgGSNWpKUxrzL9LzBufGuXJo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>9728.61</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7L6145804A-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 286X292X50 - VW TOUAREG 3.0 V6 AUDI Q7 3.0 TDI 04 &gt; - 96611|571|95511064010|8ML376729|8ML376729571|7P0145804A|7L6145804|95811064010|7P0145804B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -163672,6 +163633,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>233.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1341007-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZLI (340 MM-340 MM-3 FIS-3FIS-7 - OPEL INSIGNIA A 2.0 BITURBO 2.0 CDTI 2.0 2.8 V6 A20DTH A20NHT A28NER B28NER 09 &gt; - 13241734|13413333|1618504|13300195|13413331|1341437|1618501</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2432.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -209968,19 +209942,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>109107</Kod>
-    <Aciklama>ROT KOLU KOMPLE SOL - VW GOLF4 BORA 98 &gt; - 109107001|109107586|1J0422803H</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>468.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>102823</Kod>
     <Aciklama>SALINCAK BURCU ARKA - VW GOLF2 82 &gt; - 102823755|1190063|191501541|191501541A</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -210095,19 +210056,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>36.77</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>116504</Kod>
-    <Aciklama>EKSANTRIK MIL AYARLAYICISI - AUDI A3 SKODA OCTAVIA 2 GOLF5 JETTA 3 4 PASSAT TIGUAN 2.0 04&gt; - |06H109257A|116504001|30940200|40200|427000510|50007781|OCV0109|VVS161</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>833.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -210969,19 +210917,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>116450</Kod>
-    <Aciklama>SU FLANSI - VW PASSAT 2.0 FSI 05 &gt; - 116450001|116450755|1K0122291B</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>195.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>108843</Kod>
     <Aciklama>SU BORUSU - VW GOLF3 PASSAT SHARAN TRASPORTER VENTO 2 92&gt; - 021121050C|108843001|108843755</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -211528,19 +211463,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>107502</Kod>
-    <Aciklama>SUBAP LASTIGI 6MM - OPEL ASTRA F.G VECTRA A.B CORSA 6MM - 036109675A|107502001|107502755|642533|90410741</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>11.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>101596</Kod>
     <Aciklama>TRIGER KAYISI - AUDI A4 B5 2.6 2.8 A6 A8 91&gt; - 078109119A|078109119D|101596001|101596015</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -211642,19 +211564,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>415.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>110060</Kod>
-    <Aciklama>SALINCAK BURCU KUCUK - VW CADDY GOLF5 PASSAT - 110060001|110060755|1K0407182|1K0407182A</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>99.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -212630,19 +212539,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>111.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>109108</Kod>
-    <Aciklama>ROT KOLU KOMPLE SAG - VW GOLF4 BORA 98 &gt; - 109108001|109108586|1J0422804H</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>468.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214687,19 +214583,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111918</Kod>
-    <Aciklama>EMME MANIFOLD CONTASI - VW T5 2.5 TDI 03 &gt; - 070129717A|111918001|111918755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>130.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>206533</Kod>
     <Aciklama>YAG KECESI - OPEL ASTRA G H J INSIGNA A ZAFIRA CHEVROLET AVEO CRUZE 1.6 1.8 98 &gt; - 206533001|206533785|71739825</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -214853,19 +214736,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>309.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>111181</Kod>
-    <Aciklama>SU FLANSI - VW TOUAREG GOLF4 2.3 - 022121121E|111181001|111181755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>258.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -215854,19 +215724,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>666.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>111233</Kod>
-    <Aciklama>SU FLANSI - VW GOLF4 BORA CADDY 1.4 1.6 1.9TDI 98 &gt; - 111233001|111233755|1J0122291</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>58.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
