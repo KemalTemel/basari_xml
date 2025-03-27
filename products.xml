@@ -6838,6 +6838,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1081-DK</Kod>
+    <Aciklama>MOTOR TAKOZU - OPEL VECTRA C SIGNUM Z22YH Z22SE 02 &gt; - 9156937|5684085</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>546.28</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>074103383P-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI METAL - VW T4 2.4D AJA 96 &gt; - 612947150|107292466|632131|074103383P|1110693</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -34437,19 +34450,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>352828-WONDER</Kod>
-    <Aciklama>ROTIL ALT - OPEL FRONTERA A FRONTERA B 92-04 - 352828|94459465|WIB517</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>327.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7M0827550G-WISCO</Kod>
     <Aciklama>BAGAJ AMORTISORU 790N - VW SHARAN ALHAMBRA GALAXY 95 &gt; - 1033109|7300069|95VW442K08AG|7M0827550G|1094814|D0589|611297|1009060|7M0827550D|1047212|7M0827550F|95VW442K08AH|95VW442K08AE</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -38347,19 +38347,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>90.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>701407361B-WISCO</Kod>
-    <Aciklama>ROTIL ALT - VW T4 90-96 - 701407361B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>111.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -97071,19 +97058,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>617.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>0964-AYD</Kod>
-    <Aciklama>ROT KOLU - OPEL AGILA SUZIKI WAGON - 02565|9204752|4701745|4883083|4883086G00</Aciklama>
-    <Uretici>AYD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>353.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -178651,19 +178625,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-368WR-VIEWMAX</Kod>
-    <Aciklama>AYNA SINYALI SAG - SEAT ATECA (KH7) 16-21 - VM368WR|575949102A|575949102</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1186.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2025006403-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING AT 617X418X32 - MERCEDES-BENZ C SERISI (W202) 200-220 CDI 97-00 - 2025006403|62618</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -201739,32 +201700,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>T471-WONDER</Kod>
-    <Aciklama>ROT BASI SAG - OPEL VECTRA C 02 &gt; - 1603228|93172255|12787822</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>156.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>T472-WONDER</Kod>
-    <Aciklama>ROT BASI SOL - OPEL VECTRA C 02 &gt; - 93172254|12802423|12787821|12801423|1603227</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>156.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>02011-ORJIN</Kod>
     <Aciklama>SALINCAK BURCU - CHEVROLET KALOS 05 &gt; - 96535087|96535088|95479763|96653381</Aciklama>
     <Uretici>ORJIN</Uretici>
@@ -208395,6 +208330,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>28064-IBRAS</Kod>
+    <Aciklama>SU BORUSU - VW T4 1.9 TDI 96 &gt;04 - 28064|028121065Q|Y16825</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>374.11</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1263001-88</Kod>
     <Aciklama>ATESLEME BOBINI - VW GOLF5 GOLF6 GOLF7 JETTA TIGUAN PASSAT AUDI A4 2.0 TSI A6 A3 04-13 - 07K905115B|07K905715|07K905715C|07K905715E|07K905715A|07K905715D</Aciklama>
     <Uretici>ITHAL</Uretici>
@@ -209890,19 +209838,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>15720075-BSG</Kod>
-    <Aciklama>RADYATOR HORTUMU ALT - BMW E53 X5 00 &gt; - 11531439121|11537500750|</Aciklama>
-    <Uretici>BSG</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>582.72</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>FP-669NGHL-VIEWMAX</Kod>
     <Aciklama>AYNA CAMI ISITMALI SOL - OPEL COMBO D 12 &gt; - 95511543|1426596|2220011</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -209939,19 +209874,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>29.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>WVB705-WONDER</Kod>
-    <Aciklama>ROTIL ALT - VW T4 90-96 - 701407361B</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>166.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -215831,19 +215753,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>108557</Kod>
-    <Aciklama>AMORTISOR TAKOZU ON+RULMANI - VW CADDY POLO GOLF3 1.6 1.9TDI 92 &gt; - 108557001|108557002|108557755|357412331AS</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>174.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>107504</Kod>
     <Aciklama>HAVA TAHLIYE CIVATASI - VW GOLF3 PASSAT B5 SHARAN TIGUAN OCTAVIA LEON 1.6 2.0 92-19 - 357615273|191615273|7E0615273|4F0615273|1K0615273B</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -216049,19 +215958,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1217.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>110349</Kod>
-    <Aciklama>YAG POMPASI - VW POLO FABIA ROOMSTER IBIZA 1.6 16V 94 &gt; - 110349756|359002100120|30937462|110349001|036115105B|036115105D</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1324.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218636,19 +218532,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>933.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>108557</Kod>
-    <Aciklama>AMORTISOR TAKOZU ON+RULMANI - VW CADDY POLO GOLF3 1.6 1.9TDI 92 &gt; - 108557001|108557002|108557755|357412331AS</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>174.71</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221327,19 +221210,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>187.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>110349</Kod>
-    <Aciklama>YAG POMPASI - VW POLO FABIA ROOMSTER IBIZA 1.6 16V 94 &gt; - 30937462|036115105D|110349756|036115105B|359002100120|110349001</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/oewMJtmbwsaiDXBTr3quGlA7T6vkxYWWlyiBusUwuYc=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1231.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
