@@ -5915,19 +5915,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>128231-ELRING</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - OPEL VECTRA B ASTRA G X18XE1 Z18XE Z18XEL 96 &gt; - 90543909|93179932|5607858|5607447|128231|128230</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>594.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1241349-WISCO</Kod>
     <Aciklama>SINYAL KOLU - OPEL ASTRA G 1.6 16V 2.0 16V 1.8 2.0 98 &gt; - 90560991|13142074|6240241</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -86595,6 +86582,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5614425-WISCO</Kod>
+    <Aciklama>KRANK KASNAGI - OPEL ASTRA G VECTRA C CORSA C Z14XE Z16XE X14XE Z14XE Z16XE X16XEL 98 &gt; - GRM2032|90531581|2113234|00|9129209|5614431|</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1053.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>96626813-WISCO</Kod>
     <Aciklama>MOTOR TAKOZU ALT OTOMATIK - CHEVROLET CAPTIVA ANTARA 07 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -87620,6 +87620,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>100.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1400867-WISCO</Kod>
+    <Aciklama>TAMPON IZGARASI ON SAG SISLI NIKELAJLI - OPEL CORSA D 11-14 - 13344799</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Nu6hxf4vAo4n2rVcuXYJCS^svxKmFn^7cwYMUXyZam0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>357.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -91858,19 +91871,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>47.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>621302709-LUK</Kod>
-    <Aciklama>DEBRIYAJ SETI RULMANSIZ - OPEL ASTRA G H CORSA C VECTRA B C MERIVA A Z16XE X18XE1 Z18XE 98-07 - 620209809|93175342|1606956|2120030|3000838801|3000951071|3000828201|93171782|93175343|621237800|1606157|1606205|1606152|006200709|05S886200R|1606209|3000990026|012200609|3000839001|621302709</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3805.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -136141,6 +136141,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>42478108-WISCO</Kod>
+    <Aciklama>TAMPON BRAKETI ON SAG - OPEL MOKKA X 16&gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>194.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1405059-WISCO</Kod>
     <Aciklama>TAMPON DEMIRI ARKA - OPEL CORSA D E 07 &gt; - 13188290</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -145696,6 +145709,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>04L199207-WISCO</Kod>
+    <Aciklama>MOTOR TAKOZU - VW GOLF7 CADDY A3 LEON 1.6TDI 2.0TDI CLHA CLHB DCXA CRLB CRKB CUVC 13 &gt; - 04L199207</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HKfx^xC4QCEgcEBuxNXi02lq2nRWVA3TZOzAfaRxPgU=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>972.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5FA853665D9B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI ON SOL - SEAT LEON FR (KL1) 20&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -151637,6 +151663,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>95276671-WISCO</Kod>
+    <Aciklama>TAMPON KAPAGI ON GRI - OPEL MOKKA 13&gt; - 1409012</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/i1YVtBI29kmjTlnWtv6cT4HiXm8hsiOtUnOMhzQpsT0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>649.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>KIT847/2HT-ALLES</Kod>
     <Aciklama>TRIGER SETI - OPEL ASTRA H J COMBO INSIGNIA VECTRA C 1.9 2.0 CDTI 04 &gt; - 95507810|1629016|9550781095511893|1606434|K035623XS|6606029|KTP847|93191278</Aciklama>
     <Uretici>ALLES</Uretici>
@@ -155534,6 +155573,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>376.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11616-YTT</Kod>
+    <Aciklama>SU POMPA HORTUMU - OPEL ASTRA G CORSA C VECTRA B VECTRA C ZAFIRA A MERIVA A  Z1.6XEP Z16YNG Z16XE X16XEL Y16XE 98-07 - 9129152|Y11616|1337521</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>201.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -175580,6 +175632,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1754.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1K1614019N-WINPOWER</Kod>
+    <Aciklama>FREN ANA MERKEZI - VW GOLF5 CADDY 04 &gt; - 1K1614019S</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1462.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -223381,6 +223446,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3733.83</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>754K5818-METTE</Kod>
+    <Aciklama>BAGAJ KAPAK NIKELAJI - OPEL ASTRA H 04-14 - |13350552|176135|1778540|93310734</Aciklama>
+    <Uretici>METTE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1900.80</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
