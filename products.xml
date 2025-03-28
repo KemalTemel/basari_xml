@@ -11700,19 +11700,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>458460-ELRING</Kod>
-    <Aciklama>KARTER CONTASI ALT - OPEL OMEGA B X20XEV - 652604|90502092</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>497.51</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>07K906433B-WISCO</Kod>
     <Aciklama>KRANK MILI SENSORU - VW GOLF5 6 JETTA AUDI TT2.5 - 07K906433B|1280113</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -66029,19 +66016,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>F026407023-BOSCH</Kod>
-    <Aciklama>YAG FILTRESI - VW GOLF PASSAT CADDY JETTA T5 T6 A3 LEON CRAFTER 1.6TDI 2.0TDI CAAA CAAB CAYB CAYC CAYD CBAA CBAB CFFB CFGB CKTB CKUB CLCA CDCA 10 &gt; - HU7008Z|F026407023|03L115562|03L115466|1111445</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>145.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>FOA306-FLAS</Kod>
     <Aciklama>TAVAN ANTEN CUBUGU KOBRA M6 - VW TOYOTA RENO FIAT OPEL - FOA306RYP</Aciklama>
     <Uretici>FLAS</Uretici>
@@ -94344,19 +94318,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0986TF0173-BOSCH</Kod>
-    <Aciklama>YAKIT FILTRESI - VW CADDY PASSAT GOLF5 A3 LEON 1.9TDI 2.0TDI BJB BKC BKD BLS BXE 06 &gt; - 3C0127177|E85KPD146|3C0127434|1130051|1457070008</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>310.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>22798556-WISCO</Kod>
     <Aciklama>TAMPON BRAKETI ON SAG - OPEL INSIGNIA A 13-17 - 1406593</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -119888,19 +119849,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3772.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VKBC20027-SKF</Kod>
-    <Aciklama>TEKER RULMANI ARKA ABSLI - FORD FIESTA 1.4 16V 98 &gt; - 2S411A154AA</Aciklama>
-    <Uretici>SKF</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>430.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -202090,19 +202038,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>KCF44012C-KRUGER</Kod>
-    <Aciklama>POLEN FILTRESI KARBONLU - VW GOLF5 PASSAT JETTA CADDY A3 LEON 04 &gt; - 1K1819653|1K1819653B|1K1819653A|1K0819422B|1K0819422|1K1819007</Aciklama>
-    <Uretici>KRUGER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>162.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>657823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA SCALA 19 &gt; - 657823031</Aciklama>
     <Uretici>WSC</Uretici>
@@ -215584,19 +215519,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111278</Kod>
-    <Aciklama>KAPI KOLU DIS ON SAG - VW POLO ALHAMBRA 1.4 1.9 96-10 - 6N0837207B|6N0837207B3FZ</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>321.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>118000</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - SEAT IBIZA GOLF7 1.0 1.2TSI 12 &gt; - 534049710|T39387|04E145299E|1111705|04C145299E|56393</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -217284,19 +217206,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>348.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>SA387-SARDES</Kod>
-    <Aciklama>HAVA FILTRESI - VW GOLF5 GOLF6 JETTA PASSAT CADDY A3 LEON 1.6TDI 1.9TDI 2.0TDI BJB BKD BKP CAYB CAYC 04 &gt; - 1K0129620D|1K0129620G|1111486|1K0129620F|1K0129620A</Aciklama>
-    <Uretici>SARDES</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>170.86</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221964,19 +221873,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>99.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>111278</Kod>
-    <Aciklama>KAPI KOLU DIS ON SAG - VW POLO ALHAMBRA 1.4 1.9 96-10 - 6N0837207B3FZ|6N0837207B</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1b9oOMUjxAE1I7LO2T05inmqkDo^LhKtQen9S0Yv22g=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>321.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
