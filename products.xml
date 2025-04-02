@@ -17251,19 +17251,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1268332-WISCO</Kod>
-    <Aciklama>KILOMETRE TELI 855 MM - OPEL VECTRA A ASTRA F 1.4 1.6 1.7 1.8 2.0 90 &gt; - 2280044|90510867|1268284|90347189</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>131.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1268350-WISCO</Kod>
     <Aciklama>KILOMETRE TELI 1240 MM - OPEL ASTRA F 1.4 1.6 1.8 95 &gt; - 1268182</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -18548,19 +18535,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>485.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>13252173-WISCO</Kod>
-    <Aciklama>KAPUT AMORTISORU 180N - OPEL INSIGNIA 09 &gt; - 1180016|610286|818313683|13252173</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>101.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48830,19 +48804,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>652077-WISCO</Kod>
-    <Aciklama>YAG KARTERI SENSORLU - OPEL ASTRA H ASTRA G Z16XEP - 55354722|2110467|55354721</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/AT5q985HZuJcojuMbHMoPBQs223IzKxWeHJRUfUtVBo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3075.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>652098-WISCO</Kod>
     <Aciklama>YAG KARTERI - OPEL ASTRA F VECTRA A 18SV C18NZ 18NV 20NE C18XE C20NE X20XEV 89-95 - 90200542</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -74021,6 +73982,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>752.07</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>03H121117A-WISCO</Kod>
+    <Aciklama>TERMOSTAT YUVASI - AUDI Q7 SKODA SUPERB 2 3.6 FSI VW PASSAT B6 3.2 FSI TOUAREG 3.6 V6 FSI 05 &gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/TLpuwTzjDWkI1p4WPgIAQu5mXF1fC3yfIA9XPPYTmps=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>902.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137610,19 +137584,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4808861-WP</Kod>
-    <Aciklama>FREN BALATASI ON - CHEVROLET ANTARA CAPTIVA 2.4 3.2 06 &gt; - 96626070|4817764|95459512|20789468|4810774|2200066</Aciklama>
-    <Uretici>WP</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>423.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4F0121251M-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING AT 677X439X32 MM - AUDI A6 2.0. 2.4. 3.2 04&gt; - 60236|4F0121251AA|4F0121251M|8MK376732|4F0121251AF|8MK376732501|60236A|501</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -141003,19 +140964,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1K0199295F-WISCO</Kod>
-    <Aciklama>ON TRAVERS YAN PARCA SOL - VW GOLF5 1.4 TSI 03-08 - 1K0199295E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1455.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>050103383-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI METAL - VW GOLF3-4 95-02 PASSAT B3/B4/B5 94-00 POLO 1.6 95-01 AUDI A4 B5 1.6 94-01 SEAT CORDOBA IBIZA 2 96-02  TOLEDO 1 1.6 96-99 - 100952015|629363|613342000</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -144016,19 +143964,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>921.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5C7941006ACAM-WISCO</Kod>
-    <Aciklama>FAR CAMI SAG - VW JETTA 11-17 - 5C7941752E|5C7941006H|5C7941006A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/DUH^Dwg1ckXMbXY7Mx8uYZ5MYj6USUHYpszT4zelwVw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>812.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -209705,19 +209640,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>28.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>AKE2486-AKERSAN</Kod>
-    <Aciklama>VITES TAMIR TAKIMI - OPEL CORSA C COMBO C - 9201029|758947|Y1512A</Aciklama>
-    <Uretici>AKERSAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>70.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
