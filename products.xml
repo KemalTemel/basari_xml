@@ -5265,19 +5265,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>03C145299J-WINPOWER</Kod>
-    <Aciklama>GERGI KUTUGU - VW GOLF5 6 JETTA A3 LEON 1.4TSI CAV 05 &gt; - 1110664|03C145299J|534037410</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>436.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>03C145299M-WINPOWER</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - VW GOLF5 JETTA PASSAT TIGUAN 1.4TSI BLG BMY 05 &gt; - |1250047|03C145299D|534039610|03C145299M</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -59965,19 +59952,6 @@
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/D7NM0s6AiSnx6zuRbEiPhIuU5IoF^D6PqNQN8qrKuxw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1018.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8E0615124A-WISCO</Kod>
-    <Aciklama>FREN KALIPERI ON SAG - AUDI A4 A6 PASSAT 97 05 - 8E0615124A|1200066</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/X22nxjEm6ohIt63AMxS71TBgSM1JJsQavdOvhnYPVR4=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1018.97</Fiyat>
@@ -210238,6 +210212,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>84.02</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5F0945208F-WISCO</Kod>
+    <Aciklama>STOP DIS SAG LEDLI - SEAT LEON 17 &gt; - 5F0945208F</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2587.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
