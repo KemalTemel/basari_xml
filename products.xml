@@ -56942,19 +56942,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>806117-WISCO</Kod>
-    <Aciklama>YAKIT DEPO HORTUMU - OPEL VECTRA A ASTRA F KADET E 92 &gt; - 90200528|806117|18287|21444|Y10589|2110473</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>58.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>807314-WISCO</Kod>
     <Aciklama>BAGLANTI HORTUMU - OPEL VECTRA A-B OMEGA B ASTRA G 95 &gt; - Y11594</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -130226,19 +130213,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3AA8546629B9-WISCO</Kod>
-    <Aciklama>TAMPON IZGARASI SAG SISLI TEK NIKELAJLI - VW PASSAT B7 11-14</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/j1qrC1Um90J5dXQZxjTlfAv0T6e5od2JyDjquXjNYqk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>355.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>14461-BC400-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 523X174X30 - NISSAN MICRA 3 1.5 DCI 03 &gt; - 96307|00|14461BC400|307110019</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -154286,6 +154260,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>64.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>166335751T-WISCO</Kod>
+    <Aciklama>CEKI DEMIR KAPAGI ARKA - OPEL CORSA F 20-</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/r86adIKMja5FRI1AuWVu3OvPkCRBQBH8mIEtubOwa^k=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>161.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -187855,19 +187842,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>00199470-ORAN</Kod>
-    <Aciklama>PANEL ON - SEAT IBIZA 93-02 - 6K0805591F|6K0805591T</Aciklama>
-    <Uretici>ORAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>3455.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>00606011-ORAN</Kod>
     <Aciklama>CAMURLUK ON SOL - OPEL VIVARO C 19 &gt; - 9808757880|SU001A4222</Aciklama>
     <Uretici>ORAN</Uretici>
@@ -198967,19 +198941,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1099.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1208063-WINPOWER</Kod>
-    <Aciklama>ATESLEME BOBINI - OPEL ASTRA F CORSA B VECTRA B 1.6 93 &gt; - 1103872|2260036|10457075|DS1000012B1|1103905|20160|1104003</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>727.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
