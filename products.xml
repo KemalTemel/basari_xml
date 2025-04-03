@@ -188323,6 +188323,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>02/7043-R2A</Kod>
+    <Aciklama>TAMPON ON SISLI SPOYLERLI ASTARLI TUV BELGELI - OPEL VECTRA B 96 &gt; - 1400165|1400523|027043|90512523</Aciklama>
+    <Uretici>R2A</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1732.12</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>02/7055-R2A</Kod>
     <Aciklama>TAMPON ON SISLI GRI ASTARLI - OPEL ASTRA G DIZEL 98-04 - 9118776|1400197S|027055</Aciklama>
     <Uretici>R2A</Uretici>
@@ -199097,19 +199110,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>599.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6460903137-WISCO</Kod>
-    <Aciklama>EMME MANIFOLDU - MERCEDES-BENZ SPRINTER 3.5T 313 CDI 06-16 - 6460901637,A6460901637,A6460903137</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/11FpSXgdZ6hf2nKmb3BntG0iQoTz0DUNOFc6x9vAbl0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2042.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -211863,6 +211863,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>314.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>01151-ORJIN</Kod>
+    <Aciklama>Z ROT ON - RENAULT TRAFIC II VIVARO LAGUNA LAGUNA 01 &gt; - 4408904|5461600QAC|8200002870</Aciklama>
+    <Uretici>ORJIN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>179.91</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>XGB44507R02-SNR</Kod>
+    <Aciklama>TEKER RULMANI ON 42X80X39 - RENAULT MEGANE FLUENCE DUSTER CLIO DOKKER LODGY 10 &gt; - |402107049R|402108022R|402108142R</Aciklama>
+    <Uretici>SNR</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>975.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
