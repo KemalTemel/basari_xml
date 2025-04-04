@@ -219549,4 +219549,17 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Fiyat>493.36</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
+  <Urun>
+    <Kod>OP18112-AKD</Kod>
+    <Aciklama>VITES TELI - OPEL INSIGNIA A 1.4 11 &gt; - 55488642|55499538|55560991</Aciklama>
+    <Uretici>AKD</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1718.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
 </Products>
