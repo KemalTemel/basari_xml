@@ -6682,6 +6682,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>084141165B-WISCO</Kod>
+    <Aciklama>DEBRIYAJ RULMANI - VW POLO CLASSIC FABIA IBIZA 1.4 96 &gt; - 084141165B|1120141|101768546</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Ub7xhGPwvs^atzYXp3YkejBqiK7F215Vy3X6jiWYvOs=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>160.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1226145-WISCO</Kod>
     <Aciklama>SINYAL SOL - OPEL VECTRA A 93-95 - 1226147|1226145|90444203|00|2240083|90487605</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -8433,7 +8446,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rtZN^NdRscuy7gDBPkqY3qF6^gSg4Iz0oxWKU6fBees=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>551.35</Fiyat>
+    <Fiyat>454.06</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -13078,19 +13091,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>55700922-WISCO</Kod>
-    <Aciklama>FREN DISKI ON TEK - OPEL CORSA D CORSA E ADAM 1.3CDTI 06 &gt; - 207628|28178|BS7666C|DF4737|55700922|230859C|0986479B90|5569025|55700923|70928178|93188918|2200048|672623|BG3944|6155216045|197045</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>2</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>467.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>079103051G-WISCO</Kod>
     <Aciklama>KRANK KECESI - VW TOUAREG A4 A6 A8 4.2 - 079103051G|55X72X8|1280086</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -15947,7 +15947,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/qN9akff9UZVLxqNt8ntBZ3IB1^KwBwUorwrhTnLenCo=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>421.60</Fiyat>
+    <Fiyat>454.06</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -23488,6 +23488,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1459.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>764-DK</Kod>
+    <Aciklama>MANIFOLD ARA HORTUMU - OPEL CORSA B ASTRA F VECTRA B 1.4 1.6 16V 94-02 - 838276|Y1536|90470097</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>70.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34953,7 +34966,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/DyD^WxTKNURwVLC20syuoguEMk1encrRKERpRyrgNM8=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>70.20</Fiyat>
+    <Fiyat>76.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -38906,6 +38919,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1167.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1605103-WINPOWER</Kod>
+    <Aciklama>FREN BALATASI ARKA - OPEL INSIGNIA 09 &gt; - GDB1784|16586609|1605367|95515497|22846363|13365958|1605130|39021482|13237765|22846359|542027|13343450|1605103|1605221|2442101|1605319|11|2200005</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>204.31</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -44326,7 +44352,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>187.75</Fiyat>
+    <Fiyat>204.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -47524,7 +47550,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>97.30</Fiyat>
+    <Fiyat>89.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -51181,7 +51207,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/433aSsgk53BBBgxQ5thYhjBLXhriNYuY6sL^4R4zxiE=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>551.35</Fiyat>
+    <Fiyat>454.06</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -53027,7 +53053,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/OvpR4Q9YXBaERTsa1Q387tCdccmziNOrWYwPOw9OHNU=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1054.02</Fiyat>
+    <Fiyat>1297.26</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -66520,7 +66546,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -67066,7 +67092,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Pdf5Kb3zyM1flo3rdeMToPLiUyjd^LnWX5YpAoHLPCQ=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>518.90</Fiyat>
+    <Fiyat>535.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -70030,7 +70056,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>54.49</Fiyat>
+    <Fiyat>45.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -84031,7 +84057,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/mPBrn9CpM6c96JAt698s3gElS71J6KGD9RJ8LR0Uz7I=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>330.88</Fiyat>
+    <Fiyat>389.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -84695,6 +84721,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>437.83</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>ZN1642-ZEN</Kod>
+    <Aciklama>MARS DISLISI - FORD TRANSIT2.2 TDCI CITROEN JUMPER LAND ROVER PEUGEOT BOXER 2.2 06&gt; - 1669558|12BOS1642|1006210128|1385378|1574338|1006210146|1006209824|1372739</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>221.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -104810,6 +104849,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>535010110-INA</Kod>
+    <Aciklama>ALTERNATOR KASNAGI - MITSUBISHI COLT1.5D 05-13 - 6401500960|6401500160|6681550615|6401500760|6401500360|6401500560|MN960267|6401500660</Aciklama>
+    <Uretici>INA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>700.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>31338308-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 716X381X16 - VOLVO XC90 2.0 D5 14&gt; - 31686413|32252577|31439826|31338308|940743</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -106366,7 +106418,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -120941,7 +120993,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -124387,6 +124439,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>163.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3G9035534-OEM</Kod>
+    <Aciklama>KONTROL UNITE MODULU - VW PASSAT B8 GOLF7 POLO 20 &gt; - 3G9035534</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1228.98</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -129846,7 +129911,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>105.39</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -131744,7 +131809,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>794.59</Fiyat>
+    <Fiyat>972.95</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137906,7 +137971,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -140389,7 +140454,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>9729.53</Fiyat>
+    <Fiyat>7459.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -141599,6 +141664,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>199.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>172-DK</Kod>
+    <Aciklama>KARTER TAPASI - DAEWOO GENERAL MOTORS OPEL SAAB - 90409376|9275631|450242|652491|652475</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>18.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -156158,7 +156236,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -161606,19 +161684,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>793.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VM-359AL-VIEWMAX</Kod>
-    <Aciklama>AYNA KOMPLE SOL MANUEL BOYASIZ TIP GENIS ACILI - SEAT IBIZA 2 (6K1) 99-02/ CORDOBA (6K1) 99-02 - |6K857507N|6K1857501BK01C|VM359AL|6K857507N01C</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>764.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -168759,6 +168824,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>2H0611053-WINPOWER</Kod>
+    <Aciklama>FREN SILINDIRI - VW AMAROK 2.0 TSI 10 &gt;</Aciklama>
+    <Uretici>WINPOWER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>204.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5559XS-WISCO</Kod>
     <Aciklama>TRIGER KAYISI 141X250 - VW GOLF4 BORA A3 TOLEDO CADDY 1.9TDI AGP AGR AHF ALH AQM ASV ASY AYQ 98 &gt; - CT1044|05559WP|038109119R|038109119M</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -171342,7 +171420,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>121.62</Fiyat>
+    <Fiyat>137.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179792,7 +179870,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/1BMVudVlpqWx3QeVGqhQcLgDEYVtxKB4V1N552PjZhk=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1427.01</Fiyat>
+    <Fiyat>1394.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179974,7 +180052,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>113.52</Fiyat>
+    <Fiyat>121.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -189634,19 +189712,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1642.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>02/7043-R2A</Kod>
-    <Aciklama>TAMPON ON SISLI SPOYLERLI ASTARLI TUV BELGELI - OPEL VECTRA B 96 &gt; - 1400165|1400523|027043|90512523</Aciklama>
-    <Uretici>R2A</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1768.80</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -204099,7 +204164,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim></Resim>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/bKkWaFrGbF0ytxaEi9WHV4qdEbQRNz6euY07Wf9^gDk=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1426.78</Fiyat>
@@ -204190,7 +204255,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim></Resim>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/R6GKMpP5KCnLoxNrzhifqBmhRHcQUB1Su3kR839JLVU=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>581.60</Fiyat>
@@ -207612,7 +207677,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1864.84</Fiyat>
+    <Fiyat>1540.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216596,6 +216661,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>57.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>4891206006-FROW</Kod>
+    <Aciklama>SALINCAK SAG - MERCEDES BENZ W205 C CLASS 13 &gt; - 4891206006</Aciklama>
+    <Uretici>FROW</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>690.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
