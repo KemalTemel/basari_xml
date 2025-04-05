@@ -34472,7 +34472,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>571.80</Fiyat>
+    <Fiyat>635.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -34551,19 +34551,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>56.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>815037-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - OPEL ASTRA G VECTRA C CORSA C 1.6 95 &gt; - 2130013|815037|9128644|00|9120218</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vQGHdVp3bbN48zZu5drA5ccu6vt57KrLtDnce07P18w=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>233.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -39023,19 +39010,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>243.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1226008-WISCO</Kod>
-    <Aciklama>SINYAL SAG SARI - OPEL ASTRA F 91-98 - 1226059|4421510RUEY|90421896|1226008|90341864</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/E02GMfFsNFAdmhHD9HMbSywFVarKTljW2RphaQt04a4=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>111.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -44119,19 +44093,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>89.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>030103603Q-WISCO</Kod>
-    <Aciklama>YAG KARTERI SENSORLU - SEAT LEON VW GOLF4 BORA 1.6 BCB AZD 00 &gt; - 030103603P|030103603Q|1111567|030103603R</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/AhsIMC4n^JcLzt68ishEEQ8KJOULZZzJHpIxdK20z7o=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1006.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -78497,19 +78458,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6341171-WISCO</Kod>
-    <Aciklama>FAN MOTORU DAVLUMBAZLI (390 MM-3 FIS-7 KANAT) - OPEL ASTRA H ZAFIRA 1.4 1.6 1.8 Z14XEP Z16XE Z16XEP X18XE A18XER Z18XER 04 &gt; - 1314556|13147274</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1604.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>13491196-WISCO</Kod>
     <Aciklama>PANJUR CERCEVESI NIKELAJLI - OPEL INSIGNIA B 18-20</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -91134,6 +91082,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0AM927769D-LUK</Kod>
+    <Aciklama>DQ200 MEKATRONIK DSG SANZUMAN KARTI - VW AUDI SEAT SKODA</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>29175.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>8W0121251M-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT-AT 470.5X720 MM - AUDI A4 A5 3.0 TDI 15 &gt; - 8W0121251H|22|1111955|8W0121251AA|606462</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -98176,7 +98137,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/aJ08HIYAguX076b^B62fpKlj8zl8mYHuCxDg7bCqcfQ=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>32.32</Fiyat>
+    <Fiyat>34.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -101466,6 +101427,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>109.41</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1605624-WP</Kod>
+    <Aciklama>FREN BALATASI ON - OPEL INSIGNIA 16 INC 1.6 1.8 09&gt; - 2200004|1605185|13237750|1639382880|95514525|1605624|1605236|22959105</Aciklama>
+    <Uretici>WP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>408.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -130175,6 +130149,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>701698525A-WP</Kod>
+    <Aciklama>FREN BALATASI KAMPANA - VW T4 1.9D 2.0 2.5 2.4D 2.5TDI 2.8 1990&gt; - 701698525|701698525A|701698525B</Aciklama>
+    <Uretici>WP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>599.73</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>PCC000850-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT 577X628X32 - LAND ROVER RANGE ROVER 3 (L322) 4.4 02-12 - PCC000850|64314</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -140844,7 +140831,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ryUh1UtWWX0KJTwB0tSPIA^LfmX3iLajofD3UEb2ibQ=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>32.32</Fiyat>
+    <Fiyat>34.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -167118,6 +167105,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2291.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>96245178-WP</Kod>
+    <Aciklama>FREN BALATASI ON - CHEVROLET EPICA LACETTI NUBIRA REZZO 1.4 1.6 2.0 2.0 D 2005&gt; - 96253382|P10006|96495227|S4510019|96253367|96446742</Aciklama>
+    <Uretici>WP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>393.07</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206082,6 +206082,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>7PK3170-WISCO</Kod>
+    <Aciklama>V KAYISI - FORD TRANSIT RANGER 2.2TDCI 11 &gt; - CC1Q6C301FA|1750991</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>486.26</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>96545561-WISCO</Kod>
     <Aciklama>TAMPON ARKA SENSORSUZ - CHEVROLET LACETTI J20 HB 03- - 96545561</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -211070,7 +211083,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>5558.72</Fiyat>
+    <Fiyat>6176.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -211096,7 +211109,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1579.50</Fiyat>
+    <Fiyat>1755.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218485,7 +218498,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1Z0941585-WISCO</Kod>
-    <Aciklama>FAR BRAKETI ALT SOL - SKODA OCTAVIA 2 04-08 - 1Z0941586A</Aciklama>
+    <Aciklama>FAR BRAKETI ALT SOL - SKODA OCTAVIA 2 04-08 - 1Z0941586A|1Z0941585A</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -219200,7 +219213,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1Z0941585A-WISCO</Kod>
-    <Aciklama>FAR BRAKETI ALT SAG - SKODA OCTAVIA 2 04-08</Aciklama>
+    <Aciklama>FAR BRAKETI ALT SAG - SKODA OCTAVIA 2 04-08 - 1Z0941586A</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
