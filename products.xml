@@ -7059,19 +7059,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1341042.75.71-WISCO</Kod>
-    <Aciklama>HARARET MUSURU - OPEL VECTRA B X20XEV 95 &gt; - 2110598|90506498</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>89.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>025251509A-METPART</Kod>
     <Aciklama>EGZOST MANIFOLD CONTASI - VW T3 SCIROCCO 1.6 1.8 2.1 85 &gt; - 025251509A</Aciklama>
     <Uretici>METPART</Uretici>
@@ -32561,7 +32548,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1033.47</Fiyat>
+    <Fiyat>859.89</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -49479,7 +49466,7 @@
   </Urun>
   <Urun>
     <Kod>1235095-WISCO</Kod>
-    <Aciklama>EKSANTRIK MIL POZISYON SENSORU - OPEL ASTRA J ANTARA INSIGNIA CHEVROLET CAPTIVA Z2.4XED Z2.4XE A2.4XE 06 &gt; - 4814188|12628347|12578517|12646783|2110821|4805105|00|12655420|1235116</Aciklama>
+    <Aciklama>EKSANTRIK MIL POZISYON SENSORU - OPEL ASTRA J ANTARA INSIGNIA CHEVROLET CAPTIVA Z2.4XED Z2.4XE A2.4XE 06 &gt; - 4814188|12628347|12578517|12646783|2110821|4805105|00|12655420|1235116||917216</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -91299,7 +91286,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>29175.36</Fiyat>
+    <Fiyat>25933.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113180,7 +113167,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>546.14</Fiyat>
+    <Fiyat>529.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -131046,6 +131033,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>004190509-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - FORD FIESTA KA PUMA 1.0 1.4 95 &gt; - 1328012|005190909|1219398|1328008|1041766|1219393|1202222|1206625|1013684|1087001</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1489.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6R0805588H-WISCO</Kod>
     <Aciklama>PANEL - VW POLO 5 (6R1, 6C1) GTI 09- - 6R0805588AC</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -137361,6 +137361,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>534.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>623316000-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW T5 2.0 AXA 03-15 - 02A141165A|02A141165M|826799|006228900|06A141032C|02A141165D|623316000||02A141165G|02A141165B|02A141165E|3000951262|06A141026C</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>10144.01</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -189321,7 +189334,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>17.53</Fiyat>
+    <Fiyat>102.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -210966,7 +210979,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>86.11</Fiyat>
+    <Fiyat>68.26</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -211200,7 +211213,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>221.63</Fiyat>
+    <Fiyat>51.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219602,6 +219615,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>25326-FEBI</Kod>
+    <Aciklama>ZINCIR PALETI - BMW E36 E46 E34 E39 E60 E61 E38 E85 E53 M50 M52 M54 90 &gt; - 11311726471|11311726480|1726471|1726480|20090009|502603|502603001</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>181.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>42219-GUA</Kod>
     <Aciklama>SOGUTMA BORUSU - RENAULT KANGOO - 6001543538|7700115019|7700869985|A1702RYP</Aciklama>
     <Uretici>GUA</Uretici>
@@ -219667,6 +219693,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>754K5321-METTE</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZ KAPAGI ON SOL SAG - VW T6 T7 15 &gt; - |7E0809967</Aciklama>
+    <Uretici>METTE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>43.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>WA2683-WEGNA</Kod>
     <Aciklama>HAVA FILTRESI - VW GOLF3 VENTO 1.8 2.0 2.8 92 &gt; - 1110172|13329|1H0129620</Aciklama>
     <Uretici>WEGNA</Uretici>
@@ -219677,6 +219716,253 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>120.30</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>51148132375-ITL</Kod>
+    <Aciklama>KAPUT ARMASI ON - BMW E21 E30 E36 E46 E28 E34 E39 - 51148132375</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>170.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1C0959455F-WSCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZSIZ (370 MM) - VW NEW BEETLE 2.5 05-10 - 1C0959455E|1C0959455F</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1458.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>55454-RUVILLE</Kod>
+    <Aciklama>TRIGER GERGI RULMANI - VW POLO FELICIA CADDY 1.7 1.9D 94 &gt; - 028109243D|028109243G|531027930|55454|F234390|VKM11015</Aciklama>
+    <Uretici>RUVILLE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>409.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5Q0919051AD-ITL</Kod>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI Q3 TIGUAN KODIAQ 1.4TSI 1.5TSI 2.0TSI 16 &gt; - 5Q0919051AD|5QG919051C|5QG919051|5QG919051E</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1842.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8200074008-ITL</Kod>
+    <Aciklama>SIS FARI SAG SOL - RENAULT MEGANE KANGOO LOGA LAGUNA 08 &gt; - I6208Q3|620662||6710027|620639|8200074008</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>107.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>A2720505347-WISCO</Kod>
+    <Aciklama>EKSANTRIK DISLISI EMME - MERCEDES-BENZ W203 W204 CL203 S204 C209 A209 W211 W212 W463 X164 W164 W221 W251 SPRINTER VITO 05 &gt; - 427110510|A2720502347|A2720504647||175351|50007995|A2720502447|A2720505347|33102868|A2720504447</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1458.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>018129-INWELLS</Kod>
+    <Aciklama>SILECEK TAKIMI ON - VW PASSAT 02 &gt; - |3B1955425|3B1955426</Aciklama>
+    <Uretici>INWELLS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>68.26</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>04E109601B-OEM</Kod>
+    <Aciklama>SUBAP VALFI EMME (28,5x5x110,3mm) 8LI SET - VW CADDY 4/ GOLF 6-7/ JETTA 4/ PASSAT/ POLO 5-6/ AUDI A1 (8X1)/ A3 (8V1)/ SEAT LEON (5F8)/ IBIZA (KJ1) 1.0-1.4 TSI (CHZL-DKLA-CHZB-CHZC-CZDA-DKRF) - 04E109601B|331158</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>682.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1243945-00</Kod>
+    <Aciklama>AYNA SINYALI SAG - SEAT LEON 13-20 &gt; - 5F0949102A|5F1857508N|5F0857522A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>218.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>A2720505247-WISCO</Kod>
+    <Aciklama>EKSANTRIK DISLISI EMME - MERCEDES-BENZ W203 W204 CL203 S204 C209 A209 W211 W212 W463 X164 W164 W221 W251 SPRINTER VITO 05 &gt; - 427110410|A2720501547|A2720504547|33102867|175350|A2720505247||A2720504347|50007994|A2720502747|410412</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1458.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2617571956-OEM</Kod>
+    <Aciklama>CIVATA - BMW E81 E46 X3 X6 - |2617571956</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>85.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1243943-00</Kod>
+    <Aciklama>AYNA SINYALI SAG - SEAT LEON 19 &gt; - 5FA949102|5FA857521A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>218.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>03C109601L-OEM</Kod>
+    <Aciklama>SUBAP VALFI EMME - VW PASSAT POLO TOURAN 1.4TSI 09 &gt; - 036109601AE|036109601AK|036109601K|03C109601G|03C109601L|03C109601Q|03C109601R|03C109612|6028|6029</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>682.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1243944-00</Kod>
+    <Aciklama>AYNA SINYALI SOL - SEAT LEON 13-20 &gt; - 5F0949101A|5F0857521A|5F1857507N</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>218.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6RU919051A-ITL</Kod>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI - SKODA RAPID 1.2 1.612-15 - 6RF919051D|6RU919051|6RU919051D</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1228.42</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1243941-00</Kod>
+    <Aciklama>STOP IC SAG - SEAT LEON 17 &gt; - 5F0945308J|5F0945308N</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2188.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>04E109611J-OEM</Kod>
+    <Aciklama>SUBAP VALFI EGZOST (25x5x110,1mm) 8LI SET - VW CADDY 4/ GOLF 6-7/ JETTA 4/ PASSAT/ POLO 5-6/ AUDI A1 (8X1)/ A3 (8V1)/ SEAT LEON (5F8)/ IBIZA (KJ1) 1.0-1.4 TSI (CHZL-DKLA-CHZB-CHZC-CZDA-DKRF) - 04E109611J|331159</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>682.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>55490-RUVILLE</Kod>
+    <Aciklama>TRIGER GERGI RULMANI - VW PASSAT AUDI A8 A6 A4 2.4 96&gt; - 078109243Q|078109243R|078109243S|108174001</Aciklama>
+    <Uretici>RUVILLE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>597.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1243940-00</Kod>
+    <Aciklama>STOP LAMBASI ILAVE (3. STOP) - VW T5 T6 03-19 &gt; - 7H0945097B|7E0945097E|7E1945097|7E0945097B|7E0945097HS</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>145.89</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
