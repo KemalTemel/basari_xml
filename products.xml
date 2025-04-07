@@ -6422,19 +6422,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1216139-WISCO</Kod>
-    <Aciklama>FAR SAG - OPEL CORSA C 03 &gt; - 93173254|20|2|6065|088343|206065252|25</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/SlcgEfWQwO^MZttIzMK2yL14ys0K7GKlU0JbFvf^gwg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1361.52</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>078121601B-WISCO</Kod>
     <Aciklama>EK SU POMPASI - AUDI A6 QUATTRO ALLROAD AUDI P - |078121601B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -10348,19 +10335,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1223978-WISCO</Kod>
-    <Aciklama>STOP SAG - OPEL ASTRA F 94-98 - 2240026|90510619</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>648.35</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>150380-ELRING</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI 1 KERTIK - VW GOLF5 PASSAT2.0TDI AZV BKD BKP BMA BMN BMR BUZ BVD BVE BWV 04 &gt; - 3003024900|03G103383AA|03G103383|613653000|H8004500</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -10813,19 +10787,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>95.20</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1604314-WISCO</Kod>
-    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 5X110 140CAP ABS - OPEL VECTRA C 02 &gt; - 9400137|2725|R153.41|1604314|19|93170611</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rZriTQS7Co60jB2ja2j6mOHJXJCmocQFQQzZAlKDOE0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>991.95</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -26910,19 +26871,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6850512-WISCO</Kod>
-    <Aciklama>KLIMA BASINC MUSURU - OPEL CORSA C ASTRA G H MERIVA01&gt; - 9131721|2280033|22601618</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>331.64</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5607474K-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI KLINGRIT - OPEL VECTRA B ASTRA G ZAFIRA A VECTRA C Z22SE 96 &gt; - 903170143|3702605|2110103|206517|807801|H8047600|5607474|CH2567|1702505|71739387|414192P|24444091|613433000</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -36332,19 +36280,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>72.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>328001-WINPOWER</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X115 146X30DIS ABS - OPEL ASTRA J CRUZE 300 MM - 328021|2859|13502829|328001|853024128|19|9330019|13583479|R153.67</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>783.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48947,7 +48882,7 @@
   <Urun>
     <Kod>1100012-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL ZAFIRA C 12 &gt; - 2230170|13355187</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -48960,7 +48895,7 @@
   <Urun>
     <Kod>1100013-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ZAFIRA C 12 &gt; - 13355188|1100013|2230142</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -48973,7 +48908,7 @@
   <Urun>
     <Kod>1100030-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL ASTRA J 10 &gt; - 1100000|13390002|7562102|2230155|13302207</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -48986,7 +48921,7 @@
   <Urun>
     <Kod>1100031-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ASTRA J 10 &gt; - 7562101|2230138|13390003|1100001|13302208</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -48999,7 +48934,7 @@
   <Urun>
     <Kod>1100067-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL MOKKA 13 &gt; - 1100037|42372138|25981231|1100067</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -49103,7 +49038,7 @@
   <Urun>
     <Kod>1160007-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL TIGRA B 04 &gt; - 93164195|2230186</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -54294,7 +54229,7 @@
   <Urun>
     <Kod>2E0821305-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW CRAFTER 06 &gt; - 1231145|2E0821305</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -54307,7 +54242,7 @@
   <Urun>
     <Kod>2E0821306-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW CRAFTER 06 &gt; - 1231116|2E0821306</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -54346,7 +54281,7 @@
   <Urun>
     <Kod>2H0823033-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW AMAROK 10 &gt; - 2H0823033CGRU|2H6823033|2H0823033GGRU|2H0823033A|1231168|2H6823033GRU|2H0823033C|2H0823033DGRU|2H0823033|2H6823033B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -54996,7 +54931,7 @@
   <Urun>
     <Kod>39125437-WSC</Kod>
     <Aciklama>CAMURLUK SOL (TAIWAN) - OPEL INSIGNIA B /BK REGAL 17 - 39125437</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -55009,7 +54944,7 @@
   <Urun>
     <Kod>39125438-WSC</Kod>
     <Aciklama>CAMURLUK SAG (TAIWAN) - OPEL INSIGNIA B /BK REGAL 17 - 39125438</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -55022,7 +54957,7 @@
   <Urun>
     <Kod>3A0821021B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW PASSAT 93 &gt; - 3A0821021B|1231123|3A0821021</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -55035,7 +54970,7 @@
   <Urun>
     <Kod>3A0821022A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW PASSAT 93 &gt; - 3A0821022A|1231110|3A0821022</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -55074,7 +55009,7 @@
   <Urun>
     <Kod>3AA821021B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL  (TAIWAN) - VW PASSAT 11 &gt; - 3AA821021B|3AA821021|3AA821021A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -56036,7 +55971,7 @@
   <Urun>
     <Kod>42334475-WSC</Kod>
     <Aciklama>CAMURLUK SAG (TAIWAN) - OPEL MOKKA X/BK ENCORE 16 - 42476674|42334475</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -56049,7 +55984,7 @@
   <Urun>
     <Kod>42334476-WSC</Kod>
     <Aciklama>CAMURLUK SOL (TAIWAN) - OPEL MOKKA X/BK ENCORE 16 - 42334476|42476673</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -56062,7 +55997,7 @@
   <Urun>
     <Kod>42507703-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL MOKKA X 16 &gt; - 42522773|42554956</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -56205,7 +56140,7 @@
   <Urun>
     <Kod>4803482-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ANTARA A (L07) 06-17 - 96661149</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -59182,7 +59117,7 @@
   <Urun>
     <Kod>5JA821021B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT TOLEDO 13 &gt; - 1230519|5JA821021C|5JA821021B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -60183,7 +60118,7 @@
   <Urun>
     <Kod>5TA821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TOUARAN 16 &gt; - 1231127|5TA821105</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -60196,7 +60131,7 @@
   <Urun>
     <Kod>5TA821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW TOUARAN 16 &gt; - 1231113|5TA821106</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -60209,7 +60144,7 @@
   <Urun>
     <Kod>5TA823031E-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW TOUARAN 16 &gt; - 5TA823031E|5TA823031D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -61469,7 +61404,7 @@
   <Urun>
     <Kod>6F0821105A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT IBIZA 18 &gt; - 1231201|6F0821105A|6F0821105B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -61482,7 +61417,7 @@
   <Urun>
     <Kod>6F0821106A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT IBIZA 18 &gt; - 6F0821106A|6F0821106B|1231202</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -61495,7 +61430,7 @@
   <Urun>
     <Kod>6F0823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT IBIZA 18 &gt; - 6F0823031A|1231200|6F0823031B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -62127,19 +62062,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>194.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6PK1903-WISCO</Kod>
-    <Aciklama>V KAYISI KLIMALI - OPEL VECTRA A B INSIGNIA KLIMALI 2.0 16V 2.0DTH 96 &gt; - 1340272|1340614|1340647|1340742|1340273|55354680|1903K6|1340608|24413292|1340625|1340663</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>195.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -64069,7 +63991,7 @@
   <Urun>
     <Kod>7M0821105AL-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW SHARAN 96 &gt; - 7M0821105AA|7M0821105M|7M0821105AJ|M0821105AB|7M0821105AK|7M0821105AF|7M0821105AE|1231131|7M0821105AC|7M0821105AG|7M0821105AL|7M0821105AH|7M0821105S</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64082,7 +64004,7 @@
   <Urun>
     <Kod>7M0821106AK-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW SHARAN 96 &gt; - 7M0821106AK|7M0821106T|7M0821106AG|7M0821106AB|7M0821106M|7M0821106AD|7M0821106AF|7M0821106AJ|7M0821106AA|7M0821106AE|7M0821106AH|1231104|7M0821106AC</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64108,7 +64030,7 @@
   <Urun>
     <Kod>7M3821106K-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW SHARAN 01 &gt; - 7M3821106K|7M3821106F|1231105|7M3821106J</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64121,7 +64043,7 @@
   <Urun>
     <Kod>7M3823031F-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW SHARAN ALHAMBRA 01 &gt; - |7M3823031F|7M3823031G|7M3823031J|7M3823031H</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64134,7 +64056,7 @@
   <Urun>
     <Kod>7N0821021B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW SHARAN 11 &gt; - 7N0821021A|1231133|7N0821021|7N0821021B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64147,7 +64069,7 @@
   <Urun>
     <Kod>7N0821022B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW SHARAN 11 &gt; - 7N0821022|7N0821022B|1231106|7N0821022A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -64160,7 +64082,7 @@
   <Urun>
     <Kod>7N0823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW SHARAN 11 &gt; - 7N0823031|1231176|7N0823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -67423,7 +67345,7 @@
   <Urun>
     <Kod>6101346-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL VECTRA C 06 &gt; - 93185701</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -67527,7 +67449,7 @@
   <Urun>
     <Kod>95332065-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - CHEVROLET AVEO SEDAN 07-12 - 96648004|96804643</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -67761,7 +67683,7 @@
   <Urun>
     <Kod>1U0821105B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA OCTAVIA 97-11 - 1U0821105|1U0821105A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -67886,19 +67808,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>680.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6R0945096A-WISCO</Kod>
-    <Aciklama>STOP SAG - VW POLO 09-14 - 6R0945096AF|6R0945096AH|6R0945096J|6R0945096C|6R0945096G|6R0945096L|6R0945096N</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/40a00QzROt9GKzX5UcqF5HgKE1LZVxZGsYiWbtNVwPc=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>753.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -68034,7 +67943,7 @@
   <Urun>
     <Kod>5F0821022G-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT LEON 13 &gt; - 5F0821022J|5F0821022H</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -69945,7 +69854,7 @@
   <Urun>
     <Kod>2G0823031H-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW POLO 18-20 - 2G0823031J</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -70205,7 +70114,7 @@
   <Urun>
     <Kod>8P0821106F-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 03-08 - 8P0821106C|8P0821106D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -70374,7 +70283,7 @@
   <Urun>
     <Kod>6Y0805303D-WSC</Kod>
     <Aciklama>PANEL SACI ON UST (TAIWAN) - SKODA FABIA 00-08 - 6Y0805303C|6Y0805303B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -70426,7 +70335,7 @@
   <Urun>
     <Kod>5L0821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA YETI 10-13</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -70751,7 +70660,7 @@
   <Urun>
     <Kod>6101339-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL ASTRA H 04 &gt; - 93178666</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -71817,7 +71726,7 @@
   <Urun>
     <Kod>5P0823031B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT ALTEA TOLEDO 04 &gt; - 5P0823031|5P0823031C|5P0823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -72012,7 +71921,7 @@
   <Urun>
     <Kod>8P0821105F-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A3 03-08 - 8P0821105D|8P0821105C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -72493,7 +72402,7 @@
   <Urun>
     <Kod>6N0823031H-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW POLO 00-02 - 6N0823031G</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -73104,7 +73013,7 @@
   <Urun>
     <Kod>6N0853651E01C-WSC</Kod>
     <Aciklama>PANJUR (TAIWAN) - VW POLO 00-02 - 6N0853651H01C|6N0853651E</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -75314,7 +75223,7 @@
   <Urun>
     <Kod>1M0823033D-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT LEON TOLEDO 00 &gt; - 1M0823033|1M0823033B|1M0823033A|1M0823033C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -76354,7 +76263,7 @@
   <Urun>
     <Kod>6102358-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL VECTRA C 06 &gt; - 93185702</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -76939,7 +76848,7 @@
   <Urun>
     <Kod>6N0805594M-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW POLO MANUEL KLIMASIZ BENZINLI 99 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -77394,7 +77303,7 @@
   <Urun>
     <Kod>6U0821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA FELICIA 94-01 - 98901241</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -77693,7 +77602,7 @@
   <Urun>
     <Kod>1400164-WSC</Kod>
     <Aciklama>TAMPON ON SISSIZ ASTARLI IZGARALI (TAIWAN) - OPEL VECTRA B 96 &gt; - 00|90512522|2230010</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -78785,7 +78694,7 @@
   <Urun>
     <Kod>7E0821102A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW T7 15 &gt; - 7E0821102B|7E0821102</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -78876,7 +78785,7 @@
   <Urun>
     <Kod>8W0821106A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A4 16-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -80020,7 +79929,7 @@
   <Urun>
     <Kod>7L6821102N-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW TOUAREG 07-10 - 7L6821102M</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -80137,7 +80046,7 @@
   <Urun>
     <Kod>701823033H-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T4 91-96 - 701823033D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -80150,7 +80059,7 @@
   <Urun>
     <Kod>13277182-WSC</Kod>
     <Aciklama>PANEL SACI ON UST (TAIWAN) - OPEL INSIGNIA A 09 &gt; - 1312341|0180319|0180208|1312316</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -80683,7 +80592,7 @@
   <Urun>
     <Kod>7L6821101P-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TOUAREG 07-10 - 7L6821101N</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -81112,7 +81021,7 @@
   <Urun>
     <Kod>5F0821021G-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT LEON 13 &gt; - 5F0821021F|5F0821021E</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -81398,7 +81307,7 @@
   <Urun>
     <Kod>39011391-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ASTRA K 16 &gt; - 2230139|39011391</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -81567,7 +81476,7 @@
   <Urun>
     <Kod>6JA823031-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT TOLEDO 13 &gt; - 6JA823031A|6JA823031C|6JA823031B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -81671,7 +81580,7 @@
   <Urun>
     <Kod>3AA821022B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW PASSAT 11 &gt; - 3AA821022A|3AA821022|3AA821022B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -82178,7 +82087,7 @@
   <Urun>
     <Kod>6Y0805588L-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA FABIA KLIMASIZ 95 &gt; - 6Y0805588F|6Y0805588N</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -82425,7 +82334,7 @@
   <Urun>
     <Kod>5M0823031F-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW GOLF PLUS 05 &gt; - 5M0823031D|5M0823031C|5M0823031B|5M0823031A|5M0823031E</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -82841,7 +82750,7 @@
   <Urun>
     <Kod>5P0821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT ALTEA TOLEDO 04 &gt; - 5P0821021A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -84076,7 +83985,7 @@
   <Urun>
     <Kod>6U0821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA FELICIA 94-01 - 98901242</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -84167,7 +84076,7 @@
   <Urun>
     <Kod>8X0823029-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - AUDI A1 11-14</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -84479,7 +84388,7 @@
   <Urun>
     <Kod>6101327-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL VECTRA C 03 &gt; - 93172024</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -84921,7 +84830,7 @@
   <Urun>
     <Kod>8W0821105A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A4 16-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -85116,7 +85025,7 @@
   <Urun>
     <Kod>8L0821105B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A3 00-03</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -87027,7 +86936,7 @@
   <Urun>
     <Kod>2G0821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW POLO 18-21</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -87612,7 +87521,7 @@
   <Urun>
     <Kod>7D0821104B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW T4 96 &gt; - 7D0821104</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -87951,7 +87860,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1400249-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL CORSA C COMBO C TIGRA B 01 &gt; - 9165538</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -87964,7 +87873,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0805567B-WSC</Kod>
     <Aciklama>PANEL KILIT SACI (TAIWAN) - VW TIGUAN 08 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -88120,7 +88029,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>3B0823031K-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW PASSAT B5.5 01-06 - 3B0823031J|3B0823031H|3B0863835K</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -88432,7 +88341,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K5821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW CADDY 11-15 - 2K5821022|1231114</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -88484,7 +88393,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0807720AGRU-WSC</Kod>
     <Aciklama>TAMPON BANDI ON ASTARLI (TAIWAN) - VW POLO 00-02 - 6N0807720A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -88666,7 +88575,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>115710110-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA FAVORIT 88-95</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -88874,7 +88783,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6L0805588-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SEAT CORDOBA IBIZA KLIMASIZ 1.2 1.4 TDI 1.6 02-09</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -89238,7 +89147,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7D1823033A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T4 96-03 - 7D0823427|701823033F|7D0823737A|7D0823737</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -91045,7 +90954,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5H0821021B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW GOLF8 20 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -91071,7 +90980,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1100066-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL MOKKA 13 &gt; - 25981230|1100036|1100066|42372137</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -91552,7 +91461,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0853677FB41-WSC</Kod>
     <Aciklama>TAMPON IZGARASI ORTA (TAIWAN) - VW POLO 00-02 - 6N0853677F</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -92605,7 +92514,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8V0821106G-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 HB 12-20 - 8V0821106E|8V0821106C|8V0821106B|8V0821106L</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -93515,7 +93424,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8R0821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI Q5 09-17 - 8R0821105A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -94165,7 +94074,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>565823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA KODIAQ 18-20 - 565823031</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -94204,7 +94113,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>96617416-WSC</Kod>
     <Aciklama>PANEL UST PARCASI (TAIWAN) - CHEVROLET LACETTI SEDAN 04-09</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -94542,7 +94451,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0821022H-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG KISA (TAIWAN) - VW POLO 00-02</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -95205,7 +95114,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>565821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA KODIAQ 18-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -95465,7 +95374,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>701823033A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T4 91-96 - 701823033D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -95829,7 +95738,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6J0821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT IBIZA 09 &gt; - 6J0821021B|6J0821021A|6J0821021C|6J0821021D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -95998,7 +95907,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6K0853653A01C-WSC</Kod>
     <Aciklama>PANJUR (TAIWAN) - SEAT CORDOBA IBIZA 00-02 - 6K0853653C01C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -96180,7 +96089,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5FA821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT LEON 20-23</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -96531,7 +96440,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5J0805591A-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA FABIA ROOMSTER 1.6 07-11</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -96700,7 +96609,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8V0821105G-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A3 HB 12-20 - 8V0821105E|8V0821105L|8V0821105C|8V0821105B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -97493,7 +97402,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7D0821103-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW T4 96 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -99378,7 +99287,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E0823033D-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T6 10 &gt; - 7E0823033B|7E0823033F|7E0823033C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -99547,7 +99456,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5L0805591-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA YETI 10-13 - 5L0805591B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -100208,19 +100117,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1603253-WISCO</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 4X100 119X33DIS ABS - OPEL ASTRA H 1.3 1.7 1.9CDTI 04 &gt; - 1603253|19|2344|13125106|R153.47|9333069|93178651</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/paXhhhcJcPSAWTI^5A9YegeyjYEyfK1Tju24UTFInZk=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1029.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7121051-IMAGE</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI KLINGRIT - OPEL ASTRA H CORSA C 1.3 CDTI - 076348|5607639|55196393|55278854|607770|</Aciklama>
     <Uretici>IMAGE</Uretici>
@@ -100652,7 +100548,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1101137-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL DELIKSIZ (TAIWAN) - OPEL CORSA B 93 &gt; COMBO B 93 &gt; - 90387048</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -101094,7 +100990,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5P0805588B-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SEAT ALTEA TOLEDO 1.2 TSI 1.4 TSI 1.6 TDI 04 &gt; - 5P0805588|5P0805588A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -101939,7 +101835,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K5821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW CADDY 11-15 - 2K5821021|1231141</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -102017,7 +101913,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6K0823031B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT IBIZA CORDOBA 99 &gt; - 6K0823031B|1231190</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -103044,7 +102940,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5FA821021-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT LEON 20-23</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -103291,7 +103187,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7H0823033D-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T5 03 &gt; - 7H0823033C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -103382,7 +103278,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>3C0807093-WSC</Kod>
     <Aciklama>TAMPON TRAVERSI ON (TAIWAN) - VW PASSAT B6 06-11</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -103876,7 +103772,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1160012-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL VECTRA C 06 &gt; - 93183981|1160255|93189108</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -103954,7 +103850,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K5805567-WSC</Kod>
     <Aciklama>PANEL DESTEK BRAKETI (KILIT TASIYICI) ON (TAIWAN) - VW CADDY 15-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -104136,7 +104032,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E5807217GRU-WSC</Kod>
     <Aciklama>TAMPON ON FAR YIKAMASIZ SENSORSUZ ASTARLI (TAIWAN) - VW T6 10 &gt; - 7E5807217MGRU</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -104851,7 +104747,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5G0821105A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW GOLF7 13 &gt; - 5G0821105|1231137|5G0821105A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -105150,7 +105046,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>42476674-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL MOKKA X 16 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -105306,7 +105202,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6L0821021C-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT IBIZA CORDOBA 02 &gt; - 6L0821021B|6L0821021|6L0821021A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -105761,7 +105657,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6102349-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ASTRA H 04 &gt; - 93178667</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -106619,7 +106515,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>96440662-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - CHEVROLET AVEO KALOS SEDAN HATCBACK 04 &gt; - 96534357|96457531</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -107737,7 +107633,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>96845417-WSC</Kod>
     <Aciklama>PANEL UST PARCASI (TAIWAN) - CHEVROLET CRUZE 09-14 - 96845418|95981431|96845419</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -108192,7 +108088,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1Z0821106C-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA OCTAVIA 09-13 - 1Z0821106D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -109791,7 +109687,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>3B0821105E-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW PASSAT B5.5 01-06 - 3B0821105D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -110170,7 +110066,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6J9823031B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT IBIZA 13 &gt; - 6J9823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -110300,7 +110196,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0821106F-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A4 05-08 - 8E0821106D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -110443,7 +110339,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1110348-WSC</Kod>
     <Aciklama>PANEL SACI ON UST SAG (TAIWAN) - OPEL CORSA E 15 &gt; - 13444793|39029217|1110328</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -110571,19 +110467,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>55561748-WISCO</Kod>
-    <Aciklama>EKSANTRIK MILI EGZOST DOKUM - OPEL ASTRA H J INSIGNIA A ZAFIRA B MOKKA 1.6 1.8 05 &gt; - 428017610|5636118</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1266.21</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-200GR-VIEWMAX</Kod>
     <Aciklama>AYNA CAMI SAG - OPEL CORSA C 00 &gt; - 09224243|1428303|1426526|24420988|VM200GR|1428854|09227267</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -110651,7 +110534,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>701821022A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW T4 94-96 - 701821022|701821106</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -111223,7 +111106,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5C6807651-WSC</Kod>
     <Aciklama>TAMPON TRAVERSI ON (TAIWAN) - VW JETTA 10 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -112029,7 +111912,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0821106B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A4 01-05</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -115136,7 +115019,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6K0821022D-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT IBIZA CORDOBA 99 &gt; - 6K0821022C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -115162,7 +115045,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1Z0821105C-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA OCTAVIA 09-13 - 1Z0821105D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -115409,7 +115292,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6102338-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL VECTRA C 03 &gt; - 93172025</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -116371,7 +116254,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8P0821106G-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 09-12 - 8P0821106E</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -116839,7 +116722,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7D0853662E-WSC</Kod>
     <Aciklama>PANJUR SACI (TAIWAN) - VW T4 CARAVELLE 96 &gt; - 7D0853662EGRU|7D0853662GRU</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -117060,7 +116943,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5NA821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TIGUAN 16-20 - 5NA821105B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -117346,7 +117229,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E5807417EGRU-WSC</Kod>
     <Aciklama>TAMPON ARKA SENSORSUZ ASTARLI (TAIWAN) - VW T6 09 &gt; - 7E5807417AGRU|7LA807417CGRU</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -117788,7 +117671,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1P0821021A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT LEON 06-13 - 1P0821021</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -118165,7 +118048,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1P0823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT LEON 06-13 - 1P0823031</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -118646,7 +118529,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6J0823031-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT IBIZA 09 &gt; - 6J0823031E|6J0823031C|6J0823031B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -119101,7 +118984,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5E0823031-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA OCTAVIA 13-17</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -120895,7 +120778,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5P0821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT ALTEA TOLEDO 04 &gt; - 5P0821022A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -120960,7 +120843,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0821021G-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL UZUN (TAIWAN) - VW POLO 00-02</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -121714,7 +121597,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1U0821106B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA OCTAVIA 97-11 - 1U0821106|1U0821106A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -122325,7 +122208,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1T0821021A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TOURAN 04 &gt; - 1T0821021</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -123196,7 +123079,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1160220-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL ASTRA F 91 &gt; - 90341289|1160206|90451535</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -123638,7 +123521,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5E0821105C-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SKODA OCTAVIA 18-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -123651,7 +123534,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7M3821105L-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW SHARAN 01 &gt; - 1231132|7M3821105J|7M3821105F|7M3821105K|7M3821105L</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -124028,7 +123911,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7C0807322B9B9-WSC</Kod>
     <Aciklama>TAMPON KOSE PLASTIGI ARKA SAG (TAIWAN) - VW CRAFTER 17&gt; - 7C08073229B9</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -125770,7 +125653,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>4L0821102ALM-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG ALUMINYUM - AUDI Q7 06-15 - 4L0821102</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -125822,7 +125705,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>39037562-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL ASTRA K 16 &gt; - 39169009|39054067</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -125939,7 +125822,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>701821021A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW T4 94-96 - 701821105|701821021</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -128591,7 +128474,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8R0821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI Q5 09-17 - 8R0821106A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -129358,7 +129241,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>565821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA KODIAQ 18-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -129449,7 +129332,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1405046-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL ASTRA H ZAFIRA B 04 &gt; - 24460537</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -130697,7 +130580,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>95220573-WSC</Kod>
     <Aciklama>PANEL + TAMPON DEMIRI (TAIWAN) - CHEVROLET SPARK 10-14 - 95985634|95212735|95963452|96072922</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -131347,7 +131230,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0821105B-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A4 01-05</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -132153,7 +132036,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6L0821022C-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT IBIZA CORDOBA 02 &gt; - 6L0821022|6L0821022B|6L0821022A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -132322,7 +132205,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5L0823031A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA YETI 14-18</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -132530,7 +132413,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1310002-WSC</Kod>
     <Aciklama>RADYATOR TRAVERSI ALUMINYUM - OPEL CORSA D 07 &gt; - 13223650|6310616|13315614|13237407</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -133505,7 +133388,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>39063353-WSC</Kod>
     <Aciklama>PANEL KORUMA PLASTIGI ON UST (TAIWAN) - OPEL CORSA E 15 &gt; - 13430031</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -134532,7 +134415,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1H0805594-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW GOLF3 BENZIN TEK FANLI 430MM 91 &gt; - 6N0121253A|6N0121253J</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -134675,7 +134558,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>83A823029-WSC</Kod>
     <Aciklama>MOTOR KAPUTU CELIK (TAIWAN) - AUDI Q3 19-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -134753,7 +134636,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5JA821022B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT TOLEDO 13 &gt; - 5JA821022B|WSC|1230520|5JA821022C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -135611,7 +135494,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0821105A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TIGUAN 08 &gt; - 5N0821105</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -135676,7 +135559,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1160248-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL CORSA C 01 &gt; COMBO C 01 &gt; - 9196450</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -136170,7 +136053,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0805567E-WSC</Kod>
     <Aciklama>PANEL KILIT SACI (TAIWAN) - VW TIGUAN 12-16</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -136261,7 +136144,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0823029-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - AUDI A4 01-05</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -136373,19 +136256,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>110.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>VM-162L-VIEWMAX</Kod>
-    <Aciklama>AYNA SOL MANUEL - OPEL VECTRA A 1988-95 - 1426371|1428769|VM162L|90510427|1428043|90349050</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>716.30</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137340,7 +137210,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2D0805591-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW LT 28-35-46-VOLT 96 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -137587,7 +137457,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1U0823031D-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA OCTAVIA 97-11 - 1U0823031B|1U0823031C|1U0823031</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -137756,7 +137626,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8P0823029E-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - AUDI A3 09-12 - 8P0823029D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -138705,7 +138575,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0821105F-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A4 05-08 - 8E0821105D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -138939,7 +138809,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1100003-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL MERIVA B 10 &gt; - 93167923</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -139277,7 +139147,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0821022G-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG UZUN (TAIWAN) - VW POLO 00-02</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -139784,7 +139654,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0821021H-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL KISA (TAIWAN) - VW POLO 00-02</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -140005,7 +139875,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5J0853668B9B9-WSC</Kod>
     <Aciklama>PANJUR FULL SIYAH (TAIWAN) - SKODA FABIA ROOMSTER 11-15</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -140148,7 +140018,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6V08536539B9-WSC</Kod>
     <Aciklama>PANJUR FULL SIYAH (TAIWAN) - SKODA FABIA 15-20 - 6V0853653</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -140213,7 +140083,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1100004-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL MERIVA B 10 &gt; - 93167924</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -140681,7 +140551,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5E0821106C-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA OCTAVIA 18-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -141448,7 +141318,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5J0823031B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA FABIA 11-15</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -141513,7 +141383,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5NA821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW TIGUAN 16-20 - 5NA821106|5NA821106B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -141539,7 +141409,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0805551N-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON (TAIWAN) - VW POLO A/T 00-02 - 6N0805551K</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -142410,7 +142280,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8E0805594A-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - AUDI A4 2.5 TDI 01 &gt; - 8E0890594A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -144113,7 +143983,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5L0805591B-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA YETI 14-18 - 5L0805591</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -146453,7 +146323,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6L0805588A-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SEAT CORDOBA IBIZA KLIMALI 1.2 1.4 TDI 1.6 02-09</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -147090,7 +146960,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8K0821105A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A4 08-12 - PC|AD0243004</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -147231,19 +147101,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4F0821104A-WISCO</Kod>
-    <Aciklama>CAMURLUK ON SAG (SIMYI) - AUDI A6 05-08</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/CQTSUm7gPy6yo174^g3PyNfVRFSfcI2IWHel2wQYMY0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1807.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>19010-PDA-E51-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING AT 350X668X16 - HONDA ACCORD 6 (CH) 1.6-1.8-2.0-2.2 98-03 - 19010PCA003|68117|19010PDAE01|19010PCD003|19010PCA013|19010PCA901|19010PCA023|19010PDAE51</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -147259,7 +147116,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1102030-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL CORSA C 01 &gt; - 9196449</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -149391,7 +149248,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8L0821105-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A3 96-00</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -150418,7 +150275,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>42476673-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL MOKKA X 16 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -150832,19 +150689,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5815010-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL ASTRA H 1.3CDTI 04-10 - 5815034|5815035</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1855.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4B0955953-WISCO</Kod>
     <Aciklama>FAR YIKAMA HORTUMU - AUDI A6 98-06 - 4B0955953D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -150899,7 +150743,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6102356-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - OPEL ZAFIRA B 05 &gt; - 93184412</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -151016,7 +150860,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7D085365401C-WSC</Kod>
     <Aciklama>TAMPON IZGARASI ON ORTA (TAIWAN) - VW T4 CARAVELLE 96-03</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -151211,7 +151055,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6K0821021D-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - SEAT IBIZA CORDOBA 99 &gt; - 6K0821021C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -151263,7 +151107,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1101031-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL CORSA C 01 &gt; - 9196448</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -151666,7 +151510,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1H0805594A-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW GOLF3 BENZIN TEK FANLI 525MM 91 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -151757,7 +151601,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>115710120-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SKODA FAVORIT 88-95</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -152134,7 +151978,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8P4823029B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - AUDI A3 5 KAPI 03-08 - 8P4823029</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -152927,7 +152771,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E0823033E-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T7 15 &gt; - 7E0823033H|7E0823033G</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -153317,7 +153161,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5J0805591-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA FABIA ROOMSTER 1.2 1.4 07-11 - 1706470|10IFR0110212</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -153746,7 +153590,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>39011390-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - OPEL ASTRA K 16 &gt; - 39011390|2230164|7572102</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -154045,7 +153889,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K5807417C9B9-WSC</Kod>
     <Aciklama>TAMPON ARKA SENSORSUZ SIYAH (TAIWAN) - VW CADDY MAXI 15-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -155553,7 +155397,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5G0821106A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW GOLF7 13 &gt; - 1231108|5G0821106A|5G0821106</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -156671,7 +156515,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1320050-WSC</Kod>
     <Aciklama>PANJUR (TAIWAN) - OPEL ASTRA F 91 &gt; - 90442037</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -156983,7 +156827,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0821135-WSC</Kod>
     <Aciklama>CAMURLUK BRAKETI ON SOL (TAIWAN) - VW TIGUAN 08 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -157828,7 +157672,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>3T0823031-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA SUPERB 08-13</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -158153,7 +157997,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>95021800-WSC</Kod>
     <Aciklama>PANEL UST PARCASI (TAIWAN) - CHEVROLET AVEO SEDAN HATCBACK 09-11</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -158166,7 +158010,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>4F0821104F-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A6 09-11</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -161011,19 +160855,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-964EHPAL-VIEWMAX</Kod>
-    <Aciklama>AYNA SOL ELEKTRIKLI ISITMALI ASTARLI - OPEL CORSA D 06-19 - 13187631|6428253|13203386|VM964EHPAL|13187623|1428943|1426551</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1513.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>60694767-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 645X420X12 - ALFA ROMEO 159 06&gt; - 60694767|94871|50507287</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -161520,7 +161351,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>90521688-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - OPEL ASTRA G 98 &gt; - 6312015</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -162144,7 +161975,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1102137-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG DELIKSIZ (TAIWAN) - OPEL CORSA B 93 &gt; COMBO B 93 &gt; - 90387049</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -163210,7 +163041,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5K0807651D-WSC</Kod>
     <Aciklama>TAMPON TRAVERSI ON (TAIWAN) - VW GOLF6 08-13 VW CADDY 10-15 - 5K0807651B|5K0807651C</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -163314,7 +163145,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1400261-WSC</Kod>
     <Aciklama>TAMPON ORTA IZGARASI (TAIWAN) - OPEL VECTRA C 03 &gt; - 24440605</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -163327,7 +163158,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8L0821106B-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 00-03</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -163730,7 +163561,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8T0821106H-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG ALUMINYUM (TAIWAN) - AUDI A5 08-16 - 8T0821106|8T0821106A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -163860,7 +163691,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E0805594E-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW T6 09 &gt; - 7E0805594L| 7E0805594G|7E0805594H</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -164770,7 +164601,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6K0805591F-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW CADDY POLO CLASSIC CORDOBA IBIZA 96 &gt; - 6K0805591F</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -166096,7 +165927,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7E0821101A-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW T7 15 &gt; - 7E0821101|7E0821101B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -166390,19 +166221,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1446.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>95903586-WISCO</Kod>
-    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 4X100 126X25MM ABS 40D - CHEVROLET AVEO KALOS SPARK 1.2 1.4 03 &gt; - |9225021|96471775|96471774|96471776|96471773|95903586</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>553.13</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -167292,7 +167110,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1P0821022A-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT LEON 06-13 - 1P0821022</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -168644,7 +168462,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8T0821105H-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL ALUMINYUM (TAIWAN) - AUDI A5 08-16 - 8T0821105|8T0821105A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -169047,7 +168865,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1101162-WSC</Kod>
     <Aciklama>PANEL SACI ON UST SOL (TAIWAN) - OPEL CORSA E 15 &gt; - 13444794</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -170308,7 +170126,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2G0821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - VW POLO 18-21</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -170360,7 +170178,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0821136-WSC</Kod>
     <Aciklama>CAMURLUK BRAKETI ON SAG (TAIWAN) - VW TIGUAN 08 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -170542,7 +170360,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1T0823031D-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW CADDY TOURAN 04 &gt; - 1T0823031J|1T0823031F|1T0823031B</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -170555,7 +170373,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>705807417GRU-WSC</Kod>
     <Aciklama>TAMPON ARKA ASTARLI (TAIWAN) - VW T4 96-03 - 701807303|701803881M|7D1807301GGRU|7D1807301FGRU|701941779</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -171229,19 +171047,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1603254-WISCO</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X110 137X33DIS ABS - OPEL ASTRA H ZAFIRA B 1.6 1.8 1.9 2.0 2.2 04 &gt; - 93178652|R153.48|2345|13110964|1603254|19|9333070</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/slPbwbPyYrXtZaZwwY7mNbpap36ccSN99BEUkDg4JsQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1089.21</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7L6807417DGRU-WISCO</Kod>
     <Aciklama>TAMPON ARKA SENSORLU ASTARLI - VW TOUAREG 03-07 - 7L6807417GRU</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -171361,7 +171166,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8L08076673FZ-WSC</Kod>
     <Aciklama>PANJUR SIYAH + KROM (TAIWAN) - AUDI A3 96-03 - 8L0807667</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -172219,7 +172024,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5E0823031B-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA OCTAVIA 18-20 - 5E0823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -172856,7 +172661,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1160008-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - OPEL ZAFIRA B 05 &gt; - 93184414</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -173454,7 +173259,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8L0821106-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A3 96-00</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -173896,7 +173701,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>9196840-WSC</Kod>
     <Aciklama>TAMPON ON GRI ASTARLI (TAIWAN) - OPEL CORSA C 03 &gt; - 9196840|1400232</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -174442,7 +174247,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>95026539-WSC</Kod>
     <Aciklama>PANEL ALT PARCASI (TAIWAN) - CHEVROLET AVEO SEDAN HATCBACK 09-11</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -176171,7 +175976,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6J0821022-WSC</Kod>
     <Aciklama>CAMURLUK ON SAG (TAIWAN) - SEAT IBIZA 09 &gt; - 6J0821022A|6J0821022C|6J0821022B|6J0821022D</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -176925,7 +176730,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6V0805588C-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - SKODA FABIA DIZEL 15-20 - 6V0805588E|6V0805588A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -177510,7 +177315,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K5807417B9B9-WSC</Kod>
     <Aciklama>TAMPON ARKA SENSORSUZ SIYAH (TAIWAN) - VW CADDY 15-20</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -177544,19 +177349,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>348.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>55561747-WISCO</Kod>
-    <Aciklama>EKSANTRIK MILI EMME DOKUM - OPEL ASTRA H J INSIGNIA A ZAFIRA B MOKKA 1.6 1.8 05 &gt; - 5636117|428017510</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0BAUsPXkmoUrxXFOOyHwnIfTBFcitl03Ms5WZAuBc0k=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1199.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -178041,19 +177833,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>410317S-SKT</Kod>
-    <Aciklama>KECE 95X118X10 - UNIVERSAL - UNIVERSAL</Aciklama>
-    <Uretici>SKT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>234.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6C6807421AGRU-WISCO</Kod>
     <Aciklama>TAMPON ARKA SENSORSUZ EGZOST DELIKLI ASTARLI - VW POLO 14-18</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -178225,7 +178004,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1H0805594C-WSC</Kod>
     <Aciklama>PANEL ON TEK FANLI (TAIWAN) - VW GOLF3 DIZEL 630MM 91 &gt; - 1H0805594G|1H0805594K|1H0805594M</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -178368,7 +178147,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>13426328-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL CORSA E 15-19 - 1405247</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -179902,7 +179681,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5F0823031C-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SEAT LEON 17 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -180045,7 +179824,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1312311-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - OPEL MOKKA 13 &gt; - 42496075|42516760|42599080|95063696</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -180916,7 +180695,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1405236-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ON ALUMINYUM - OPEL CORSA D 07&gt; - 13191879</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -181267,7 +181046,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6N0805594Q-WSC</Kod>
     <Aciklama>PANEL (TAIWAN) - VW POLO DIZEL 00-02</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -181293,7 +181072,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7C0807321B9B9-WSC</Kod>
     <Aciklama>TAMPON KOSE PLASTIGI ARKA SOL (TAIWAN) - VW CRAFTER 17&gt; - 7C08073219B9|VG80A86AL</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -182190,7 +181969,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>2K0807305D-WSC</Kod>
     <Aciklama>TAMPON DEMIRI ARKA (TAIWAN) - VW CADDY 04 &gt; - 2K0807305C|2K0807305G</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -183308,7 +183087,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>7LA821101-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - VW T7 20 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -184153,7 +183932,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>6Y0823031-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - SKODA FABIA 00-08 - 5J0823031|5J0823031A</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -184374,7 +184153,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>5N0807421GRU-WSC</Kod>
     <Aciklama>TAMPON ARKA ASTARLI (TAIWAN) - VW TIGUAN 08 &gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -184595,7 +184374,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>8P0821105G-WSC</Kod>
     <Aciklama>CAMURLUK ON SOL (TAIWAN) - AUDI A3 09-12 - 8P0821105E</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
@@ -190505,19 +190284,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>57.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>587947-VALEO</Kod>
-    <Aciklama>YAKIT FILTRESI - FORD COURIER 1.6 13 &gt; - 9801366680|F026402533|PE816/9|1872152|3646465|1643624980|DS7Q9D410AA</Aciklama>
-    <Uretici>VALEO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>507.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206472,19 +206238,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>86500-MGA</Kod>
-    <Aciklama>FAN TERMIGI - VW PASSAT A4 1.8T1.9TDI ADP ADR AEB AFN AFY AGZ AHH AHL AHU AJM ALT ALZ ANA ANB APT APU ARG ARM ATJ AVB AVF AVG AWM AWT AWX AZM AZX BGW 97 &gt; - 200051302||058121350|1204941|06B121347</Aciklama>
-    <Uretici>LEX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>674.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>YH-ME118</Kod>
     <Aciklama>DEVIRDAIM - MERCEDES BENZ A CLASS (W168) A 140 (168.031) MERCEDES BENZ VANEO (414) 1.6 (414.700) &gt; - 1662000520|1662000320|1662000620|1662000420|1662000720</Aciklama>
     <Uretici>GNS</Uretici>
@@ -211529,19 +211282,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>111234-TOPRAN</Kod>
-    <Aciklama>SU FLANSI - VW GOLF4 BORA SHARAN PASSAT1.6 16V 98 &gt; - 111234001|111234755|1J0122291D</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>71.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>111416-TOPRAN</Kod>
     <Aciklama>YAKIT BASINC SENSORU - VW POLO GOLF5 PASSAT1.2 1.6 2.0 BME BGU BLR BLY BSE 04 &gt; - 06B906051|111416001|111416885</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -213671,19 +213411,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>298.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>103733-TOPRAN</Kod>
-    <Aciklama>TRAVERS BURCU ON - AUDI A100 C4 A6 C4 2.0 91-97 - 4A0399415|4A0399415B</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>133.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217613,19 +217340,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>20090009-SWAG</Kod>
-    <Aciklama>ZINCIR PALETI - BMW E36 E46 E34 E39 E60 E61 E38 E85 E53 M50 M52 M54 90 &gt; - 11311726471|11311726480|1726471|1726480|20090009|502603|502603001</Aciklama>
-    <Uretici>SWAG</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>204.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>26316-FEBI</Kod>
     <Aciklama>SAFT ASKI TAKOZU - BMW E60 E61 E63 E64 03 &gt; - 26127521856|26316</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -217636,19 +217350,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1976.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1006209814-BOSCH</Kod>
-    <Aciklama>MARS DISLISI - FIAT STILO 1.8 16V - 77363248|9949612</Aciklama>
-    <Uretici>BOSCH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>856.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217691,19 +217392,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>407268-WOWSH</Kod>
-    <Aciklama>ROTIL UST - VW TRANSPORTER T4 1.8 90 &gt; - 407268|701407187|701407187A|701407187B</Aciklama>
-    <Uretici>WOWSH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>132.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>A1747G-VOTTO</Kod>
     <Aciklama>AMORTISOR ARKA SOL-SAG - FORD FIESTA MEDIO 1.6 16V 01 &gt; - 1208718|1233576|1354939|2S6118008AA|2S6118008AB|2S6118008BJ|2S6118008BK|2S6118008BL|2S6118080BJ|2S6118080BK|3M7118080AD|5S6Y18008AB</Aciklama>
     <Uretici>VOTTO</Uretici>
@@ -217714,32 +217402,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>649.39</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>72117-MGA</Kod>
-    <Aciklama>PORYA ON - VW POLO 1.9SDI 99 &gt; - 6N0407613|6N0407615A|6N0407615B</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>392.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>H1408-VOTTO</Kod>
-    <Aciklama>HELEZON ON - OPEL ASTRA G VECTRA B 1.6I 16V 96 &gt; - 312831|312832|312833|312836|312838|312839|312853|312854|312855|321094|90575863</Aciklama>
-    <Uretici>VOTTO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>309.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -217766,45 +217428,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>57.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>348290-KALE</Kod>
-    <Aciklama>MOTOR RADYATORU - VW PASSAT 2.0  90&gt; - 348290|3A0121253C</Aciklama>
-    <Uretici>KALE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2268.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>20090010-SWAG</Kod>
-    <Aciklama>ZINCIR GERGI KIZAGI - BMW E36 E46 E53 E85 2.2 02 &gt; - 11311432177|11311722651|11311730188|11311738700</Aciklama>
-    <Uretici>SWAG</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>277.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>295432-GKL</Kod>
-    <Aciklama>MOTOR HAVALANDIRMA HORTUMU - AUDI A4 A6 PASSAT 1.8 97 &gt; - 058103213|295432</Aciklama>
-    <Uretici>GKL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>121.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219669,7 +219292,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   <Urun>
     <Kod>1C0959455F-WSCO</Kod>
     <Aciklama>FAN MOTORU DAVLUMBAZSIZ (370 MM) - VW NEW BEETLE 2.5 05-10 - 1C0959455E|1C0959455F</Aciklama>
-    <Uretici>WISCO</Uretici>
+    <Uretici>WSC</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
