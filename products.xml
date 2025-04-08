@@ -190456,19 +190456,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>10031262-KRAFTVOLL</Kod>
-    <Aciklama>RADYATOR HORTUMU UST - OPEL ASTRA G ZAFIRA A 98 &gt; - 1337563|24413977</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>262.54</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>058133471-WISCO</Kod>
     <Aciklama>HAVA DEBIMETRESI - VW PASSAT B5 A4 B5 1.6 94 &gt; - 058133471|058133471X|581334710V</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -201217,19 +201204,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>11924.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1603285-WISCO</Kod>
-    <Aciklama>AKS KAFASI IC 22X28X34.95 UZUNLUK:153.9MM - OPEL CORSA C 1.2 04-09 - 1603285</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>552.36</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
