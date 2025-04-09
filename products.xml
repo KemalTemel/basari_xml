@@ -282,7 +282,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1757.20</Fiyat>
+    <Fiyat>1748.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -2194,6 +2194,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1462.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>08157-FEBI</Kod>
+    <Aciklama>AMORTISOR TAKOZU ON - OPEL ASTRA G VECTRA B CORSA C ZAFIRA A 96-07 - 03373|344525|90538936|344523|0344523|90468554</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>239.71</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -5170,7 +5183,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>142.49</Fiyat>
+    <Fiyat>135.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -9005,7 +9018,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>40.78</Fiyat>
+    <Fiyat>38.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -17547,6 +17560,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>451.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>20307-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W140 W202 W210 - A0001587503</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>464.52</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -35100,6 +35126,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>104580-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI SOL - MERCEDES-BENZ C240 C320 E280 - 104580RYP|A1120160320</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1005.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1336496-WISCO</Kod>
     <Aciklama>RADYATOR HORTUMU UST KLIMASIZ - OPEL VECTRA A 88 &gt; - Y10508|90265788</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -40842,7 +40881,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>59.46</Fiyat>
+    <Fiyat>56.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -42559,6 +42598,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>703.85</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>226-BREMI</Kod>
+    <Aciklama>BUJI KABLO TAKIMI - MERCEDES-BENZ W124 W104 W202 W210 - 0300890987</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1109.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48331,6 +48383,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1315.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>08117-FEBI</Kod>
+    <Aciklama>SAFT ASKISI - MERCEDES-BENZ W202 W208 W170 94-02 - 10860065|A2024100381|A2024100581|0140410049</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>460.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -55731,7 +55796,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>26.57</Fiyat>
+    <Fiyat>23.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -57759,7 +57824,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>46.17</Fiyat>
+    <Fiyat>43.86</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -59167,19 +59232,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5PK1215-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL ASTRA G 98 &gt; - 9194661|24419362|93181316|6340626|1340635|6340657|9117585|93181317</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>105.76</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5PK1220-WISCO</Kod>
     <Aciklama>V KAYISI - SKODA FABIA FELICIA POLO 1.9D AEF AGD 94 &gt; - 028903137AP|028903137AL</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -59390,19 +59442,6 @@
   <Urun>
     <Kod>5PK815-WISCO</Kod>
     <Aciklama>V KAYISI - ALFA 155 BMW 530D 525D LAND ROVER 4X4 - 60513448|5PK815|7700864019|7701035652</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>73.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5PK865-WISCO</Kod>
-    <Aciklama>V KAYISI - MITSUBISHI CARISMA 1.3 - 5PK865|11281437450|9091602336</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -62685,7 +62724,20 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>14.59</Fiyat>
+    <Fiyat>13.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>701507-IMAGE</Kod>
+    <Aciklama>UST KAPAK CONTASI - OPEL OMEGA B VECTRA C25XE X25XE X30XE Y26SE Y32SE Z32SE 94 &gt; - 90411753|5607833|372320|90511451|205530786|9050641|153426802|55351456|90501642|469440|607642</Aciklama>
+    <Uretici>IMAGE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>105.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -65792,7 +65844,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>114.68</Fiyat>
+    <Fiyat>108.95</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -72387,19 +72439,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>WDS-OP018-WISCO</Kod>
-    <Aciklama>KOMPLE AKS SAG ON (33X34X53) UZUNLUK 570mm - OPEL ASTRA H 1.3 CDTI 04-10 - 374600|13189073|244051</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0P6pe9wXEXegp0ONtDwOR43kTFEOKbkXGp6OJ9FlzCg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1697.52</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>60558-BREMI</Kod>
     <Aciklama>EKSANTRIK DEVIR SENSORU - MERCEDES-BENZ W204 S204 W212 A207 W463 W166 W221 11 &gt; - A2769051000|A2769051100|A2769050143|A2769050800</Aciklama>
     <Uretici>BREMI</Uretici>
@@ -76153,7 +76192,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pqb6Ov7drLJvV5VW4X5Kky1M7vryL^FTZX^0NF3X0Ao=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>807.98</Fiyat>
+    <Fiyat>767.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -78571,7 +78610,7 @@
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xTloUL7X70wxAuOvBZhkzi6Kkr4bjXKSGGNTzVDO0r8=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>697.41</Fiyat>
+    <Fiyat>662.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -90848,6 +90887,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0232103114-BOSCH</Kod>
+    <Aciklama>EKSANTRIK DEVIR SENSORU - MERCEDES-BENZ W169 W202 W203 W204 97 &gt; - A2729050043|A0041536028|A2729050143|0232103114</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>827.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>VM-6199EHPR-VIEWMAX</Kod>
     <Aciklama>AYNA SAG+ELK+ISI+ASP+6 PIN - VW PASSAT CC (357) 08- 12 - VM6199EHPR|3C8857522|3C8949102D|3C8857538GRU|3C8857508AK9B9</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -94536,7 +94588,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>195.38</Fiyat>
+    <Fiyat>185.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -100867,7 +100919,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/60^0UddU1wWtmRVbtyoXncajNMT6nj8O22LITrCSfwI=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>697.41</Fiyat>
+    <Fiyat>662.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -112170,19 +112222,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1341399-WISCO</Kod>
-    <Aciklama>FAN MOTORU DAVLUMBAZLI (370 MM-2 FIS-8 KANAT) - OPEL CORSA D 1.3 CDTI 07 &gt; - 55702236|85779|1341399</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/jVatinCkiat82h^NLS3n9e624CLFnnJHRzc1czOvEro=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1689.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>7P6807192-WISCO</Kod>
     <Aciklama>TAMPON DESTEK BRAKETI ON IC - VW TOUAREG 10-15</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -112193,19 +112232,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>893.45</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6238166-WISCO</Kod>
-    <Aciklama>BASINC SENSORU - OPEL COMBO 1.7 16V CORSA C 1.7 DTI 00 &gt; - 16235939|97180655|9718065|9813102</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/i1x8rzCpUynpCx1mnNgSB8LAXo43pOosxPRxPXxRx4Q=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>263.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -114025,7 +114051,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>76.93</Fiyat>
+    <Fiyat>73.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -114714,7 +114740,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>97.95</Fiyat>
+    <Fiyat>93.05</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -122310,19 +122336,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6R0867173BD-WISCO</Kod>
-    <Aciklama>KOL DAYAMA KAPAGI DERI BEJ - VW POLO GOLF 4 BORA PASSAT 09&gt; - 6R0867173</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>324.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-606EHPAL-VIEWMAX</Kod>
     <Aciklama>AYNA SOL+ELK+ISI+ASF+ASP - SKODA FABIA 2 (542) 06-07 - 6Y1857501BQ|6Y1857501ARB41|VM606EHPAL|6Y1857501AMB41</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -129846,7 +129859,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UPzoEXnlcJzFTvDxD49spcABBDdt3N4e7RbL6OPg07g=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>688.91</Fiyat>
+    <Fiyat>654.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -151872,19 +151885,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9646498380-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA+KAPAK - CITROEN C3 C4 PEUGEOT 1007 206 307 1.4 03-11 &gt; - 0248.L2|248.P5|9656590280|0248.P5|248.L2</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>617.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4478350070-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 646X400,4X12 - MERCEDES-BENZ VITO 15&gt; - 4478350070|A4478350070|941054</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -151986,6 +151986,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1169.58</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>04773-FEBI</Kod>
+    <Aciklama>TERMOSTAT 92° - OPEL ASTRA CORSA ASCONA 1.4 8V C14NZ X14NZ C12NZ 86 &gt; - 1338870|1338070|3038094|1338052|90200836</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>275.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -156028,7 +156041,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/EHqZIb2NW64i446oHqXxcdXiI4yj9^z4aWezkVGAKg4=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1281.63</Fiyat>
+    <Fiyat>1217.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -161267,7 +161280,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>215.44</Fiyat>
+    <Fiyat>204.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -162243,19 +162256,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>471.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6PK1865-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL ASTRA G 2.0 2.2 DI-DTI 98-05 VECTRA C 3.2 V6 02-05 ZAFIRA A MPV 2.0 2.2 99-05 AUDI A6 C4 2.6 2.8 94-97 - 90581628|90581642|6PK1863|078903137AO|24413295|6PK1866|9196547|1340666|078903137AQ|6PK1864|9196546|91131979|03D145933AC|6PK1867</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>194.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -167329,19 +167329,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9646498180-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK+CONTA - CITROEN C3 C4 PEUGEOT 1007 206 307 1.4 02-10 &gt; - 249.C5|248.L3|0248.L3|0249.C5|0249C5</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>617.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6020EM-SMF</Kod>
     <Aciklama>YAKIT FILTRESI - VW PASSAT TIGUAN Q3 1.6TDI 2.0TDI CFFA CFFB CAYC CBAA CBAB CFGB CLJA CFGC 10 &gt; - 7N0127400|7N0127177C|7N0127177</Aciklama>
     <Uretici>SMF</Uretici>
@@ -172096,7 +172083,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>76.93</Fiyat>
+    <Fiyat>73.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -174385,19 +174372,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>995.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5J0837249C-WISCO</Kod>
-    <Aciklama>KAPI GERGISI ON - SKODA FABIA ROOMSTER 07-15 - 2701|5J0837249C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>193.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -189624,6 +189598,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>20768-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W176 W246 W242 W205 A205 W212 W213 A207 12 &gt; - 20768|GN1103212B1|A2709060500|0221604036|A2709060100</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1318.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>070115311-WISCO</Kod>
     <Aciklama>MOTOR YAG KAPAGI - VW T4 (70B, 70C, 7DB, 7DK, 70J, 70K) 90-03 - 25115301A|25115301C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -204665,6 +204652,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>24534-FEBI</Kod>
+    <Aciklama>TEKER RULMANI ON SET - MERCEDES-BENZ W211 C219 VF211 S211 R230 02 &gt; - A2303300325|A23033003251</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1089.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7M0501541A-WISCO</Kod>
     <Aciklama>SALINCAK BURCU - VW SHARAN 96 &gt; - 7M0501541A|108149001|108149586</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -213466,19 +213466,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>100198-TOPRAN</Kod>
-    <Aciklama>YAG KAPAGI - VW BORA GOLF JETTA LT PASSAT POLO 1.4 16V 1.7 SDI 1972 &gt; - 026103485|026103485A|030103485|049103485F|100198001|100198002|100198576|100198755</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>37.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>116308-TOPRAN</Kod>
     <Aciklama>SU FLANSI - VW GOLF5 POLO JETTA PASSAT TIGUAN - 116308001|116308755|1K0121087P</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -217912,19 +217899,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1609998880-EUROREPAR</Kod>
-    <Aciklama>POLEN FILTRESI KARBONLU - OPEL COMBO E CROSSLAND X GRANDLAND X 17 &gt; - 1609998880|1616959180|3638979|3643957|6447.XG|6447XF|6447XG|95525903|9801448180|9821501880</Aciklama>
-    <Uretici>EUROREPAR</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>266.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>174895-FEBI</Kod>
     <Aciklama>EKSANTRIK ZINCIR SETI 6 PARCA - MERCEDES-BENZ W176 W204 W205 W212 M133 M270 M274 12 &gt; - A0009933978|A0009933978S2|A27005|A2700503500|A2700503500S3|A2700520040|A2700520040S3|A2700520216|A2700520216S3|A2700520900|A2700520900S4|A2700521000|A2700521000S4|A2700521300|A2700521300S4|A2700521400</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -218000,6 +217974,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3117.42</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>14267VV-4U</Kod>
+    <Aciklama>YAG SOGUTUCUSU TEK - AUDI A6 C7 10-18 A7 11-18 - 14267VV|4G0317021AG</Aciklama>
+    <Uretici>4U</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1151.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>898171-ELRING</Kod>
+    <Aciklama>SUBAP KAPAK CONTASI - BMW CABRIO E81 E87 E88 E46  E90 04 &gt; - 11120035738|11128655413</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1603.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>17472VV-4U</Kod>
+    <Aciklama>YAG SOGUTUCUSU - AUDI A6 A7 C7 11 &gt; - 17472VV|4G0317021AF|4G0317021K|4G0317021T</Aciklama>
+    <Uretici>4U</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1151.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
