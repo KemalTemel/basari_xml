@@ -7852,19 +7852,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1T0413031Q-WISCO</Kod>
-    <Aciklama>AMORTISOR ON SOL-SAG - VW PASSAT GOLF5 6 CADDY JETTA SCIROCCO 04 &gt; - 1T0413031CK|1T0413031DN|1T0413031DH|1T0413031DS|1T0413031DL|1T0413031CN|3C0413031L|3C0413031AA|3C0413031AB|1T0413031CM|1T0413031FD|16498|1T0413031CL|1T0413031DP|1T041|3C0413031E|5C0413031CS</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>2</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/6a9LK6xQ6R6njVYp9ui0Gu30BZku2w08wihjd4YrTNw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>942.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06B905163A-WISCO</Kod>
     <Aciklama>EKSANTRIK DEVIR SENSORU - AUDI A4 GOLF JETTA A3 PASSAT1.6 ALZ AYD BFQ BFS BGU BSE BSF CCSA CHGA CMXA 04 &gt; - 1280202|6PU009121421|0986280429|06B905163A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -34056,7 +34043,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1251.75</Fiyat>
+    <Fiyat>1229.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -37892,6 +37879,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>18.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>104600-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI SAG - MERCEDES-BENZ C240 C320 E280 - A1120160420|104600RYP</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1025.73</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -57422,6 +57422,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1462.09</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>553190-ELRING</Kod>
+    <Aciklama>SUBAP LASTIGI 8MM - UNIVERSAL - 026109675</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>13.73</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -86583,6 +86596,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>01305-FEBI</Kod>
+    <Aciklama>SALINCAK BURCU - MERCEDES-BENZ W124 W201 W202 W203 W210 - A1243523465</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>99.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>28271-2F000-WISCO</Kod>
     <Aciklama>TURBO RADYATORU MT-AT 345X145X90 MM - KIA SORENTO 2 (XM) 2.0 CRDi 10-15 HYUNDAI SANTA FE 3 (DM, DMA) 2.0 CRDi 12&gt; - 282712F000</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -100712,19 +100738,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1142.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5K0121251S-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT-AT 628X436X16 MM - VW JETTA 1.6TDI. PASSAT CC 2.0TDI. TIGUAN 2.0TDI. YETI 1.4 TSI - 65340</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vJjQUM2wRDf891okZjH^FgRka28IugXONaqm7Mml9^0=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1916.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -115715,7 +115728,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>151.67</Fiyat>
+    <Fiyat>132.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -203170,19 +203183,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>55579072-WINPOWER</Kod>
-    <Aciklama>ATESLEME BOBINI - OPEL ADAM ASTRA J CORSA D E INSIGNIA A MERIVA B MOKKA X ZAFIRA C AVEO CRUZE TRAX A12XEL B12XEL D12XEL A14XEL B14XEL D14XEL A14XER B14XER D14XER D14NET A14XFL A14NEL B14NEL A14NET B14NET10 &gt; - 1208092|120893|GN1040112B1|25195107|1208096|20497|55573735|1208123|2260048|25198623</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1380.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>04C133201L-WISCO</Kod>
     <Aciklama>EMME MANIFOLDU - VW POLO IBIZA CITIGO 1.0 11 &gt; - 04C133201L|04C133201Q|04C133366Q|04C133201H</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -218311,7 +218311,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>657.29</Fiyat>
+    <Fiyat>690.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
