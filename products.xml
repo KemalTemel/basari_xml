@@ -34399,7 +34399,7 @@
   </Urun>
   <Urun>
     <Kod>1K0906093G-WISCO</Kod>
-    <Aciklama>BENZIN POMPA ROLESI - VW JETTA FABIA OCTAVIA RAPID - 1K0906093G|1T0906093G|1K0906093J|1130072|1K0906093H</Aciklama>
+    <Aciklama>BENZIN POMPA ROLESI - VW JETTA FABIA OCTAVIA RAPID SCIROCCO YETI ALTEA LEON IBIZA TOLEDO A1 1.2TSI 1.4TSI 1.8TSI 10 &gt; - 1K0906093G|1T0906093G|1K0906093J|1130072|1K0906093H||1K0906093A|1K0906093B|1K0906093D|1K0906093E|1K0906093F|1T0906093A|1T0906093B|1T0906093D|1T0906093E|1T0906093F</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -77740,19 +77740,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>346.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>LP1989-DELPHI</Kod>
-    <Aciklama>FREN BALATASI ON - OPEL CORSA D 1.0 1.2 1.3CDTI 1.4 06 &gt; - 1605258|93191698|1605357|93169292|95521571|2398202|1605153|1605353|93169254|1506226|1605184|1605388|93191697|93189815|2200056|93167073|93169174|1606359|95513810</Aciklama>
-    <Uretici>DELPHI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>650.62</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -194343,19 +194330,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>15635-FEBI</Kod>
-    <Aciklama>MOTOR TAKOZU ON SOL - OPEL ASTRA G ZAFIRA A C16SEL X12XE X14XE X16SZR X16XEL X18XE1 Z16XEP Z18XEL 98-05 - 5684045|90575457|90575456</Aciklama>
-    <Uretici>FEBI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1169.00</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>079127026J-WISCO</Kod>
     <Aciklama>YUKSEK BASINC POMPASI - VW TOUAREG A5 S5 A8 D4 Q7 4.2FSI 4.2 V8 06 &gt; - 079127026AC|079127026F|079127026J</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -202118,7 +202092,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>4G0317021AR-WISCO</Kod>
-    <Aciklama>SANZUMAN FILTRESI - AUDI A4 2.0L 17-20 - 4G0317021AR</Aciklama>
+    <Aciklama>OTOMATIK SANZUMAN YAG SOGUTUCU - AUDI A4 2.0L 17-20 - 4G0317021AR</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -208410,7 +208384,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>63117355356-ARTEB</Kod>
-    <Aciklama>FAR SAG BI-XENON - BMW F34 GT 13-15 - 63117355356</Aciklama>
+    <Aciklama>FAR SAG BI-XENON - BMW F34 GT 13-15 - 63117355356|63117355556</Aciklama>
     <Uretici>ARTEB</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -218481,19 +218455,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>15.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>80744-MGA</Kod>
-    <Aciklama>SU RADYATORU - OPEL CORSA D  06-14 - 1300279|1300340|13399871|55701408</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1947.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
