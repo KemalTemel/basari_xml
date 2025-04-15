@@ -59050,19 +59050,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5PK1255-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL VECTRA C ASTRA G CITROEN SAXO XSARA 1.6 1.8 98&lt; - 1340657|24419361|9192568|6340667|55350856|24451612</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>105.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5PK1270-GATES</Kod>
     <Aciklama>V KAYISI - MERCEDES-BENZ PEJO CITROEN 1.7 1. 9 - 0129970092|96014241|0129977492|6689970292</Aciklama>
     <Uretici>GATES</Uretici>
@@ -180040,19 +180027,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>161.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>424071-WISCO</Kod>
-    <Aciklama>HELEZON ARKA - OPEL VECTRA C BM 02 &gt; - 424083|424106|93185774|124070R|93176260|93171836</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>2</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>317.89</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
