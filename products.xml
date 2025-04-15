@@ -155473,6 +155473,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>9829535680-WISCO</Kod>
+    <Aciklama>PANEL UST BRAKETI - OPEL CORSA F 20&gt;</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1606.40</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5G1857508CLGRU-WISCO</Kod>
     <Aciklama>AYNA SAG ELE+ISI+AST+SIN+KON 6 PIN - VW GOLF 7 7.5 (5G1,BQ1) 13&gt; - 5G1857508DM9B9|5G0857538EGRU|5G1857508FK9B9|5G1857508CP9B9|5G0857538CGRU|5G1857508DM|5G0857522|5G0857538E|5G1857508BB|5G1857508BB9B9|5G1857508ES9B9|5G1857508CP|5G0857538C|5G1857508ES</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -166432,19 +166445,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5F0945308D-WISCO</Kod>
-    <Aciklama>STOP IC SAG - SEAT LEON (5F1) 13&gt; / LEON SC (5F5) 13&gt; - 5F0945308B|5F0945308G|5F0945308L|5F0945308E</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/4zQLejJIAID^^uKldu8DULGHKcjXS3beyIxoCdN13gQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2438.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>9830241080-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI SAG SISLI - OPEL CORSA F 20&gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -175814,7 +175814,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pXOyFLvCL9EkDI3IN7Ks2Ga9EolGckXG5l^x7RjyD7E=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>157.14</Fiyat>
+    <Fiyat>5853.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -178129,19 +178129,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>146.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>720567-WISCO</Kod>
-    <Aciklama>SANZUMAN IGNE RULMAN F16 F18 - OPEL VECTRA A B - 90142583|720013|90157850</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/XM8UUTTbhHOkUyfPYpfA0fHYvKkhg8NlK96qHS73FmA=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>130.26</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218783,19 +218770,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7002253-CAVO</Kod>
-    <Aciklama>EL FREN TELI - VW TRANSPORTER T4 90 &gt; - 701711476A</Aciklama>
-    <Uretici>CAVO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>288.02</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>105250002-SWB</Kod>
     <Aciklama>KRANK KASNAGI - VW T4 LT35 CRAFTER 2.4 2.5TDI 96 &gt; - 074105251AC|074105251M|074105251N|074105251R|074105251S|074105251T|544000210</Aciklama>
     <Uretici>SWB</Uretici>
@@ -218910,6 +218884,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>129.06</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>63325-MGA</Kod>
+    <Aciklama>YAG FILTRE KUTUGU - VW GOLF5 JETTA PASSAT A3 2.0FSI 05 &gt; - 06F115397E|06F115397F|06F115397H|06F115397J|1110366</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1442.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
