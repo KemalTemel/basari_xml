@@ -44811,6 +44811,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>03G121065AC-WISCO</Kod>
+    <Aciklama>SU BORUSU DEVIRDAIM - VW CADDY GOLF PASSAT TOURAN 04 &gt; - 1111343|03G121065AC</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>303.07</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03G121121D-WISCO</Kod>
     <Aciklama>TERMOSTAT YUVASI KOMPLE - VW GOLF5 JETTA PASSAT CADDY TOURAN OCTAVIA SUPERB LEON TOLEDO ALTEA  A3 BJB BLS BSU BMM CFHC CLCB BKC BXE BKD 04 &gt; - 03G121121B|03L121121A||1110206|03G121121D|03G121121A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -53574,19 +53587,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>83.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>302890-ELRING/OEM</Kod>
-    <Aciklama>SUBAP LASTIGI 5MM - VW GOLF7 POLO A3 LEON 1.0TSI 1.2TSI 1.4TSI CHYB CJZA CJZB CYVA CYVB 13 &gt; - 302890|04E109675B</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>40.01</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216596,19 +216596,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1857.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>B12177-BORSEHUNG</Kod>
-    <Aciklama>FLANSLI KRANK KECESI ARKA - VW GOLF7 PASSAT JETTA A3 LEON 1.2TSI 1.4TSI 1.5TSI CUKB CZBA CZBC CJZB CYVA 13 &gt; - 82037030|04C103170H|04E103170L|523120|04E103170A|20037030B</Aciklama>
-    <Uretici>BORSEHUNG</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>965.46</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
