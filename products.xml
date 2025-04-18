@@ -15782,6 +15782,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>220632-CABU</Kod>
+    <Aciklama>KRIKO KAPAGI ON SAG - OPEL ASTRA G HB 98 &gt; - 5164660|90547334</Aciklama>
+    <Uretici>CABU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>58.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>296-WISCO</Kod>
     <Aciklama>CAM KRIKO TAMIR TAKIMI ARKA SAG KAPAKSIZ - SKODA OCTAVIA 97-02 - 1U0839462</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -34850,6 +34863,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>454.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>220633-CABU</Kod>
+    <Aciklama>KRIKO KAPAGI ON SOL - OPEL ASTRA G HB 98 &gt; - 90547333|5164661</Aciklama>
+    <Uretici>CABU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>58.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -70170,7 +70196,7 @@
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/P6JX8PFXa8xXApPJepC3O2Q0LuxjQ1uSPRjNF6EXsl0=.jpg</Resim>
+    <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3251.94</Fiyat>
@@ -80908,7 +80934,7 @@
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/^yhu4I8NVS5L3r8ApLw9Bv1SnOq6XqP4r5ETdpHG7x8=.jpg</Resim>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/t4NqElQggpaHqFvvf46G1KSQnx8U0wBN6t1Oleheq2Q=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>652.03</Fiyat>
@@ -127744,6 +127770,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0241135520-BOSCH</Kod>
+    <Aciklama>ATESLEME BUJISI - VW POLO FABIA IBIZA GOLF7 CADDY 1.0TSI CHYA CHYB CWVA 14 &gt; - 04C905616|04C905626||0241135515|04C905616A|04C905616C|04C905616F|04C905606A|04C905606|04C905616B|04C905616D|0241135520|OE247|0241235520</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>154.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03L130235M-WISCO</Kod>
     <Aciklama>ENJEKTOR GERI DONUS HORTUMU - VW AMAROK 2.0 TDI 2.0 BTDI 10 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -130831,7 +130870,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/35glv3yo1drZQ^sA95YdUyXjBqbrM7O3JkfLCxsNHO0=.jpg</Resim>
+    <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>528.13</Fiyat>
@@ -168980,6 +169019,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>280047-FEBI</Kod>
+    <Aciklama>ROTIL UST - VW T3 79-91 - 280047|251407361</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>220.99</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7M3919050-AUTOLUX</Kod>
     <Aciklama>YAKIT POMPASI SAMANDIRALI - VW BORA 1 GOLF4 98-01 SHARAN 95-10 1.9 TDI AUDI A3 96-01 1.9 TDI SEAT LEON AROSA 97-06 TOLEDO 1 91-99 1.9 TD-TDI SKODA OCTAVIA 1 1.9 TDI 02-04 - 6X0919050|7M3919050A|1110332|YM219H307AB</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -171391,7 +171443,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/oPhowB825xqH9pTuitkgHBPGTHeJANZchgE2WRzmYmA=.jpg</Resim>
+    <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>652.03</Fiyat>
@@ -192337,7 +192389,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>168.14</Fiyat>
+    <Fiyat>173.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -205386,7 +205438,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim></Resim>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/nqeUYoqdCMsoZBhTpp6tYkAeJ6mrKtiHoqbdOrLkvFo=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>652.03</Fiyat>
@@ -205399,7 +205451,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim></Resim>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/n0DnRVAl6w109pVQTYqxsRvGHJhOtV2PoP9X1N1SQic=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>652.03</Fiyat>
@@ -215959,6 +216011,84 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>250.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>SC5383-2K-SARDES</Kod>
+    <Aciklama>POLEN FILTRESI KARBONLU 2 LI - BMW F25 F26 10 &gt; - 64119237159</Aciklama>
+    <Uretici>SARDES</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>300.01</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>P12926-PLASTECH</Kod>
+    <Aciklama>SU BORUSU DEMIR - VW GOLF7 ARTEON PASSAT T-ROC TIGUAN LEON SKODA OCTAVIA CLHA 12 &gt; - |04L121065|04L121065AD|04L121065BH|04L121065CC|04L121065CR</Aciklama>
+    <Uretici>PLASTECH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>666.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>296259-GKL</Kod>
+    <Aciklama>YAN KAPAK - AUDI A4 A5 A6 Q5 Q7 CAYENNE TOUAREG 3.0 V6 TDI 07 &gt; - 059103525D|059103525F|95810152500</Aciklama>
+    <Uretici>GKL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>495.77</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>718051-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI METAL 1 KERTIK - VW GOLF7 12&gt; PASSAT B8 14&gt; POLO 6 17&gt;TOURAN 15&gt; T-ROC 18&gt; AUDI A3 12&gt; Q2 1.6 14&gt; SEAT ARONA 17&gt;IBIZA 5 17&gt;LEON 12&gt; SKODA KAMIQ 17&gt; KAROQ 17&gt;OCTAVIA 3 12&gt;RAPID 15-19 SUPERB 3 1.6 TDI 15&gt; - 04L103383C|334270|49409496|613784000|718051</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1239.62</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>OE672/4-FILTRON</Kod>
+    <Aciklama>YAG FILTRESI - BMW CABRIO E88  E90 E93 E60 05 &gt; - 11427805707|11427807177|OE672/4</Aciklama>
+    <Uretici>FILTRON</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>274.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>WH3028-JUST</Kod>
+    <Aciklama>PORYA ARKA SOL-SAG RULMANLI - OPEL VIVARO C ZAFIRA EXPERT PROACE JUMPY 19 &gt; - |11147520009|198188|209428|221929|602902|713650680|9328029|9819074780|A6528|R15970|SU001|SU001A6528|VKBA7120</Aciklama>
+    <Uretici>JUST</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1366.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
