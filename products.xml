@@ -9876,7 +9876,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>130.39</Fiyat>
+    <Fiyat>119.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -19315,19 +19315,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>790.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8K0498203B-WINPOWER</Kod>
-    <Aciklama>AKS KORUGU DIS - AUDI A4 A5 Q5 CAGA CABA CABB CDHA CDHB 08 &gt; - 304957|1160117|8D0407285|8K0498203B</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>73.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -38334,19 +38321,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>264.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1208075-WISCO</Kod>
-    <Aciklama>ATESLEME BOBINI - OPEL OMEGA B 2.5 3.0 V6 X25XE 94 &gt; - 90563160|90541062|2260063|GN1026512B1</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Udpj9XpokLD4LwftCXk2WmYsx0DMvJJhbm^YH0FU16Q=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>733.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -93822,6 +93796,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1497.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>YC159L440BC-WISCO</Kod>
+    <Aciklama>TURBO RADYATORU (INTERCOOLER) 400X127X73 - FORD TRANSIT2.4 DI 2.4 TDCI 2.4 TDE 00 &gt; - 4522532|YC15 9L440 BB|YC159L440BE|4042309|YC159L440BA|4401912|YC159L440BF|YC159L440BC|YC159L440CA|YC159L440BD|96732|313110006|00|1671440||4164696</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/HJyx1Yzh2jKkg87msRcXE4t79K7PrWE54HhQEYbqalk=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1951.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -168326,7 +168313,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>54.58</Fiyat>
+    <Fiyat>54.48</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216726,32 +216713,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2097.08</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>43111C4RMLDEM1-DEPO</Kod>
-    <Aciklama>FAR ON SAG KROM - FORD CONNECT 13 &gt; - |1807875|1819684|1827686|DT1113W029AA|DT1113W029AC</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5038.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>43111C4LMLDEM1-DEPO</Kod>
-    <Aciklama>FAR ON SOL KROM - FORD CONNECT 13 &gt; - |1807866|1819688|1827690|DT1113W030AA|DT1113W030AC</Aciklama>
-    <Uretici>DEPO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5038.34</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
