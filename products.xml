@@ -8827,19 +8827,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1216142-WISCO</Kod>
-    <Aciklama>FAR SOL - OPEL CORSA C 03 &gt; - 6066|93173253|2|088342|25|20|206066252</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/zuHwGFIlMfgyzgy^nI9QA2HBaJ2ma8baC1wKJ0Z^mcQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1367.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>028127435-WISCO</Kod>
     <Aciklama>YAKIT FILTRESI - VW PASSAT 1.9TDI 97 00 AFN - 893127435A|028127435|028127435A|1130056|028127435B|074127435A|028127435C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -182236,7 +182223,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>9701.50</Fiyat>
+    <Fiyat>10326.44</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206732,6 +206719,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>2478-LPR</Kod>
+    <Aciklama>DEBRIYAJ UST MERKEZI - VW GOLF7 PASSAT A3 LEON SUPERB KODIAQ 13 &gt; - 5Q0721388G|2478|116261|103649|6284600748|5Q0721388C|511080310|874312|5Q0721388E|KG15010547|5Q0721388J|2106015</Aciklama>
+    <Uretici>LPR</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1236.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1115118-00</Kod>
     <Aciklama>RADYATOR SU BORUSU PLASTIK - VW PASSAT B6 B7 GOLF5 GOLF6 JETTA TIGUAN SKODA OCTAVIA SUPERB SEAT LEON ALTEA AUDI A3 Q3 TT 1.8 2.0 05 &gt; - 06J121065F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -217999,7 +217999,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>19059.68</Fiyat>
+    <Fiyat>6353.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -218052,6 +218052,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>142.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>15010348-KRAFTVOLL</Kod>
+    <Aciklama>AMORTISOR ARKA - OPEL COMBO C 01 &gt; - |23964|436185|436188|436355|436357|72119125|72119126|93185698|93185700</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>664.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>008190600-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW POLO 1.9SDI  ASY 01 &gt; - 008190600|02T141153K|02T141165A|02T141165B|02T141170|02T141170C|038141025G|038141025GX|038141031R|038141031RX|3000950002|3000951054|619302900|619315700|826680</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1189.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>11435-MAHER</Kod>
+    <Aciklama>SILECEK TAKIMI ON 500MM 600MM - AUDI A4 A5 Q5 12 &gt; - 1230603|500MMX600MM|8K1955425|8K1955425A|8K1955426|8K1955426A|8K1998002|8K1998002A|8R1955425B|8R1955426B|8R1998002|8U0998002|8U1955425|8U1955426|8W1998002</Aciklama>
+    <Uretici>MAHER</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>132.27</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
