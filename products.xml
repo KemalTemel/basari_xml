@@ -2522,6 +2522,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>006200709-MAPA</Kod>
+    <Aciklama>DEBRIYAJ SETI - OPEL ASTRA G-H VECTRA B-C MERIVA A ZAFIRA A-B 1.6 Z16XE Z16XEP A16XER Z16XER X18XE1 X16XEL 99 &gt; - 1606152|3000951071|93175343|621237800|621302709|620209809|93171782|05S886200R|1606956|93175342|3000990026|006200709|3000839001|3000828201|1606209|3000838801|1606157|2120030|012200609|1606205</Aciklama>
+    <Uretici>MAPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1282.41</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03G128063A-WISCO</Kod>
     <Aciklama>GAZ KELEBEGI - VW CADDY LEON A3 OCTAVIA 1.9TDI BLS 04 &gt; - 117305755|03G128063G|03G128063A|03G128063Q|A2C59511699|1110298|03G128063M</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -172048,6 +172061,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3131005050-YENMAK</Kod>
+    <Aciklama>PISTON + SEGMAN 77,01MM 0.50 ADET - VW POLO FABIA ROOMSTER CORDOBA IBIZA 1.2 AZQ BME 01 &gt; - 8744780000|41829610|03E107065J||3131005050|0306401|99909601|03E107103G</Aciklama>
+    <Uretici>YENMAK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1215.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>4B0698151E-ITL</Kod>
     <Aciklama>FREN BALATASI ON OEM - VW PASSAT A4 A6 SUPERB 97 &gt; - FDB1323|8E0698151J|4B0615116F|4B0698151B|GDB1307|4B0698151E|4B0615116|4B0698151H|670751|4D0698151J|8E0698151F|4B0698151N||4B0698151AB|4B0615116A</Aciklama>
     <Uretici>ITL</Uretici>
@@ -218052,6 +218078,58 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>132.27</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>559011010-INA</Kod>
+    <Aciklama>EKSANTRIK ZINCIR SETI - OPEL VIVARO C ZAFIRA D20DTH 19 &gt; - |0816.F6|0816F6|0849.30|084930|1231972|1427902|33691|37620|559011010|62937620|9464474289|KDC45903|LR000663|LR001300|MN982129|TC1410K|VKML83502</Aciklama>
+    <Uretici>INA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>4521.73</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>4422016LUE-DEPO</Kod>
+    <Aciklama>SIS FARI SOL - OPEL CORSA C COMBO C 00 &gt; - 13118670|13262882|13270399|1710201|1710374|1NA354660011|6710057</Aciklama>
+    <Uretici>DEPO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1448.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10060016-KRAFTVOLL</Kod>
+    <Aciklama>VIRAJ LASTIGI ON SOL - TOYOTA COROLLA AURIS  07 &gt; - 4881502140|4881512370|4881512410</Aciklama>
+    <Uretici>MOUNTENG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>86.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10060017-KRAFTVOLL</Kod>
+    <Aciklama>VIRAJ LASTIGI ON SAG - TOYOTA COROLLA AURIS 07 &gt; - 4881502150|4881512390|4881512400</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>86.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
