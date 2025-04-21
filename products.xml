@@ -5421,19 +5421,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1216003-WISCO</Kod>
-    <Aciklama>FAR SOL - OPEL ASTRA F 91-95 - 1216459|90487445</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/I9jKQHSWH9pcD^C04up9wYbK8wrSZDgiW66J^wr2lBw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>846.34</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1268415-WISCO</Kod>
     <Aciklama>KILOMETRE TELI - OPEL CORSA B TIGRA X14XE X16XEL 94 &gt; - 2120070|90484623</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -30654,6 +30641,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>535001210-INA</Kod>
+    <Aciklama>ALTERNATOR KASNAGI - VW CRAFTER CADDY T5 GOLF5 04 &gt; - 022903119C|022903119A|038903119A|021903119G|028903119AM</Aciklama>
+    <Uretici>INA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>879.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6238120-WISCO</Kod>
     <Aciklama>KRANK DEVIR SENSORU - OPEL ASTRA G. ASTRA H 1.6. CORSA C - 6238120|28074365|1235046||16212460</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -49397,19 +49397,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>585.92</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1223979-WISCO</Kod>
-    <Aciklama>STOP SOL - OPEL ASTRA F STW 95 &gt; - 90510614</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/J5gGjUiCnxxjR0svPaUVut5B^^WARsq5VM4u9pTpR0Y=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>561.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -129313,7 +129300,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>101.07</Fiyat>
+    <Fiyat>98.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -133763,6 +133750,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>8P0821171G-WISCO</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZI ONUN ARKASI SOL - AUDI A3 08-13 - 1235545|8P0821171E|8P0821171C|00|8P0821171G</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/2c1C7wB^q82qK8IAuwy2OrRbGX1UlQULb9Ip9fNzPaE=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>238.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>640016-WISCO</Kod>
     <Aciklama>SUBAP ITECEK - OPEL ADAM ANTARA ASTRA G J CORSA E INSIGNIA A SIGNUM VECTRA B VECTRA C ZAFIRA 2.2 2.8 V6 00 &gt; - 420018610|17123524</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -135397,7 +135397,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>978.36</Fiyat>
+    <Fiyat>1213.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -219459,6 +219459,123 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>KT1Z8200CB-HMP</Kod>
+    <Aciklama>PANJUR ON - FORD CONNECT 18 &gt; - KT1Z8200CB|kt1b8200sb</Aciklama>
+    <Uretici>HMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2970.23</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5410909625313-HMP</Kod>
+    <Aciklama>TAMPON IZGARASI ORTA - FORD CONNECT 13 &gt; - 1822267|1895961|DT1117B968AC</Aciklama>
+    <Uretici>HMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1320.11</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>KT1Z17757SJ-HMP</Kod>
+    <Aciklama>TAMPON ON UST - FORD CONNECT 18 &gt; - KT1B17757AH|KT1Z17757SJ</Aciklama>
+    <Uretici>HMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>4290.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>99F17R-GORDON</Kod>
+    <Aciklama>CAMURLUK ON SAG - FORD CONNECT 14 &gt; - |1810497|1829546|1888420|2259864|2274221|2301304|2413571|2638076|KT1BV16005AC</Aciklama>
+    <Uretici>GORDON</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3351.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>FOR15CO003-EUROBUMP</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZI ON SAG - FORD CONNECT 14 &gt; - DT1116114AF</Aciklama>
+    <Uretici>EUROBUMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1122.51</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>99F17L-GORDON</Kod>
+    <Aciklama>CAMURLUK ON SOL - FORD CONNECT 14 &gt; - |1810498|1829547|1862752|2259866|2274222|2301305|2413572|2638922|KT1BV16006AD</Aciklama>
+    <Uretici>GORDON</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3351.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>100.19118-POLIPLAST</Kod>
+    <Aciklama>TAMPON ON SISSIZ SIYAH - FORD CONNECT 13 &gt; - 1807913|1898452|DT1117F775AB</Aciklama>
+    <Uretici>POLIPLAST</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2500.96</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2508900P-HMP</Kod>
+    <Aciklama>TAMPON ON UST - FORD CONNECT 13 &gt; - 1842323|1897674|2508900P|DT1117757BB</Aciklama>
+    <Uretici>HMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>4224.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>FOR15CO004-EUROBUMP</Kod>
+    <Aciklama>CAMURLUK DAVLUMBAZI ON SOL - FORD CONNECT 14 &gt; - DT1116115AF</Aciklama>
+    <Uretici>EUROBUMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1056.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>0AM325026EC-ITL</Kod>
     <Aciklama>DQ200 MEKATRONIK KOMPLE - VW AUDI SEAT SKODA</Aciklama>
     <Uretici>ITL</Uretici>
@@ -219469,6 +219586,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>23985.09</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>11205003-FASE</Kod>
+    <Aciklama>EKSANTRIK MILI - FORD C-MAX 2 FOCUS 3 TRANSIT CONNECT 1.6 TDI 10&gt; - 0801.FC|12|1685737|313301943642468|3642468|420|6250|9684569080|A0140|AV6Q|AV6Q6250BA|BA|SU001|Y650</Aciklama>
+    <Uretici>FASE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2011.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220093,6 +220223,58 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1464.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>23H142727-UCPA</Kod>
+    <Aciklama>TURBO HORTUMU - VW T7 2.0TDI CAAB CXFA CXHA DNAA CXGB15 &gt; - 04L145822F|04L145822H|23H142727</Aciklama>
+    <Uretici>UCPA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>512.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3130065050-YENMAK</Kod>
+    <Aciklama>PISTON + SEGMAN 77,01MM 0,50 ADET - VW GOLF7 CADDY POLO FABIA OCTAVIA YETI IBIZA TOLEDO 1.6 CWVA CWVB 14 &gt; - 04E107065DT|04E107065FD|3130065050|41487600</Aciklama>
+    <Uretici>YENMAK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1505.14</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9804424280-FIAT</Kod>
+    <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 308 5008 2.0 18 &gt; - 1871343|9804424280|D7SQ6A273BA</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>6406.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9804424180-FIAT</Kod>
+    <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 5008 508 2.0 HDI 09 &gt; - 18713432|9804424180|D7SQ6A270BA</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>5296.16</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
