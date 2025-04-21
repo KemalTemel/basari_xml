@@ -6852,7 +6852,7 @@
   </Urun>
   <Urun>
     <Kod>1304231-WISCO</Kod>
-    <Aciklama>RADYATOR SU DEPOSU KAPAKLI - OPEL CORSA B X12XE 16V - 2110017|9129478</Aciklama>
+    <Aciklama>RADYATOR SU DEPOSU KAPAKLI CIFT CIKISLI - OPEL CORSA B X12XE 16V - 2110017|9129478</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -49699,6 +49699,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1300148-AUTOLUX</Kod>
+    <Aciklama>SU RADYATORU MEKANIK AT 349X585 MM - OPEL ASTRA F 1.4 1.6 1.8 91 &gt; - 63253A|52455010|52459348|2113012|1300109|52459347|1300148|22|1300147</Aciklama>
+    <Uretici>AUTOLUX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Xaep4ucppy5AH4mZzMMNQ^xPQEC7qnB1ofsMnUcxWvU=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1790.30</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1300149-AUTOLUX</Kod>
     <Aciklama>SU RADYATORU MEKANIK MT 530X269X32 - OPEL CORSA B COMBO B 1.2 93&gt; - 8MK376712|004|2110236|1300149|22|52488849|8MK376712001|1300150|93246489|90410047|001|8MK376712004|632851|90410048</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -59775,6 +59788,32 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>58.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5Q0121251EL-WISCO</Kod>
+    <Aciklama>TURBO RADYATORU (INTERCOOLER) 648X95,5X32 - VW GOLF7 A3 LEON OCTAVIA 1.2TSI 13 &gt; - 5Q0121251EH|1111890|5Q0121251EL</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/FwJsnE50b8uNwBF2Vcfj2IAiNPgWbrKm8YRpXtDy^3k=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1608.02</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5Q0121251EM-AUTOLUX</Kod>
+    <Aciklama>SU RADYATORU MEKANIK MT-AT 650X395 MM - VW GOLF7 TOURAN 1.4 TSI 1.6 TDI TIGUAN PASSAT GOLF7 SKODA OCTAVIA 3 A3 1.0 TFSI 1.2 TFSI 1.4 TFSI 2.0 TDI 12 &gt; - 5Q0121251GD|374|5Q0121251ER|8MK376901|5Q0121251GQ|65303|5Q0121251GK|8MK376901374</Aciklama>
+    <Uretici>AUTOLUX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/BaQE0TRDwgpirgnh7HELbFybsOpbNiLPcEDcv2bazMI=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1578.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -79612,6 +79651,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>341.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>17940-0N150-WISCO</Kod>
+    <Aciklama>TURBO RADYATORU (INTERCOOLER) 275X127X64 - TOYOTA COROLLA AURIS 1.4D 13-18 - RA8280280|179400N150</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kh2t7uCJzvRcOOJb70XMzTeM8PAqnwV141Iu3hukRTg=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3255.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137092,7 +137144,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>0AM325026E-ITL</Kod>
-    <Aciklama>DQ200 MEKATRONIK KOMPLE - VW AUDI SEAT SKODA</Aciklama>
+    <Aciklama>DQ200 MEKATRONIK KOMPLE MADE IN ROMANIA - VW AUDI SEAT SKODA</Aciklama>
     <Uretici>ITH</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -188221,7 +188273,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>24002063O-FITPART</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL CORSA B 1.5D 1.7D 92 &gt; - 9129478|90410058|1304648|09129478|1304231</Aciklama>
+    <Aciklama>RADYATOR SU DEPOSU CIFT CIKISLI - OPEL CORSA B 1.5D 1.7D 92 &gt; - 9129478|90410058|1304648|09129478|1304231</Aciklama>
     <Uretici>FITPART</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -214546,7 +214598,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>202259-TOPRAN</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL CORSA B 1.5D 1.7 D 92&gt; - 1304231|1304648|202259001|202259755|90410058|9129478</Aciklama>
+    <Aciklama>RADYATOR SU DEPOSU CIFT CIKISLI - OPEL CORSA B 1.5D 1.7 D 92&gt; - 1304231|1304648|202259001|202259755|90410058|9129478</Aciklama>
     <Uretici>TOPRAN</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -219629,7 +219681,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>0AM325026EC-ITL</Kod>
-    <Aciklama>DQ200 MEKATRONIK KOMPLE - VW AUDI SEAT SKODA</Aciklama>
+    <Aciklama>DQ200 MEKATRONIK KOMPLE MADE IN CHINA - VW AUDI SEAT SKODA</Aciklama>
     <Uretici>ITL</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
