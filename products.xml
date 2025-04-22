@@ -212123,7 +212123,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/mpKRf4gP1gtLUwgkAfuKKWmcq7lQervjrKPFgnM4NjA=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>847.01</Fiyat>
+    <Fiyat>877.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220496,6 +220496,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>972.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2501300-VOTTO</Kod>
+    <Aciklama>ROT KOLU - CHEVROLET KALOS AVEO T200 T250 T255 03-11 - 05412|96535300</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>196.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
