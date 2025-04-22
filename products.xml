@@ -27664,19 +27664,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>344517-WISCO</Kod>
-    <Aciklama>AMORTISOR TAKOZU - OPEL ASTRA F 91 &gt; - 00|90496637|90345330|344531|2190091|02009</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>182.17</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>835605-WISCO</Kod>
     <Aciklama>HAVA FILTRESI KUTULU - OPEL ASTRA F 1.4 C14NZ 91 &gt; - 1457433007|90443099|25062467|90443103|66107|90351529|834264|2110070|90410651|C31671|834266|834268</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -68513,19 +68500,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5G0941661F-WISCO</Kod>
-    <Aciklama>SIS FARI SOL VIRAJ AYDINLATMALI - VW GOLF7 17- - 5G0941661F</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/bpapSI8sv8f4fl7HP8U8o1UpVVvMT2I40W6kTc9u59w=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>587.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>13315747-WISCO</Kod>
     <Aciklama>AMORTISOR TAKOZU - OPEL ASTRA J - 344571</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -98310,19 +98284,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1605998-WP</Kod>
-    <Aciklama>FREN BALATASI ON - OPEL MERIVA ASTRA H CORSA COMBO C 03 &gt; - 2200054|1605177|95514416|1605456|2383201|1605080|1605252|90544001|93181189|1605009|1605996|93192578</Aciklama>
-    <Uretici>WP</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>411.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>88460-42070-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 765X410X16 - TOYOTA RAV4 00&gt; - 88460|42090|94741|8846042080|8846042060|42070</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -105691,19 +105652,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2170.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>542039-WP</Kod>
-    <Aciklama>FREN BALATASI ARKA IKAZLI - OPEL ASTRA J 16 JANT 09-16/ MOKKA 12-23/ ZAFIRA C 11-22/ CHEVROLET CRUZE 11-14/ TRAX 11-14 - 13411380|1605140|13411383|13473429|1605176|1605295|1605262|13473428|GDB1844</Aciklama>
-    <Uretici>WP</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>273.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220366,6 +220314,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>5311.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>110141-TOPRAN</Kod>
+    <Aciklama>SANZUMAN TAKOZU CATAL TIP - VW T4 2.4D 2.5TDI 96-03 - 110141|701399207BS1|701399661|7D0399207B</Aciklama>
+    <Uretici>TOPRAN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1002.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
