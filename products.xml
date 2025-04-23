@@ -220602,4 +220602,17 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Fiyat>735.25</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
+  <Urun>
+    <Kod>GK7545-GSP</Kod>
+    <Aciklama>TEKER RULMANI ON 37X70X38.10 - HYUNDAI ACCENT GETZ PICANTO 00 &gt; - 5172002000|517200U000|517201C000|517201W000</Aciklama>
+    <Uretici>GSP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>341.44</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
 </Products>
