@@ -16692,6 +16692,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1603187-WISCO</Kod>
+    <Aciklama>ROTIL ALT - OPEL CORSA A - 90166394|90444294|1603161|904442941603128|2160055|1603187|1603128</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>126.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>172951-WISCO</Kod>
     <Aciklama>KAPI CITASI TAKIM (4 PARCA) - OPEL ASTRA G 98 &gt; - 90544211|2220053</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -55186,19 +55199,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>359.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3C0121253K-AUTOLUX</Kod>
-    <Aciklama>SU RADYATORU MEKANIK AT 540X378 MM CAY MOTOR - VW CADDY GOLF5 6 JETTA 3 4 PASSAT SCIROCCO PASSAT CC TOUARAN SEAT LEON AUDI A3 1.6 TDI 2.0 TDI 2.0 TFSI 05 &gt; - 1140021|8MK376774|5K0121253F|1K0121251DM|1K0121251EH|1K0121251N|3C0121253Q|041|1K0121251AB|3C0121253K|3C0121253AL|8MK376774041|5K0121251AB|3C0121253AR</Aciklama>
-    <Uretici>AUTOLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/8Dyjq^FAZ0f2u5Cn24mqjXZNjLvKDWJBLsHMGeAhTVU=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1796.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -107368,6 +107368,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>201.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5650834/15PARCA-WISCO</Kod>
+    <Aciklama>YAG SOGUTUCU CONTASI 15 PARCA - OPEL ASTRA J H INSIGNIA MOKKA VECTRA C ZAFIRA CRUZE A16XER Z16XER 09 &gt; - 25199750|5650972TK|5650833|5650364|HSF2044|93186324|360070|55354071|55355603</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>91.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214727,6 +214740,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>114537-TOPRAN</Kod>
+    <Aciklama>UST KAPAK CONTASI - VW BORA 1 GOLF4 PASSAT SHARAN TOUAREG T5 2.3 99&gt; - 022103484F|022103484E|114537001</Aciklama>
+    <Uretici>TOPRAN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/bcfhJgXbcuwc0xcs4ybpaK3d9ZCGRHLttPoLqZZ8k7I=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>44.44</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>400436-TOPRAN</Kod>
     <Aciklama>YAKIT DEPO KAPAGI - BMW 3 BMW 5 BMW 7 316 520 730 72-82 - 16111179459|16111468059|16111179872|16116750564</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -220561,6 +220587,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>75.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>FIA11DU008-EUROBUMP</Kod>
+    <Aciklama>AYNA KOMPLE SAG ELEK+ISI+SINYALLI - FIAT DUCATO JUMPER BOXER 06 &gt; - |1613689280|735661833|735773337|8153NQ|815428|8154LR</Aciklama>
+    <Uretici>EUROBUMP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>5416.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
