@@ -24696,7 +24696,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>197.45</Fiyat>
+    <Fiyat>265.80</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113938,19 +113938,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4F0598611B-WISCO</Kod>
-    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 5X112 131X36DIS ABS - AUDI A6 4CYL 05 &gt; - 4F0598611A|4F0598611B|9400196|4F0501611B|2882|4FD501611|R157.42|19</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xXB3PTs1vI2iF5eMZQbHUNjc1movzDDQluJ4^HzJsMw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>734.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5187877-WISCO</Kod>
     <Aciklama>TAVAN CITA KAPAGI ON ARKA ASTARLI - OPEL ASTRA H 04 &gt; - 5187877|5187878|13125721|13125725</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -171342,7 +171329,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>188.14</Fiyat>
+    <Fiyat>180.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213072,7 +213059,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/CKnM00cZmc20MAnnupbBFjRVnwdnglHFYWOjgDHzTWk=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2896.47</Fiyat>
+    <Fiyat>3361.87</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220912,6 +220899,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>462.11</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>VW7004-VEKA</Kod>
+    <Aciklama>AKS MILI SETI SAG - VW T4 2.5TDI 96 &gt; - 02G409335A|02G409345|02G409356C</Aciklama>
+    <Uretici>VEKA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2080.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1691351780-PSA</Kod>
+    <Aciklama>ADBLUE KATALITIK VE KONVEKTOR TEMIZLEYICISI 10L - UNIVERSAL - 1660724480|1691351780|A0049890420|G052910A4</Aciklama>
+    <Uretici>PSA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>388.10</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
