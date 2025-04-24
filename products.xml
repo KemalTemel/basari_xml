@@ -8438,7 +8438,7 @@
   </Urun>
   <Urun>
     <Kod>1J5941018BE-WISCO</Kod>
-    <Aciklama>FAR SAG SISSIZ - VW BORA 98 04 - 1240313|4411138RLDEM|1EH963560641|1J5941018BE</Aciklama>
+    <Aciklama>FAR SOL SISSIZ MOTORLU - VW BORA 98 04 - 1240313|4411138RLDEM|1EH963560641|1J5941018BE</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -9751,7 +9751,7 @@
   </Urun>
   <Urun>
     <Kod>1J5941017BE-WISCO</Kod>
-    <Aciklama>FAR SOL SISSIZ - VW BORA 98 04 - 1240312|4411138LLDEM|1J5941017BE|1EH963560631</Aciklama>
+    <Aciklama>FAR SAG SISSIZ MOTORLU - VW BORA 98 04 - 1240312|4411138LLDEM|1J5941017BE|1EH963560631</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -9894,7 +9894,7 @@
   </Urun>
   <Urun>
     <Kod>1J1941017F-WISCO</Kod>
-    <Aciklama>FAR SOL SISSIZ - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941017F|1EJ007700071|1J1941017B|1240117|4411130LLDEM</Aciklama>
+    <Aciklama>FAR SOL SISSIZ MOTORLU - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941017F|1EJ007700071|1J1941017B|1240117|4411130LLDEM</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -14418,7 +14418,7 @@
   </Urun>
   <Urun>
     <Kod>1J1941018F-WISCO</Kod>
-    <Aciklama>FAR SAG SISSIZ - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941018F|1240116|1J1941018B|1EJ007700081|4411130RLDEM</Aciklama>
+    <Aciklama>FAR SAG SISSIZ MOTORLU - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941018F|1240116|1J1941018B|1EJ007700081|4411130RLDEM</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -78147,7 +78147,7 @@
   </Urun>
   <Urun>
     <Kod>1J1941017C-WISCO</Kod>
-    <Aciklama>FAR SOL SISLI - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941017K|10791121</Aciklama>
+    <Aciklama>FAR SOL SISLI MOTORLU - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941017K|10791121</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -96166,7 +96166,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1J1941018C-WISCO</Kod>
-    <Aciklama>FAR SAG SISLI - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941018K|10791121</Aciklama>
+    <Aciklama>FAR SAG SISLI MOTORLU - VW GOLF4 (1J1) / GOLF4 Variant (1J5) / GOLF4 Cabrio (1E7)  98-04 - 1J1941018K|10791121</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -153420,7 +153420,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1J5941017BD-WISCO</Kod>
-    <Aciklama>FAR SOL SISLI - VW BORA 98-04 - 441|1138L|4411138LLDEMF|LDEMF|1J5941017AD</Aciklama>
+    <Aciklama>FAR SOL SISLI MOTORLU - VW BORA 98-04 - 441|1138L|4411138LLDEMF|LDEMF|1J5941017AD</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -167772,7 +167772,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1J5941018BD-WISCO</Kod>
-    <Aciklama>FAR SAG SISLI - VW BORA 98-04 - 4411138RLDEMF|441|1J5941018AD|LDEMF|1138R</Aciklama>
+    <Aciklama>FAR SAG SISLI MOTORLU - VW BORA 98-04 - 4411138RLDEMF|441|1J5941018AD|LDEMF|1138R</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -171330,6 +171330,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>814.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>876880-ELRING</Kod>
+    <Aciklama>MANIFOLD CONTASI EGZOST 4-6 SILINDIR - VW TOUAREG BUB AZZ BML 3.2 04 &gt; - 022253050C</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>188.14</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213047,6 +213060,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>313.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>118738-TOPRAN</Kod>
+    <Aciklama>YAG KARTER HAVALANDIRMA - AUDI A4 A6 TOUAREG 09 &gt; - 118738755|06E103547F|118738001</Aciklama>
+    <Uretici>TOPRAN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/CKnM00cZmc20MAnnupbBFjRVnwdnglHFYWOjgDHzTWk=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2896.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
