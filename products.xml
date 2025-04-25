@@ -100126,7 +100126,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -113622,7 +113622,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -133252,7 +133252,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -142807,7 +142807,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -144536,7 +144536,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -145212,7 +145212,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>41.81</Fiyat>
+    <Fiyat>40.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221432,6 +221432,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>126.90</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9849443980-FIAT</Kod>
+    <Aciklama>TERMOSTAT GOVDESI - OPEL VIVARO C 2.0 19 &gt; - 9804160380|9849443980</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>6070.96</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
