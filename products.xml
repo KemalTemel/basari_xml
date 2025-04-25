@@ -1868,7 +1868,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1827.10</Fiyat>
+    <Fiyat>1765.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -71408,7 +71408,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>178.38</Fiyat>
+    <Fiyat>198.20</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -170033,6 +170033,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>620309009-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - OPEL ASTRA G ASTRA H CORSA C CORSA D CORSA E AVEO T300 X14XE Z14XE Z14XEP Z12XEP B14XEL B12XEL 98 &gt; - 93176547|1606510|3000836101|008200009|93171786|6606001|3000990018|93189139|1606159|1606237|620237809|620309009|93188077|3000990131</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3097.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>036906031L-WISCO</Kod>
     <Aciklama>ENJEKTOR - SEAT CORDOBA 1.4 16V TOLEDO 2 FABIA 1 BORA GOLF4 POLO 1.4 16V 00 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -196693,6 +196706,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1473.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>8E9955711E-WISCO</Kod>
+    <Aciklama>SILECEK MOTORU ARKA - AUDI A3 (8P1) 2003-2012 , AUDI Q5 (8RB) 2010-2017 , AUDI Q7 (4LB) 2006-2015 - 8E9955711B|8E9955711G|8R0955711C|8E9955711A|8R0955711B|8E9955711C|8E9955711D|8E9955711E</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1211.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
