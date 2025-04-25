@@ -29913,19 +29913,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5PK1355-WISCO</Kod>
-    <Aciklama>V KAYISI - OPEL CORSA B X12XE 93 &gt; - 5PK1356|N3A1|5PK1354|84E60|5PK1353|5PK1357|18|381|17521|1340003</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>122.79</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6R0423803-WISCO</Kod>
     <Aciklama>ROT KOLU KOMPLE SOL - VW POLO IBIZA CORDOBA A1 RAPID 09 &gt; - 6R0423803B|6R0423803A|1180121|6R0423803|6R0423803D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -68796,6 +68783,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>508.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>623354800-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - VW POLO CORDOBA FABIA A1 1.6TDI CAYB 10 &gt; - 03L198141X|3000950956|03L141025R|03L141032G</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>7732.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -220925,6 +220925,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2085.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1987482864-BOSCH</Kod>
+    <Aciklama>EL FREN TELI - VW T5 T6 03 &gt; - 1170312200|1987482864|7002250|7H0711476B|7H0711476C|7H0711476D|7H0711476E|7H0711476F</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>715.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>025802700F-BOSCH</Kod>
+    <Aciklama>OKSIJEN SENSORU - AUDI A4 A5 A6 A8 Q5 Q7 TOUAREG 2.0TFSI CYRC CNCD 12 &gt; - |06K906262DA|06K906262G|06K906262N|06K906262P|06L906262E|06L906262G|079906262Q|079906262R|07P906262A|07P906262B|8K0906262C|8K0906262J|8R0906262B|95890626200|PAC906262A</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3169.33</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
