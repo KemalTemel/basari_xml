@@ -24648,6 +24648,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3408000-LEX</Kod>
+    <Aciklama>KOL YATAK STD - VW GOLF2 1.6 BENZIN 79 &gt; - 87701600|CR408AM</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>126.90</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>6Q0809958-WISCO</Kod>
     <Aciklama>CAMURLUK DAVLUMBAZI ON SAG - VW POLO 02-10 - 6Q0809958A|6Q0809958B41|6Q0809958B|1235388|00|1220062</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -35035,19 +35048,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1814008-WISCO</Kod>
-    <Aciklama>HAVALANDIRMA MUZULU - OPEL CORSA C COMBO C 02 &gt; - 24403711</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/A7Ec5vrEQFI8hjZkpItyZ^ZOINf4YgB8fUVgcQRKN2g=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>96.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1854777-WISCO</Kod>
     <Aciklama>KLIMA BASINC SENSORU - OPEL ASTRA F CORSA B 95 &gt; - 90451440|2280073</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -37996,6 +37996,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>476.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>699-DK</Kod>
+    <Aciklama>DINGIL BURCU ARKA - OPEL VECTRA B 1.6I 95-03 - 90496681|5402630</Aciklama>
+    <Uretici>DK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>163.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -164124,7 +164137,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
     <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/YWwfdYk4oagJFlPvYbbHFns0GHeTveCOMWSn8NLFe9E=.jpg</Resim>
+    <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1918.50</Fiyat>
@@ -180339,19 +180352,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>82.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>55575611-WISCO</Kod>
-    <Aciklama>TURBO BASINC VALFI - OPEL ASTRA H ASTRA J INSIGNIA ZAFIRA Z13DTH A20DT A20DTC A20DTE A20DTH A20DTJ A20DTL A20DTR 04 &gt; - 851017|55573362|55575611|851042|703978010</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>442.05</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221228,7 +221228,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>80552-MGA</Kod>
-    <Aciklama>SU RADYATORU - TOYOTA HILUX 2.5 D-4D - 80552|8846035280|8846035340|8846035360</Aciklama>
+    <Aciklama>SU RADYATORU MEKANIK MT 648X326X23 MM - VW POLO A1 IBIZA 5 TOLEDO FABIA RAPID ROOMSTER 1.0 1.0 TSI 1.0 TFSI 1.2 1.2 TSI 1.2 TFSI 1.2 TDI 1.4 1.4 TSI 1.4 TDI 1.4 TFSI 1.6 TDI 09 &gt; - 281|640012|6R0121253|6R0121253A|6R0121253L|6R0121253N|8MK376754|8MK376754281</Aciklama>
     <Uretici>MGA</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -221383,6 +221383,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>102790-TROW</Kod>
+    <Aciklama>AMORTISOR ON - VW POLO CLASSIC CADDY CORDOBA GOLF3 VENTO IBIZA CORDOBA 94 &gt; - 1190009|191413031H|191413031P|1H0413031|1H0413031A|1H0413031P|1L0413031C|27A58A|32B760|32H82A</Aciklama>
+    <Uretici>TROW</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>552.26</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>176495-FEBI</Kod>
     <Aciklama>TEKER RULMANI ARKA - IVECO DAILY 06-11 - 176495|2996026|46393023|500054867</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -221393,6 +221406,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1472.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>IL19521-ILERI</Kod>
+    <Aciklama>STOP LAMBASI ILAVE (3.STOP) - VW T5 T6 04-15 - 7E0945097|7E0945097A|7E0945097G|Y13220</Aciklama>
+    <Uretici>ILERI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>157.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>34080025-LEX</Kod>
+    <Aciklama>KOL YATAK 0.25MM - VW GOLF2 1.6 BENZIN 79 &gt; - 87701610|CR408AM</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>126.90</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
