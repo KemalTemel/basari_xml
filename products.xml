@@ -28743,6 +28743,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>620033400-LUK</Kod>
+    <Aciklama>DEBRIYAJ SETI - OPEL CORSA B ASTRA F COMBO B VECTRA A C16SE C16NZ X16SZ X14XE 88 &gt; - 1606522|1606010|007200800|90540801|1606960|1606954|2120028|05S887200R|008200009|007200809|1606684|90540803|620033400|3000174001|90541815|1606026|90541812|90421578</Aciklama>
+    <Uretici>LUK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3387.91</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5817311-WISCO</Kod>
     <Aciklama>YAKIT ENJEKTORU - OPEL ASTRA H CORSA D MERIVA Z1.6LET - 093186230|0280158108|055355612|55355612|93186230</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -72865,6 +72878,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>501.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11611-YTT</Kod>
+    <Aciklama>RADYATOR HORTUMU UST - OPEL VECTRA C Z16XE 01-04 - 9202104|Y11611|1337615</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>220.83</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -205861,6 +205887,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>122583701-REINZ</Kod>
+    <Aciklama>SUBAP LASTIGI 8MM 8 LI SET - UNIVERSAL - 553190|026109675</Aciklama>
+    <Uretici>VICTOR REINZ</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>107.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>7M0501541A-WISCO</Kod>
     <Aciklama>SALINCAK BURCU - VW SHARAN 96 &gt; - 7M0501541A|108149001|108149586</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -221315,6 +221354,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>519.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>VWTM010-KAUTEK</Kod>
+    <Aciklama>SANZUMAN TAKOZU SOL - VW PASSAT A4 1.6 1.8 1.9TDI 97-05 - |8D0399151H</Aciklama>
+    <Uretici>KAUTEK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>287.79</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>12140056-KRAFTVOLL</Kod>
+    <Aciklama>KULBUTOR KAPAGI - CHEVROLET LACETTI 1.8 05-11 - 12140056|92062396</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>979.61</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>176495-FEBI</Kod>
+    <Aciklama>TEKER RULMANI ARKA - IVECO DAILY 06-11 - 176495|2996026|46393023|500054867</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1472.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
