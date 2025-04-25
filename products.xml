@@ -66615,6 +66615,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y10561-YTT</Kod>
+    <Aciklama>SU POMPA HORTUMU - OPEL ASTRA G ZAFIRA A CORSA C 98 &gt; - 18256|1337536|1337487|90536633|90531664|21423</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>310.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>Y11416A-YTT</Kod>
     <Aciklama>VIRAJ KELEPCESI - VW CRAFTER SPRINTER 06 &gt; - 2E0411041F|9063238785</Aciklama>
     <Uretici>YTT</Uretici>
@@ -76791,19 +76804,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1404.79</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2328702-ITL</Kod>
-    <Aciklama>FREN BALATASI TX - BMW 3 (E36) 316i-328i 90-98 - 1160356|1161446|34111160357|1165555|2157616|2157571|1165557|1160357|34111161437|34111161438|1161437|1164500|2157572|34111160356|1163850|2157570|34111160532|1761242|1161438|1161445|1160532|1164498</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>641.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -114822,19 +114822,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2238301-ITL</Kod>
-    <Aciklama>FREN BALATASI ON TX - AUDI A4 B9 (8W2, 8WC) 1.4TFSI 2.0TDI 3.0TDI 15-19 A5 (F53, F5P) 1.4TFSI 2.0TDI 2.0TFSI 3.0TDI 16-20 - 8W0698151AG|8W0698151Q|8W0698151K|8W0698151BG</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>916.83</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4E0611707-WISCO</Kod>
     <Aciklama>FREN HORTUMU ON 355MM - AUDI A8 04-10 - 4E0611707C|4E0611707A|4E0611707</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -150971,7 +150958,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>280.13</Fiyat>
+    <Fiyat>207.06</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -156588,6 +156575,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>412.59</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11650-YTT</Kod>
+    <Aciklama>RADYATOR HORTUM ALT - OPEL VECTRA C Z16XEP 04 &gt; - 9202781|1337766|Y11650</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>497.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -171425,7 +171425,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>6272471-WISCO</Kod>
-    <Aciklama>SILECEK KOLU ON - OPEL ASTRA G 98 &gt; - 6272471|90559553</Aciklama>
+    <Aciklama>SILECEK KOLU ON SOL - OPEL ASTRA G 98 &gt; - 6272471|90559553</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -171928,19 +171928,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>206.28</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>530000410-INA</Kod>
-    <Aciklama>TRIGER SETI - OPEL ASTRA F CORSA B COM.B KALOS 1.4 1.6 8V - 95516736|1629063|93188126|1606368|1606369|93188125</Aciklama>
-    <Uretici>INA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1023.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -175334,19 +175321,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>654.90</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5679332-WISCO</Kod>
-    <Aciklama>DEBRIYAJ RULMANI LUK TIPI BORULU - OPEL ASTRA G VECTRA B C MERIVA X14XE Z14XE X16XEL Z16XE Y17DT Z14XEP Z16XEP Z16XER Z13DT Z13DTJ Z13DTH A14XER A16XER A13DTE Z12XEP X18XE1 - 55579530|5679304|679057|24424957|2120022|24422061|93317724|5679333|90523765|90470874|5679332</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/dw1SXzLArOJg1W3fn^sAdYEJEcddVafkWTtruqdbGEg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>851.37</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -194955,7 +194929,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1K0959126D-WISCO</Kod>
-    <Aciklama>BASINC SENSORU - VW T5 TOURAN 1Ç.4FSI 1.9 TDI 2.0 TDI TIGUAN SHARAN POLO PASSAT JETTA 4 GOLF6 5 AUDI A1 95 &gt; - 1J0959126|1K0959126B|1K0959126A|1K0959126E|5K0959126</Aciklama>
+    <Aciklama>BASINC SENSORU - VW T5 TOURAN TIGUAN SHARAN POLO PASSAT JETTA GOLF6 GOLF5 CADDY  A1 95 &gt; - 1J0959126|1K0959126B|1K0959126A|1K0959126E|5K0959126</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -221198,6 +221172,149 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>218.43</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>013033102-MECARM</Kod>
+    <Aciklama>DEBRIYAJ BALATASI 190X14X135X14X18.7 - OPEL ASTRA F G COMBO B CORSA A B KADETT E VECTRA A AGILA ASCONA 1.0 1.2 1.4 C 1.4NY 1.4SE C1.4NZ X1.4NZ C1.4SE X1.4NZ 1981 &gt; - 1878021831|2123003|22|664191|90345124|90512593|90522204|90522205|90523534|9118210|93175922</Aciklama>
+    <Uretici>MECARM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>632.96</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>80552-MGA</Kod>
+    <Aciklama>SU RADYATORU - TOYOTA HILUX 2.5 D-4D - 80552|8846035280|8846035340|8846035360</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1477.23</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>40VWPO50B-UNICOORE</Kod>
+    <Aciklama>TURBO RADYATORU - VW POLO IBIZA FABIA 1.2 1.6TDI 10 &gt; - 1110771|6R0145805|6RF145805A</Aciklama>
+    <Uretici>UNICOORE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2043.05</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>071121005-UZD</Kod>
+    <Aciklama>DEVIRDAIM - VW GOLF 4 PASSAT BORA SEAT TOLEDO 2 2.3 V5 97 &gt; - 066121011C|066121011CX|066121011D|066121011DX|71121005</Aciklama>
+    <Uretici>UZAKDOGU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>654.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3BD11036-ASPARTS</Kod>
+    <Aciklama>FREN DISKI ARKA TEK - VW T5 T6 04 &gt; - 1200106|7E0615601D|7H0615601B</Aciklama>
+    <Uretici>ASPARTS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>716.12</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>301098-NISSENS</Kod>
+    <Aciklama>BASINC SENSORU - VW T5 TOURAN TIGUAN SHARAN POLO PASSAT JETTA GOLF6 GOLF5 CADDY  A1 95 &gt; - 1J0959126|1K0959126A|1K0959126B|1K0959126E|301098|5K0959126</Aciklama>
+    <Uretici>NISSENS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>869.83</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>119524-SWF</Kod>
+    <Aciklama>SILECEK SUPURGESI - VW TIGUAN 2.0 TSI 16-24 - 119524|5F3955707|5K6955435|5NA955427</Aciklama>
+    <Uretici>SWF</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>241.31</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>P1534-HEPU</Kod>
+    <Aciklama>DEVIRDAIM - MMERCEDES-BENZ W203 W204 C204 CL203 S203 S204 B906 W639 06-16 - A2722000901</Aciklama>
+    <Uretici>HEPU</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3762.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11160-YTT</Kod>
+    <Aciklama>MOTOR TAKOZU SAG - VW GOLF7 PASSAT AUDI A3 SEAT LEON SKODA OCTAVIA SUPERB 1.6 TDI 13 &gt; - |1001990281|103301|105677|30105677|3978001|49394600|54892|5Q0199262BH|634483</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1018.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>424418-VEKA</Kod>
+    <Aciklama>TURBO RADYATORU - VW GOLF7 A3 LEON OCTAVIA 1.2TSI 13 &gt; - 1111890|5Q0121251EH|5Q0121251EL</Aciklama>
+    <Uretici>VEKA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2042.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>50241-SAGEMFRANS</Kod>
+    <Aciklama>KRANK DEVIR SENSORU - OPEL ASTRA J INSIGNIA A16XER B16XER 09 &gt; - 50241|55567243|60293|6238868|SS11321</Aciklama>
+    <Uretici>SAGEMFRANS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>519.21</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
