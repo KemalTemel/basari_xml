@@ -222539,4 +222539,17 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Fiyat>23.67</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
+  <Urun>
+    <Kod>ZZ4563-LEX</Kod>
+    <Aciklama>KONTAK GOBEGI ANAHTARLI - OPEL CORSA A CORSA B ASTRA F 90 &gt; - 0913684|90167295|913984/0913618/0913619/90167295</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>169.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
 </Products>
