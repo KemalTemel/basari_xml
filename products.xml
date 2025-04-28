@@ -3640,6 +3640,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>058109088TK-WISCO</Kod>
+    <Aciklama>EKSANTRIK ZINCIR KIZAGI TAKIMI (2 PARCA) - VW PASSAT 1.8T - 058109088||058109088B</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/btQGhlbszPM^VSiLcVakP0lSki6nNZYPa8^9rvGqT7s=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>132.67</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>069590-ELRING</Kod>
     <Aciklama>KRANK KECESI ON 31X41X7 - OPEL ASTRA H J INSIGNIA 2.0DTH - 93180737|5646262</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -23908,7 +23921,7 @@
   </Urun>
   <Urun>
     <Kod>815012-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - OPEL ASTRA F CORSA B 1.4 91 &gt; - 93187033|00|815012|90322493|815073|2130012|90297154</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 1.0 BAR - OPEL ASTRA F CORSA B 1.4 91 &gt; - 93187033|00|815012|90322493|815073|2130012|90297154</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -33996,7 +34009,7 @@
   </Urun>
   <Urun>
     <Kod>815069-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI KOMPLE - OPEL VECTRA C CORSA C ASTRA G - 2130016|816007|818070|13178573|815047|915070|93174221|815046|93173977|93183433|5815031|93171075|815069</Aciklama>
+    <Aciklama>YAKIT POMPASI KOMPLE 3.0 BAR - OPEL VECTRA C CORSA C ASTRA G - 2130016|816007|818070|13178573|815047|915070|93174221|815046|93173977|93183433|5815031|93171075|815069</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -36553,6 +36566,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>34.60</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>423121-WISCO</Kod>
+    <Aciklama>DINGIL BURCU ARKA - OPEL VECTRA B - Y1418|90496700|17376</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>106.64</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -53123,7 +53149,7 @@
   </Urun>
   <Urun>
     <Kod>1K0919051DA-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW GOLF6 JETTA LEON 1.4TSI 1.6FSI 04 &gt; - 1K0919051BA|1K0919051BG|1210037|1K0919051M|1K0919051DA|1K0919051H|1K0919051AP</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - VW GOLF6 JETTA LEON 1.4TSI 1.6FSI 04 &gt; - 1K0919051BA|1K0919051BG|1210037|1K0919051M|1K0919051DA|1K0919051H|1K0919051AP</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -58570,7 +58596,7 @@
   </Urun>
   <Urun>
     <Kod>5815015-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL VECTRA B CORSA B ASTRA F 95 &gt; - 90442231|5815015|815001|90442402|93181359|2130021|93277517|</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL VECTRA B CORSA B ASTRA F 95 &gt; - 90442231|5815015|815001|90442402|93181359|2130021|93277517|</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -58583,7 +58609,7 @@
   </Urun>
   <Urun>
     <Kod>5815058-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL ASTRA H Z16XEP 08 &gt; - 2130007|13238851|93188874|5815023|5815058</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL ASTRA H Z16XEP 08 &gt; - 2130007|13238851|93188874|5815023|5815058</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -60104,7 +60130,7 @@
   </Urun>
   <Urun>
     <Kod>5Q0919050P-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW GOLF7 T-ROC 1.6 2.0 TDI 12 &gt; AUDI A3 Q2 1.6 2.0 TDI  12 &gt; TT14 &gt; SEAT LEON 1.6 2.0 TDI 13 &gt; SKODA OCTAVIA 3 1.6 2.0 TDI 12 &gt; - 5Q0919050AN|5Q0919050AH|5Q0919050BA|5Q0919050K|5Q0919050S</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 5.0 BAR - VW GOLF7 T-ROC 1.6 2.0 TDI 12 &gt; AUDI A3 Q2 1.6 2.0 TDI  12 &gt; TT14 &gt; SEAT LEON 1.6 2.0 TDI 13 &gt; SKODA OCTAVIA 3 1.6 2.0 TDI 12 &gt; - 5Q0919050AN|5Q0919050AH|5Q0919050BA|5Q0919050K|5Q0919050S</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -63743,7 +63769,7 @@
   </Urun>
   <Urun>
     <Kod>7L6919087FTEK-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - VW TOUAREG 3.2 4.2 AZZ BMX BRJ BAA BMV 04 &gt; - 1130021|7L6919087E|7L6919087A|7L6919087F</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 3.0 BAR - VW TOUAREG 3.2 4.2 AZZ BMX BRJ BAA BMV 04 &gt; - 1130021|7L6919087E|7L6919087A|7L6919087F</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -63756,7 +63782,7 @@
   </Urun>
   <Urun>
     <Kod>7L6919087GTEK-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - VW TOUAREG 3.2 4.2 AZZ BMX BRJ BAA BMV 04 &gt; - 1130005|7L0919087F|7L6919087G|7L6919087B</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 3.0 BAR - VW TOUAREG 3.2 4.2 AZZ BMX BRJ BAA BMV 04 &gt; - 1130005|7L0919087F|7L6919087G|7L6919087B</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -64198,7 +64224,7 @@
   </Urun>
   <Urun>
     <Kod>815004-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - OPEL VECTRA A OMEGA A 1.8 2.0 88 &gt; - 815004|0580464070|90292723|00|2130001|90020443|815008|0580464008</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 1.0 BAR - OPEL VECTRA A OMEGA A 1.8 2.0 88 &gt; - 815004|0580464070|90292723|00|2130001|90020443|815008|0580464008</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -64211,7 +64237,7 @@
   </Urun>
   <Urun>
     <Kod>815019-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK ALIMUNYUM 3 BAR - OPEL VECTRA A B ASTRA F 16V 90 &gt; - 815031|90411912|2130008|5815014|93181358|915019|00|815013|90442231</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK ALIMUNYUM 3 BAR 3.0 BAR - OPEL VECTRA A B ASTRA F 16V 90 &gt; - 815031|90411912|2130008|5815014|93181358|915019|00|815013|90442231</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -64744,7 +64770,7 @@
   </Urun>
   <Urun>
     <Kod>8E0906087D-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK - VW PASSAT A6 1.8 1.8T2.4 2.7T 97 &gt; - 8E0906087D|3B0906089|4B0906087E|1130016</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 3.0 BAR - VW PASSAT A6 1.8 1.8T2.4 2.7T 97 &gt; - 8E0906087D|3B0906089|4B0906087E|1130016</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -68332,7 +68358,7 @@
   </Urun>
   <Urun>
     <Kod>8R0919050E-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI Q5 2.0TDI 09-13</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 6.0 BAR - AUDI Q5 2.0TDI 09-13</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -72292,7 +72318,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>223.30</Fiyat>
+    <Fiyat>236.78</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -79421,7 +79447,7 @@
   </Urun>
   <Urun>
     <Kod>5Q0919050AF-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW GOLF7 1.6TDI 13 &gt; - 5Q0919050AR|5Q0919050AL</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 4.0 BAR - VW GOLF7 1.6TDI 13 &gt; - 5Q0919050AR|5Q0919050AL</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -80552,7 +80578,7 @@
   </Urun>
   <Urun>
     <Kod>6RU919051A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - SKODA RAPID 1.2 1.612-15 - 6RU919051D|6RU919051|6RF919051D</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 0.5 BAR - SKODA RAPID 1.2 1.612-15 - 6RU919051D|6RU919051|6RF919051D</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -81748,7 +81774,7 @@
   </Urun>
   <Urun>
     <Kod>4E0919087H-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI SAG - AUDI A8 D3 S8 06-10 - 4E0919087K</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI SAG 4.0 BAR - AUDI A8 D3 S8 06-10 - 4E0919087K</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -82554,7 +82580,7 @@
   </Urun>
   <Urun>
     <Kod>191906090-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - VW GOLF2 JETTA 2 CORRADO 1.3 1.8 1984-92 SEAT TOLEDO 1 2.0 91-99 - 191906091E</Aciklama>
+    <Aciklama>YAKIT POMPASI 3.0 BAR - VW GOLF2 JETTA 2 CORRADO 1.3 1.8 1984-92 SEAT TOLEDO 1 2.0 91-99 - 191906091E</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -84114,7 +84140,7 @@
   </Urun>
   <Urun>
     <Kod>5N0919088E-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW TIGUAN 2.0TDI 07-18 - 5N0919050D|5N0919088D</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 0.5 BAR - VW TIGUAN 2.0TDI 07-18 - 5N0919050D|5N0919088D</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -85180,7 +85206,7 @@
   </Urun>
   <Urun>
     <Kod>4L0919087A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - AUDI Q7 V6 10 &gt; - 4L0919087</Aciklama>
+    <Aciklama>YAKIT POMPASI 3.0 BAR - AUDI Q7 V6 10 &gt; - 4L0919087</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -91928,7 +91954,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>5QA919051A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW TIGUAN 1.4TSI 16-</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - VW TIGUAN 1.4TSI 16-</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -93072,7 +93098,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>2Q0919051M-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - VW POLO 1.0TSI 17 &gt; - 2Q0919051B|2Q0919051F|2QD919051B|2Q0919051G| 2Q0919051M| 2Q0919051L</Aciklama>
+    <Aciklama>YAKIT POMPASI 3.0 BAR - VW POLO 1.0TSI 17 &gt; - 2Q0919051B|2Q0919051F|2QD919051B|2Q0919051G| 2Q0919051M| 2Q0919051L</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -96244,7 +96270,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>96591528-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - CHEVROLET MATIZ 0.8 1.0 05-13 SPARK 0.8 1.0 SX 05- - 7717772611|96591528|96464637|965915280</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - CHEVROLET MATIZ 0.8 1.0 05-13 SPARK 0.8 1.0 SX 05- - 7717772611|96591528|96464637|965915280</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -99169,7 +99195,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>13516847-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL MOKKA MOKKA X 1.6 12 &gt; - 13575955|13592382</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL MOKKA MOKKA X 1.6 12 &gt; - 13575955|13592382</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -99468,7 +99494,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>8R0919051E-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - AUDI Q5 2.0 TFSI 3.0 TFSI 11 &gt; - 8R0919051H</Aciklama>
+    <Aciklama>YAKIT POMPASI 6.0 BAR - AUDI Q5 2.0 TFSI 3.0 TFSI 11 &gt; - 8R0919051H</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -101067,7 +101093,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>13332079-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - OPEL ASTRA J 1.4 1.6 10-15 MERIVA B MPV 1.3 CDTI 10-14 - 815217|013332079|0815217</Aciklama>
+    <Aciklama>YAKIT POMPASI 4.0 BAR - OPEL ASTRA J 1.4 1.6 10-15 MERIVA B MPV 1.3 CDTI 10-14 - 815217|013332079|0815217</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -104343,7 +104369,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>8E0919051AH-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A4 B7 2.0TFSI 04-08 - 8E0919051AJ|8E0919051BS</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - AUDI A4 B7 2.0TFSI 04-08 - 8E0919051AJ|8E0919051BS</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -106111,7 +106137,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>3C0919051AL-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW PASSAT B6 B7 CC B7 2.0 3.2 3.6 TSI-FSI 05-16 - 3C0919051AF|3AA919051E|3C0919051Q</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 5.5 BAR - VW PASSAT B6 B7 CC B7 2.0 3.2 3.6 TSI-FSI 05-16 - 3C0919051AF|3AA919051E|3C0919051Q</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -109231,7 +109257,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>357906091A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI - VW PASSAT B3 B4 1.6 88-93</Aciklama>
+    <Aciklama>YAKIT POMPASI 3.5 BAR - VW PASSAT B3 B4 1.6 88-93</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -109270,7 +109296,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>8K0919050F-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A4 B8 2.0 07-15 - 8K0919050|8K0919050H</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - AUDI A4 B8 2.0 07-15 - 8K0919050|8K0919050H</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -109725,7 +109751,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>7E0919088B-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI+ PLASTIGI - VW T5 T6 1.9 TDI 2.0 TDI 03-15 - 7E0919050B</Aciklama>
+    <Aciklama>YAKIT POMPASI+ PLASTIGI 0.5 BAR - VW T5 T6 1.9 TDI 2.0 TDI 03-15 - 7E0919050B</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -110260,7 +110286,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>1232426-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL ASTRA J 1.3CDTI 09-15 - 13503668|1232426</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL ASTRA J 1.3CDTI 09-15 - 13503668|1232426</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -114069,7 +114095,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>8E0919051AP-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A4 B6 1.6 2.0 2.4 3.0 01-04 - 22823302000|8E0 919 051 P|8E0 919 051E|8E0919051BJ|8E0 919 051N|8E0919051AG</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - AUDI A4 B6 1.6 2.0 2.4 3.0 01-04 - 22823302000|8E0 919 051 P|8E0 919 051E|8E0919051BJ|8E0 919 051N|8E0919051AG</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -118814,7 +118840,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>20895923-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL ANTARA A CHEVROLET CAPTIVA 2.4 06-11 - 4814207|04814207|04805901|96830394|04817842|4805901|96629370|4817842|42353014</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL ANTARA A CHEVROLET CAPTIVA 2.4 06-11 - 4814207|04814207|04805901|96830394|04817842|4805901|96629370|4817842|42353014</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -133061,6 +133087,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y1439-YTT</Kod>
+    <Aciklama>DINGIL BURCU ARKA - OPEL ASTRA G COMBO C MERIVA A CORSA C 98 &gt; - 09156379|5402638|13157518|5402634|402644|09156735</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>155.19</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>2D0411041B-WISCO</Kod>
     <Aciklama>VIRAJ LASTIGI ON - MERCEDES-BENZ SPRINTER LT35 95 &gt; - A9043230085|2D0411041B</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -134895,7 +134934,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>13592384-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL MOKKA MOKKA X 1.4 13 &gt; - 013579887|013516847|13579887|815278|13511532|13592470|13516847|13592382|0815278|13592491|013592382|013592491|13592488|013592470</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 4.0 BAR - OPEL MOKKA MOKKA X 1.4 13 &gt; - 013579887|013516847|13579887|815278|13511532|13592470|13516847|13592382|0815278|13592491|013592382|013592491|13592488|013592470</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -144840,7 +144879,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>5Q0919051A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - VW GOLF7 1.6 14 &gt; SEAT LEON 1.0 1.5 2.0 TSI 18 &gt; OCTAVIA 3 1.0 1.5 1.6 2.0 TSI-TFSI 14 &gt; - 5Q0919051AM|5Q0919051BG|5Q0919051BS</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - VW GOLF7 1.6 14 &gt; SEAT LEON 1.0 1.5 2.0 TSI 18 &gt; OCTAVIA 3 1.0 1.5 1.6 2.0 TSI-TFSI 14 &gt; - 5Q0919051AM|5Q0919051BG|5Q0919051BS</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -162065,7 +162104,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>4G0919050-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A6 ALLROAD C7 3.0TDI 12-16 - |4G0919050A</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 5.0 BAR - AUDI A6 ALLROAD C7 3.0TDI 12-16 - |4G0919050A</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -173557,7 +173596,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>4E0919087G-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI SOL - AUDI A8 D3 S8 06-10 - 4E0919087J</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI SOL 4.0 BAR - AUDI A8 D3 S8 06-10 - 4E0919087J</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -177262,7 +177301,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>13321031-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - OPEL ASTRA J 1.4 1.6 09-15 CHEVROLET CRUZE 1.6 1.8 09- - 1232247|013586319|0815352|13586317|01232374|013577231|013251237|1232374|013503672|13577230|13251237|815352|01232247|13577231|013586317|13503672|013577230|013321031|13586319</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL ASTRA J 1.4 1.6 09-15 CHEVROLET CRUZE 1.6 1.8 09- - 1232247|013586319|0815352|13586317|01232374|013577231|013251237|1232374|013503672|13577230|13251237|815352|01232247|13577231|013586317|13503672|013577230|013321031|13586319</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -180473,7 +180512,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>815038-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI TEK 4 BAR - OPEL ASTRA G Cabrio (T98) 2.0 16V 01-05 ASTRA G Sedan (T98) 2.2 01-05 ZAFIRA A MPV (T98) 2.0 2.2 00-05 - 815038</Aciklama>
+    <Aciklama>YAKIT POMPASI TEK 4 BAR 3.0 BAR - OPEL ASTRA G Cabrio (T98) 2.0 16V 01-05 ASTRA G Sedan (T98) 2.2 01-05 ZAFIRA A MPV (T98) 2.0 2.2 00-05 - 815038</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -212270,19 +212309,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>101048-TOPRAN</Kod>
-    <Aciklama>SUBAP GAYDI 36.50X12.06X8MM 4 LU SET - VW T4 LT35 A80 GOLF2.4D 2.5TDI AJA 96&gt; - 056103419A|101048001|101048002|101048546|101048965</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/b6jqPHAVSG4fbiJpgTNXOjs6wv6Z^kd89o8NgpTUC5w=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>49.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>206176-TOPRAN</Kod>
     <Aciklama>GAZ KELEBEK POTANSIYEMETRE - OPEL CORSA B VECTRA B 2.5 V6 3.0 V6 94 &gt; - 206176001|206176755|5826473|90541502</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -221587,7 +221613,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>3756.44</Fiyat>
+    <Fiyat>3624.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221691,7 +221717,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1469.57</Fiyat>
+    <Fiyat>1512.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -221783,6 +221809,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>128.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>09864B7023-BOSCH</Kod>
+    <Aciklama>YAG FILTRESI - OPEL CORSA F ASTRA L COMBO E CROSSLAND GRANDLAND F12XEL F12XHL F12XHT 19 &gt; - 110|110951|110967|110968|110975|3647177|7910031245|9456000927|9456183480|9456203480|9456203580|9567205780|9628173380|K7910031245|K9456000927|K9456183480|K9456203480|K9456203580|K9567205780|K9628173380</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>135.42</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
