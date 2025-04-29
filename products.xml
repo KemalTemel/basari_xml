@@ -4654,19 +4654,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>070128070C-WISCO</Kod>
-    <Aciklama>EGR VALFI - VW TOUAREG 2.5TDI 03 &gt; - 1280148|070128070F</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Cja6cDT5LawXToK9z0u3Xi2nNwfkHDIgvqdKAUz2iys=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>739.39</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>01L325429B-WISCO</Kod>
     <Aciklama>OTOMATIK SANZUMAN FILTRESI - AUDI A6 A8 RS6 4.2 4.2T - 01L325429B|1210015</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -42654,7 +42641,7 @@
   </Urun>
   <Urun>
     <Kod>4B0919051B-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A6 TOURAN 2.4 V6 95 &gt; - 4B0919051E|8E0906087F|4B0919051B|1130080|4B0919051G</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI - AUDI A6 TOURAN 2.4 V6 95 &gt; - 4B0919051E|8E0906087F|4B0919051B|1130080|4B0919051G|1GD919051B</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -58739,7 +58726,7 @@
   </Urun>
   <Urun>
     <Kod>5815015-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL VECTRA B CORSA B ASTRA F 95 &gt; - 90442231|5815015|815001|90442402|93181359|2130021|93277517|</Aciklama>
+    <Aciklama>YAKIT POMPASI SAMANDIRALI 3.0 BAR - OPEL VECTRA B CORSA B ASTRA F 95 &gt; - 90442231|5815015|815001|90442402|93181359|2130021|93277517||15295456</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -67171,6 +67158,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>34.41</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>125930-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK SAPLAMASI - OPEL CORSA B CORSA C CORSA D ASTRA H ASTRA G X12XE X12XEP X14XE Z14XEP 96-07 - BK4305|5607937|143213202|125930|24454151</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>408.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -110232,7 +110232,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
   </Urun>
   <Urun>
     <Kod>7E0919088B-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI+ PLASTIGI 0.5 BAR - VW T5 T6 1.9 TDI 2.0 TDI 03-15 - 7E0919050B</Aciklama>
+    <Aciklama>YAKIT POMPASI+ PLASTIGI 0.5 BAR - VW T5 T6 1.9 TDI 2.0 TDI 03-15 - 7E0919050B|2250239|320900743|WG1268421|WG1500940</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -223538,6 +223538,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>170.48</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>11427557010-TAP</Kod>
+    <Aciklama>YAG SOGUTUCU CONTASI TAKIM - MINI COOPER R56 R57 R55 R60 R58 R61 R59 06 &gt; - |11427557010|11428643747</Aciklama>
+    <Uretici>TAP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>85.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>701115080-PIERBURG</Kod>
+    <Aciklama>TURBO BASINC VALFI ELEKTROVANA - OPEL BRANDLAND GRANDLAND X R56 R57 R55 R60 R58 R61 R59 06 &gt; - |11657566324|11657578683|11657593273|3557957|V759327380</Aciklama>
+    <Uretici>PIERBURG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1972.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>12640136-TAP</Kod>
+    <Aciklama>YAG SOGUTUCU ESANJOR - OPEL ASTRA K CORSA E INSIGNIA B MOKKA 1.0 1.4 CNG TURBO 15&gt; - |12640136|12667389|12668842|12673412|12678774|55499190|55500623|650200</Aciklama>
+    <Uretici>TAP</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>637.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
