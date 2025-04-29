@@ -5798,6 +5798,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>128231-ELRING</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI - OPEL VECTRA B ASTRA G X18XE1 Z18XE Z18XEL 96 &gt; - 90543909|93179932|5607858|5607447|128231|128230</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>632.67</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1241349-WISCO</Kod>
     <Aciklama>SINYAL KOLU - OPEL ASTRA G 1.6 16V 2.0 16V 1.8 2.0 98 &gt; - 90560991|13142074|6240241</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -56827,6 +56840,32 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5738737-WISCO</Kod>
+    <Aciklama>VITES TOPUZU 5 ILERI - OPEL VECTRA B ASTRA G CORSA C ASTRA F CORSA B 93 &gt; - Y1801|90540619|5738737</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>48.61</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5738741-WISCO</Kod>
+    <Aciklama>VITES TOPUZU - OPEL CORSA C COMBO C ASTRA G - 5738741|Y1802|9119583</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>48.01</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>577300-ELRING</Kod>
     <Aciklama>SUPAP LASTIGI - OPEL ASTRA F CORSA B 1.5 1.7TD - 94110559|642531|0642531</Aciklama>
     <Uretici>ELRING</Uretici>
@@ -67356,19 +67395,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-6194AGHL-VIEWMAX</Kod>
-    <Aciklama>AYNA CAMI SOL ISITMALI GENIS ACILI - VW PASSAT (362) 10-14 - 5C6857521C|3C8857521|3C8857522B|VM6194AGHL</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>539.07</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>8K0407152F-WISCO</Kod>
     <Aciklama>SALINCAK ON SAG - AUDI A4 B8 (8K2) 08-15 PORSCHE MACAN (95B) 14-18 - 46336570|8K0407152G|8K0407152F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -74386,6 +74412,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>8585.32</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5679306-SWB</Kod>
+    <Aciklama>DEBRIYAJ UST MERKEZI - OPEL ASTRA G H 98 &gt; - 90523769|5679306</Aciklama>
+    <Uretici>SWB</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>601.82</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -125309,7 +125348,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/04Rw1RSXYOjH2PKN51ZPsLNa7r3UstUeoJgpL1COQXc=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2071.99</Fiyat>
+    <Fiyat>2136.07</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -147175,7 +147214,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/XBrFNrA6Gx5W^fzUPZOWoSlJVk6QjE6V^FLESLu0j8M=.JPG</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>1404.87</Fiyat>
+    <Fiyat>1478.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -148346,19 +148385,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>51.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>2GM941661B-WISCO</Kod>
-    <Aciklama>SIS FARI SOL - VW T-CROSS 19- - 2GM941661B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wLpBzhSE7ZhICilbSO3zXdfJO6QnAnaTcVZNy0ZTj6E=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1265.87</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -211867,19 +211893,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5E5807394B-WISCO</Kod>
-    <Aciklama>TAMPON BRAKETI ARKA SAG - SKODA OCTAVIA 3 17-20</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/pQlrBOJ8lUJpaSsPeWrDbkNZPiagG9yV43qb99QpoyE=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>177.46</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1U4853754C01C-WISCO</Kod>
     <Aciklama>KAPI CITASI ARKA SAG - SKODA OCTAVIA 1 01-04</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -214870,19 +214883,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>50241-SAGEMFRANS</Kod>
-    <Aciklama>KRANK DEVIR SENSORU - OPEL ASTRA J INSIGNIA A16XER B16XER 09 &gt; - 50241|55567243|60293|6238868|SS11321</Aciklama>
-    <Uretici>SAGEMFRANS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>524.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>12140056-KRAFTVOLL</Kod>
     <Aciklama>KULBUTOR KAPAGI - CHEVROLET LACETTI 1.8 05-11 - 12140056|92062396</Aciklama>
     <Uretici>KRAFTVOLL</Uretici>
@@ -214932,19 +214932,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2084.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>60572-BREMI</Kod>
-    <Aciklama>KRANK DEVIR SENSORU - VW PASSAT TOUAREG SUPERB 3.6FSI BWS CGRA CMTA CDVA 11 &gt; - |03H906433|119641|60572</Aciklama>
-    <Uretici>BREMI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1367.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -215780,6 +215767,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>970613</Kod>
+    <Aciklama>PORYA ON SOL-SAG RULMANSIZ 4X100 120.5X22MM DIS ABSSIZ 89MM GENISLIK - CHEVROLET AVEO KALOS 1.2 1.4 04 &gt; - 95492092</Aciklama>
+    <Uretici>BRTEC</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>363.22</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>980105A</Kod>
     <Aciklama>PORYA ARKA SOL-SAG RULMANLI 5X112 131X32MM 45 ABS DIS 69.5MM GENISLIK - AUDI A4 A5 S4 EXEO 00-09 - 8E0598611|8E0598611A|8E0598611B</Aciklama>
     <Uretici>BRTEC</Uretici>
@@ -215816,6 +215816,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>276.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>982306</Kod>
+    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 4X100 123X27MM DIS ABSSIZ 75MM GENISLIK - OPEL CORSA C TIGRA 1.3 1.7CDTI 00-09 - 420240|9196298</Aciklama>
+    <Uretici>BRTEC</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>594.97</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216050,6 +216063,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>485.08</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>14530001803-WAGENBURG</Kod>
+    <Aciklama>MOTOR HAVALANDIRMA BORUSU EMME AGZI - AUDI A4 1.6 ALZ - |06B133354A</Aciklama>
+    <Uretici>WAGENBURG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>196.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
