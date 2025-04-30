@@ -15561,19 +15561,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>3002522610-GOETZE</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI 79,55MM - VW T2 17DIZEL 87 &gt; - 033103383M|WISCO|033103383M/1409905</Aciklama>
-    <Uretici>GOETZE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>77.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1208008B-WISCO</Kod>
     <Aciklama>ATESLEME BOBIN BASLIGI - OPEL ASTRA G H CORSA C MERIVA A SIGNUM VECTRA B C ZAFIRA A 1.8 16V X18XE1 Z18XE Z18XEL 95 &gt; - 20193|90536194|9119567|GN1019812B1|2260004</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -67132,19 +67119,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1514.15</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7H0819631A-ITL</Kod>
-    <Aciklama>POLEN FILTRESI KARBONLU  KUTULU - VW T5 TOUAREG 04 AMAROK 10 &gt; - 7H0819631A|E1910LI|1987432431|1111513</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>54.47</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -151547,19 +151521,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>OM01-HILEKS</Kod>
-    <Aciklama>KARTER MUHAFAZASI PLASTIK - OPEL ASTRA J INSIGNIA ZAFIRA 09 &gt; - 00|2233485|212944|13239596</Aciklama>
-    <Uretici>HILEKS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>413.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2Q0816411A-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 605X316X12 - VW POLO A1 SPORTBACK ARONA IBIZA 1.0 2.0GTI 17 &gt; - 2Q0816411A|941193</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -214129,6 +214090,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>0CKDL382-ITL</Kod>
+    <Aciklama>OTOMATİK KAVRAMA YAĞLI KAPAKLI BORG WARGER - AUDİ S-TRONİC - 0CKDL382</Aciklama>
+    <Uretici>ITL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>17296.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>4L08275743FZ-WISCO</Kod>
     <Aciklama>BAGAJ ACMA TUTAMAGI PLAKA LAMBALI - AUDI A4 B6 (8E2) 2.0 00-04, AUDI Q7 (4LB) 3.0 TDI 06-15 - 8P08275743FZ,8P48275743FZ</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -216245,6 +216219,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2147.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>ZCS1016-ZEGEN</Kod>
+    <Aciklama>EKSANTRIK MILI SENSORLU TIP - DACIA DUSTER SANDERO LOGAN QASHQAI CLIO FLUENCE KANGOO MEGANE SANDERO 07 &gt; - 1300100Q0F|1300100Q0M|1300100Q0P|1300100QAG|13001BN700|8200089894|8200190228|8200255678|8200718120|8200987301|8200987304</Aciklama>
+    <Uretici>ZEGEN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1476.72</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
