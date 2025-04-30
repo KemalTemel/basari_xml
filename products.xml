@@ -17325,7 +17325,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>44.37</Fiyat>
+    <Fiyat>51.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -44080,6 +44080,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>410.80</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>03G121065AC-WISCO</Kod>
+    <Aciklama>SU BORUSU DEVIRDAIM - VW CADDY GOLF PASSAT TOURAN 04 &gt; - 1111343|03G121065AC</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>305.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -134084,7 +134097,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>36.77</Fiyat>
+    <Fiyat>51.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -162204,19 +162217,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>244.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5FA85371167E-WISCO</Kod>
-    <Aciklama>TAMPON BAKALITI ON SOL - SEAT LEON FR (KL1) 20&gt;</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/WQV^VB0gLkg64tlasSDhtC1ossC6MJBMBMIxY^jN3vY=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>488.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
