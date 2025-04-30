@@ -45124,7 +45124,7 @@
   </Urun>
   <Urun>
     <Kod>058103598D-WISCO</Kod>
-    <Aciklama>YAG KARTERI SENSORLU YAGLAMA DELIKLI - VW PASSAT AUDI A4 A6 1.8 1.9 TDI 96 &gt; - 058103598|058103603|058103603B|058103598B</Aciklama>
+    <Aciklama>YAG KARTERI SENSORLU YAGLAMA DELIKSIZ - VW PASSAT AUDI A4 A6 1.8 1.9 TDI 96 &gt; - 058103598|058103603|058103603B|058103598B</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -116496,6 +116496,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1833.76</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1341118-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZLI (400 MM-4 FIS-9 KANAT) - OPEL ASTRA J CRUZE A 1.6 XER 10 &gt; - 13335189|1341069|13335181|13427159|13267640|13335182|1341118|13267641|13368576|1341072|85748|1341050|13289622</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kIffIGsOukbavsUQZMnaeeEQbdRgECOnvdsXmItUgrk=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1478.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214207,6 +214220,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>9804424280-FIAT</Kod>
+    <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 308 5008 2.0 18 &gt; - 1871343|9804424280|D7SQ6A273BA</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>6496.46</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>9804424180-FIAT</Kod>
     <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 5008 508 2.0 HDI 09 &gt; - 18713432|9804424180|D7SQ6A270BA</Aciklama>
     <Uretici>FIAT</Uretici>
@@ -214464,6 +214490,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1521.81</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9849443980-FIAT</Kod>
+    <Aciklama>TERMOSTAT GOVDESI - OPEL VIVARO C 2.0 19 &gt; - 9804160380|9849443980</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>6070.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216063,6 +216102,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1476.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9826074680-OEM</Kod>
+    <Aciklama>YAG SOGUTUCU - CITROEN C4 C5 FOCUS VIVARO ZAFIRA 308 508 5008 3008 2.0 16 &gt; - |3553011|9807594380|9809475780|9826074680</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>6604.95</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>793570-ELRING</Kod>
+    <Aciklama>KULBUTOR KAPAK CONTASI - CITROEN C4 C5 FOCUS VIVARO 3008 308 5008 508 2.0 14 &gt; - 3648405|793570|9801292980</Aciklama>
+    <Uretici>ELRING</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>817.08</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9841825380-OEM</Kod>
+    <Aciklama>SILINDIR KAPAK CONTASI - OPEL VIVARO C ZAFIRA 3008 308 5008 508 D20DTL D20DTH 19 &gt; - 3648402|9841825380</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1601.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
