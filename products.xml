@@ -116005,6 +116005,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1341118-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZLI (400 MM-4 FIS-9 KANAT) - OPEL ASTRA J CRUZE A 1.6 XER 10 &gt; - 13335189|1341069|13335181|13427159|13267640|13335182|1341118|13267641|13368576|1341072|85748|1341050|13289622</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/kIffIGsOukbavsUQZMnaeeEQbdRgECOnvdsXmItUgrk=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1478.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>562307-WONDER</Kod>
     <Aciklama>FREN HORTUMU - OPEL FRONTERA A 2.0 2.8 TD 98 &gt; - WOB50807</Aciklama>
     <Uretici>WONDER</Uretici>
@@ -212618,19 +212631,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>485.57</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>04L129711AB-WISCO</Kod>
-    <Aciklama>EMME MANIFOLDU - VW TIGUAN 2.0TDI - 04L129766AQ|04L129766BK|04L129711D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>6079.86</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
