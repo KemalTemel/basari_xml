@@ -40964,7 +40964,7 @@
   </Urun>
   <Urun>
     <Kod>1J0145276-WISCO</Kod>
-    <Aciklama>ALTERNATOR GERGI RULMANI CIVATALI - VW GOLF5 GOLF6 PASSAT JETTA TIGUAN A1 FABIA OCTAVIA 1.4 TSI 1.6FSI  BLF CAXA 03 &gt; - 30859|1J0145276|T38054|VW821|1J0145276B|532034610|1250008|6QD145276|110377755|125301200|110377596|1111592</Aciklama>
+    <Aciklama>ALTERNATOR GERGI RULMANI CIVATASIZ - VW GOLF5 GOLF6 PASSAT JETTA TIGUAN A1 FABIA OCTAVIA 1.4 TSI 1.6FSI  BLF CAXA 03 &gt; - 30859|1J0145276|T38054|VW821|1J0145276B|532034610|1250008|6QD145276|110377755|125301200|110377596|1111592</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -50272,6 +50272,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1610.33</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1J0422154J-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI - VW GOLF BORA A3 LEON OCTAVIA - 2K0422154A|1J0422154A|1J0422154J|038145157|1J0422154|1180089|2K0422154</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1561.03</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61386,6 +61399,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>15610.44</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>7L6422154A-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI - VW TOUAREG Q7 - 7L8422154|7L8422154D|1180091|7L6422154C|7L6422154A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xOsj6O11H9vg9X6i8UF8OG5uG6ZgNpBoZ19HcBeGCkI=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2136.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -91472,6 +91498,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1J0422154H-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI HIDROLIK - AUDI A3 1.6 1.8 1.8 T1.8 T QUATRO 96-03 - 1J0422154C|1J0422154EX|1J0422154D|1J0422152GX|1J0422154E|1J0422152G|1J0422154BX|</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/yDw8T3KO7Pyt4CSAtFZqB7dI2yPmxLnlmq9PoKzn1Q0=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1561.03</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>4E0927804D-WISCO</Kod>
     <Aciklama>ABS SENSORU ON SAG ARKA SOL - AUDI A4-A5-A6-A8 BM 08&gt; - 4E0927804|4E0927804A|4E0927804F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -116704,6 +116743,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>107.54</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>7L6422154-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI - VW TOUAREG Q7 3.0 TDI 08 &gt; - 7L8422154D|7L6422154A|7L6422154C|7L8422154</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/3dK^k3YilfLfDKKRXh0O2ibEj5Fv3ddqMlyxZWfwLMw=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2136.18</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -158164,6 +158216,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y11657-YTT</Kod>
+    <Aciklama>MOTOR HAVALANDIRMA HORTUMU - OPEL CORSA C ASTRA G TIGRA 94-12 - Y11657|93396494</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03C103171-WISCO</Kod>
     <Aciklama>FLANSLI KRANK KECESI ARKA - VW GOLF5 PASSAT JETTA POLO A3 LEON CAXA CAVA BMY CBZA CBZB 04 &gt; - 036103171B|381640|82035571|03C103171|041103171A|036103171C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -170956,6 +171021,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6Q0423156-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI TRW TIPI - VW POLO AUDI A1 1.2 TFSI 1.4 TFSI 1.6 TDI 2.0 TDI CORDOBA IBIZA 3 4 TOLEDO 4 FABIA 1 2 1.4 1.9 TDI 99 &gt; - 6R0423156A|6Q0423156G|6R0423156C|6Q0423156Q|6R0423156B||6Q0423156M|6R0423156|6Q0423156F|6Q0423155AB|6Q0423155AE|6Q0423156E|6Q0423156D</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/sO83sR4nefr5VS2zLSVy4N9oV0k4pa2B^AfH1XPzy6E=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>9037.63</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03C906051F-OEM</Kod>
     <Aciklama>BASINC AYAR VALFI - VW CADDY 04-10 GOLF5-6 03-12 GOLF7 14 &gt; JETTA 3-4 04-17 PASSAT B6 POLO 5 1.4 1.6 FSI 5 2.0 TDI AUDI A3 03-12 A4 B7 B8 05 &gt; - 1280031|03C906051</Aciklama>
     <Uretici>OEM</Uretici>
@@ -183640,7 +183718,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>5391.69</Fiyat>
+    <Fiyat>1347.91</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -203209,19 +203287,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5E0853651A-WISCO</Kod>
-    <Aciklama>PANJUR SIYAH PETEK + KROM CERCEVE - SKODA OCTAVIA 13-17 - 5E0853651</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/ayHl^RXzQMSlfGy1tSqQkTzlrqUz8a2TU69xOQvM1xQ=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1774.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1Z0853668C-WISCO</Kod>
     <Aciklama>PANJUR KROM PETEK + KROM CERCEVE - SKODA OCTAVIA 09-13 - 1Z0853668C</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -213336,6 +213401,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>37082600-KS</Kod>
+    <Aciklama>KOL YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - |029PL21925000|04E105701|04E105701D|04E105701K|04E105701N|715023STD|87082600|CR4702SM</Aciklama>
+    <Uretici>KOLBENSCHMIDT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1067.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>37084600-KS</Kod>
+    <Aciklama>ANA YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - 029HLV918000|05E105561A|05E105591A|05E105591B|H13080/5|MB5879SM</Aciklama>
+    <Uretici>KOLBENSCHMIDT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1609.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>823959481.92.87-WISCO</Kod>
     <Aciklama>HARARET MUSURU - VW GOLF2 JETTA PASSAT VECTRA A 88 &gt; - 1110407|2110783|531971071J|823959481|823959481A|823959481F|823959481L</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -215156,6 +215247,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>96815248-WISCO</Kod>
+    <Aciklama>DIREKSIYON POMPASI - CHEVROLET AVEO/KALOS 1.2 06 &gt; - 96981964, 95949749, 95953908, 95230930, 95460406</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1971.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5PK1510-GATES</Kod>
+    <Aciklama>V KAYISI - MERCEDES BENZ W176 W177 W246 W242 W247 C118 C117 11 &gt; - 0029931196|5PK1510|A0029931196</Aciklama>
+    <Uretici>GATES</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>373.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>RWN42HSIPW-EYQUEM</Kod>
     <Aciklama>ATESLEME BUJISI - CITROEN C1 QASHQAI 108 MEGANE AVENSIS AURIS COROLLA 1.6 06 &gt; - 1611548180|190919C1010|224012331R|224015RF1B|224015RL1B|22401CK81B|22401ED814|22401JD01B|9004A91068|9091901253|9091901275|90919C1010|90919T1014|91919T1014</Aciklama>
     <Uretici>EYQUEM</Uretici>
@@ -215244,6 +215361,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>820.49</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>701039030-PIERBURG</Kod>
+    <Aciklama>SELENOID VALFI - OPEL ASTRA H ZAFIRA 2.0 04 &gt; - 55557829|55577092|701039030|850388|850430|850441|90424141</Aciklama>
+    <Uretici>PIERBURG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>965.34</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>369375-KALE</Kod>
+    <Aciklama>DEVIRDAIM - HYUNDAI ELANTRA 1.8L AND 2012 KİA SOUL 2.0L HYUNDAI İ40 CW (VF) 2.0 GDI &gt; - 251002E000|251002E005|369375</Aciklama>
+    <Uretici>KALE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>572.91</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y10517-YTT</Kod>
+    <Aciklama>RADYATOR HORTUM ALT - OPEL VECTRA A 1.8 88-90 - |1336498|90265796|Y10517</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>255.30</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
