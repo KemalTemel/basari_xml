@@ -71243,19 +71243,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1341307-WISCO</Kod>
-    <Aciklama>FAN MOTORU DAVLUMBAZLI (310 MM-2 FIS-5 KANAT) - OPEL CORSA B COMBO B X14XE X16XEL 93 &gt; - 1341253|11|9117716|1341258|90510209|2110501|90469469</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>920.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4F1422893S-WISCO</Kod>
     <Aciklama>DIREKSIYON HORTUMU - AUDI A6 C6 2.4 2.8 3.2 TSI-FSI 04-11 - 4F1422893BE|4F1422893L|4F1422893BD|4F1422893AJ</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -132369,19 +132356,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>262.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5G0823302B-WISCO</Kod>
-    <Aciklama>MOTOR KAPUT MENTESESI SAG - VW GOLF7 7.5 13 &gt; - 5G0823302A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>270.95</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213086,32 +213060,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>196.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>37082600-KS</Kod>
-    <Aciklama>KOL YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - |029PL21925000|04E105701|04E105701D|04E105701K|04E105701N|715023STD|87082600|CR4702SM</Aciklama>
-    <Uretici>KOLBENSCHMIDT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1067.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>37084600-KS</Kod>
-    <Aciklama>ANA YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - 029HLV918000|05E105561A|05E105591A|05E105591B|H13080/5|MB5879SM</Aciklama>
-    <Uretici>KOLBENSCHMIDT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1609.17</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
