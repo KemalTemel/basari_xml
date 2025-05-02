@@ -26832,19 +26832,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1H1422055-WISCO</Kod>
-    <Aciklama>DIREKSIYON KUTUSU - VW GOLF3 - 6K1422061C|1H142261||6K1422061A|6K1422061CX|1H1422055</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4765.28</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6710021-WISCO</Kod>
     <Aciklama>SIS FARI SAG - OPEL VECTRA B 99-01 - 6710021|4422005RUE|2240021|9119512</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -75949,6 +75936,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>8V518005FA-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING AT 355X538X16 MM - FORD FIESTA 1.4 09&gt; - 1540332|1566662||1671561|313110015|8V518005FB|00|1775583|69234|8V51 8005 FA|8V518005FD|8V518005FC</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/eX9AuS7DSEo1pARZKcfK11vfnpS0DjqJQcumJJTf0XM=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1511.73</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1K08536669B9-WISCO</Kod>
     <Aciklama>TAMPON IZGARASI SAG SISSIZ - VW GOLF5 04-09 - 1K0853666</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -85973,6 +85973,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>25310-B9050-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING AT 420X358X16 - HYUNDAI I10 2 (BA) 1.0-1.2 13&gt; - 25310B9050|675025</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/C8HoC1aOcy2IK8DbROyOP0HRTI7Uql8Sx2JuE6Z8a8k=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1971.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>14461-4ED0A-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 282X217X50 - RENAULT MEGANE 4 SEDAN HB (B9A/M/N_) 1.2 Tce 15&gt; GRAND SCENIC 4 (R9_) 1.2 Tce 16&gt; - 961118|144614ED0A|144614EJ0A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -92304,6 +92317,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>92100-BA61B-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 491X414X16 - NISSAN PULSAR. JUKE 1.2 DIG-TURBO. 1.5DCI 14&gt; - 940555|92100BA61B|92100BA61A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/tDXz01AgP4MILMOoWwuzb0XMZ8Eq1rHZVAH3cArlk30=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1478.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>701823033A-WSC</Kod>
     <Aciklama>MOTOR KAPUTU (TAIWAN) - VW T4 91-96 - 701823033D</Aciklama>
     <Uretici>WSC</Uretici>
@@ -95889,6 +95915,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1971.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>88460-0D400-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 546X340,9X12 - TOYOTA YARIS 15-18 - 884600D400</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/dhCjmFpVcWPsnfb1v7PPrz0^9jT2vVcsf3XImIyq^6A=.JPG</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1676.07</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -101570,19 +101609,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1035.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3C0129607AB-WISCO</Kod>
-    <Aciklama>HAVA FILTRE KUTUSU - VW PASSAT 2.0 TDI 06-10 - 3C0129607AQ</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>776.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -127835,19 +127861,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1J0121205BS1-WISCO</Kod>
-    <Aciklama>FAN MOTORU DAVLUMBAZLI (345 MM-290 MM-3 FIS-3 FIS) - VW GOLF4 BORA AUDI A3 TT SEAT LEON TOLEDO SKODA OCTAVIA 1 1.4 1.6 1.8 1.8 T1.9 TDI 2.0 2.3 V5 98 &gt; - 1J0121207M|1J0959455K|1J0121205C|1J0121205A|6X0959455A|1J0959455D|1C0959455C|1J0959455F|1J0121205|6X0959455F|1J0121205AB41|1J0121207C|1J0121205BB41|1J0959455M|6H0959455B|6QD959455C</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wDBGlO3HK^0mOvIM0JHFOrm9t0lOEdZBCToMISdnLLc=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2629.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1PL955102-WISCO</Kod>
     <Aciklama>FAR YIKAMA MOTORU SAG - SEAT LEON (1P1) 05-11 - 1PL955102</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -129210,19 +129223,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>390.43</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>352930-KALE</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL CROSSLAND X GRANDLAND VIVARO ZAFIRA 1.2 1.5D 1.6 2.0 17 &gt; - 9800777280|3637681|62104940|1323T9|SU001A3738</Aciklama>
-    <Uretici>KALE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>372.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -137868,6 +137868,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>18.64</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>5004995-WISCO</Kod>
+    <Aciklama>DEVIRDAIM - FORD CAPRI 2 GRANADA 2 P 100 1 P 100 2 SCORPIO 1 SIERRA 1 2 TRANSIT 1.6 1.8 2.0 4X4 77-94 - A790|5012359|5010878|5009286|1126032|X8591|5004995|5013274|5009287|5006045|5013268|A820|6064711|5004997|5011863|5010877|AA|5024320|ALA|5006046|5006043|RLA|ANA</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Jee5JK5RDUVAU5W5dhd5^VM9hEpeJlyC6Omd3TAntbI=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>558.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -158853,19 +158866,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>13503108A-WISCO</Kod>
-    <Aciklama>YAKIT POMPASI SAMANDIRALI - CHEVROLET CRUZE J300 1.4 09 &gt; - E4031M|E4034M|E4065M|13579884|13580701|13579908</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2341.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06J133986AB-OEM</Kod>
     <Aciklama>YAKIT HORTUMU - AUDI Q3 8U 12-18 VW TIGUAN 11 &gt; - 06J133986AB|06J133986AC</Aciklama>
     <Uretici>OEM</Uretici>
@@ -173608,19 +173608,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2G0807651B-WISCO</Kod>
-    <Aciklama>TAMPON DEMIRI ON ALT (TRAVERS) - VW T-CROSS 19&gt; - 2G0807651H</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/Q0SzMDVFYhUzmsAzmEMuXbaLdsPSfkQqW4rjx9XF2PY=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>413.78</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1H0919051AK-WISCO</Kod>
     <Aciklama>YAKIT POMPASI SAMANDIRALI 3 BAR - VW GOLF3-4 95-02 PASSAT B3-B4 94-96 POLO 3 96-99 T4 90-03 1.4 1.6 2.0 2.5 SEAT ALHAMBRA 97-10 1.8 2.0 I CORDOBA 94-02 INCA 95-03 1.4 2.0 - 7M0919051C|1L0919051E|6N0919051K|1H0919651P|1H0919651K|330919051A|330919051C|6K9919051D|7M0919051B|1H9919087B|7M0919051D|1H0919051L</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -180508,19 +180495,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1509.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1223152R-WISCO</Kod>
-    <Aciklama>STOP DIS SAG - OPEL OMEGA B 96 &gt; - 00|2243180|90487480</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>854.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -197164,6 +197138,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>H1BG8005CC-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 385X551X22 - FORD TRANSIT TOURNEO COURIER FIESTA 1.5TDCI 1.0 1.1 1.5TDCI 14 &gt; - H1BG8005CB|606662|H1BG8005AD|H1BG8005AB</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2037.59</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>19010-R6F-G51-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT 425*728*16 MM - HONDA CRV 2.0i 16V 2013+ - 19010R6FG51|19010R6FG01</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -212478,19 +212465,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9800777280-OPAR</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL CROSSLAND X GRANDLAND VIVARO ZAFIRA 1.2 1.5D 1.6 2.0 17 &gt; - SU001A3738|9800777280|3637681|1323T9</Aciklama>
-    <Uretici>OPAR</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>957.65</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>534065810-INA</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - OPEL VIVARO C GRANDLAND EXPERT 508 P3008  2.0 19 &gt; - 1611426480|0N2580|GA35936|33110485|1687878180|39176014|542786|SU001A4843|VKM33326|534065810|T39376|186616|</Aciklama>
     <Uretici>INA</Uretici>
@@ -213307,19 +213281,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1478.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>9804424280-FIAT</Kod>
-    <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 308 5008 2.0 18 &gt; - 1871343|9804424280|D7SQ6A273BA</Aciklama>
-    <Uretici>FIAT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>6496.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216001,19 +215962,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>9841825380-OEM</Kod>
-    <Aciklama>SILINDIR KAPAK CONTASI - OPEL VIVARO C ZAFIRA 3008 308 5008 508 D20DTL D20DTH 19 &gt; - 3648402|9841825380</Aciklama>
-    <Uretici>OEM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1601.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>Y2085-YTT</Kod>
     <Aciklama>YAG KAPAGI MOTOR - OPEL ASTRAG H VECTRA B CORSA C 95 &gt; - 100224804|650103|90536291</Aciklama>
     <Uretici>YTT</Uretici>
@@ -216027,6 +215975,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>5S6H8005AA-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 595*358*26 MM - FORD FIESTA V/FUSION 1.6 TDCI 05+ - 5S6H8005AB|5S6H8005AA|1344810|1334654|5S6H8005AD|5S6H8005AC|1359244|1334250</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2251.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>52482724-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT 725*458*16 MM - MITSUBISHI MAXUS 2.5TD KALIN - 52482724</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -216037,6 +215998,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2201.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>92100-5FA0A-WISCO</Kod>
+    <Aciklama>KLIMA RADYATORU 519X393.4X12 - NISSAN MICRA 1.0 RENAULT CLIO 1.0 16-19 - 921005FA0A</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1478.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
