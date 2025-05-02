@@ -2184,19 +2184,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>03G131501M-WISCO</Kod>
-    <Aciklama>EGR VALFI - VW CADDY TOLEDO ALTEA OCTAVIA 1.9TDI 04 &gt; - 03G131501M|03G131501A|1280160</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1051.66</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>078133817R-WISCO</Kod>
     <Aciklama>HAVA ALMA BORUSU - AUDI A4 A6 A8 2.8 AMX 01 &gt; - 111777|078133817R</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -6969,7 +6956,7 @@
   </Urun>
   <Urun>
     <Kod>1341344-WISCO</Kod>
-    <Aciklama>FAN MOTORU DAVLUMBAZLI (390 MM-3 FIS-6 KANAT) - OPEL ASTRA G 1.6 1.8 2.0 96 &gt; - 2113004|1314539|24431825|90570739|00|1341299</Aciklama>
+    <Aciklama>FAN MOTORU DAVLUMBAZLI (390 MM-3 FIS-6 KANAT) - OPEL ASTRA G 1.6 1.8 2.0 96 &gt; - 1314539|24431825|90570739|1341299|1314538|211300400</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -49170,19 +49157,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1405184-WISCO</Kod>
-    <Aciklama>TAMPON DEMIRI ARKA - OPEL ASTRA J 10 &gt; - 1405069|1405146|13406387|13359159|12775070</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1723.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>141-DK</Kod>
     <Aciklama>VIRAJ LASTIGI 27MM - MERCEDES-BENZ - 9043260881</Aciklama>
     <Uretici>DK</Uretici>
@@ -60216,19 +60190,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1150.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>6R1941007F-WISCO</Kod>
-    <Aciklama>FAR SOL - VW POLO 09-14 HELLA TIPI - 00|1EE 247 051|011|6R1941007E|1EE247051011|1230258</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/hn0slG7nPyxTRjxbjeLE5DYK39pFNVmVuplQIwrj1NM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2070.44</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -169926,19 +169887,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>327.82</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8D0407258AL-WISCO</Kod>
-    <Aciklama>AKS TASIYICISI ON SAG - VW PASSAT A4 1.8 1.8T ADR APT 97&gt; - 1160256|8D0407258AC</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/PsohxKVQp6eeWTqa0dpPSgcPP^O9RDgolDvCBLxAnRg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1528.19</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
