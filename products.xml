@@ -6656,6 +6656,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1451213-WISCO</Kod>
+    <Aciklama>SU FISKIYE MEMESI SOL - OPEL ASTRA G ZAFIRA A 98 &gt; - 2220071|90588123</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>73.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>020498085G-WISCO</Kod>
     <Aciklama>SANZUMAN KECESI - VW GOLF1 GOLF2 GOLF3 JETTA PASSAT IBIZA CORDOBA LEON OCTAVIA 86 &gt; - |020498085G</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -38324,19 +38337,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>344287-WISCO</Kod>
-    <Aciklama>AMORTISOR ON SOL-SAG - OPEL ASTRA F 91 &gt; - 90372078|A72|32A72A|F28|72118404|2190002|MG259|344272|90496643|344208|344287|72012304|90511753|344101|32F28A|344273|32|344243|A|90345928</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/nCMnUPElemchyP2smHWF8KawQplzE6hTVIUTQlcEyG8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>504.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4A1820367K-WISCO</Kod>
     <Aciklama>POLEN FILTRESI KARBONSUZ KLIMALI KUTULU - AUDI A6 94-97 - PP1020A|105763755|4A1820367|SC523|1111369|1987432033</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -47434,19 +47434,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>36.16</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1216116-WISCO</Kod>
-    <Aciklama>FAR SAG SIYAH - OPEL ASTRA G 98 &gt; - 00|2240131|1216116|1216109|1216270</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/gE0JbGBJh^z6UkO7qgUBv93SkOmAB3AuAwTCIwl8dWc=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1478.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -59046,6 +59033,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>492.96</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6710093-WISCO</Kod>
+    <Aciklama>SIS FARI SOL - OPEL VECTRA B 96-99 - 90512450</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0g0Yge7GUV1dUN1Ntami9OodIVK4Jihc9vdXnr0rhpM=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>462.22</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -114688,7 +114688,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/KxgrPgic3a9z6^IVhhWhIit3Dv22ykIcrlgCkCkalvA=.jpg</Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>2004.69</Fiyat>
+    <Fiyat>1807.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -119980,6 +119980,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>12.18</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>F8C1-15-200-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 400X650X16 MM - MAZDA 626 87-91 - 15|F2H1|62405A|FE4J|F2H115200A|F252|FEAM|F8C315200A|421|200|8MK376707|FE4J15200A|8MK376707421|FEDG|FE4J15200X|F2J2|F8C115200|F8C7</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/9t2Lc9wLQXRghE48ePKqJfCWRdL8boqHcth8stHCqUE=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1741.81</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -127988,6 +128001,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>436.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1J0121205BS1-WISCO</Kod>
+    <Aciklama>FAN MOTORU DAVLUMBAZLI (345 MM-290 MM-3 FIS-3 FIS) - VW GOLF4 BORA AUDI A3 TT SEAT LEON TOLEDO SKODA OCTAVIA 1 1.4 1.6 1.8 1.8 T1.9 TDI 2.0 2.3 V5 98 &gt; - 1J0121207M|1J0959455K|1J0121205C|1J0121205A|6X0959455A|1J0959455D|1C0959455C|1J0959455F|1J0121205|6X0959455F|1J0121205AB41|1J0121207C|1J0121205BB41|1J0959455M|6H0959455B|6QD959455C</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/wDBGlO3HK^0mOvIM0JHFOrm9t0lOEdZBCToMISdnLLc=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2629.14</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -156253,19 +156279,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>96143066-WISCO</Kod>
-    <Aciklama>RADYATOR SU DEPOSU KAPAKLI - DAEWOO ESPERO 95&gt; - 96143066|96428796</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>405.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-192EHAL-VIEWMAX</Kod>
     <Aciklama>AYNA SOL+ELK+ISI+ASF+ASP+5PIN - VW POLO (6N2) 99-01 - VM192EHAL|6N1857507H|6N1857507GH01C</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -166081,19 +166094,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>OC14L-HILEKS</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ARKA SOL - OPEL CORSA D 06 &gt; - 00|2233459|6121792</Aciklama>
-    <Uretici>HILEKS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/MgwNjLrNTNQhWgBpqoJMenibLkdjtyLIYDLD3FT61Z8=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>193.03</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>5C0121251E-AUTOLUX</Kod>
     <Aciklama>SU RADYATORU MEKANIK MT-AT 650X410 MM - VW JETTA 4 1.6 2.0 10&gt; - 8MK376733664|5C0121251E|8MK376733|65296|5C0121251D|664</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -168561,19 +168561,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1255.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>100228-WONGA</Kod>
-    <Aciklama>SALINCAK ON SAG - OPEL ASTRA K 15 &gt; - 39089345|39021473</Aciklama>
-    <Uretici>WONGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1587.85</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -177573,19 +177560,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7P6853671ERYP-WISCO</Kod>
-    <Aciklama>TAMPON IZGARASI ORTA NIKELAJLI SENSORLU - VW TOUAREG 10-15 - 7P6853671CRYP</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1478.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>13620-67J02-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 600X202X50 - SUZUKI GRAND VITARA 2 (JT) 1.9 DDIS 05&gt; - 1362067J00|1362067J02|1362067J01|96525</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -182084,19 +182058,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>0500609-EXPORT</Kod>
-    <Aciklama>YAKIT HORTUMU - OPEL ASTRA H Z13DTH 04 &gt; - 500609|Y1704|55558031|5820544</Aciklama>
-    <Uretici>EXPORT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>84.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>105153-EXPORT</Kod>
     <Aciklama>ABS SENSORU - OPEL VECTRA A 88 &gt; - 90307723|90510884|90347697|1238784|6238354||2280023|1278189</Aciklama>
     <Uretici>EXPORT</Uretici>
@@ -186137,19 +186098,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>4622.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>652020-WISCO</Kod>
-    <Aciklama>YAG KARTERI - OPEL VECTRA B ZAFIRA Z18XE</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/nDtaNu6g1OfvdqYl8hh23dJqNLscM3fR1QLtc^yZr6Q=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1657.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -197525,6 +197473,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>5915.53</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>95192590-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING AT 675*488*32 MM - CHEVROLET CAPTIVA, ANTARA 2.0 DİZEL 2011+ OTOMATİK KALINLIK  MAKYAJLI KASA - 95192590|4818254|20982435|4819583|42400244</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3483.58</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214815,6 +214776,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1971.84</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>980107A</Kod>
+    <Aciklama>PORYA ARKA SOL-SAG RULMANLI 4X114.3 142.3X45MM 96 ABS DIS 42.5MM GENISLIK - AUDI A4 A6 A8 R8 VW PHAETON 04-11 - 3D0498607|4E0498625|4F0598625|4F0598625A|4E0498625C|4F0498625A|4E0498625B</Aciklama>
+    <Uretici>BRTEC</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>681.51</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
