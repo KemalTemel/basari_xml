@@ -105135,19 +105135,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1J0615424E-WISCO</Kod>
-    <Aciklama>FREN KALIPERI ARKA SAG - VW BORA 1 2.3 2.8 99-05 GOLF4 99-06 AUDI A3 99-03 TT1.8 T3.2 VR6 99-06 SEAT LEON 1.8 2.8T 01-06 - 1J0615424G|BDV342961|TWBHN281E|BRF85173</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vROfxwu36QM3VyzmH^ySstK5Z9GROL8lYHB64WfymRM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1330.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>503-DK</Kod>
     <Aciklama>MOTOR TAKOZU - OPEL RECORD 58-63 - 684254</Aciklama>
     <Uretici>DK</Uretici>
@@ -105912,19 +105899,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>412.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>04L103469D-WISCO</Kod>
-    <Aciklama>KULBUTOR KAPAGI PLASTIK + CONTA + KAPAK - VW CADDY 4 GOLF7 JETTA 4 CC PASSAT B8 TIGUAN TOUARAN T-ROC AUDI A3 A4 A5 A6 Q3 Q5 TT SEAT ATECA IBIZA 5 LEON SKODA KAMIQ KAROQ KODIAQ OCTAVIA 3 SUPERB 3 SCALA 1.6 TDI 2.0 TDI 13 &gt; - 04L103469Q|03L103469AC|04L103469D</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2008.32</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -158437,19 +158411,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>995006903-WISCO</Kod>
-    <Aciklama>SU RADYATORU BRAZING MT 590X448X26 - MERCEDES-BENZ C-SERISI (W205) C180 D-C200 D 14-18 - 627035|0995006903</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/eNBwlFvh3FSn98cZ7f06dwEYLpZUaSAP9sqKpFjz35o=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2694.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>0302505004-BOSCH</Kod>
     <Aciklama>FAR SAG - VW NEW BEETLE 99-05 - 1C0941030D|1C0941030|1C0941030J</Aciklama>
     <Uretici>BOSCH</Uretici>
@@ -186371,19 +186332,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2083.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3V0823031A-SIMYI</Kod>
-    <Aciklama>MOTOR KAPUTU MEGESLI - SKODA SUPERB 14-20 - 3V0823031|3V0823031B</Aciklama>
-    <Uretici>SIMYI</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>8625.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -216076,6 +216024,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>49.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>52482724-WISCO</Kod>
+    <Aciklama>SU RADYATORU BRAZING MT 725*458*16 MM - MITSUBISHI MAXUS 2.5TD KALIN - 52482724</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2201.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
