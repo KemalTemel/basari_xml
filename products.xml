@@ -215767,6 +215767,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>104301C-TROW</Kod>
+    <Aciklama>ROTIL ALT CIVATASIZ - OPEL VECTRA A ASTRA F 91 &gt; - 104301|1603121|1603163|1603167|90297863</Aciklama>
+    <Uretici>TROW</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>228532-ELRING</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI - OPEL VIVARO C ZAFIRA 3008 308 5008 508 D20DTL D20DTH 19 &gt; - 3648402|9841825380</Aciklama>
     <Uretici>ELRING</Uretici>
