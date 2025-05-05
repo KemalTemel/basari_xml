@@ -58945,19 +58945,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>6PK1050-WISCO</Kod>
-    <Aciklama>V KAYISI - AUDI A3 GOLF5 CADDY3 PASSAT1.9TDI 2.0TDI - 06F260849E|+6340619|6340663|06F260849M|03G903137B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>115.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>6PK1055-WISCO</Kod>
     <Aciklama>V KAYISI KLIMALI - AUDI A3 GOLF5 PASSAT1.9 2.0TDI 05 &gt; - 6340663|6PK1056|5750.PL|5750.WY|5750WY|028903137AS|03G903137B|6PK1057|5750PL|6PK1054|6340619|6PK1053</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -152431,19 +152418,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>4F0821104F-WSC</Kod>
-    <Aciklama>CAMURLUK ON SAG (TAIWAN) - AUDI A6 09-11</Aciklama>
-    <Uretici>WSC</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1794.55</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>BRC07072-BRC</Kod>
     <Aciklama>VIRAJ LASTIGI ON ORTA 18MM - VW POLO FABIA CORDOBA IBIZA TOLEDO A1 A1 SPORTBACK 01 &gt; - 6Q0411314N|6Q0411314R|Y11292|6Q0411314E</Aciklama>
     <Uretici>BRC</Uretici>
@@ -213930,7 +213904,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>3297.97</Fiyat>
+    <Fiyat>3133.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -215725,6 +215699,45 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>91.54</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>09040275-KRAFTVOLL</Kod>
+    <Aciklama>KAPI GERGISI ON - OPEL INSIGNIA A 09 &gt; - 09040275|13229021|5160264|Y1569</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>365.90</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>534057510-INA</Kod>
+    <Aciklama>ALTERNATOR GERGI KUTUGU - MERCEDES-BENZ W176 W177 W246 W242 W247 17 &gt; - 2702000070|2702000170|2702000370|2702002100|A2702000070|A2702000170|A270200037|A2702002100</Aciklama>
+    <Uretici>INA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2319.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10034905-KRAFTVOLL</Kod>
+    <Aciklama>RADYATOR HORTUMU ALT OTOMATIK - OPEL ASTRA J A16XER B16XER 09 &gt; - 1336652|13441116</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>523.11</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
