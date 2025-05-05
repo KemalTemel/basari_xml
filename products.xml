@@ -14712,7 +14712,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>125.46</Fiyat>
+    <Fiyat>137.28</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -48243,19 +48243,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>13238553-WISCO</Kod>
-    <Aciklama>TAMPON IZGARASI ORTA - OPEL ASTRA H 07&gt; - 1400417|13247248</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/BQaJXbvEG9vHjc2MetZy7eMtVMc4nH2fK4xUpmdUpoA=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>492.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>13252362-WISCO</Kod>
     <Aciklama>AMORTISOR TAKOZU ARKA SOL SAG - CHEVROLET CRUZE OPEL MOKKA MOKKA X 1.4 1.6 1.6 CDTI 1.7 CDTI 09 &gt; - 436565|177358</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -51571,7 +51558,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>353.99</Fiyat>
+    <Fiyat>310.65</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -91859,19 +91846,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1190.55</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>3G0941700-WISCO</Kod>
-    <Aciklama>SIS FARI SAG LED - VW PASSAT B8 19- - 3G0941700</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vLIyz3qeSzKHe8sP5c54ittQ6Qs1VuQpOROy3Aibu00=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1051.69</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -141664,19 +141638,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>58.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7C0807723A-WISCO</Kod>
-    <Aciklama>TAMPON BRAKETI ON SOL - VW CRAFTER 17&gt; - 7C0807723</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/xArCJvHXC4bZrREp9H1RqwBfNRWEawnZg27ypQczzpI=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>455.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -201129,19 +201090,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>7H0413031L-WINPOWER</Kod>
-    <Aciklama>AMORTISOR ON SOL-SAG - VW T5 T6 04 &gt; - 7E0413031D|7E0413031C|7H0413031L</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1215.99</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>436173-WINPOWER</Kod>
     <Aciklama>AMORTISOR ARKA SOL-SAG - OPEL ZAFIRA A COMBO 99-05 - 436304|92078324|436316|436326|436174|23964|2190018|436151|00</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -202309,6 +202257,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>82.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>31146-FEBI</Kod>
+    <Aciklama>SANZUMAN TAKOZU - BMW E60 E61 E63 E64 04 &gt; - 22316771741|31146|22316761093</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>314.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -209293,6 +209254,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>117444-TOPRAN</Kod>
+    <Aciklama>KRANK KECESI ARKA - VW GOLF7 JETTA 4 PASSAT SHARAN TOURAN 1.0 TSI 14&gt; - 04C103170G|04C103170H|04C103170N|04E103170D|04E103170L|04E103170B|04E103170C|04E103170A|117444002</Aciklama>
+    <Uretici>TOPRAN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/E1vumzBCgUjsUM55IHT2g4OSV8AbggIH2mNkoEnm5kg=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1062.62</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>102823-TOPRAN</Kod>
     <Aciklama>SALINCAK BURCU ARKA - VW GOLF2 82 &gt; - 191501541A|1190063|191501541|102823755</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -211162,19 +211136,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1868.12</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8200074008-ITL</Kod>
-    <Aciklama>SIS FARI SAG SOL - RENAULT MEGANE KANGOO LOGA LAGUNA 08 &gt; - I6208Q3|620662||6710027|620639|8200074008</Aciklama>
-    <Uretici>ITL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>108.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213908,19 +213869,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>HLD4203-HELLUX</Kod>
-    <Aciklama>TEVZI MAKARASI 10MM - VW GOLF3 VENTO POLO CLASSIC PASSAT1.6 1.8 AFT AKL AAM ABS ADZ 2E ADY 92 &gt; - 026905225|035905225D|035905225F|051905225|052905225C|1212222|37757321RS</Aciklama>
-    <Uretici>HELLUX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>23.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>104623-TROW</Kod>
     <Aciklama>DEBRIYAJ RULMANI - OPEL VECTRA B ASTRA G 2.0 16V XX18XE X20XEV X20DTH Y20DTH 96 &gt; - 3182654205|510000210|679346|90522729|ZA3403A1</Aciklama>
     <Uretici>TROW</Uretici>
@@ -215712,6 +215660,71 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>101.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>63221-MGA</Kod>
+    <Aciklama>YAG SOGUTUCUSU TEK - CITROEN C3 C4 C5 ASTRA L CORSA F 2008 208 3008 308 5008 508 15 &gt; - 55565958|55577034|55578734|55578737|55595532|650016|650062|650066|650067|650184</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>586.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>80187-MGA</Kod>
+    <Aciklama>SU RADYATORU - VW POLO FABIA 1.4 16V 01 &gt; - 6Q0121253A|6Q0121253L|6Q0121253M|6Q0121253Q|6Q0121253R|80187</Aciklama>
+    <Uretici>MGA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1908.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>VKBA7194-SKF</Kod>
+    <Aciklama>PORYA ARKA - OPEL CORSA F 2008 208 1.2 09 &gt; - 9822540080|VKBA7194</Aciklama>
+    <Uretici>SKF</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3088.57</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>B20336-BETTO</Kod>
+    <Aciklama>YAGLAMA JETI - VW PASSAT T4 1.9TDI 97 &gt; - 068103157D|B20336</Aciklama>
+    <Uretici>BETTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>281.34</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y10816-YTT</Kod>
+    <Aciklama>YAKIT DEPO HAVALANDIRMA HORTUMU - OPEL VECTRA B 95 &gt; - 806623|806642|90499642|9181889|Y10816</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>91.54</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
