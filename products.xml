@@ -1495,19 +1495,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>02M141671-WISCO</Kod>
-    <Aciklama>DEBRIYAJ RULMANI - VW T5 T6 GOLF5 LEON PASSAT CADDY 2.0TDI 2.5TDI BKP BKD BMM BMN AXD CAAC CFCA 03 &gt; - 3182600197|ZA3106631|02M141671A|3182997901|0A5141671F|0A5141671E|02M141671B|510007110|810123|3182600209|510017710|0A5141671D|804529|0A5141671A|02M141671|0A5141671</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UV6liPbNWmLyLATCtxFkY^pebcQD8TuFQL5BUP75CYo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>591.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>03D198229A-WISCO</Kod>
     <Aciklama>EKSANTRIK ZINCIR SETI - VW POLO FABIA AWY BMD BBM CHFA - 1111689|03D198229</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -32133,19 +32120,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>81.35</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>7M3698151B-WISCO</Kod>
-    <Aciklama>FREN BALATASI ON - VW SHARAN ALHAMBRA 1.9TDI 01 &gt; - 1151377|1M212K021BA|1200019|7M3698151B</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>295.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -106315,19 +106289,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1375.40</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>24426048-GM</Kod>
-    <Aciklama>YAG SEVIYE SENSORU - OPEL ASTRA G ASTRA H Z16XEP 00 &gt; - 1238440</Aciklama>
-    <Uretici>GM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2716.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186803,19 +186764,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>95209431-WISCO</Kod>
-    <Aciklama>DIREKSIYON KUTUSU - CHEVROLET LACETTI 1.6 05 &gt; - 96451425|96892955|96442387|96852935|96442385|96407342|96952200||96451961|96952196|96852934|95209431|95961360|96451953|95209434|95961364|96475824|96852938|96892952</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/^21xTvB7d1B8607pu7mfBLCQHJxHJIF65tlkInr39^c=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>4929.75</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1JM198601AA-WISCO</Kod>
     <Aciklama>YAG KARTERI - SEAT IBIZA 2.0 02-09 - 06A103601BC</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -212699,6 +212647,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3130065050-YENMAK</Kod>
+    <Aciklama>PISTON + SEGMAN 77,01MM 0,50 ADET - VW GOLF7 CADDY POLO FABIA OCTAVIA YETI IBIZA TOLEDO 1.6 CWVA CWVB 14 &gt; - 04E107065DT|04E107065FD|3130065050|41487600</Aciklama>
+    <Uretici>YENMAK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1286.59</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>9804424180-FIAT</Kod>
     <Aciklama>EKSANTRIK MILI - CITROEN C4 C5 FOCUS 3008 5008 508 2.0 HDI 09 &gt; - 18713432|9804424180|D7SQ6A270BA</Aciklama>
     <Uretici>FIAT</Uretici>
@@ -215907,6 +215868,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>120.07</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>UB3933061E-TAIWAN</Kod>
+    <Aciklama>TEKER PORYASI ON - MAZDA B-2500 97-00 - UB3933061E</Aciklama>
+    <Uretici>TAIWAN</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>2384.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
