@@ -190157,6 +190157,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>P09398000-LEX</Kod>
+    <Aciklama>SUBAP EMME 5MM - VW POLO FABIA CITIGO IBIZA 1.0 CHYA CHYB CHYE 14 &gt; - 04E109601|04C109601C</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>641.16</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>P09398001-LEX</Kod>
+    <Aciklama>SUBAP EGZOST 5MM - VW POLO FABIA CITIGO IBIZA 1.0 CHYA CHYB CHYE 14 &gt; - 04C109611A|04E109611L|</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>641.16</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>25980570-WISCO</Kod>
     <Aciklama>CEKI DEMIR KAPAGI ON - OPEL MOKKA 13- - 1405181</Aciklama>
     <Uretici>WISCO</Uretici>
