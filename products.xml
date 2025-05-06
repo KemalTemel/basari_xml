@@ -73856,6 +73856,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>539860R2028-FAG</Kod>
+    <Aciklama>SANZUMAN RULMANI 30X55X15.5MM - OPEL VECTRA A B ASTRA G ZAFIRA A C20XE X20XEV X25XE 89 &gt; - 539860.R20.28|4238432|375000|90334480</Aciklama>
+    <Uretici>FAG</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>277.74</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1Z0857537AGRU-WISCO</Kod>
     <Aciklama>AYNA KAPAGI SOL ASTARLI - SKODA OCTAVIA (1Z3,1Z5) 04-08 - 1Z1857521|1Z1857507|1Z0857537A|1Z1857507E01C|1Z185750701C|1Z1857507E|1Z0857537AGRU</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -79183,6 +79196,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>103.92</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>A1523G-VOTTO</Kod>
+    <Aciklama>AMORTISOR ARKA - VW CADDY 04 &gt; - 2K0513029F|2K0513029B|2K0513029A|2K0513029G|2K0513029N|2K0513029|2K0513029M|23990</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>860.10</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -150429,19 +150455,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>8V0498625A-WISCO</Kod>
-    <Aciklama>PORYA ON SOL-SAG RULMANLI 5X112 137X36DIS ABS - VW GOLF7 PASSAT LEON SUPERB AUDI A3 1.2 1.4 1.6 TDI 1.8 TFSI 2.0 TDI 13 &gt; - 9336022|19|8S0498625|2364|8V0498625A|8S0498625A|R164.69</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rzUY3mOoyc6tFGj1DkqEbvluboUERp5Msn8UU^ux2mw=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>891.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>2233023-00-WISCO</Kod>
     <Aciklama>SILECEK SUPURGESI ARKA - OPEL ZAFIRA A 98 &gt; - 6272479|6272479BLADE|90582599</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -166029,19 +166042,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>VM-968EHAL-VIEWMAX</Kod>
-    <Aciklama>AYNA SOL ELEKTRIKLI ISITMALI ASFERIK - OPEL ASTRA H 04-09 - 6428786|6428185|13141985|13141997|VM968EHAL|6428917|24463031</Aciklama>
-    <Uretici>VIEWMAX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/0rrNE8TP^ZPwi4SKOK5KfJQPWfMIMtdpTsqRBo^He2k=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1221.09</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1605920-WP</Kod>
     <Aciklama>FREN BALATASI ARKA PABUC - OPEL ASTRA G COMBO C 98 &gt; - 93189978|93170618|1605064|2200023|1605262|1605358|90512792|1605969|LS1829|9317106593189978|91158369|1605062|GS8637</Aciklama>
     <Uretici>WP</Uretici>
@@ -175272,6 +175272,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>1987949684-BOSCH</Kod>
+    <Aciklama>TRIGER KAYISI - VW GOLF7 PASSAT POLO A3 LEON 1.0 1.2TSI 1.4TSI CHYB CJZA CJZB CYVA CYVB 13 &gt; - 5680XS|1987946588|04E109119|04E109119C||941060|04E109119F|CT1167|04E109119G</Aciklama>
+    <Uretici>BOSCH</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>865.65</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5Q0512521F-WISCO</Kod>
     <Aciklama>FAR SEVIYE SENSORU - AUDI A3 GOLF7 13 &gt;</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -183381,19 +183394,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>758.69</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4302701-LEMFORDER</Kod>
-    <Aciklama>MOTOR TAKOZU - VW TOUAREG A8 Q7 15 &gt; - 4M0199372FE|</Aciklama>
-    <Uretici>LEMFORDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2670.09</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214932,6 +214932,58 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>7018.11</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>095663-OEM</Kod>
+    <Aciklama>SUBAP LASTIGI - FORD MONDEO KUGA P308 P3008 P5008 2.0D 12 &gt; - 095663|1427818|6G9Q6571AA</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>257.29</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>H1501-VOTTO</Kod>
+    <Aciklama>HELEZON ARKA - VW T5 (7HB) 1.9TDI 2003-2015 , VW T6 / CARAVELLE T6 (SGB) 2.0TDI 2015- - 7E0511115M|7E0511115N|7H0511115AE|7H0511115AF|7H0511115E</Aciklama>
+    <Uretici>VOTTO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>872.06</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9809090180-FIAT</Kod>
+    <Aciklama>Z ROT ON - OPEL VIVARO C ZAFIRA 19 &gt; - |179805|18722|3998301|632361|9809090180|CI666|SU001A6492|TC6768</Aciklama>
+    <Uretici>FIAT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1423.15</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9678749180-OEM</Kod>
+    <Aciklama>AMORTISOR TAKOZ ALT PULU - OPEL ASTRA L COMBO VIVARO C ZAFIRA 19 &gt; - |3637398|9678749180|SU001A6618</Aciklama>
+    <Uretici>OEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>182.88</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
