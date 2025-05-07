@@ -2717,6 +2717,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>02247-AYD</Kod>
+    <Aciklama>ROT BASI SAG - VW GOLF5 CADDY PASSAT TOURAN A3 04 &gt; - 1K0423812A|1K0423812J|1K0423812K|1K0423812E</Aciklama>
+    <Uretici>AYD</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>173.96</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>036103383AN-WISCO</Kod>
     <Aciklama>SILINDIR KAPAK CONTASI METAL - VW GOLF4 BORA A3 TOLEDO 1.6 16V BCB 02 &gt; - 036103383AN|036103383AB|476412|110334785|1110317|613426000</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -12961,6 +12974,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>21483-IBRAS</Kod>
+    <Aciklama>KALORIFER HORTUMU GIRIS - OPEL VECTRA C SIGNUM Z16XEP Z18XER 04 &gt; - 24421790|6818601</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>279.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>1129-DK</Kod>
     <Aciklama>MOTOR TAKOZU HIDROLIK - OPEL ASTRA J 10 &gt; - 13287957|682067</Aciklama>
     <Uretici>DK</Uretici>
@@ -14661,19 +14687,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>358.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>21326-IBRAS</Kod>
-    <Aciklama>RADYATOR HORTUMU UST - OPEL CORSA B TIGRA A COMBO B 1.2 1.4 - 90444463|1337186</Aciklama>
-    <Uretici>IBRAS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>137.28</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -25441,6 +25454,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y11560-YTT</Kod>
+    <Aciklama>MOTOR HAVALANDIRMA HORTUMU - OPEL ASTRA G CORSA C VECTRA C X14XE Z14XE X16XEL Z16XE 96-04 - 90571474|93396494|5656071|18199|21203|Y11560</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>64.07</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>8E0941531A-WISCO</Kod>
     <Aciklama>FAR ANAHTARI - AUDI A4 A6 - 8E0941531A5PR|</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -26907,19 +26933,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>289.50</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y10556-YTT</Kod>
-    <Aciklama>RADYATOR HORTUMU ALT - OPEL ASTRA G 98 &gt; - 9202877|1337509|1337552|9128606</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>181.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -30833,6 +30846,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>99.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y10503-YTT</Kod>
+    <Aciklama>RADYATOR HORTUMU UST - OPEL VECTRA 2.0 - 90265787|1336495</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>127.55</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -42276,6 +42302,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>03096-AYD</Kod>
+    <Aciklama>Z ROT ARKA - VW GOLF5 JETTA A3 PASSAT 05 &gt; - 1K0505465J|1K0505465AA|1K0505465K|1K0505465C</Aciklama>
+    <Uretici>AYD</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>207.75</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03097-AYD</Kod>
     <Aciklama>Z ROT ON - AUDI Q7 CAYENNE TOUAREG 04 &gt; - 95534306900|3097|7L0411317</Aciklama>
     <Uretici>AYD</Uretici>
@@ -42442,6 +42481,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>44.55</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>03398-AYD</Kod>
+    <Aciklama>Z ROT ON - VW CADDY PASSAT GOLF5 04 &gt; - 5Q0411315A|1K0411315P|1K0411315D|1K0411315J|1K0411315K</Aciklama>
+    <Uretici>AYD</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>2</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>151.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -51403,19 +51455,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>8.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>221005-CABU</Kod>
-    <Aciklama>YAG SOGUTUCU KAPAGI - OPEL ASTRA G ASTRA H ASTRA J CRUZE INSIGNIA CORSA C CORSA D CORSA E MOKKA VECTRA C ZAFIRA B ZAFIRA C ADAM AVEO RUZE INSIGNIA CORSA C CORSA D CORSA E MOKKA VECTRA C ZAFIRA B ZAFIRA C ADAM AVEO 01 &gt; - 650170|55353325|5650963|55593189</Aciklama>
-    <Uretici>CABU</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>64.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -64145,6 +64184,32 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y10578-YTT</Kod>
+    <Aciklama>SU POMPA HORTUMU - OPEL VECTRA A ASTRA F 1.8 2.0 88 &gt; - 1337463|90530796|1336812</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>27.39</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11393-YTT</Kod>
+    <Aciklama>TRAVERS BURCU ARKA - VW GOLF5 JETTA PASSAT LEON A3 1.2 TSI 1.4 TFSI 1.6 TDI 1.8 1.9 2.0 FSI 05 &gt; - 110737755|3862001|1K0505541C|1K0505541D|1K0505541B</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>51.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>Y11416A-YTT</Kod>
     <Aciklama>VIRAJ KELEPCESI - VW CRAFTER SPRINTER 06 &gt; - 2E0411041F|9063238785</Aciklama>
     <Uretici>YTT</Uretici>
@@ -67977,6 +68042,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>2738.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>09040219-KRAFTVOLL</Kod>
+    <Aciklama>KAPI GERGISI ON - OPEL ASTRA H 04 &gt; - 5160251|13107175</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>354.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -74350,19 +74428,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>Y11703-YTT</Kod>
-    <Aciklama>RADYATOR HORTUM ALT - OPEL ASTRA J A14XEL 09 &gt; - 13251435|1336196</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>316.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>25310-24700-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING AT 335X578X16 - HYUNDAI EXCEL (X-2) 1.5 89-95/ S COUPE (SLC) 1.5 90-96 - 2531024701|2531024800|2531024700|2531024702</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -76131,6 +76196,19 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>18104-RAPRO</Kod>
+    <Aciklama>SU POMPA HORTUMU - OPEL VECTRA A ASTRA F 1.8 2.0 88 &gt; - 90295122|1336812|1337463|90530796</Aciklama>
+    <Uretici>RAPRO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>116.30</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>4D0898007-OEM</Kod>
     <Aciklama>KAPI KILIT SETI ARKA - AUDI A8 94-99 - 893959859A|4D0839015A|4D0839016A</Aciklama>
     <Uretici>OEM</Uretici>
@@ -76258,19 +76336,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>40.55</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>587890-ELRING</Kod>
-    <Aciklama>VAKUM POMPA CONTASI - OPEL ASTRA K CORSA E ADAM INSIGNIA A INSIGNIA B MOKKA D10XFL F10XFL B10XFL D14XFT B14XFT 14 &gt; - 12638690|587890|2091135||12668429</Aciklama>
-    <Uretici>ELRING</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>117.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -91368,6 +91433,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>280269-FEBI</Kod>
+    <Aciklama>ROTIL ALT - MERCEDES-BENZ BENZ C SERISI 93 &gt; - A2103330427|2103300035|2103330407|2103330427|A2103300427|2113300335|A2113300335</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>380.00</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>06F109124-BSR</Kod>
     <Aciklama>TRIGER KAPAGI - VW PASSAT JETTA 05 &gt; - 06F109124</Aciklama>
     <Uretici>BSR</Uretici>
@@ -91378,19 +91456,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>213.89</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>21557-IBRAS</Kod>
-    <Aciklama>MOTOR HAVALANDIRMA HORTUMU - OPEL ASTRA F ASTRA G ZAFIRA A VECTRA B OMEGA B FRONTERA A X17DTL 20SE X20SE 20NEJ 89 &gt; - 5656007|90409617</Aciklama>
-    <Uretici>IBRAS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>87.75</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -91573,19 +91638,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>890.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>626305309-LUK</Kod>
-    <Aciklama>DEBRIYAJ SETI RULMANSIZ - FORD TRANSIT V347 140PS JUMBO 06 &gt; - 1528774|1788692|7C117540BB</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>8146.99</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -98193,19 +98245,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>18233-RAPRO</Kod>
-    <Aciklama>YAKIT DEPO HORTUMU - OPEL ASTRA G J 98 &gt; - 65720078|21411|806790|90573353</Aciklama>
-    <Uretici>RAPRO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>210.60</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>VM-364CR-VIEWMAX</Kod>
     <Aciklama>AYNA KAPAGI SAG - SEAT IBIZA 4 (6J5) 08-17 / EXEO (3R2) 09-13 - 6J0857538A9B9|VM364CR|6J0857538A|6J0857538AGRU</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -98398,19 +98437,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>74.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y11557-YTT</Kod>
-    <Aciklama>YAKIT DEPO HORTUMU - OPEL ASTRA G J 98 &gt; - 806790|90573353</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>291.70</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -108647,6 +108673,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>32553N-WAI</Kod>
+    <Aciklama>MARS MOTORU - VW LT35 97-03 - 32553N|069911023J|069911023MX|1986S00819|069911023M|0001125517|069911023|0001125507|1516682R|</Aciklama>
+    <Uretici>WAI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>3287.99</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>19710-RSX-G01-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 150X254X62 - HONDA CR-V 3 2.2I-DTEC 07&gt; - 19710RSXG01HE|19710RSXG01|19710RSXG010M1|961421|19710R7CG01</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -114406,19 +114445,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>63143-MGA</Kod>
-    <Aciklama>YAG SOGUTUCU KOMPLE - OPEL ASTRA H ASTRA J INSIGNIA CRUZE MOKKA VECTRA C AVEO T250/300 ZAFIRA Z16XER A16XER B16XER F16D4 Z18XER 07 &gt; - 25199751|5650364|93186324|RD4513</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1093.51</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>414301-AUTOLUX</Kod>
     <Aciklama>TEKER RULMAN KITI ARKA - OPEL FRONTERA A B 92 &gt; - 91149606|R14135</Aciklama>
     <Uretici>AUTOLUX</Uretici>
@@ -117588,19 +117614,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>212.26</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>415056210-LUK</Kod>
-    <Aciklama>VOLANT KOMPLE OYNAR GOBEK - FORD TRANSIT CUSTOM 2.2 12 &gt; - 1731726</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>11867.41</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -122632,6 +122645,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>218.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>21411-IBRAS</Kod>
+    <Aciklama>YAKIT DEPO HORTUMU - OPEL ASTRA G J 98 &gt; - 90573353|65720078|806790</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>253.00</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -136285,19 +136311,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>33010-FAE</Kod>
-    <Aciklama>HARARET MUSURU MAVI - OPEL ASTRA F CORSA A B OMEGA A 91 &gt; - 2110270|90510183|1338458|1338451|100074913|1338444</Aciklama>
-    <Uretici>FAE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>208.06</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>09829-AYD</Kod>
     <Aciklama>Z ROT ARKA - OPEL INSIGNIA 10 &gt; - 77520|444087|13281793</Aciklama>
     <Uretici>AYD</Uretici>
@@ -137777,19 +137790,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>5774.81</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>319561-SACHS</Kod>
-    <Aciklama>AMORTISOR ARKA - OPEL INSIGNIA B 17 &gt; - 84252337|30T93A|JGT1458T|19280615|23264176|3440073|214653|319561|</Aciklama>
-    <Uretici>SACHS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1476.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -142096,19 +142096,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>21504-IBRAS</Kod>
-    <Aciklama>TERMOSTAT HORTUMU - OPEL VECTRA A B ASTRA F KADET E - 1337703|Y10573|90324833</Aciklama>
-    <Uretici>IBRAS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>72.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>04777-FEBI</Kod>
     <Aciklama>HARARET MUSURU - OPEL ASTRA F VECTRA A CORSA B 88 &gt; - 1341011|202351002|202351001|202351545|202351755|90242277</Aciklama>
     <Uretici>FEBI</Uretici>
@@ -143952,6 +143939,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>148.50</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>Y11709-YTT</Kod>
+    <Aciklama>YAKIT DEPO HORTUMU - OPEL CORSA C 02 &gt; - 5806602|24408872</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>44.02</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -150546,19 +150546,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>Y11650-YTT</Kod>
-    <Aciklama>RADYATOR HORTUM ALT - OPEL VECTRA C Z16XEP 04 &gt; - 9202781|1337766|Y11650</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>550.04</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>646041-WISCO</Kod>
     <Aciklama>YAG POMPASI - OPEL CORSA B ASTRA F ASTRA G VECTRA B 1.4 1.6 X 1.6 XEL Z 1.6 XE X 1.4 XE Z 1.4 XE 93 &gt; - 205585755|2113022|90444316|00|90541505|646009</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -154940,19 +154927,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5F0853654J9B9-WISCO</Kod>
-    <Aciklama>PANJUR NIKELAJLI - SEAT LEON FR (5F1) 17-20</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/fdxhT6ETvENQm9eszFYsTkzWUmpnjbI4f4Gd^uTaiMo=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2144.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>19964-AYD</Kod>
     <Aciklama>ROTILLI KOL ALT EGRI SAG - AUDI Q5 16 &gt; - 80A0407152A|80A407152B</Aciklama>
     <Uretici>AYD</Uretici>
@@ -156848,19 +156822,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>407.52</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y11657-YTT</Kod>
-    <Aciklama>MOTOR HAVALANDIRMA HORTUMU - OPEL CORSA C ASTRA G TIGRA 94-12 - Y11657|93396494</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>64.28</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -161918,19 +161879,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>230.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1212222-WISCO</Kod>
-    <Aciklama>TEVZI MAKARASI - OPEL ASTRA F CORSA A B VECTRA A KADETT E CALIBRA A FRONTERA A 2.4 COMBO 1.2 1.4 1.6 2.0 VW PASSAT POLO GOLF JETTA2 SCIROCCO T5 CADDY2 SEAT IBIZA TOLEDO CORDOBA 1.4 1.6 1.8 2.0 SKODA OCTAVIA 1.6 85-05 - 0269052252|052905225C|035905225D|051905225|035905225F</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/UvYxg7WUGKxatEY03xO1rTs9KVVz3yeDz^moOG91K4E=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>23.77</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -171086,19 +171034,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>21337-IBRAS</Kod>
-    <Aciklama>RADYATOR HORTUMU UST - OPEL COMBO C 1.6 Z16SE 01 &gt; - 1337606|9226230|93383546</Aciklama>
-    <Uretici>IBRAS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>150.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4H0823509C-WISCO</Kod>
     <Aciklama>MOTOR KAPUT KILIDI KABLOLU - AUDI A8 D4 11-17 - 4H0823509B|4H0823509A|4H0823509D</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -175243,6 +175178,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>55.35</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>21625-IBRAS</Kod>
+    <Aciklama>YAKIT POMPA CONTASI - OPEL VECTRA B 1.6 1.8 2.0 96 &gt; - 90411085|1254286</Aciklama>
+    <Uretici>IBRAS</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>64.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -179809,6 +179757,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>32400VV-4U</Kod>
+    <Aciklama>ALTERNATOR GERGI KUTUGU - VW TOUAREG T5 GOLF4 BORA LEON TOLEDO ALHAMBRA SHARAN 3.2 3.6 V6 98 &gt; - 25500536|022145299D|022145299E|022145299A||022145299</Aciklama>
+    <Uretici>4U</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>999.93</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>5F1941007ACAM-WISCO</Kod>
     <Aciklama>FAR CAMI SOL - SEAT LEON 13 &gt; - 5F1941007B|5F1941007|5F1941007A</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -181057,19 +181018,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>24002013O-FITPART</Kod>
-    <Aciklama>RADYATOR SU DEPOSU KAPAKLI - OPEL CORSA D 1.2 1.4 07 &gt; - 1304527|13312277|1304009</Aciklama>
-    <Uretici>FITPART</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>514.11</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>24002027W-FITPART</Kod>
     <Aciklama>RADYATOR SU DEPOSU - VW GOLF5 JETTA OCTAVIA 1.6 1.9 05 &gt; - 1110548|1K0121407|1K0121407F|1K0121407A</Aciklama>
     <Uretici>FITPART</Uretici>
@@ -181746,6 +181694,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>01293-FEBI</Kod>
+    <Aciklama>DEVIRDAIM - BMW E36 E46 E34 E39 E60 E65 E66 90 &gt; - 11511730414|11511722536|11517509985|PA432A|11517527799|11517503884|11511433828|11511744243|11511433712|11517504040|11517527910|11511740241</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1499.94</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>82019150-CORTECO</Kod>
     <Aciklama>SANZUMAN KECESI 40X62X10/12 - MERCEDES-BENZ W114 W115 C123 W123 A124 W124 S124 R129 B903 68 &gt; - A0079972747|A0039977047|0129978747|A0089976647|A0129978747</Aciklama>
     <Uretici>CORTECO</Uretici>
@@ -182016,6 +181977,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>68.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3130065000-YENMAK</Kod>
+    <Aciklama>PISTON + SEGMAN 76,51MM STD ADET - VW GOLF7 CADDY POLO FABIA OCTAVIA YETI IBIZA TOLEDO 1.6 CWVA CWVB 14 &gt; - 41487600|04E107065FD|04E107065DT</Aciklama>
+    <Uretici>YENMAK</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1525.60</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -182734,32 +182708,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>415038810-LUK</Kod>
-    <Aciklama>VOLANT - FORD TRANSIT 2.4TDCI 06 &gt; - 4568121|1858770|836523|845060|2294501177|1748420|2294002029|4C116477BA|4C116477DB|415038810|4C116477DA</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>10536.29</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>625306109-LUK</Kod>
-    <Aciklama>DEBRIYAJ SETI - FORD TRANSIT 2.2TDCI 07 &gt; - 625306109|8C117550CB|832138|6C117563CC|8C117540CA|1788699|8C117540CB|832059|1526467|RM8C117540CB|1517988|8C117550CA|3000951979</Aciklama>
-    <Uretici>LUK</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>8160.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>003228900-MAPA</Kod>
     <Aciklama>DEBRIYAJ SETI - PEUGEOT P2008 P3008 P308 P5008 PARTNER 1.4 1.6 13 &gt; - 204163|204194|2051Q0|2055HF|2052N7|2051Y7|2055HL|1611266780|2041A7|9625812880|3000950005|2004CY|9688226180|2052X3|623332300|205311|2052L0|003228900|96258128|1607387880|9683498080|3000951095</Aciklama>
     <Uretici>MAPA</Uretici>
@@ -183004,6 +182952,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>827.56</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1638027680-PSA</Kod>
+    <Aciklama>HAVA FILTRESI - OPEL VIVARO C 19 &gt; - A3728|SU001|SU001A3728|9800097580|1638027680</Aciklama>
+    <Uretici>PSA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>953.72</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>9809532380-PSA</Kod>
+    <Aciklama>YAG FILTRESI - OPEL VIVARO C D20DTL D20DTH 19 &gt; - |9809532380|55242758|SU001A4322</Aciklama>
+    <Uretici>PSA</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>750.49</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -186956,6 +186930,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>512.13</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>10030160-KRAFTVOLL</Kod>
+    <Aciklama>KALORIFER HORTUMU GIRIS - OPEL ASTRA G ZAFIRA A 1.4 1.6 X14XE Z14XE X16XEL Z16XE 98 &gt; - 18135|9128511|9129558|09129558|6818435|Y11543|21410|22H14822|6818482|65720036</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>393.53</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -194694,19 +194681,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>25200134-WISCO</Kod>
-    <Aciklama>YAG FILTRE KUTUGU SOGUTUCULU - OPEL INSIGNIA A MERIVA B 1.4 10 &gt; - 55566784|650039</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1484.95</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>4G0317021AR-WISCO</Kod>
     <Aciklama>OTOMATIK SANZUMAN YAG SOGUTUCU - AUDI A4 2.0L 17-20 - 4G0317021AR</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -197681,19 +197655,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>989.97</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>651D5543-METTE</Kod>
-    <Aciklama>FAN MOTORU REZISTANSI - OPEL ASTRA J ZAFIRA C 1.6 CDTI 1.6 SIDI 1.6 TURBO 1.7 CDTI 2.0 CDTI B16DTL B16DTH A16XHT B16SHL A16LET A17DTC A17DTE A17DTJ A17DTR A17DTF A17DTS 09 &gt; - 13372154|13368578|1341076|1341068|94749639|1341049|1341107|1341113|13267642|13427161|13335183</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>253.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -201750,19 +201711,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>92.38</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>5E3853653ZD4S1-WISCO</Kod>
-    <Aciklama>PANJUR NIKELAJLI - SKODA OCTAVIA 4 20 &gt; - 5E38537612ZZ</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/JUnih5YI6Krfzm6pbg7kc645tXWi4ThSG8r8z4eg11g=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2309.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -206781,19 +206729,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>172.51</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>206028-TOPRAN</Kod>
-    <Aciklama>POTANSIYEMETRE - OPEL CORSA B ASTRA F 1.4 1.6 8V 93 &gt; - 17087654|206028001|206028756|817203|817204</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/QmjtWQXVw5lw2s5^Sg^dnZQiL5yAMTIRqucFsTw4A0M=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>239.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -212439,19 +212374,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1212222-LILY</Kod>
-    <Aciklama>TEVZI MAKARASI 10MM - VW GOLF3 VENTO POLO CLASSIC PASSAT1.6 1.8 AFT AKL AAM ABS ADZ 2E ADY 92 &gt; - 026905225|035905225D|035905225F|051905225|052905225C|0910217|37757321RS</Aciklama>
-    <Uretici>LILY</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>23.84</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1183186-00-WISCO</Kod>
     <Aciklama>ROT BASI SOL - VW POLO CLASSIC CADDY GOLF3 CORDOBA 92 &gt; - 1180019|191419811|6N0419811</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -213661,19 +213583,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>63148-MGA</Kod>
-    <Aciklama>YAG SOGUTUCUSU - CITROEN C4 C5 207 208 3008 308 5008 508 1.6 09 &gt; - |1103P7|1103S8|1103T5|11427546279|11427552687|3648915|63148|V864374580|V864374980</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>374.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1987474553-BOSCH</Kod>
     <Aciklama>FREN BALATA FISI ON - MERCEDES-BENZ W203 W204 ES W211 W212 - 1695401617|1987474553|2115401717|2205400617|2205400717</Aciklama>
     <Uretici>BOSCH</Uretici>
@@ -213713,32 +213622,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>41703125-OTOCONTA</Kod>
-    <Aciklama>UST KAPAK CONTASI - CITROEN C3 C4 208 5008 1.2 16 &gt; - 3639855|9802595980</Aciklama>
-    <Uretici>OTOCONTA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>116.13</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y10517-YTT</Kod>
-    <Aciklama>RADYATOR HORTUM ALT - OPEL VECTRA A 1.8 88-90 - |1336498|90265796|Y10517</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>265.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>0500298-WINTECH</Kod>
     <Aciklama>RADYATOR SU DEPO BORUSU - OPEL ASTRA L COMBO E GRANDLAND 1.5 18 &gt; - |9677186380</Aciklama>
     <Uretici>WINTECH</Uretici>
@@ -213749,19 +213632,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>177.61</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>12640-FAE</Kod>
-    <Aciklama>YAG MUSURU - RENAULT LAGUNA ESPACE P206 P207 P307 C2 D3 D4 C5 PARTNER 97 &gt; - |1131C5|1131K5|11427805983|1145966|12617536724|12617568481|1486742|1658267G00000|1658286CT0|252406F901|30725229|31259226|8353002040|8653814|9631846480|SU00100591</Aciklama>
-    <Uretici>FAE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>119.63</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213778,19 +213648,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>21204-IBRAS</Kod>
-    <Aciklama>HAVA FILTRE HORTUMU EMIS - OPEL ASTRA G C18YE C18NE 98-11 - |93305796</Aciklama>
-    <Uretici>IBRAS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>996.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>202425-TOPRAN</Kod>
     <Aciklama>AKS KORUGU IC - OPEL ASTRA F VECTRA A KADETT E - 1603141|1603183|1603205|202425|374429|90009020|90421756|90543336|92100311</Aciklama>
     <Uretici>TOPRAN</Uretici>
@@ -213801,19 +213658,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>126.24</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>104198-TROW</Kod>
-    <Aciklama>KONTAK ANAHTARI - OPEL VECTRA B 2.0 2.2 DTI 2.5 TDI 2.6 3.0 3.2 90 &gt; - 104198|205166001|205166755|90512000|913653</Aciklama>
-    <Uretici>TROW</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>110.92</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213895,45 +213739,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>H00715-HANX</Kod>
-    <Aciklama>TURBO HORTUMU - FORD TRANSIT V347 V363 2.2TDCI 11 &gt; - 1749144|CC116K683BE|CC116K863BE</Aciklama>
-    <Uretici>HANX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>573.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>20340-ALM</Kod>
-    <Aciklama>YAG KAPAGI - OPEL VECTRA B 2.0 16V 96&gt; - 0650090|205210001|205210755|5650831|90412508|90412509</Aciklama>
-    <Uretici>ALM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>42.18</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>08020439-KRAFTVOLL</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL VECTRA B 95 &gt; - 1304207|1304218|90499809|90542964</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>369.14</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>104301C-TROW</Kod>
     <Aciklama>ROTIL ALT CIVATASIZ - OPEL VECTRA A ASTRA F 91 &gt; - 104301|1603121|1603163|1603167|90297863</Aciklama>
     <Uretici>TROW</Uretici>
@@ -213973,19 +213778,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>RSD078-PUGA</Kod>
-    <Aciklama>RADYATOR SU DEPOSU - OPEL CROSSLAND X GRANDLAND VIVARO ZAFIRA 1.2 1.5D 1.6 2.0 17 &gt; - 1323T9|3637681|62104940|9800777280|SU001A3738</Aciklama>
-    <Uretici>PUGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>267.48</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>ZOLS1060-ZEGEN</Kod>
     <Aciklama>YAG SEVIYE SENSORU - MERCEDES-BENZ W176 W246 W242 C117 X117 X156 12 &gt; - A0011531932</Aciklama>
     <Uretici>ZEGEN</Uretici>
@@ -213999,58 +213791,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>ZNTC1090-ZEGEN</Kod>
-    <Aciklama>HARARET MUSURU MAVI - OPEL ASTRA F CORSA A B OMEGA A 91 &gt; - 100074913|1338444|1338451|1338458|2110270|90510183</Aciklama>
-    <Uretici>ZEGEN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>61.23</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>0400409-WINTECH</Kod>
-    <Aciklama>BY PASS HORTUMU - PEUGEOT P207 P208 P308 1.4 1.6 - |11537541845|1153758713|1351.NE|1351.VF|1351VF1351NE</Aciklama>
-    <Uretici>WINTECH</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>107.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y11588-YTT</Kod>
-    <Aciklama>YAKIT DEPO HAVALANDIRMA HORTUMU GIRIS - OPEL VECTRA B 95 &gt; - 806092|806609|90499641|9181888</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>202.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>70542100-HERTHBUSS</Kod>
-    <Aciklama>YAG MUSURU - OPEL COMBO CRASSLAND GRANDLAND B16DTL B16DT Z16DT B16DTH 17 &gt; - |1131K8|12617592532|3645894|9802152780|9830501780</Aciklama>
-    <Uretici>HERTHBUSS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>643.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>443234-VEKA</Kod>
     <Aciklama>PORYA ON SOL-SAG RULMANSIZ 5X110 137,6X33 ABSSIZ - OPEL MERIVA B 10-17 - |04P375|12779002|326004|9433020</Aciklama>
     <Uretici>VEKA</Uretici>
@@ -214061,32 +213801,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>439.05</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>BPE210089-BITAPART</Kod>
-    <Aciklama>RADYATOR SU DEPO KAPAGI - OPEL ASTRA L COMBO E GRANDLAND GRANDLAND X 1.5D 21 &gt; - 1306C9|1306E4|1306J5|1307E4|1692660080|3637680|3637860|37600</Aciklama>
-    <Uretici>BITAPART</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>43.56</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>BPE259018-BITAPART</Kod>
-    <Aciklama>YAG FILTRE CONTASI TAKIM - OPEL ASTRA L GRANDLAND 1.6 D16XHT A16XHL F16XHR 18 &gt; - 1103P9|11428643758|151103301|1613571980|3557940|473830</Aciklama>
-    <Uretici>BITAPART</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>47.35</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214129,58 +213843,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2581561002-FROW</Kod>
-    <Aciklama>KULBUTOR KAPAGI - CITROEN C4 C5 207 208 3008 308 5008 508 - 0248Q2|9809713080|9811909980|9812071480|V759886280|V763174380|V763335580</Aciklama>
-    <Uretici>FROW</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2497.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>43006-MGA</Kod>
-    <Aciklama>KULBUTOR KAPAGI - CITROEN C4 C5 2008 207 208 3008 308 5008 508 1.6 07 &gt; - 0248Q2|9809713080|9811909980|9812071480|V759886280|V763174380|V763335580</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>2112.53</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>961837-MGA</Kod>
-    <Aciklama>RADYATOR HORTUMU UST - OPEL VECTRA B 95 02 1.8 2.0 96 &gt; - 1337329|90512484|961837|Y10506</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>130.93</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>961811-MGA</Kod>
-    <Aciklama>RADYATOR UST HORTUMU - OPEL VECTRA 2.0 - 1336495|1337495|90265787|961811</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>101.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>63221-MGA</Kod>
     <Aciklama>YAG SOGUTUCUSU TEK - CITROEN C3 C4 C5 ASTRA L CORSA F 2008 208 3008 308 5008 508 15 &gt; - 55565958|55577034|55578734|55578737|55595532|650016|650062|650066|650067|650184</Aciklama>
     <Uretici>MGA</Uretici>
@@ -214191,19 +213853,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>589.27</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>80187-MGA</Kod>
-    <Aciklama>SU RADYATORU - VW POLO FABIA 1.4 16V 01 &gt; - 6Q0121253A|6Q0121253L|6Q0121253M|6Q0121253Q|6Q0121253R|80187</Aciklama>
-    <Uretici>MGA</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1916.50</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214220,32 +213869,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>Y10816-YTT</Kod>
-    <Aciklama>YAKIT DEPO HAVALANDIRMA HORTUMU - OPEL VECTRA B 95 &gt; - 806623|806642|90499642|9181889|Y10816</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>91.91</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>09040275-KRAFTVOLL</Kod>
-    <Aciklama>KAPI GERGISI ON - OPEL INSIGNIA A 09 &gt; - 09040275|13229021|5160264|Y1569</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>367.39</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>534057510-INA</Kod>
     <Aciklama>ALTERNATOR GERGI KUTUGU - MERCEDES-BENZ W176 W177 W246 W242 W247 17 &gt; - 2702000070|2702000170|2702000370|2702002100|A2702000070|A2702000170|A270200037|A2702002100</Aciklama>
     <Uretici>INA</Uretici>
@@ -214259,97 +213882,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>14396PU-4U</Kod>
-    <Aciklama>YAG SOGUTUCUSU - CITROEN C4 C5 207 208 3008 308 5008 508 1.6 09 &gt; - |1103P7|1103S8|1103T5|11427546279|11427552687|3648915|63148|V864374580|V864374980</Aciklama>
-    <Uretici>4U</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1242.86</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>10034905-KRAFTVOLL</Kod>
-    <Aciklama>RADYATOR HORTUMU ALT OTOMATIK - OPEL ASTRA J A16XER B16XER 09 &gt; - 1336652|13441116</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>525.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>CC3491-LEX</Kod>
-    <Aciklama>DEBRIYAJ UST MERKEZI - OPEL CORSA C COMBO C 01 &gt; - 6284600732|6284654015|679401|9126216|KG1503604</Aciklama>
-    <Uretici>LEX</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>517.83</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>100224802-WONDER</Kod>
-    <Aciklama>YAG KAPAGI - OPEL ASTRA F G 1.7 94 &gt; - 0650092|650092|90467664</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>52.98</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1801171613-TOSCANO</Kod>
-    <Aciklama>UST KAPAK CONTASI - OPEL ASTRA J K INSIGNIA A B 1.6 12 &gt; - 55569829|636311</Aciklama>
-    <Uretici>TOSCANO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>300.12</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>WVC708107-WONDER</Kod>
-    <Aciklama>KULBUTOR KAPAK CONTASI - OPEL ASTRA F G VECTRA B - 0638733|904676611</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>56.48</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>100140222-WONDER</Kod>
-    <Aciklama>YAKIT POMPA CONTASI - OPEL VECTRA B 1.6 1.8 2.0 96 &gt; - 100140222|1254286|90411085</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>49.44</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>60140009-ANKA</Kod>
     <Aciklama>TEKER PORYASI ON - OPEL CORSA F 208 19 &gt; - 60140009|9822314280</Aciklama>
     <Uretici>ANKA</Uretici>
@@ -214360,19 +213892,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>446.88</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>10030184-KRAFTVOLL</Kod>
-    <Aciklama>YAKIT DEPO HORTUMU - OPEL CORSA B CORSA C 93 &gt; - 10030184|806137|90467441|Y11631</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>277.27</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214415,138 +213934,8 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>44181OP-4U</Kod>
-    <Aciklama>EKSANTRIK DISLISI EGZOST - OPEL ASTRA H J INSIGNIA 1.6 07 &gt; - 44181OP|55567048|5636631</Aciklama>
-    <Uretici>4U</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>988.59</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>10032753-KRAFTVOLL</Kod>
-    <Aciklama>TERMOSTAT HORTUMU - OPEL VECTRA A B ASTRA F KADET E - 10032753|1337703|90324833|Y10573</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>85.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>668M6451-METTE</Kod>
-    <Aciklama>TURBO YAGLAMA BORUSU - CHEVROLET CRUZE 1.4 12&gt; - 55569839|55587854|860160|860423</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>642.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>651D5559-METTE</Kod>
-    <Aciklama>FAN REZISTANSI - OPEL CORSA D 1.3 CDTI 1.4 1.6 TURBO 1.7 CDTI 06 &gt; - 1341641|1341919|55703589|55704057</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>244.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>651D5418-METTE</Kod>
     <Aciklama>FAR YIKAMA MOTORU SOL - OPEL INSIGNIA A 11-17/ SAAB 9-5 10&gt; - 1452125</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>786.60</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>457R7148-METTE</Kod>
-    <Aciklama>YAG SOGUTUCUSU - OPEL CORSA F COMBO E 12 18 &gt; - 3553445|9807656980|9815697880|9839253380</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>652.25</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>457R7101-METTE</Kod>
-    <Aciklama>YAG SOGUTUCU KOMPLE - OPEL ASTRA H ASTRA J INSIGNIA CRUZE MOKKA VECTRA C AVEO T250/300 ZAFIRA Z16XER A16XER B16XER F16D4 Z18XER 07 &gt; - 25199751|5650364|93186324|RD4513</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1168.96</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>457R7114-METTE</Kod>
-    <Aciklama>YAG SOGUTUCUSU - OPEL CORSA D A14XER 09-14 - 00|1302170|13283220|2110493|2110494</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>902.85</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>15010065-KRAFTVOLL</Kod>
-    <Aciklama>AMORTISOR ON SOL - HYUNDAI ACCENT 1.6 05 &gt; - 546501E000|546501E100</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1141.32</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>457R7173-METTE</Kod>
-    <Aciklama>YAG SOGUTUCUSU - OPEL CROSSLAND X CROSSLAND P17. P2QO 1.2 17&gt; - 3648065|457R7173|9807979380</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>844.70</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>651D5419-METTE</Kod>
-    <Aciklama>FAR YIKAMA MOTORU SAG - OPEL INSIGNIA A 09 &gt; - 13227349|1452136|651D5419</Aciklama>
     <Uretici>METTE</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -214584,45 +213973,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>Y20798-YTT</Kod>
-    <Aciklama>KARTER HAVALANDIRMA HORTUMU - OPEL FRONTERA A OMEGA B VECTRA B 2.0 95 &gt; - 5656005|90467650</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>33.60</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>Y10573-YTT</Kod>
-    <Aciklama>TERMOSTAT HORTUMU - OPEL VECTRA A B ASTRA F KADET E - 1337703|90324833|Y10573</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>60.19</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>13315313-GM</Kod>
-    <Aciklama>MARS MOTOR SIGORTA 275 AMPER - OPEL ASTRA J - 1238682|13315313</Aciklama>
-    <Uretici>GM</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>333.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>SV196-SVAC</Kod>
     <Aciklama>KIZDIRMA BUJISI - OPEL ASTRA J ASTRA K MOKKA ZAFIRA INSIGNIA 1.6CDTI 14 &gt; - |0250403023|106815|1214098|1638935180|1682249280|208817|26519|33104958|55570037|97919|CH724|DG634</Aciklama>
     <Uretici>SVAC</Uretici>
@@ -214633,19 +213983,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>162.79</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>668M6437-METTE</Kod>
-    <Aciklama>TURBO YAGLAMA BORUSU - OPEL ASTRA J INSIGNIA CORSA D MOKKA A14NET A14XER B14NET 09 &gt; - 25200947|860445</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>627.29</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214675,32 +214012,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>806790-WONDER</Kod>
-    <Aciklama>YAKIT DEPO HORTUMU - OPEL ASTRA G J 98 &gt; - 806790|90573353</Aciklama>
-    <Uretici>WONDER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>211.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>4151007100-KOREA</Kod>
-    <Aciklama>DEBRIYAJ TELI - KIA PICANTO 04 &gt; - 4151007100|4151007110|4151007120</Aciklama>
-    <Uretici>KORE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>575.68</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>9821596780-OEM</Kod>
     <Aciklama>AMORTISOR ON - OPEL VIVARO C ZAFIRA 19 &gt; - |22292049|311053|319556|32AQ6A|3348085|9813823580|9813823680|9821596680|9821596780|A5277G|G8657|JGM1180T</Aciklama>
     <Uretici>OEM</Uretici>
@@ -214724,19 +214035,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>477.73</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>457R7105-METTE</Kod>
-    <Aciklama>YAG SOGUTUCUSU KOMPLE - OPEL ASTRA J CORSA E INSIGNIA A CORSA D MOKKA ZAFIRA MERIVA ADAM AVEO CRUZE TRAX A14NET B14NET A14NEL B14NEL 09 &gt; - 55565388|55566784|650039|RD4509</Aciklama>
-    <Uretici>METTE</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1578.87</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214818,19 +214116,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>Y90200-YTT</Kod>
-    <Aciklama>TURBO HORTUMU - LAND ROVER RANGE ROVER 3.0D 02-12 - PNH000163|PNH000163/2</Aciklama>
-    <Uretici>YTT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>139.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>3BDI1042-ASPART</Kod>
     <Aciklama>FREN DISKI ARKA TEK - VW GOLF6 JETTA A3 LEON 10 &gt; - 1K0615601AA|5Q0615601D|8P0098601P|8V0698601|JZW698601AM</Aciklama>
     <Uretici>ASPART</Uretici>
@@ -214909,19 +214194,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>OP199118-AKD</Kod>
-    <Aciklama>KULBUTOR KAPAGI + CONTA + KAPAK METAL - OPEL ASTRA K INSIGNIA B MOKKA MOKKA X B14XNT B14XFL D14XFL B14XFT D14XFT 15 &gt; - 12667980;12668874;12677790;12681366;12681623;12685410;12636947;2141023;</Aciklama>
-    <Uretici>AKD</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>5648.87</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>402025612R-MAIS</Kod>
     <Aciklama>PORYA ON RULMANSIZ - DACIA DOKKER LODGY 12 &gt; - 402025612R|94C1005</Aciklama>
     <Uretici>MAIS</Uretici>
@@ -214948,58 +214220,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>SF338-SARDES</Kod>
-    <Aciklama>YAKIT FILTRESI - DACIA LOGAN SANDERO DUSTER 1.5DCI 08 &gt; - 164002137R|6001552226|7701070062|8200803831|8660002098</Aciklama>
-    <Uretici>SARDES</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>451.01</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>15010064-KRAFTVOLL</Kod>
-    <Aciklama>AMORTISOR ON SAG - HYUNDAI ACCENT 1.6 05 &gt; - 546041E000|546041E200|546601E000|546601E100|546601E200|546601E300</Aciklama>
-    <Uretici>KRAFTVOLL</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1141.36</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>N927A-TEKNOROT</Kod>
-    <Aciklama>Z ROT ON SOL - NISSAN XTRAIL QASHQAI 21 &gt; - 546686RR0A|546686UA0A</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>300.41</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>N926A-TEKNOROT</Kod>
-    <Aciklama>Z ROT ON SAG - NISSAN XTRAIL QASHQAI 21 &gt; - 546186RR0A|546186UA0A</Aciklama>
-    <Uretici>TEKNOROT</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>329.71</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>FDO7017-OTOZONE</Kod>
     <Aciklama>FREN BALATASI ON FISLI - VW T5 04 &gt; - 7H0698151|7H0698151B|7H0698151D</Aciklama>
     <Uretici>OTOZONE</Uretici>
@@ -215010,6 +214230,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>697.23</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>131163-SAGEM</Kod>
+    <Aciklama>TERMOSTAT - OPEL ASTRA J INSIGNIA CRUZE MOKKA TRAX ZAFIRA C A16XER A16LET F16D4 10 &gt; - 1338257|1338372|55564891|55587349|96984104</Aciklama>
+    <Uretici>SAGEM</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>829.20</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>175712-FEBI</Kod>
+    <Aciklama>KAPI SURGU MAKARASI UST SOL - VW CADDY 04 &gt; - |2K0843435A9B9|2K0843435B9B9</Aciklama>
+    <Uretici>FEBI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>696.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
