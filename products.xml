@@ -3640,19 +3640,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>02T945415D-WISCO</Kod>
-    <Aciklama>GERI VITES MUSURU KAHVERENGI - VW GOLF4 POLO T5 IBIZA LEON OCTAVIA - 02T945415P|02T945415|02T945415D|</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>57.74</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>028109101F-WISCO</Kod>
     <Aciklama>EKSANTRIK MILI - VW PASSAT A4 A6 1.9TDI AFN AVG AHU 96 &gt; - 1111261|58004|028109101F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -6315,6 +6302,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>84.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>11860T-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - BMW M52 ROVER M62 4.4 - 12131703228|1703227</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>684.66</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -11112,6 +11112,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>80.03</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>20113-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - AUDI A3 A4 PASSAT1.8T20V AWT ALT 01 &gt; - 06B905115N|06A905115B|06A905115D|06A905115|06B905115J|06B905115M|06B905115H|06B905115L|06B905115D|06A905115A|06B905115G</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>603.74</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -16741,6 +16754,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>494.98</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>20307-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W140 W202 W210 - A0001587503</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>473.39</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -155564,6 +155590,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>11873-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - MERCEDES-BENZ W169 W245 W210 W220 W163 M112 M113 97-12 - 5DA193175991|0221503035|A0001587803|A0001587303</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1184.10</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>995001054-WISCO</Kod>
     <Aciklama>KLIMA RADYATORU 650X420X10 - MERCEDES-BENZ A-45 AMG. CLA-45 AMG 12&gt; - 0995001054|940660|A0995001054</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -160046,6 +160085,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>391.88</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>RN2563-LEX</Kod>
+    <Aciklama>TRIGER GERGI RULMANI - VW GOLF7 PASSAT TIGUAN POLO A1 LEON CJZA CJZB CPVA CMBA 13 &gt; - 30945795|542461|04C109479J|04E109479T|GT35776|04C109479G|05C109479A||0N2313|04C109479H|T43247|1110666|04E109479B|04E109479A|04E109479AA|04E109479C|04C109479K|45795|04E109479H|531088210</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>434.84</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -175870,6 +175922,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>20136-BREMI</Kod>
+    <Aciklama>ATESLEME BOBINI - OPEL ASTRA G CORSA C VECTRA B X16XEL Z14XE Z16XE 99 &gt; - 20136|1208307|19005212|CE1000012B1|BAE965A245</Aciklama>
+    <Uretici>BREMI</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1613.16</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>VM-968EHR-VIEWMAX</Kod>
     <Aciklama>AYNA SAG ELEKTRIKLI ISITMALI - OPEL ASTRA H 2004-2009 - 24463032|6428918|6428785|VM968EHR|13141996|6428184|13141984</Aciklama>
     <Uretici>VIEWMAX</Uretici>
@@ -189949,6 +190014,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>P09398000-LEX</Kod>
+    <Aciklama>SUBAP EMME 5MM - VW POLO FABIA CITIGO IBIZA 1.0 CHYA CHYB CHYE 14 &gt; - 04E109601|04C109601C</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>695.73</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>P09398001-LEX</Kod>
+    <Aciklama>SUBAP EGZOST 5MM - VW POLO FABIA CITIGO IBIZA 1.0 CHYA CHYB CHYE 14 &gt; - 04C109611A|04E109611L|</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>695.73</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>25980570-WISCO</Kod>
     <Aciklama>CEKI DEMIR KAPAGI ON - OPEL MOKKA 13- - 1405181</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -200050,19 +200141,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>5Q0413023FJ-WINPOWER</Kod>
-    <Aciklama>AMORTISOR ON 50MM - AUDI A3 LEON GOLF7 OCTAVIA 13 &gt; - 00|5Q0413023FJ|32|V05|A|5Q0413023FH|8V0413023|742116SP|1190046|5Q0413023EP|32V05A</Aciklama>
-    <Uretici>WINPOWER</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>940.47</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>344290-WINPOWER</Kod>
     <Aciklama>AMORTISOR ON SOL-SAG - OPEL CORSA B COMBO B TIGRA 93 &gt; - 344144|344322|344315|72119025|344562|344234|72118174|72117767|F|344131|344223|344132|G16203|27|344316|90445377|00|683|72061511|344276|90445378|344166|2190037|27683F</Aciklama>
     <Uretici>WINPOWER</Uretici>
@@ -203440,19 +203518,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>59.49</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>202261-TOPRAN</Kod>
-    <Aciklama>RADYATOR SU KAPAGI - OPEL ASTRA F G VECTRA B CORSA B 84&gt; - 1304660|1304661|1304666|1304667|202261|202261001|202261002|202261575|202261756|90409256|90409257|90467472|90467473</Aciklama>
-    <Uretici>TOPRAN</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/FoYgncJYR8lcViYbVPGzzqBLC83TkIv68SoyAqUElSs=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>47.59</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -212435,7 +212500,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>497.71</Fiyat>
+    <Fiyat>485.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214727,6 +214792,32 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>3082000-LEX</Kod>
+    <Aciklama>KOL YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - |029PL21925000|04E105701|04E105701D|04E105701K|04E105701N|37082600|715023STD|CR4702SM</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>521.83</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>3083000-LEX</Kod>
+    <Aciklama>ANA YATAK STD - VW CADDY JETTA  GOLF6 GOLF7 PASSAT 1.4TSI 1.6 CMBA CPVA CPVB CPWA CWVA CWVB CXSA CXSB CZCA CZDB CZDC CZDD 13 &gt; - 029HL1918000|04E105561B;04E105591B;05E105561A;05E105591A;|37083600|H1378/5|MB5879SM</Aciklama>
+    <Uretici>LEX</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>521.83</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>Y90200-YTT</Kod>
     <Aciklama>TURBO HORTUMU - LAND ROVER RANGE ROVER 3.0D 02-12 - PNH000163|PNH000163/2</Aciklama>
     <Uretici>YTT</Uretici>
@@ -214762,7 +214853,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>291.47</Fiyat>
+    <Fiyat>307.93</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -214867,6 +214958,58 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>451.01</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>15010064-KRAFTVOLL</Kod>
+    <Aciklama>AMORTISOR ON SAG - HYUNDAI ACCENT 1.6 05 &gt; - 546041E000|546041E200|546601E000|546601E100|546601E200|546601E300</Aciklama>
+    <Uretici>KRAFTVOLL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1141.36</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>N927A-TEKNOROT</Kod>
+    <Aciklama>Z ROT ON SOL - NISSAN XTRAIL QASHQAI 21 &gt; - 546686RR0A|546686UA0A</Aciklama>
+    <Uretici>TEKNOROT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>300.41</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>N926A-TEKNOROT</Kod>
+    <Aciklama>Z ROT ON SAG - NISSAN XTRAIL QASHQAI 21 &gt; - 546186RR0A|546186UA0A</Aciklama>
+    <Uretici>TEKNOROT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>329.71</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>FDO7017-OTOZONE</Kod>
+    <Aciklama>FREN BALATASI ON FISLI - VW T5 04 &gt; - 7H0698151|7H0698151B|7H0698151D</Aciklama>
+    <Uretici>OTOZONE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>697.23</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
