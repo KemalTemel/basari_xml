@@ -10115,7 +10115,7 @@
   </Urun>
   <Urun>
     <Kod>352348-WISCO</Kod>
-    <Aciklama>SALINCAK BURCU - OPEL VECTRA A ASTRA F CALIBRA 88 &gt; - 2160077|01837|352352|90373264|352348|90268463|0352356|0352352</Aciklama>
+    <Aciklama>SALINCAK BURCU - OPEL VECTRA A ASTRA F CALIBRA 88 &gt; - 2160077|01837|352352|90373264|352348|90268463|0352356|0352352|342348|352347</Aciklama>
     <Uretici>WISCO</Uretici>
     <Birim>ADET</Birim>
     <MinimumSiparis>1</MinimumSiparis>
@@ -62153,19 +62153,6 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>423.22</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>8R0945095-WISCO</Kod>
-    <Aciklama>STOP REFLEKTORU SOL - AUDI Q5 09 &gt; - 8RD945095|8R0945095</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/iAvVbOV6WRG5hb5JTXlItTZ8pVyZxlsLNLwJPQNwR54=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1317.69</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
