@@ -100091,6 +100091,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>2122-HSF</Kod>
+    <Aciklama>YAG SOGUTUCU CONTASI - OPEL ASTRA J ASTRA K INSIGNIA ZAFIRA A16SHT A16XHT B16SHL B16SHT D16SHJ D16SHL D16SHT12 &gt; - 650148|55570687</Aciklama>
+    <Uretici>HANSFEL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.24</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>31338474-WISCO</Kod>
     <Aciklama>TURBO RADYATORU (INTERCOOLER) 660X146X64 - VOLVO S80 2 2.4 D5-D3 06-&gt;/ V70 3 2.4 D5 06-&gt;/ XC60 2.0 T-D5-2.4 D 08&gt;/ XC70 2 2.4 D5 07&gt;/ FREELANDER 2.0 Si4 11-14/ EVOQUE 2.0 Si4 11-19 - LR031925|LR031467|31338474|96471|31273909|31280013|31319424|30741052</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -100569,6 +100582,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>550.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2120-HSF</Kod>
+    <Aciklama>YAG SOGUTUCU CONTASI - OPEL ASTRA P10 B16 INSIGNIVA G09 Z18 1.6 12&gt; - 55570690|2120</Aciklama>
+    <Uretici>HANSFEL</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.24</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -149922,6 +149948,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>Y11650-YTT</Kod>
+    <Aciklama>RADYATOR HORTUM ALT - OPEL VECTRA C Z16XEP 04 &gt; - 9202781|1337766|Y11650</Aciklama>
+    <Uretici>YTT</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>517.17</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>646041-WISCO</Kod>
     <Aciklama>YAG POMPASI - OPEL CORSA B ASTRA F ASTRA G VECTRA B 1.4 1.6 X 1.6 XEL Z 1.6 XE X 1.4 XE Z 1.4 XE 93 &gt; - 205585755|2113022|90444316|00|90541505|646009</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -167820,6 +167859,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>1697.82</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>2121-HSF</Kod>
+    <Aciklama>YAG SOGUTUCU CONTASI - OPEL ASTRA J INSIGNIA ASTRA K A16XHT B16SHT 13 &gt; - 650149|55570689</Aciklama>
+    <Uretici>HSF</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>63.08</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213255,6 +213307,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>57.90</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>683R6392-METTE</Kod>
+    <Aciklama>SALINCAK BURCU - VW CADDY JETTA PASSAT SUPERB YETI OCTAVIA A3 11 &gt; - 1160294|1K0407183M|1K0407183P|5C0407183A|5Q0407183E</Aciklama>
+    <Uretici>METTE</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>97.82</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
 </Products>
