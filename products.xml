@@ -33319,19 +33319,6 @@
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>1845791-WISCO</Kod>
-    <Aciklama>KALORIFER REZISTANSI - OPEL VECTRA A 88 &gt; - 1845789|90450998|90383817|2140005</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>214.67</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>1J3959857A-WISCO</Kod>
     <Aciklama>CAM ACMA DUGMESI ON SOL 2LI YESIL ISIK - SKODA FABI OCTAVIA SUBERB 99 &gt; - 1J3959857A|38640|00|1223031|000051039010</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -47109,6 +47096,19 @@
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>576.61</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>1223979-WISCO</Kod>
+    <Aciklama>STOP SOL - OPEL ASTRA F STW 95 &gt; - 90510614</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/J5gGjUiCnxxjR0svPaUVut5B^^WARsq5VM4u9pTpR0Y=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>569.68</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61307,7 +61307,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>70.33</Fiyat>
+    <Fiyat>73.12</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -61567,7 +61567,7 @@
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>819.15</Fiyat>
+    <Fiyat>790.76</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -86376,19 +86376,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>2K5853651ARYP-WISCO</Kod>
-    <Aciklama>PANJUR TEK NIKELAJ - VW CADDY 15-20</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/vh9wKqiKf8oNlBxtTGtM5rxww2zFCqU3ICxnOZBDnUg=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>1898.94</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>95248167-WISCO</Kod>
     <Aciklama>MARSBIYEL KAPLAMASI ARKA SAG - OPEL MOKKA 13&gt; - 164341</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -89753,19 +89740,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3419.63</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1216053CAM-WISCO</Kod>
-    <Aciklama>FAR CAMI SOL - OPEL VECTRA B 99-01 - 1216057</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/rJkydnnXZjhckXwubkpZIFt0A4B84m1f5hoeXAT9KrM=.jpg</Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>396.30</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -104573,6 +104547,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>3203.39</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6J3945105-WISCO</Kod>
+    <Aciklama>TAMPON REFLEKTORU ARKA SOL - SEAT IBIZA 09-12</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/fhr34k8ufcQ7C6TdfxazMa5tWm3IHvzULnzGsSuoGkA=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>198.15</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -122333,19 +122320,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>37.45</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
-    <Kod>1T0805931-WISCO</Kod>
-    <Aciklama>PANEL (FAR) BAGLANTI BRAKETI SOL - VW CADDY 3 MPV (2KB, 2KJ, 2CB, 2CJ) 11-15 - 1T0805931A</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>148.61</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -142577,6 +142551,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6223023-WISCO</Kod>
+    <Aciklama>STOP SOL - OPEL ASTRA G SEDAN 98 &gt; - 9117439</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim>https://cdn.eryaz.net/9F272C1C63AA9C6B/Pictures/I3nhbOihz2njB7d07qWSK6fywI7iLiwujWxaF3pCqig=.jpg</Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>858.66</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>51718122-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT 523X388X32 - FIAT ALBEA 1.3MJTD 02&gt; - 51806901|51718122|735297|617862|321110016|K51718122|00|K51806901</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -149272,19 +149259,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>W059R-HILEKS</Kod>
-    <Aciklama>CAMURLUK DAVLUMBAZI ON SAG - VW POLO 02-10 - 6Q0809958B41|1220062|6Q0809958B|00|6Q0809958A|1235388</Aciklama>
-    <Uretici>HILEKS</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>243.58</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>46815887-WISCO</Kod>
     <Aciklama>SU RADYATORU BRAZING MT 520X379X26 - FIAT PALIO (178_, 171_) 1.2 1.4 1996-2002 SIENA (178_, 172_) 1.3 98-04 - 51781021|K46815887|61683|K46833511|K46819261|46833511|46815887|46819261</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -151323,6 +151297,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>264.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>6270045-WISCO</Kod>
+    <Aciklama>SILECEK MOTORU ON - OPEL MERIVA A MPV (X03) 2003-2010 - 023003807|23003807|6270045</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>896.94</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -193277,19 +193264,6 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
-    <Kod>03L103351P-WISCO</Kod>
-    <Aciklama>SILINDIR KAPAGI - VW AMAROK 2.0BITDI CFFA CFFB CFFD CFFE CFGB CFGC CFHB CFHC CFHE CFJA CFJB CLCA CLCB CLJA CLLA 10 &gt; - 03L103351H|03L103351M|03L103351F|03L103265DX|03L103265D|03L103063P|908725|03L103265FX</Aciklama>
-    <Uretici>WISCO</Uretici>
-    <Birim>ADET</Birim>
-    <MinimumSiparis>1</MinimumSiparis>
-    <Stok>0</Stok>
-    <Resim></Resim>
-    <CampaignType />
-    <CampaignDiscount />
-    <Fiyat>12384.30</Fiyat>
-    <Doviz>TL</Doviz>
-  </Urun>
-  <Urun>
     <Kod>06B103351F-WISCO</Kod>
     <Aciklama>SILINDIR KAPAGI - VW GOLF5 A4 LEON OCTAVIA 1.6 BSE BGU BSF ALZ CCSA 04 &gt; - 06B103351T|06B103351F</Aciklama>
     <Uretici>WISCO</Uretici>
@@ -193586,6 +193560,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <CampaignType />
     <CampaignDiscount />
     <Fiyat>4293.21</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
+    <Kod>95965223-WISCO</Kod>
+    <Aciklama>STOP DIS SOL - CHEVROLET CRUZE J300 SEDAN 10-</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>1023.76</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
@@ -213137,7 +213124,7 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Resim></Resim>
     <CampaignType />
     <CampaignDiscount />
-    <Fiyat>829.85</Fiyat>
+    <Fiyat>771.45</Fiyat>
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
