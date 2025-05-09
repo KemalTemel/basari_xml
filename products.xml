@@ -134218,6 +134218,19 @@ X12XE Z12XE Z12XEP Z14XEP A12XER A12XEL A14XER B14XER A14NET B14NET 96 &gt; - 90
     <Doviz>TL</Doviz>
   </Urun>
   <Urun>
+    <Kod>6R0853665C9B9-WISCO</Kod>
+    <Aciklama>TAMPON IZGARASI SOL SISSIZ - VW POLO 09 &gt; - 6R0853665C</Aciklama>
+    <Uretici>WISCO</Uretici>
+    <Birim>ADET</Birim>
+    <MinimumSiparis>1</MinimumSiparis>
+    <Stok>0</Stok>
+    <Resim></Resim>
+    <CampaignType />
+    <CampaignDiscount />
+    <Fiyat>57.78</Fiyat>
+    <Doviz>TL</Doviz>
+  </Urun>
+  <Urun>
     <Kod>03P115230C-WISCO</Kod>
     <Aciklama>YAG POMPA ZINCIRI - VW POLO FABIA IBIZA 1.2 TDI CFWA 10 &gt; - 3P115230C|</Aciklama>
     <Uretici>WISCO</Uretici>
